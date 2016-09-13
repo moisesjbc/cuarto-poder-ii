@@ -55,8 +55,36 @@ El niño dejó escapar un grito y la mano desapareció en la oscuridad. Otra man
 
 Lucas alzó rápidamente la vista. Jonás y Lara habían continuado avanzando hacia la salida en el otro extremo de la sala, pero dos soldado vestidos completamente de blanco habían entrado por ella y les encañonaron.
 
-Ana había soltado el brazo de Lucas y parecía buscar algo en silencio.
+Ana soltó el brazo de Lucas. Este pudo oír cómo su amiga parecía buscar algo.
 
+- ¿Estás segura?.
+- Shhh - y tras unos instantes añadió entre susurros: - puedo abatir a uno, pero...
+- Yo me encargo del otro - la voz provenía desde el lado derecho de la pareja.
+- Perfecto - se alegró Ana -. A la de tres: tres...
+- ¡Quietos!
+
+Lucas no podía creer que hubieran visto a Ana desenfundar su arma estando, como estaban, envueltos en la más absoluta oscuridad. Sin embargo, rápidamente observó que la orden no iba para ninguno de los de abajo. Otros dos soldados de RIO habían aparecido por la puerta por la que había intentado escapar con Jonás. Los recién llegados apuntaban a los dos hermanos, ignorando a los encerrados en el pozo.
+
+- ¿No puedes usar la radio? - preguntó Lucas, sin dejar de mirar a Jonás y Lara. El primero se aferraba a su hermana y miraba hacia todos lados sin moverse del sitio. Un hilo de sangre había empezado a salir de su nariz.
+- Seguramente tengan la frecuencia intervenida - respondió Ana -. No creo que sea buena idea enfadarles. Por otra parte... - dudó.
+- ¿Qué?
+- Jonás es muy valioso para RIO, y según mis sospechas, Lara también lo es. Podría funcionar.
+
+Y sin dejar hablar a Lucas, echó mano de su radio.
+
+- Aquí Ana, ¿me reciben?
+
+Las confirmaciones comenzaron a sucederse hasta que uno de los soldados de RIO ordenó de repente evacuar la sala. Sin apenas dar tiempo a Ana y los suyos a reaccionar, los cuatro abandonaron la estancia. Apenas pasaron unos segundos cuando por cada puerta apareció volando una granada y ambas fueron a parar al foso.
+
+Lucas se abrazó a su amiga y cerró los ojos ante las explosiones inminentes, pero en su lugar sólo escuchó el ruido de un gas expandiéndose. Ana le devolvió el abrazo mientras le susurraba al oído:
+
+- Tengo que enseñarte la diferencia entre una granada de fragmentación y una granada de gas.
+
+Lucas apenas tuvo tiempo de responder cuando empezaron a fallarle los sentidos.
+
+***
+
+¿Visión?
 
 
 ## Navegación
