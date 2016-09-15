@@ -50,37 +50,28 @@ El niño dejó escapar un grito y la mano desapareció en la oscuridad. Otra man
 
 - ¡Lucas! ¿Estás bien? - la voz de su amiga se acercó rápidamente.
 - Sí, estoy... ¡ah! - se quejó el joven al recibir un golpe en la cara.
-- ¡Lo siento! ¡No veo nada! - la mano de Ana rectificó y lo agarró del brazo, ayudándolo a incorporarse.
-- ¡Alto!
+- ¡Lo siento! ¡No veo nada!
 
-Lucas alzó rápidamente la vista. Jonás y Lara habían continuado avanzando hacia la salida en el otro extremo de la sala, pero dos soldado vestidos completamente de blanco habían entrado por ella y les encañonaron.
+La mano de Ana rectificó y lo agarró del brazo, ayudándolo a incorporarse. De repente soltó un grito que casi lo dejó sordo.
 
-Ana soltó el brazo de Lucas. Este pudo oír cómo su amiga parecía buscar algo.
+- ¡Jonás! ¡Espera por nosotros!
 
-- ¿Estás segura?.
-- Shhh - y tras unos instantes añadió entre susurros: - puedo abatir a uno, pero...
-- Yo me encargo del otro - la voz provenía desde el lado derecho de la pareja.
-- Perfecto - se alegró Ana -. A la de tres: tres...
-- ¡Quietos!
+Pero él hizo caso omiso al consejo y siguió avanzando hacia la puerta, sin soltar la mano de su hermana.
 
-Lucas no podía creer que hubieran visto a Ana desenfundar su arma estando, como estaban, envueltos en la más absoluta oscuridad. Sin embargo, rápidamente observó que la orden no iba para ninguno de los de abajo. Otros dos soldados de RIO habían aparecido por la puerta por la que había intentado escapar con Jonás. Los recién llegados apuntaban a los dos hermanos, ignorando a los encerrados en el pozo.
+- Me parece que tendremos que salir de aquí por nuestra cuenta - dijo Ana. Al cabo de un rato añadió -. Je, parece que me han leído la mente.
 
-- ¿No puedes usar la radio? - preguntó Lucas, sin dejar de mirar a Jonás y Lara. El primero se aferraba a su hermana y miraba hacia todos lados sin moverse del sitio. Un hilo de sangre había empezado a salir de su nariz.
-- Seguramente tengan la frecuencia intervenida - respondió Ana -. No creo que sea buena idea enfadarles. Por otra parte... - dudó.
-- ¿Qué?
-- Jonás es muy valioso para RIO, y según mis sospechas, Lara también lo es. Podría funcionar.
+Lucas miró a su alrededor, intentando ver a qué se refería su amiga. Entonces vio a una mujer emergiendo de la oscuridad por uno de los extremos de las estancia. Alguien la había alzado hasta que ella pudo aferrarse al borde del piso superior. Otras personas comenzaron a seguir su ejemplo en diferentes puntos de la sala.
 
-Y sin dejar hablar a Lucas, echó mano de su radio.
+- Espero que se acuerden de los que dejan abajo - dijo Lucas.
+- Yo también lo espero.
 
-- Aquí Ana, ¿me reciben?
+Mientras esperaban Lucas se fijó en Jonás. Este último y Lara estaban a escasos metros de la salida cuando un objeto entró volando por la misma. Al mismo tiempo otro objeto idéntico entró por la salida opuesta y ambos cayeron al foso.
 
-Las confirmaciones comenzaron a sucederse hasta que uno de los soldados de RIO ordenó de repente evacuar la sala. Sin apenas dar tiempo a Ana y los suyos a reaccionar, los cuatro abandonaron la estancia. Apenas pasaron unos segundos cuando por cada puerta apareció volando una granada y ambas fueron a parar al foso.
+Lucas se abrazó a su amiga y cerró los ojos ante las explosiones inminentes, pero en su lugar sólo escuchó el ruido de un gas expandiéndose. Ana le devolvió el abrazo mientras le susurraba al oído.
 
-Lucas se abrazó a su amiga y cerró los ojos ante las explosiones inminentes, pero en su lugar sólo escuchó el ruido de un gas expandiéndose. Ana le devolvió el abrazo mientras le susurraba al oído:
+- Recuérdame enseñarte la diferencia entre una granada de fragmentación y una de gas.
 
-- Tengo que enseñarte la diferencia entre una granada de fragmentación y una granada de gas.
-
-Lucas apenas tuvo tiempo de responder cuando empezaron a fallarle los sentidos.
+Lucas quiso responderle algo pero le falló la voz. Poco a poco empezaron a apagarse el resto de sus sentidos hasta que el joven perdió la consciencia por completo.
 
 ***
 
