@@ -2,70 +2,61 @@
 
 - ¡Lucas! ¡Lucas! ¡Despierta!
 
-La voz le llegaba amortiguada, lejana, pero a medida que recuperaba la consciencia comenzó a sonar como lo que era realmente: unos gritos desesperados a escasos centímetros de su cara. Lucas abrió los ojos con dificultad, pero sólo vio oscuridad. Cuando intentó hablar sólo se escuchó un hilillo de voz.
+La voz le llegaba amortiguada, lejana, pero a medida que recuperaba la consciencia comenzó a sonar como lo que era realmente: unos gritos desesperados a escasos centímetros sobre su cabeza. Lucas abrió los ojos con dificultad, pero sólo vio oscuridad. Cuando intentó hablar sólo se escuchó un hilillo de voz.
 
-- ¿A... Ana?
+- ¿La... Lara?
+- ¡Tenemos que irnos! - gritó Jonás - ¡Voy a...!
+- ¡No lo sueltes! - suplicó la adolescente - ¡Por favor!
+- ¡Joder!
 
-La voz hizo caso omiso a su pregunta.
+Mientras volvía en sí Lucas se sintió suspendido en el aire, como flotando, mientras alguien tiraba de su brazo derecho hacia arriba.
 
-- ¡Ayúdame a subirlo!
-- Pe-pero están muy cerca.
-- ¡Qué me ayudes!
+El sabor a sangre lo embargó. Lucas alzó la mano que tenía libre para limpiarse la boca, pero Lara en seguida aprovechó la oportunidad para agarrársela. La pared comenzó a rasparle la cara a medida que ascendía. El daño le hizo intentar zafarse de las manos que lo sujetaban, pero le fue imposible.
 
-Mientras volvía en sí Lucas se sintió suspendido en el aire, como flotando. Alguien tiraba de su brazo derecho hacia arriba.
+La luz que entraba por la entrada lo cegó cuando Jonás y Lara terminaron de alzarlo. Lucas cayó sobre ellos con el último empujón de estos.
 
-- ¡Agárrame la mano!
-- ¿Lara? - dudó Lucas -. ¡Agh!
-
-El sabor a sangre lo embargó. Lucas alzó la mano que tenía libre para limpiarse la boca, pero Lara en seguida aprovechó la oportunidad para agarrársela. Sin poder evitarlo, el joven soltó una maldición cuando un saliente afilado de la pared le marcó la cara. El dolor le hizo zafarse, pero no consiguió liberarse de las manos que lo agarraban y forzaban a seguir subiendo. La luz lo cegó cuando Jonás y Lara terminaron de alzarlo. Lucas cayó sobre ellos con el último empujón de estos.
-
-- ¿Dónde? - comenzó a decir Lucas, incapaz aún de alzar la voz -. ¿Dónde están los demás?
+- ¿Dónde? - comenzó a decir Lucas, incapaz aún de levantar la voz -. ¿Dónde están los demás?
 - Abajo - se limitó a responder Jonás, al tiempo que lo empujaba a un lado y tanto Lara como él se incorporaban rápidamente.
 
-Lucas se apoyó en el marco de la puerta de la estación para ayudarse a levantar. Una vez en pie se asomó al borde del precipicio del que lo habían salvado. Aunque la oscuridad impedía ver nada, los gritos de auxilio provenían de muy cerca, por lo que el agujero no debía ser muy profundo. Lucas intentó forzar la vista para ver si distinguía a alguien, pero no lo logró.
+Lucas se apoyó en el marco de la puerta de la estación para ayudarse a levantar. Una vez en pie echó un vistazo y vio el gran foso oscuro que ocupaba la gran sala rectangular. Del suelo que había cedido sólo quedaba una cornisa de medio metro de ancho que bordeaba la estancia.
 
-- ¡Salgan de aquí!
-- ¿Ana? - Lucas no pudo disimular una sonrisa - ¡Ana! ¿Estás bien?
-- ¡Sí, pero tienen que salir de aquí!
-- ¡Tenemos que irnos! - coincidió Jonás a sus espaldas.
-- Pero...
-- ¡Ya!
+Lucas se asomó al borde. Sólo un pequeño semicírculo alrededor de la puerta era visible gracias a la luz que se colaba a través de esta. El joven pudo distinguir varios cuerpos inmóviles tendidos unos sobre otros en el piso inferior.
 
-Jonás le agarró del brazo y comenzó a empujarlo hacia el exterior. Lucas forcejeó durante unos instantes, hasta que una ráfaga de disparos en la acera les hizo retroceder a los tres.
+A Lucas le dio un vuelco el corazón al creer que todos habían muerto. Sin embargo, los cuerpos comenzaron a moverse poco a poco entre quejidos y maldiciones. Los primeros gritos de auxilio comenzaron a escapar del foso.
 
-- ¡Cuidado! - exclamó Ana desde la oscuridad, al ver que se acercaron peligrosamente al borde.
-- ¡Mierda! - maldijo Jonás. Lucas juraría haber escuchado cómo su voz se quebraba - ¡por aquí!
+- ¡Tenemos que irnos! - le apremió Jonás a sus espaldas, ignorando las voces.
 
-Jonás guió a Lara por la cornisa de suelo que no había cedido y que recorría los bordes de la estancia. Lucas miró hacia la oscuridad, preocupado por su amiga, aún sabiendo que era incapaz de ver a nadie de los que habían caído. No sin cierta reticencia comenzó a seguir a Lara y Jonás con la espalda pegada a la pared. Los gritos que provenían del foso le hicieron sentirse mal por ser incapaz de ayudar a los que los proferían.
+Pero Lucas estaba concentrado en buscar la voz de su amiga entre las cada vez más numerosas súplicas. Jonás, no dispuesto a esperar ni un segundo más, agarró del brazo a Lara y la encaminó hacia la salida.
 
-- ¡Ayuda! - gritó una mujer.
-- ¡Por favor! - suplicó un hombre.
-- ¡Al niño! ¡Cojan al niño! - exigió otra voz masculina.
+- ¡Jonás! ¡Jonás, espera!
+- ¿Ana? - Lucas no pudo disimular una sonrisa -. ¡Ana! ¿Estás bien?
+- ¡Jonás!
 
-Esta última petición tomó por sorpresa a Jonás cuando este iba por la mitad de la estancia. Intentó distinguir algo en la espesa negrura sin apenas esperanzas, hasta que vio una pequeña mano surgir de la nada, tan cerca que Lucas se agachó, seguro de que podía alcanzarla.
+Lucas se giró hacia Jonás, quien había empezado a salir por la puerta con su hermana. De repente, una ráfaga de disparos en la acera hizo retroceder a la pareja.
 
-- ¡No! - exclamó Jonás cuando lo vio.
+- ¡Cuidado! - exclamó Ana.
 
-El niño dejó escapar un grito y la mano desapareció en la oscuridad. Otra mano, de adulto, emergió en su lugar y se aferró a la de Lucas. Incapaz de mantener el equilibrio, Lucas se tambaleó y cayó al vacío, aterrizando sobre el hombre que lo había engañado para intentar escapar.
+Lucas intentó apartarse pero no fue lo suficientemente rápido, y Jonás y Lara lo empujaron mientras retrocedían. El joven se precipitó al vacío, aterrizando sobre varias personas de las que allí se agolpaban.
 
-- ¡Lucas! ¿Estás bien? - la voz de su amiga se acercó rápidamente.
-- Sí, estoy... ¡ah! - se quejó el joven al recibir un golpe en la cara.
-- ¡Lo siento! ¡No veo nada!
+- ¡Lucas! - exclamaron al unísono Ana y Lara - ¡Lucas!.
 
-La mano de Ana rectificó y lo agarró del brazo, ayudándolo a incorporarse. De repente soltó un grito que casi lo dejó sordo.
+Varias manos empujaron a Lucas intentando quitárselo de encima. Este último quería gritar que estaba bien, pero estaba concentrado en forcejear con las personas a su alrededor.
 
-- ¡Jonás! ¡Espera por nosotros!
+Por fin, cuando pudo levantarse y entre tambaleos, gritó:
 
-Pero él hizo caso omiso al consejo y siguió avanzando hacia la puerta, sin soltar la mano de su hermana.
+- ¡Estoy bien!
+- ¡Lucas! ¿Dónde estás? - la voz de Ana era cada vez más cercana.
+- ¡Aquí! ¡Ah! - gritó Lucas al recibir un golpe en la cara.
+- ¡Lo siento! - se disculpó ella, ya a su lado. De repente soltó un grito que casi dejó sordo a su amigo - ¡Jonás! ¡Jonás, espera!
 
-- Me parece que tendremos que salir de aquí por nuestra cuenta - dijo Ana. Al cabo de un rato añadió -. Je, parece que me han leído la mente.
+Lucas alzó la vista. Jonás y Lara se habían alejado de la puerta por donde habían sido recibidos a tiros y ahora bordeaban la estancia para llegar a la salida en el extremo opuesto. Al escuchar a Ana, Lara comenzó a frenarse, dudando sobre si esperar o seguir, pero Jonás, desesperado, se limitaba a empujar a su hermana.
 
-Lucas miró a su alrededor, intentando ver a qué se refería su amiga. Entonces vio a una mujer emergiendo de la oscuridad por uno de los extremos de las estancia. Alguien la había alzado hasta que ella pudo aferrarse al borde del piso superior. Otras personas comenzaron a seguir su ejemplo en diferentes puntos de la sala.
+- ¡Mierda! - se enfadó Ana. La joven alzó la voz, intentando hacerse oír entre los gritos angustiosos que se agolpaban a su alrededor - ¡Equipo, defiendan las salidas como puedan!
+- ¡Sí, señora! - gritaron varias voces desde distintos lados de la espesa negrura.
 
-- Espero que se acuerden de los que dejan abajo - dijo Lucas.
-- Yo también lo espero.
+Varios gritos provenientes del exterior de la estación los puso a todos en alerta. La gente atrapada en el foso empezó a retroceder hacia el centro, empujándose los unos a los otros. Ana y Lucas se agarraron, intentando aguantar las embestidas.
 
-Mientras esperaban Lucas se fijó en Jonás. Este último y Lara estaban a escasos metros de la salida cuando un objeto entró volando por la misma. Al mismo tiempo otro objeto idéntico entró por la salida opuesta y ambos cayeron al foso.
+En medio del caos Lucas volvió a alzar la vista. Jonás y Lara estaban a escasos metros de la salida, cuando un objeto cilíndrico entró volando por la misma. Al mismo tiempo otro objeto idéntico entró por la salida opuesta y ambos cayeron al foso.
 
 Lucas se abrazó a su amiga y cerró los ojos ante las explosiones inminentes, pero en su lugar sólo escuchó el ruido de un gas expandiéndose. Ana le devolvió el abrazo mientras le susurraba al oído.
 
