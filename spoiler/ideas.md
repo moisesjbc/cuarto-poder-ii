@@ -1,5 +1,7 @@
 # Ideas
 
+- Ajani es uno de los guardias de RIO que se hace pasar por un miembro de la resistencia infiltrado, buscando el modo de liberarlos.
+    -¿Capítulos alternos o muestras de que la resistencia real aún no ha llegado a ellos?
 - ¿Reducir el número de personajes con capítulos propios?
     - ¿Sólo Lucas?
     - ¿Capítulos alternos de Lucas (y Cía) y...?

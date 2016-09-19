@@ -46,7 +46,7 @@ Por fin, cuando pudo levantarse y entre tambaleos, gritó:
 
 - ¡Estoy bien!
 - ¡Lucas! ¿Dónde estás? - la voz de Ana era cada vez más cercana.
-- ¡Aquí! ¡Ah! - gritó Lucas al recibir un golpe en la cara.
+- ¡Aquí! - respondió - ¡Ah! - gritó al recibir un golpe en la cara.
 - ¡Lo siento! - se disculpó ella, ya a su lado. De repente soltó un grito que casi dejó sordo a su amigo - ¡Jonás! ¡Jonás, espera!
 
 Lucas alzó la vista. Jonás y Lara se habían alejado de la puerta por donde habían sido recibidos a tiros y ahora bordeaban la estancia para llegar a la salida en el extremo opuesto. Al escuchar a Ana, Lara comenzó a frenarse, dudando sobre si esperar o seguir, pero Jonás, desesperado, se limitaba a empujar a su hermana.
@@ -58,16 +58,12 @@ Varios gritos provenientes del exterior de la estación los puso a todos en aler
 
 En medio del caos Lucas volvió a alzar la vista. Jonás y Lara estaban a escasos metros de la salida, cuando un objeto cilíndrico entró volando por la misma. Al mismo tiempo otro objeto idéntico entró por la salida opuesta y ambos cayeron al foso.
 
-Lucas se abrazó a su amiga y cerró los ojos ante las explosiones inminentes, pero en su lugar sólo escuchó el ruido de un gas expandiéndose. Ana le devolvió el abrazo mientras le susurraba al oído.
+Lucas se abrazó a su amiga y cerró los ojos ante las explosiones inminentes, pero en su lugar sólo escuchó el ruido de un gas expandiéndose. Sin abrir los ojos, sintió cómo Ana le devolvía el abrazo mientras le susurraba al oído:
 
 - Recuérdame enseñarte la diferencia entre una granada de fragmentación y una de gas.
 
 Lucas quiso responderle algo pero le falló la voz. Poco a poco empezaron a apagarse el resto de sus sentidos hasta que el joven perdió la consciencia por completo.
 
-***
-
-¿Visión?
-
-
 ## Navegación
 
+- [Capítulo siguiente: 02 - Regreso](c02_regreso.md)
