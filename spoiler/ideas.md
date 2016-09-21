@@ -1,5 +1,8 @@
 # Ideas
 
+- **Ir esbozando el resto del libro y todo lo que quiero contar para que no me pase como con el primero**
+- Ajani no quiere destruir RIO, sólo purgarla.
+
 - Ajani es uno de los guardias de RIO que se hace pasar por un miembro de la resistencia infiltrado, buscando el modo de liberarlos.
     -¿Capítulos alternos o muestras de que la resistencia real aún no ha llegado a ellos?
 - ¿Reducir el número de personajes con capítulos propios?
