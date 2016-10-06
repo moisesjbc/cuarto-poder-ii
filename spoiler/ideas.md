@@ -18,6 +18,8 @@ Que te den, Ale.
     - ¿Revolución industrial u otros? (ver curiosidades.md)
     - Un conjunto de dueños de fábricas se dan cuenta cuenta del poder de la prensa escrita y crean periódicos para controlar a las masas. Empieza a gestarse RIO.
 - Durante una de las reuniones de los dueños de fábricas, el presentador dice la frase “Reality Is Ours! (RIO)”.
+- Idea de conexión con Atlántida: una o varias "criptas" con forma de esfera enorme enterradas bajo edificios de RIO con un portal en su centro. El puente de conexión con el portal está lleno de trampas activadas por nanomáquinas. La parte "mala" de RIO desconoce esto último ya que la parte "buena" quemó los archivos. La sensibilidad de Lucas a las nanomáquinas resulta ser una de las claves (*) para llegar al portal, más que una debilidad a corregir como se intenta hacer.
+    - (*) ¿Jonás o Ajani tiene otra de las claves (pe. el código de desactivación de la nube de nanomáquinas implementado en sus nanomáquinas internas)?
 
 ## Segunda parte (Atlántida)
 
