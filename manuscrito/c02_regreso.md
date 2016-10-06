@@ -46,11 +46,33 @@ Los gritos y golpes se acumulaban. Lucas agachó la cabeza y entrecerró los ojo
 
 - Alto.
 
-Lucas abrió los ojos y paró súbitamente para evitar chocarse con el soldado rubio que se había detenido delante de él. El joven retrocedió con cuidado para evitar darle motivos al soldado a sus espaldas a usar la porra. Entonces miró por encima del hombro de su escolta delantero.
+Lucas abrió los ojos y paró súbitamente para evitar chocarse con el soldado rubio que se había detenido delante de él. El joven retrocedió con cuidado para evitar darle motivos al soldado a sus espaldas a usar la porra. 
 
-Habían llegado al final del pasillo y ahora aguardaban frente a un ascensor.
+El joven miró entonces por encima del hombro de su escolta delantero. El trío había llegado al final del pasillo y ahora aguardaba frente a un ascensor. Un pequeño panel sobre la puerta delantera mostraba el número -5. Este último fue rápidamente desplazado por el -6, y este a su vez por el -7. 
+
+Los números se sucedieron durante unos segundos en los que Lucas se sintió tentando de echar un vistazo hacia atrás para estudiar el pasillo en el que se encontraba. No obstante, el miedo a recibir un porrazo lo detuvo. En su lugar se conformó con mirar el escaso medio metro de pasillo que le quedaba por delante.
+
+Tanto blanco... Lucas se preguntó cuál era el motivo de la aparente fobia de RIO a los colores. Las placas metálicas de las paredes, la puerta del ascensor, el panel sobre este último... el prisionero bromeó para sus adentros preguntándose si sus escoltas habrían recibido alguna amonestación por no tener el pelo canoso.
+
+Un pitido sacó a Lucas de sus pensamientos y echó un rápido vistazo al panel. Antes de que lo empujaran dentro del ascensor.
+
+"Así que estoy en el piso -13..."
+
+Una vez dentro del blanco - como no - cubículo, los dos soldados se situaron a ambos lados y le ordenaron situarse en el centro. El soldado de pelo castaño, situado a su derecha, dio paso hacia delante y pulsó el botón con el número -20 antes de volver a su posición original.
+
+El elevador comenzó a descender rápidamente. Mientras bajaban, a Lucas le asaltó nuevamente el nerviosismo. ¿En qué piso estarían Ana y los demás? ¿Estarían en aquel lugar siquiera? ¿Estarían...? Lucas se forzó a no completar este último pensamiento
+
+De repente el ascensor se detuvo súbitamente. Lucas se agarró instintibamente al soldado rubio situado a su izquierda. Por suerte, este último no era de gatillo tan fácil como su compañero y simplemente se limitó a apartarlo de si.
+
+- Puto ascensor. ¿Por qué se detiene siempre en la misma planta?
+
+"En la planta -19" - se forzó a memorizar Lucas.
+
+Tras unos instantes el elevador reanudó su marcha como si nada hubiera pasado, recorriendo el último piso sin sobresaltos.
 
 (*) ¿Cuál es el nombre exacto?
+<¿Ajani se comunica con él mediante voces en su cabeza?> (Nanomáquinas)
+<¿Nombrar más soldados patrullando por el pasillo?>
 <Tocan en la puerta. Es Ajani, ¿o la francotiradora? ¿O Kasim?>
 <Mencionar el bulto de la pierna del soldado infiltrado: pulóver de Kasim. ¿O muy descarado?>
 
