@@ -62,7 +62,7 @@ Una vez dentro del blanco - como no - cubículo, los dos soldados se situaron a 
 
 El elevador comenzó a descender rápidamente. Mientras bajaban, a Lucas le asaltó nuevamente el nerviosismo. ¿En qué piso estarían Ana y los demás? ¿Estarían en aquel lugar siquiera? ¿Estarían...? Lucas se forzó a no completar este último pensamiento
 
-De repente el ascensor se detuvo súbitamente. Lucas se agarró instintibamente al soldado rubio situado a su izquierda. Por suerte, este último no era de gatillo tan fácil como su compañero y simplemente se limitó a apartarlo de si.
+De repente el ascensor se detuvo súbitamente. Lucas se agarró instintivamente al soldado rubio situado a su izquierda. Por suerte, este último no era de gatillo tan fácil como su compañero y simplemente se limitó a apartarlo de si.
 
 - Puto ascensor. ¿Por qué se detiene siempre en la misma planta?
 
@@ -70,7 +70,27 @@ De repente el ascensor se detuvo súbitamente. Lucas se agarró instintibamente 
 
 Tras unos instantes el elevador reanudó su marcha como si nada hubiera pasado, recorriendo el último piso sin sobresaltos.
 
+Una vez en el destino las puertas se abrieron y descubrieron a Jonás un pasillo idéntico al de su celda. Sin embargo, las puertas a ambos lados del pasillo tenían más separación entre sí. Estos huecos eran presididos por grandes ventanales.
+
+Mientras caminaba, el prisionero miró por una de las ventanas a su izquierda. Una pareja de científicos con batas blancas miraban fijamente a una mujer caminar de un lado a otro de la sala. Ambos observadores estudiaban la cara de la mujer y tomaban notas en sus carpetas.
+
+Lucas quiso mirar más, descubrir si aquello que probablemente probarían con él tenía algo más de lo que parecía un paseo a simple vista. No obstante, el soldado a su espalda lo empujó y la mujer y los dos científicos desaparecieron de su vista.
+
+El joven trató de reducir la marcha poco a poco, con la esperanza de poder extraer más información de la siguiente ventana. Esperó que sus captores no se dieran cuenta de ello.
+
+- Alto.
+
+La orden lo tomó por sorpresa y Lucas se detuvo en seco, tras lo cual dio un paso al frente rápidamente para evitar que el captor a sus espaldas chocara con él. El soldado del pelo rubio, delante de ellos, se aproximó a la puerta de la derecha y golpeó con el dorso del puño dos veces en la puerta. 
+
+Cuando la puerta se abrió a los pocos segundos y descubrió la figura al otro lado, Lucas abrió los ojos como platos.
+
+Jonás permanecía inmóvil e inmutable ante ellos. Lejos de vestir como un prisionero, portaba una bata larga y blanca como los científicos que Lucas había visto en la otra sala. Jonás lo miró de reojo, sin dar muestras de conocerlo, y se limitó a decir:
+
+- Pase.
+
+
 (*) ¿Cuál es el nombre exacto?
+<¿Vestimenta tipo hospital?>
 <¿Ajani se comunica con él mediante voces en su cabeza?> (Nanomáquinas)
 <¿Nombrar más soldados patrullando por el pasillo?>
 <Tocan en la puerta. Es Ajani, ¿o la francotiradora? ¿O Kasim?>
