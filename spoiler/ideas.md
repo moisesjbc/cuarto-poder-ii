@@ -8,6 +8,8 @@ Que te den, Ale.
 
 ## Primera parte (pre-Atlanta)
 
+- **Añadir preocupación por Noemí en el capítulo 1**
+
 1. Pruebas a Lucas (caminar / usar sobre nanomáquinas).
     - Capítulo 1 de la primera parte: Lucas sufre mareos en la ida, pero no en la vuelta.
         - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea?
