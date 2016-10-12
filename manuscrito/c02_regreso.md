@@ -88,14 +88,6 @@ Jonás permanecía inmóvil e inmutable ante ellos. Lejos de vestir como un pris
 
 - Pase.
 
-
-(*) ¿Cuál es el nombre exacto?
-<¿Vestimenta tipo hospital?>
-<¿Ajani se comunica con él mediante voces en su cabeza?> (Nanomáquinas)
-<¿Nombrar más soldados patrullando por el pasillo?>
-<Tocan en la puerta. Es Ajani, ¿o la francotiradora? ¿O Kasim?>
-<Mencionar el bulto de la pierna del soldado infiltrado: pulóver de Kasim. ¿O muy descarado?>
-
 ## Navegación
 
 - [Capítulo anterior: 01 - Oscuridad](c01_oscuridad.md)

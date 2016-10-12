@@ -2,21 +2,38 @@
 
 Que te den, Ale.
 
+# Pendientes
+
+## Capítulo 1
+
+- Añadir preocupación por Noemí.
+
+## Capítulo 2
+
+- Cambiar título (actualmente: "El regreso").
+- Hablo de "rejillas" en la puerta. ¿Cuál es el nombre exacto? ¿Son rejillas lo que quiero indicar?
+- Comentar que Lucas lleva otra ropa: ¿de paciente de hospital o de preso?
+- ¿Nombrar más soldados patrullando por el pasillo?
+
 # Esbozo del resto del libro
 
 - **Ir esbozando el resto del libro y todo lo que quiero contar para que no me pase como con el primero**
 
 ## Primera parte (pre-Atlanta)
 
-- **Añadir preocupación por Noemí en el capítulo 1**
-
 1. Pruebas a Lucas (caminar / usar sobre nanomáquinas).
     - Capítulo 1 de la primera parte: Lucas sufre mareos en la ida, pero no en la vuelta.
         - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea?
-2. Ajani es uno de los guardias de RIO que se hace pasar por un miembro de la resistencia infiltrado, buscando el modo de liberarlos.
+
+2. ¿Escape?
+    - ¿Ajani se comunica con él mediante voces en su cabeza? (Nanomáquinas)
+    - Tocan en la puerta. Es Ajani, ¿o la francotiradora? ¿O Kasim?
+    - Mencionar el bulto de la pierna del soldado infiltrado: pulóver de Kasim. ¿O muy descarado?
+
+3. Ajani es uno de los guardias de RIO que se hace pasar por un miembro de la resistencia infiltrado, buscando el modo de liberarlos.
     - ¿Capítulos alternos o muestras de que la resistencia real aún no ha llegado a ellos?
-3. Paliza de Ajani por sobreprotección.
-4. Contar origen falso de RIO.
+4. Paliza de Ajani por sobreprotección.
+5. Contar origen falso de RIO.
     - ¿Revolución industrial u otros? (ver curiosidades.md)
     - Un conjunto de dueños de fábricas se dan cuenta cuenta del poder de la prensa escrita y crean periódicos para controlar a las masas. Empieza a gestarse RIO.
 - Durante una de las reuniones de los dueños de fábricas, el presentador dice la frase “Reality Is Ours! (RIO)”.
