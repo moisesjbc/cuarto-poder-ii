@@ -22,28 +22,55 @@ Que te den, Ale.
 ## Primera parte (pre-Atlanta)
 
 1. Pruebas a Lucas (caminar / usar sobre nanomáquinas).
-    - Capítulo 1 de la primera parte: Lucas sufre mareos en la ida, pero no en la vuelta.
+    - Añadir referencia a capítulo 1 de la primera parte: Lucas sufre mareos en la ida al baño, pero no en la vuelta.
         - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea?
+    - El capítulo se queda muy soso si es sólo esto. **¿Qué más le meto?**
 
-2. ¿Escape?
-    - ¿Ajani se comunica con él mediante voces en su cabeza? (Nanomáquinas)
-    - Tocan en la puerta. Es Ajani, ¿o la francotiradora? ¿O Kasim?
-    - Mencionar el bulto de la pierna del soldado infiltrado: pulóver de Kasim. ¿O muy descarado?
+2. **¿Escape?**
+    - **¿A dónde?**
+    - **¿Dónde están?**
+        - a) En un complejo bajo la ciudad burbuja de la que intentaron escapar.
+        - b) En el complejo principal de RIO en Gran Canaria.
+    - **¿Cómo?**
+        - a) Ajani se comunica con él mediante voces en su cabeza (Nanomáquinas).
+        - b) Ajani se hace pasar por un paciente.
+        - c) Intentan reprogramar a Lucas para devolverlo a la ciudad burbuja. Ajani "hackea" el proceso y lo convierte en una máquina de matar.
+        - d) Ajani es uno de los guardias de RIO que se hace pasar por un miembro de la resistencia infiltrado, buscando el modo de liberarlos.
+            - ¿Capítulos alternos o muestras de que la resistencia real aún no ha llegado a ellos?
+            - ¿No es muy famoso? ¿Qué excusa podría tener para ir con el rostro tapado?
+            - Mencionar el bulto de la pierna del soldado infiltrado: pulóver de Kasim. ¿O muy descarado?
+            - En vez de Ajani... ¿la francotiradora? ¿O Kasim?
+    - **¿Cómo (se) desprograma Jonás?**
 
-3. Ajani es uno de los guardias de RIO que se hace pasar por un miembro de la resistencia infiltrado, buscando el modo de liberarlos.
-    - ¿Capítulos alternos o muestras de que la resistencia real aún no ha llegado a ellos?
-4. Paliza de Ajani por sobreprotección.
-5. Contar origen falso de RIO.
+3. **¿Instrucción en el campamento de la Resistencia?** / **¿Conquista del complejo de RIO?**
+    - Versión alternativa: van a escapar del complejo pero RIO lo pone en cuarentena y empieza a destruirlo. Ajani los dirige a la cripta (Ver "Conexión con Atlántida").
+    - Si conquistan el complejo de RIO, ¿esta última no podría simplemente volarlo y ya?
+
+4. Contar origen falso de RIO (**¿o no?**)
     - ¿Revolución industrial u otros? (ver curiosidades.md)
     - Un conjunto de dueños de fábricas se dan cuenta cuenta del poder de la prensa escrita y crean periódicos para controlar a las masas. Empieza a gestarse RIO.
-- Durante una de las reuniones de los dueños de fábricas, el presentador dice la frase “Reality Is Ours! (RIO)”.
-- Idea de conexión con Atlántida: una o varias "criptas" con forma de esfera enorme enterradas bajo edificios de RIO con un portal en su centro. El puente de conexión con el portal está lleno de trampas activadas por nanomáquinas. La parte "mala" de RIO desconoce esto último ya que la parte "buena" quemó los archivos. La sensibilidad de Lucas a las nanomáquinas resulta ser una de las claves (*) para llegar al portal, más que una debilidad a corregir como se intenta hacer.
+    - Durante una de las reuniones de los dueños de fábricas, el presentador dice la frase “Reality Is Ours! (RIO)”.
+
+5. Conexión con Atlántida.
+    - a) Una o varias "criptas" con forma de esfera enorme enterradas bajo edificios de RIO con un portal en su centro. El puente de conexión con el portal está lleno de trampas activadas por nanomáquinas. La parte "mala" de RIO desconoce esto último ya que la parte "buena" quemó los archivos. La sensibilidad de Lucas a las nanomáquinas resulta ser una de las claves (*) para llegar al portal, más que una debilidad a corregir como se intenta hacer.
     - (*) ¿Jonás o Ajani tiene otra de las claves (pe. el código de desactivación de la nube de nanomáquinas implementado en sus nanomáquinas internas)?
+
+### Por meter
+
+- Ajani, Kasim y la francotiradora.
+- Elizabeth.
+- ¿Aitor?
+- ¿Cooper? ¿Soldados ingleses?
+- Noemí.
+- Ana.
+- Motivación de las nanomáquinas. Explicar por qué no se usa en producción aún.
+- Programación de sujetos. Por qué no se usa en producción aún.
+- Motivación de las burbujas.
 
 ## Segunda parte (Atlántida)
 
-- ¿Quiénes y cómo llegan allí?
-- Contar origen real de RIO.
+- **¿Quiénes y cómo llegan allí?**
+- **Contar origen real de RIO.**
     - ¿RIO como control de Atlántida sobre la Tierra pero hubo un "motín" y ahora la primera le hace chantaje a la segunda y extrae sus minerales?
 - Ajani no quiere destruir RIO, sólo purgarla.
 
@@ -93,11 +120,11 @@ La corporación RIO surge como un mecanismo de control de los colonos para mante
 - ¿Existen personas que recuerdan o saben de la existencia de la Atlantida? 
 - ¿Jonás? ¿Ajani?
 
-## Ciudades burbuja
+## Burbujas
 
-- ¿Las ciudades burbujas son pruebas para descubrir ciudadanos prometedores para Atlántida?
-- Hablar del objetivo de las ciudades burbujas y de ciertas características de las mismas, como por ejemplo: ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies" (página 18).
-- **¿En la primera parte soltaron a Lucas en una ciudad "a tomar por culo" sin más?**
+- ¿Las *Burbujas* son pruebas para descubrir ciudadanos prometedores para Atlántida?
+- Hablar del objetivo de las *Burbujas* y de ciertas características de las mismas, como por ejemplo: ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies" (página 18).
+- **¿En la primera parte soltaron a Lucas en una *Burbuja* "a tomar por culo" sin más?**
 
 ## Inglaterra
 
@@ -136,6 +163,7 @@ La corporación RIO surge como un mecanismo de control de los colonos para mante
 - “Cuando los problemas te rodean, pocas personas se paran a mirar hacia las estrellas”.
 - "Pasa algo curioso con las palabras. Existen millones de ellas, muchas de las cuales no las llegaremos usar jamás, o las usaremos una y otra vez sin comprender su verdadero significado. Sin embargo, a la hora de la verdad, sólo unas pocas palabras importan verdaderamente. Palabras como “Sí”, y “No”, o incluso, la ausencia de ellas, tienen el mayor de los poderes: el de decidir nuestro sino, aquí y ahora. Una palabra, o ninguna, puede dirigirnos a lo que verdaderamente deseamos, o alejarnos y sumirnos en el arrepentimiento más oscuro."
 - "Hay muchas putadas que pueden hacerte, pero privarte del control sobre tu cerebro, sobre tu cuerpo... es inhumano".
+- Ajani le pega una paliza a Lucas cuando este roza sin querer a Kasim. Se introduce su sobreprotección patológica para con su hermano.
 
 ###############################################################################
 # CLASIFICAR
