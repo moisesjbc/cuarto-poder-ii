@@ -14,6 +14,7 @@ Que te den, Ale.
 - Hablo de "rejillas" en la puerta. ¿Cuál es el nombre exacto? ¿Son rejillas lo que quiero indicar?
 - Comentar que Lucas lleva otra ropa: ¿de paciente de hospital o de preso?
 - ¿Nombrar más soldados patrullando por el pasillo?
+- Meter el logo de RIO por algún lado.
 
 # Esbozo del resto del libro
 
@@ -21,10 +22,19 @@ Que te den, Ale.
 
 ## Primera parte (pre-Atlanta)
 
+0. **¿Meter arco secundario?**
+    - Resistencia buscando a la gente.
+    - Primer grupo de la resistencia (el que había salido primero de la *Burbuja*) volviendo a buscarlos.
+        - ¿RIO hace desaparecer la ciudad con una nube de nanomáquinas que lo destruye todo?
+    - Resistencia debatiendo si publican la cinta.
+    - ¿Aitor?
+    - ¿Ana con otro nombre?
+
 1. Pruebas a Lucas (caminar / usar sobre nanomáquinas).
     - Añadir referencia a capítulo 1 de la primera parte: Lucas sufre mareos en la ida al baño, pero no en la vuelta.
         - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea?
     - El capítulo se queda muy soso si es sólo esto. **¿Qué más le meto?**
+    - **¿Jonás le modifica las nanomáquinas de su cabeza para conseguir algo? ¿Lo intenta pero se lo impiden?**
 
 2. **¿Escape?**
     - **¿A dónde?**
@@ -54,6 +64,9 @@ Que te den, Ale.
 5. Conexión con Atlántida.
     - a) Una o varias "criptas" con forma de esfera enorme enterradas bajo edificios de RIO con un portal en su centro. El puente de conexión con el portal está lleno de trampas activadas por nanomáquinas. La parte "mala" de RIO desconoce esto último ya que la parte "buena" quemó los archivos. La sensibilidad de Lucas a las nanomáquinas resulta ser una de las claves (*) para llegar al portal, más que una debilidad a corregir como se intenta hacer.
     - (*) ¿Jonás o Ajani tiene otra de las claves (pe. el código de desactivación de la nube de nanomáquinas implementado en sus nanomáquinas internas)?
+    - **¿Por qué iba a mantener Atlántida la conexión si RIO les putea?**
+    - **¿Por qué iba a tener RIO problemas para acceder al portal si pueden chantajear a Atlántida?**
+    - **ACLARAR ESTA PARTE**
 
 ### Por meter
 
