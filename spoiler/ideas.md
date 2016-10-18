@@ -27,7 +27,14 @@ Que te den, Ale.
     - Primer grupo de la resistencia (el que había salido primero de la *Burbuja*) volviendo a buscarlos.
         - ¿RIO hace desaparecer la ciudad con una nube de nanomáquinas que lo destruye todo?
     - Resistencia debatiendo si publican la cinta.
-    - ¿Aitor?
+        - La reunión termina con un lema "Reality is theirs, truth is ours".
+            - **¿Quizás si meto las dos realidades de RIO (Revolución Industrial y Atlántida) se hará mucho? Además, ¿cómo mezclo ambas realidades? ¿Empezó en la revolución industrial y luego pasó lo de Atlántida? ¿Empezó con lo de Atlántida y lo de la Revolución industrial fue una distracción para los más neuróticos / conspiranoicos?**
+        - Se menciona al otro grupo de la resistencia.
+        - Se menciona a un miembro de la resistencia rescatado en la liberación de la *Burbuja* (Aitor). Se cuenta que ha encontrado al "soldado" (Cooper). O que el soldado lo rescató.
+    - Uno de los grupos que entró al unísono con el de Aitor en la ciudad burbuja buscando al grupo de este último.
+    - Aitor despierta a cubierto de la explosión del anterior libro aunque con graves quemaduras. Habla con el que lo salva, que resulta ser Cooper.
+        - **¿Aitor habla tan felizmente con él?**
+        - **¿No abuso mucho del "despertar tras el suceso?**
     - ¿Ana con otro nombre?
 
 1. Pruebas a Lucas (caminar / usar sobre nanomáquinas).
