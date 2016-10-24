@@ -94,35 +94,29 @@ Que te den, Ale.
 
 # Apartados / misterios a resolver
 
+## El origen de todo
+
+En un momento del pasado (**¿cuándo?**), la humanidad encontró y colonizó un planeta habitable al que llamaron **Atlántida**. Debido al avance tecnológico que los colones experimentaron, EEUU quiso tomar el control y se produjo una gran guerra que ganaron los colonos. Los vencedores condenaron a los vencidos a olvidarlo todo sobre Atlántida (*“El gran reinicio”*), y a empezar de nuevo bajo una realidad creada por los ganadores.
+
+La corporación RIO surge como un mecanismo de control de los colonos para mantener el control sobre la Tierra. Su principal ocupación es limitar / filtrar el conocimiento y el progreso para evitar que los terrestres descubran su planeta.
+
+*Reality Is Ours*.
+
+- **Importante:** ¿cómo llegó a haber tantos colonos como para formar una resistencia contra EEUU y seguir siendo algo secreto?
+
 ## Nanomáquinas (motivación)
 
 - Explicar lo de las nanomáquinas.
 - Si a todo le voy a meter nanomáquinas, tener claro el plan de RIO, ¿por qué no las usa masivamente todavía? ¿qué limitaciones pueden tener? etc.
-
-### Motivación falsa
-
-- ¿Desconocida?
-- Experimento de RIO alterando el funcionamiento del cerebro y estudiando el resultado. Por ejemplo: hacen que un determinado sujeto aumente su felicidad y sus habilidades cuando mata a seres queridos.
-
-## RIO
-
-- Pensar significado falso de RIO o explicar por qué se ponen como si fueran siglas.
-
-### Origen real
-
-En un momento del pasado, la humanidad encontró y colonizó un planeta habitable. Debido al avance tecnológico que los colones experimentaron, EEUU quiso tomar el control y se produjo una gran guerra que ganaron los colonos. Los vencedores condenaron a los vencidos a olvidarlo todo sobre Atlántida (“El gran reinicio”), y a empezar de nuevo bajo una realidad creada por los ganadores.
-
-La corporación RIO surge como un mecanismo de control de los colonos para mantener el control sobre la Tierra. Su principal ocupación es limitar / filtrar el conocimiento y el progreso para evitar que los terrestres descubran su planeta.
+- ¿Motivación?: Experimento de RIO alterando el funcionamiento del cerebro y estudiando el resultado. Por ejemplo: hacen que un determinado sujeto aumente su felicidad y sus habilidades cuando mata a seres queridos.
 
 #### El Gran Reinicio
 
 - ¿Cuándo fue el gran reinicio?
+- ¿Voy a meter amnesia colectiva o meto otra cosa? (pe. Atlántida lanzó un ataque masivo sobre EEUU y lo convirtió en una *Burbuja*. Dentro siguen rescatando gente mientras desde fuera hace pensar al mundo exterior que es zona prohibida).
 - ¿Desde qué tiempo reinician (a partir de qué tiempo crean una realidad falsa)?
 - ¿Qué cambian con respecto a la historia original tras el gran reinicio?
 - ¿Se ha producido un único “Gran Reinicio” o varios?
-
-### Motivación real
-
 (*) El objetivo de las nanomáquinas puede ser el control total de la población para permitir que progrese siempre que el progreso no les lleve a descubrir Atlántida.
 
 ## Atlántida
@@ -141,6 +135,7 @@ La corporación RIO surge como un mecanismo de control de los colonos para mante
 ## Burbujas
 
 - ¿Las *Burbujas* son pruebas para descubrir ciudadanos prometedores para Atlántida?
+    - Versión alternativa: las condiciones ambientales de Atlántida han dejado estéril a gran parte / toda la población de Atlántida. Por esta razón se ven "obligados" a extraer gente de La Tierra.
 - Hablar del objetivo de las *Burbujas* y de ciertas características de las mismas, como por ejemplo: ¿Por qué la familia Pérez es consciente de lo que pasa y no son "zombies" (página 18).
 - **¿En la primera parte soltaron a Lucas en una *Burbuja* "a tomar por culo" sin más?**
 
@@ -217,6 +212,7 @@ La corporación RIO surge como un mecanismo de control de los colonos para mante
     - (Capítulo 15) Si Ana es de RIO, ¿por qué está fuera de la farsa de que Lucas está en una ciudad burbuja? → ¿O lo sabe y sólo finge?
     - (Capítulo 15) Ajani ha orquestado un ataque a La Cadena supuestamente fallido y ha desaparecido.
 - Xilófono: tres notas graves, cortas, seguidas de una larga y aguda.
+    - **¿Mineral "canto de sirena" extraído de Atlántida?**
 - (Capítulo 15) Los ingleses atacan La Cadena sin avisar a los rebeldes.
 - (Capítulo 17) Vestimenta y logo de la resistencia: "Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. La vestimenta contaba con un pequeño logotipo de contornos simples que descansaba sobre el pecho izquierdo. Representaba una venda cayéndose de una cabeza humana, todo visto desde perfil."
 - (Capítulo 17) En el capítulo 17 se menciona que a Arturo se le inyectaba algo cada día media hora antes de las sesiones de hacerlo caminar sobre las nanomáquinas. Especificar qué más adelante en el libro. → ¿Intento de “sensibilizarlo” a las nanomáquinas?
