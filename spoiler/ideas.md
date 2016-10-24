@@ -28,7 +28,6 @@ Que te den, Ale.
         - ¿RIO hace desaparecer la ciudad con una nube de nanomáquinas que lo destruye todo?
     - Resistencia debatiendo si publican la cinta.
         - La reunión termina con un lema "Reality is theirs, truth is ours".
-            - **¿Quizás si meto las dos realidades de RIO (Revolución Industrial y Atlántida) se hará mucho? Además, ¿cómo mezclo ambas realidades? ¿Empezó en la revolución industrial y luego pasó lo de Atlántida? ¿Empezó con lo de Atlántida y lo de la Revolución industrial fue una distracción para los más neuróticos / conspiranoicos?**
         - Se menciona al otro grupo de la resistencia.
         - Se menciona a un miembro de la resistencia rescatado en la liberación de la *Burbuja* (Aitor). Se cuenta que ha encontrado al "soldado" (Cooper). O que el soldado lo rescató.
     - Uno de los grupos que entró al unísono con el de Aitor en la ciudad burbuja buscando al grupo de este último.
@@ -36,6 +35,10 @@ Que te den, Ale.
         - **¿Aitor habla tan felizmente con él?**
         - **¿No abuso mucho del "despertar tras el suceso?**
     - ¿Ana con otro nombre?
+    - Elizabeth informando de la situación a una "voz metálica" (Ana). Le dice que no han conseguido dar con Ajani (¿Ajani quiere exponer Atlántida?).
+        - ¿Se encuentra en la Burbuja de Aitor y le informa que no lo han encontrado?
+        - ¿Elizabeth tiene capturado a Ajani?
+    - Aitor con el rostro quemado da una "clase de historia" a nuevos miembros de la resistencia donde cuenta el origen falso de RIO.
 
 1. Pruebas a Lucas (caminar / usar sobre nanomáquinas).
     - Añadir referencia a capítulo 1 de la primera parte: Lucas sufre mareos en la ida al baño, pero no en la vuelta.
@@ -61,14 +64,9 @@ Que te den, Ale.
 
 3. **¿Instrucción en el campamento de la Resistencia?** / **¿Conquista del complejo de RIO?**
     - Versión alternativa: van a escapar del complejo pero RIO lo pone en cuarentena y empieza a destruirlo. Ajani los dirige a la cripta (Ver "Conexión con Atlántida").
-    - Si conquistan el complejo de RIO, ¿esta última no podría simplemente volarlo y ya?
+    - Si conquistan el complejo de RIO, ¿esta última no podría simplemente volarlo y ya? 
 
-4. Contar origen falso de RIO (**¿o no?**)
-    - ¿Revolución industrial u otros? (ver curiosidades.md)
-    - Un conjunto de dueños de fábricas se dan cuenta cuenta del poder de la prensa escrita y crean periódicos para controlar a las masas. Empieza a gestarse RIO.
-    - Durante una de las reuniones de los dueños de fábricas, el presentador dice la frase “Reality Is Ours! (RIO)”.
-
-5. Conexión con Atlántida.
+4. Conexión con Atlántida.
     - a) Una o varias "criptas" con forma de esfera enorme enterradas bajo edificios de RIO con un portal en su centro. El puente de conexión con el portal está lleno de trampas activadas por nanomáquinas. La parte "mala" de RIO desconoce esto último ya que la parte "buena" quemó los archivos. La sensibilidad de Lucas a las nanomáquinas resulta ser una de las claves (*) para llegar al portal, más que una debilidad a corregir como se intenta hacer.
     - (*) ¿Jonás o Ajani tiene otra de las claves (pe. el código de desactivación de la nube de nanomáquinas implementado en sus nanomáquinas internas)?
     - **¿Por qué iba a mantener Atlántida la conexión si RIO les putea?**
@@ -110,10 +108,6 @@ Que te den, Ale.
 
 - Pensar significado falso de RIO o explicar por qué se ponen como si fueran siglas.
 
-### Origen falso
-
-Conjunto de patrones de fábricas en la Revolución Industrial que ven el poder de la prensa.
-
 ### Origen real
 
 En un momento del pasado, la humanidad encontró y colonizó un planeta habitable. Debido al avance tecnológico que los colones experimentaron, EEUU quiso tomar el control y se produjo una gran guerra que ganaron los colonos. Los vencedores condenaron a los vencidos a olvidarlo todo sobre Atlántida (“El gran reinicio”), y a empezar de nuevo bajo una realidad creada por los ganadores.
@@ -136,9 +130,13 @@ La corporación RIO surge como un mecanismo de control de los colonos para mante
 - ¿Origen?
 - ¿Ajani conoce Atlántida?
 - ¿Por qué Lucas tiene una visión de Atlántida?
+    - Fumada interesante (22/10/2016): Atlántida y La Tierra se sitúan en el mismo punto pero en planos distintos. Unos minerales permiten viajar entre ambos planos ¿siempre que hay reciba un golpe?. Debido a que hay un mineral cerca cuando Lucas se golpea la cabeza, este tiene la visión.
 - Mirar <https://es.wikipedia.org/wiki/Atl%C3%A1ntida>
 - ¿Existen personas que recuerdan o saben de la existencia de la Atlantida? 
 - ¿Jonás? ¿Ajani?
+- Más enrevesado: RIO fue conquistada por insumisos que descubrieron que La Tierra era una gran *Burbuja*. Descubren la señal oculta por las notas de xilófono e intentan encontrar sujetos inmunes. La "resistencia" intenta evitarlo.
+- ¿RIO y resistencia colaboran para encubrir a Atlántida?
+    - ¿Grandes desastres nucleares encubrieron / fueron usados para generar la amnesia generalizada?
 
 ## Burbujas
 

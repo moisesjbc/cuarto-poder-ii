@@ -4,6 +4,7 @@
 ## 1.A. Revolución Industrial
 
 Nace durante la revolución industrial (finales del S.XVIII). Un conjunto de grandes dueños de fábricas ven las ventajas de manejar el monopolio de los medios de comunicación en su propio beneficio.
+    - Durante una de las reuniones de los dueños de fábricas, el presentador dice la frase “Reality Is Ours! (RIO)”.
 
 - Controlar a las masas.
 - Eliminar la competencia.
