@@ -96,9 +96,16 @@ Que te den, Ale.
 
 ## El origen de todo
 
-En un momento del pasado (**¿cuándo?**), la humanidad encontró y colonizó un planeta habitable al que llamaron **Atlántida**. Debido al avance tecnológico que los colones experimentaron, EEUU quiso tomar el control y se produjo una gran guerra que ganaron los colonos. Los vencedores condenaron a los vencidos a olvidarlo todo sobre Atlántida (*“El gran reinicio”*), y a empezar de nuevo bajo una realidad creada por los ganadores.
+En un momento del pasado (**Ver apartado "¿Cuándo?**), la humanidad encontró y colonizó un planeta habitable al que llamaron *Atlántida*. Debido al avance tecnológico que los colones experimentaron, EEUU quiso tomar el control y se produjo una gran guerra que ganaron los colonos. Los vencedores condenaron a los vencidos a olvidarlo todo sobre Atlántida (*“El gran reinicio”*), y a empezar de nuevo bajo una realidad creada por los ganadores.
 
 La corporación RIO surge como un mecanismo de control de los colonos para mantener el control sobre la Tierra. Su principal ocupación es limitar / filtrar el conocimiento y el progreso para evitar que los terrestres descubran su planeta.
+
+### ¿Cuándo?
+
+a) Durante la Revolución industrial.
+b) En el futuro. Los Atlantes encontraron unos minerales con los que pueden viajar atrás el tiempo pero sólo pueden actuar varios segundos antes de morir. ¿Final de Lucas volviendo atrás y cambiando algo?
+c) En la época moderna. Los Atlantes encontraron unos minerales con los que pueden provocar amnesia. ¿En las *Burbujas* se contrarresta el efecto de estos minerales temporalmente para cambiar algo?
+d) En un universo paralelo en el que todos viven una vida pasada. Los Atlantes encontraron unos minerales que intercambian / llevan a los sujetos a su vida pasada y los usa para ver quiénes son una amenaza (en una vida pasada lucharon contra Atlántida, o no).
 
 *Reality Is Ours*.
 
@@ -177,6 +184,7 @@ La corporación RIO surge como un mecanismo de control de los colonos para mante
 - "Pasa algo curioso con las palabras. Existen millones de ellas, muchas de las cuales no las llegaremos usar jamás, o las usaremos una y otra vez sin comprender su verdadero significado. Sin embargo, a la hora de la verdad, sólo unas pocas palabras importan verdaderamente. Palabras como “Sí”, y “No”, o incluso, la ausencia de ellas, tienen el mayor de los poderes: el de decidir nuestro sino, aquí y ahora. Una palabra, o ninguna, puede dirigirnos a lo que verdaderamente deseamos, o alejarnos y sumirnos en el arrepentimiento más oscuro."
 - "Hay muchas putadas que pueden hacerte, pero privarte del control sobre tu cerebro, sobre tu cuerpo... es inhumano".
 - Ajani le pega una paliza a Lucas cuando este roza sin querer a Kasim. Se introduce su sobreprotección patológica para con su hermano.
+- Cooper aparece y dispara a Ana antes de que esta lo mate para proteguer su tapadera.
 
 ###############################################################################
 # CLASIFICAR
