@@ -94,9 +94,33 @@ Que te den, Ale.
 
 # Apartados / misterios a resolver
 
-## El origen de todo
+## El origen de todo - Atlántida
 
-En un momento del pasado (**Ver apartado "¿Cuándo?**), la humanidad encontró y colonizó un planeta habitable al que llamaron *Atlántida*. Debido al avance tecnológico que los colones experimentaron, EEUU quiso tomar el control y se produjo una gran guerra que ganaron los colonos. Los vencedores condenaron a los vencidos a olvidarlo todo sobre Atlántida (*“El gran reinicio”*), y a empezar de nuevo bajo una realidad creada por los ganadores.
+- a) Yuri Gagarin, el primer ser humano que viajó al espacio exterior, descubrió una señal procedente de Atlántida. La URSS viajó en secreto al planeta y estableció una colonia comunista que prosperó a gran velocidad. En un momento X EEUU descubrió el planeta (¿2020?) y quiso invadirlo en secreto y aprovechar sus recursos, pero perdió. La URSS acabó con el ataque y atacó EEUU como represalia.
+    - ¿Y RIO? ¿Surgió antes?
+- b) El polvo despedido por unos minerales encontrados en la Tierra permite trasladar la conciencia a Atlántida.
+- c) Atlántida existió realmente en La Tierra (¿Islas Canarias?) y sus habitantes viajaron al espacio huyendo de la catastrofe y de sus enemigos.
+- d) RIO está contra Atlántida y busca cualquier señal en La Tierra que le permita descubrir su paradero. Las *Burbujas* son trampas donde torturan a gente idónea para Atlántida a ver si esta última reacciona e intenta rescatarlos.
+- e) Ajani intentó abrir un portal en el sótano de RIO para rescatar a Jonás y la resistencia, pero los Atlantes lo obligaron a volver. RIO consiguió mantener el portal activo e intenta invadir Atlántida.
+
+- f) Atlántida existió en La Tierra (Islas Canarias) y huyó mediante un portal antes de la catástrofe. En 2018 EEUU descubrió la isla y lanzó un ataque en secreto para hacerse con sus recursos. Atlántida venció y arrasó EEUU como represalia. Estableció RIO como un control de la Tierra, pero algunos rebeldes se hicieron con ella y chantajearon a Atlántida con descubrir su secreto. RIO mantiene el control sobre La Tierra a cambio de generosos "pagos" por parte de Atlántida (¿Por qué Atlántida no los arrasa y ya?). 
+
+## Descubrimiento de Atlántida
+
+### Atlántida virtual
+
+Atlántida es una mente colmena a la que RIO intenta acceder mediante las nanomáquinas.
+
+### Portales
+
+Cada X tiempo una sucesión de portales conecta puntos aleatorios del universo con un planeta (Atlántida). Uno de los portales apareció en EEUU y estos quisieron aprovecharse de los recursos y la tecnología del planeta. Se debatió sobre si debería prohibirse el acceso a los humanos al planeta y los humanos de Atlantis propusieron castigar a EEUU y filtrar el acceso mediante RIO.
+
+### El planeta
+
+
+- Minerales que por contacto te permiten acceder a todo el conocimiento. Los de Atlántida viajan por el mundo recolectando dichos materiales y protegiéndolos.
+
+En 2020 la humanidad encontró y colonizó un planeta habitable al que llamó *Atlántida*. Debido al avance tecnológico que los colones experimentaron, EEUU quiso tomar el control y se produjo una gran guerra que ganaron los colonos. Los vencedores condenaron a los vencidos a olvidarlo todo sobre Atlántida (*“El gran reinicio”*), y a empezar de nuevo bajo una realidad creada por los ganadores.
 
 La corporación RIO surge como un mecanismo de control de los colonos para mantener el control sobre la Tierra. Su principal ocupación es limitar / filtrar el conocimiento y el progreso para evitar que los terrestres descubran su planeta.
 
