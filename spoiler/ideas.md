@@ -98,12 +98,15 @@ Que te den, Ale.
 
 - a) Yuri Gagarin, el primer ser humano que viajó al espacio exterior, descubrió una señal procedente de Atlántida. La URSS viajó en secreto al planeta y estableció una colonia comunista que prosperó a gran velocidad. En un momento X EEUU descubrió el planeta (¿2020?) y quiso invadirlo en secreto y aprovechar sus recursos, pero perdió. La URSS acabó con el ataque y atacó EEUU como represalia.
     - ¿Y RIO? ¿Surgió antes?
+    - La guerra fue durante más tiempo, pero en 2020 ganó el planeta.
 - b) El polvo despedido por unos minerales encontrados en la Tierra permite trasladar la conciencia a Atlántida.
 - c) Atlántida existió realmente en La Tierra (¿Islas Canarias?) y sus habitantes viajaron al espacio huyendo de la catastrofe y de sus enemigos.
 - d) RIO está contra Atlántida y busca cualquier señal en La Tierra que le permita descubrir su paradero. Las *Burbujas* son trampas donde torturan a gente idónea para Atlántida a ver si esta última reacciona e intenta rescatarlos.
 - e) Ajani intentó abrir un portal en el sótano de RIO para rescatar a Jonás y la resistencia, pero los Atlantes lo obligaron a volver. RIO consiguió mantener el portal activo e intenta invadir Atlántida.
 
-- f) Atlántida existió en La Tierra (Islas Canarias) y huyó mediante un portal antes de la catástrofe. En 2018 EEUU descubrió la isla y lanzó un ataque en secreto para hacerse con sus recursos. Atlántida venció y arrasó EEUU como represalia. Estableció RIO como un control de la Tierra, pero algunos rebeldes se hicieron con ella y chantajearon a Atlántida con descubrir su secreto. RIO mantiene el control sobre La Tierra a cambio de generosos "pagos" por parte de Atlántida (¿Por qué Atlántida no los arrasa y ya?). 
+- f) Atlántida existió en La Tierra (Islas Canarias) y huyó mediante un portal antes de la catástrofe. En 2018 EEUU descubrió la isla y lanzó un ataque en secreto para hacerse con sus recursos. Atlántida venció y arrasó EEUU como represalia. Estableció RIO como un control de la Tierra, pero algunos rebeldes se hicieron con ella y chantajearon a Atlántida con descubrir su secreto. RIO mantiene el control sobre La Tierra a cambio de generosos "pagos" por parte de Atlántida (¿Por qué Atlántida no los arrasa y ya?).
+    - La atlántida original descubrió un planeta pero no tenía la tecnología para llegar. Los supervivientes de la catástrofe esperaron a que hubiera la tecnología (pe. carrera espacial) para llegar allí.
+- g) No huyeron, pero gran parte de sus habitantes recibieron "La llamada": una visión de Atlántida (el planeta) como la que recibe Lucas al final del primer libro. Se forma una sociedad secreta qie mantiene la existencia del planeta en secreto hasta poder llegar a él.
 
 ## Descubrimiento de Atlántida
 
