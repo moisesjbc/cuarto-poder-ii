@@ -195,6 +195,7 @@ d) En un universo paralelo en el que todos viven una vida pasada. Los Atlantes e
     - ¿? Ana y Elizabeth son hermanas que quieren tomar el poder de RIO → O meter algún otro parentezco.
 - ¿Ana y Elizabeth son hermanas que aspiran a cargarse sus respectivas organizaciones y hacerse con el poder?
 - ¿Ana y Elizabeth son dos hermanas que fueron echadas de Atlántida y buscan la manera de volver probando ambas vías? ¿RIO y resistencia?
+- El padre de Ana y Elizabeth fue un traidor que ayudó al intento de ataque de Atlántida por parte de EEUU cuando éstas eran pequeñas (tener en cuenta fechasy edades). Antes de ser capturado, el padre las mandó a la tierra con la excusa de protegerlas pero en realidad quería que estas completaran su misión de destruir Atlántida (los Atlantes no pensaban castigarlas a ellas por los pecados del padre). El plan maestro es que Ana llegue a Atlántida y sabotee desde dentro mientras Elizabeth ? en La Tierra. 
 
 ## Ajani y Karim
 
