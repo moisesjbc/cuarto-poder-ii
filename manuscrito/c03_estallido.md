@@ -9,28 +9,25 @@ Su superiora se limitó a mirarlo fijamente a los ojos, seria, sin mediar palabr
 
 "Bien, estos ya están amaestrados", se enorgulleció Elizabeth.
 
+La joven se giró entonces y alzó la vista al cielo, dejando que la brisa nocturna acariciara su rostro. Con los ojos cerrados, repasó mentalmente su plan hasta que una voz tras ella interrumpió sus cavilaciones.
 
-- <Entran en la sala y ven los ¿cadáveres / cuerpos dormidos? de Sofía y Paula>
-- <Tras asegurar el control del centro de control, Elizabeth pide buscar a su "cita", pero ninguno de sus subalternos entienden la referencia>
+- Zona asegurada.
 
-***
+Elizabeth miró al primero de la fila. Este se descolgó torpemente la radio del pecho.
 
-Los proyectiles incendiarios caían como auténticos meteoritos a ambos lados de la avenida, atravesando las construcciones como si estas fueran de papel. La gente corría despavorida en todas direcciones, empujándose, gritando, llorando. 
+- B-bien.
 
-Con el tiempo, cada vez más personas se dieron cuenta de que el centro de la calle era el lugar más seguro. Los presentes comenzaron a empujarse hacia la carretera y a formar un afluente que huía hacia la salida de la ciudad.
+Ella esperó a que él descolgara y miró a su equipo fijamente. A pesar del aviso de seguridad por radio, la joven desefundó su pistola, un gesto que fue imitado por las personas a su espalda. La unidad asintió en silencio.
 
-La unidad no tardó en verse superada en su intento de avanzar a contracorriente, hacia la plaza del pueblo. No obstante, Sofía y Paula, a la cabeza, se resistían ante la avalancha y seguían abriéndose paso como podían.
+Elizabeth repitió el gesto y se giró nuevamente hacia la puerta.  Como si hubiera sido obra de su mente, la puerta emitió un sonido eléctrico y se deslizó a un lado. Acto seguido una serie de luces en la pared fue encendiéndose en orden, apuñalando la oscuridad, al tiempo que descubría una escalera de caracol que descendía a las profundidades.
 
-- <¿Cambiar capítulo a Elizabeth intentando recuperar la Burbuja?>
-- <¿Por qué no los eliminan y ya?>
-- <Mencionar gas>.
-- <Lucha en la plaza>.
-- <Asalto al centro de control de la Burbuja y estallido de la misma>
-- <Descubrimiento de los cadáveres salvo el de Aitor>
-- ¿<Alguna referencia a Cooper>?
-- ¿<Mención a Elizabeth negándose a "recuperar" la ciudad (hermanas que quieren hacer caer ambos lados)>?
+La unidad comenzó a descender en fila india con la joven a la cabeza. La tenue iluminación, la estrechez de la escalera y el único sonido del eco de los pasos acrecentaban la sensación de soledad.
 
-***
+Lejos de acelerar el paso para acortar la desagradable experiencia, Elizabeth redujo la marcha, forzando a su unidad a hacer lo mismo. El grupo descendió varios metros hasta que la escalera acabó abruptamente frente a una puerta metálica, similar a la que daba paso a la construcción.
+
+Esta vez la puerta no obedeció sus deseos, por lo que Elizabeth golpeó la puerta varias veces, de manera suave pero firme.
+
+- <Ver ideas.md>
 
 ## Navegación
 

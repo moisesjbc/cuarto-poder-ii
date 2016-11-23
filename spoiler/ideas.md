@@ -16,6 +16,36 @@ Que te den, Ale.
 - ¿Nombrar más soldados patrullando por el pasillo?
 - Meter el logo de RIO por algún lado.
 
+## Capítulo 3
+
+- <Entran en la sala y ven los ¿cadáveres / cuerpos dormidos? de Sofía y Paula>
+- Elizabeth se distrae viendo uno de los monitores (busca el estado de Cooper).
+- Al final del capítulo llama a "una voz metálica" (Ana) y le informa de lo de X (Nombre en clave, Cooper). Cuando le va a decir que tenga cuidado, Ana cuelga y ella sonríe.
+    - Durante la conversación hablan de "regresar".
+- <Tras asegurar el control del centro de control, Elizabeth pide buscar a su "cita", pero ninguno de sus subalternos entienden la referencia>
+ 
+-***
+ 
+-Los proyectiles incendiarios caían como auténticos meteoritos a ambos lados de la avenida, atravesando las construcciones como si estas fueran de papel. La gente corría despavorida en todas direcciones, empujándose, gritando, llorando. 
+ 
+Con el tiempo, cada vez más personas se dieron cuenta de que el centro de la calle era el lugar más seguro. Los presentes comenzaron a empujarse hacia la carretera y a formar un afluente que huía hacia la salida de la ciudad.
++Ella esperó a que él descolgara y miró a su equipo fijamente. A pesar del aviso de seguridad por radio, la joven desefundó su pistola, un gesto que fue imitado por las personas a su espalda. La unidad asintió en silencio.
+ 
+La unidad no tardó en verse superada en su intento de avanzar a contracorriente, hacia la plaza del pueblo. No obstante, Sofía y Paula, a la cabeza, se resistían ante la avalancha y seguían abriéndose paso como podían.
+ 
+- <¿Cambiar capítulo a Elizabeth intentando recuperar la Burbuja?>
+- <¿Por qué no los eliminan y ya?>
+- <Mencionar gas>.
+- <Lucha en la plaza>.
+- <Asalto al centro de control de la Burbuja y estallido de la misma>
+- <Descubrimiento de los cadáveres salvo el de Aitor>
+- ¿<Alguna referencia a Cooper>?
+- ¿<Mención a Elizabeth negándose a "recuperar" la ciudad (hermanas que quieren hacer caer ambos lados)>?
+- La unidad comenzó a descender en fila india con la joven a la cabeza. La tenue iluminación, la estrechez de la escalera y el único sonido del eco de los pasos acrecentaban la sensación de soledad.
+ 
+-***
+
+
 # Esbozo del resto del libro
 
 - **Ir esbozando el resto del libro y todo lo que quiero contar para que no me pase como con el primero**
