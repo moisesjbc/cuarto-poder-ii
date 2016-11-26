@@ -18,6 +18,7 @@ Que te den, Ale.
 
 ## Capítulo 3
 
+- <Digo muchas veces Elizabeth>
 - <Entran en la sala y ven los ¿cadáveres / cuerpos dormidos? de Sofía y Paula>
 - Elizabeth se distrae viendo uno de los monitores (busca el estado de Cooper).
 - Al final del capítulo llama a "una voz metálica" (Ana) y le informa de lo de X (Nombre en clave, Cooper). Cuando le va a decir que tenga cuidado, Ana cuelga y ella sonríe.
