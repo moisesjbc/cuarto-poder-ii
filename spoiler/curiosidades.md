@@ -171,4 +171,16 @@ Historia de Internet (Wikipedia) : http://es.wikipedia.org/wiki/Historia_de_Inte
 - ¿De dónde saldría la expresión “Reality Is Ours?”.
 
 
-# Otras curiosidades
+# 3. El capítulo 3 iba a estar protagonizado por la Resistencia
+
+El capítulo 3 comenzó a escribirse contando el intento desesperado de uno de los grupos de la Resistencia de llegar al centro de control de la *Burbuja* en plena situación de alerta. El capítulo comenzaba así:
+
+*Los proyectiles incendiarios caían como auténticos meteoritos a ambos lados de la avenida, atravesando las construcciones como si estas fueran de papel. La gente corría despavorida en todas direcciones, empujándose, gritando, llorando.*
+ 
+*Con el tiempo, cada vez más personas se dieron cuenta de que el centro de la calle era el lugar más seguro. Los presentes comenzaron a empujarse hacia la carretera y a formar un afluente que huía hacia la salida de la ciudad.*
+ 
+*La unidad no tardó en verse superada en su intento de avanzar a contracorriente, hacia la plaza del pueblo. No obstante, Sofía y Paula, a la cabeza, se resistían ante la avalancha y seguían abriéndose paso como podían.*
+
+La idea era que *estallaran la Burbuja* y cuando fueran a buscar a la unidad perdida no encontraran a Aitor (o lo encontraran con Cooper). 
+
+No obstante, me planteé dejar de meter tantos personajes nuevos y probé a meter el punto de vista de Elizabeth. En el capítulo final dejo, no obstante, una referencia a la unidad de la Resistencia. Sofía y Paula son las chicas capturadas en el centro de control. ¡Casi lo logran!
