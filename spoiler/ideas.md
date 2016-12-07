@@ -26,6 +26,17 @@ Que te den, Ale.
 - ¿Por qué Ana y Elizabeth tienen que tener controlado a Cooper?
 - En el primer libro Ana culpa a Elizabeth del ataque fallido. ¿Por qué sabotearon dicho ataque?
 
+## Capítulo 4
+
+- Jonás expone a Lucas al *Canto de Sirena* para sonsacarle información y finalmente "obedece" las órdenes de su superiores de convertir a Lucas en Mario para llevarlo a otra *Burbuja*. En secreto Jonás ajusta las nanomáquinas de Lucas para hacerlo inmune al *Canto de Sirena*, y el transporte a una *Burbuja* es el momento en el que Ajani lo rescatará.
+    - ¿Y cómo escapa Jonás?
+    - ¿Por qué lo va a convertir ya en Mario? ¿Le convence de que está en un hospital o qué?
+    - ¿Y por qué RIO se va a arriesgar a mantener a Lucas vivo?
+        - Ya lo ha hecho antes, pero tengo que pensar por qué.
+    - ¿La parte buena de RIO no se ha fijado ya suficiente en Lucas para salvarlo? ¿Descartado por su falta de inmunidad al *Canto de Sirena*?
+- ¿Jonás es consciente de que es él o ha sido "convertido" en otra persona?
+- Después de estar de pruebas con Jonás todo el día, Lucas es devuelto a su celda. Una voz lo despierta por la noche, indicándole que se está preparando su rescate.
+    - ¿Escape por el ascensor?
 
 # Esbozo del resto del libro
 
@@ -248,6 +259,7 @@ d) En un universo paralelo en el que todos viven una vida pasada. Los Atlantes e
 - Idea: con el tiempo se descubre un proyecto para conectar a Jonás con otros sujetos de pruebas mediante las nano-máquinas implantadas en su cerebro.
     - a) Jonás no es consciente de ello hasta que lo intentan conectar o se conecta por alguna razón.(*)
     - b) Jonás lleva tiempo conectándose con otros sujetos de prueba que forman una organización secreta para vengarse de RIO y tumbarla.
+- *Canto de Sirena*: mineral natural de Atlántida que nubla la voluntad de la gente. La parte "mala" de RIO lo usa desconociendo su procedencia, mientras que la buena localiza a los inmunes y los envía a Atlántida (o estudia su idoneidad antes).
 
 ## Aprovechables para el siguiente libro
 
