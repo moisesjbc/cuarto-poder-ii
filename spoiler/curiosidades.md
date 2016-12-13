@@ -184,3 +184,10 @@ El capítulo 3 comenzó a escribirse contando el intento desesperado de uno de l
 La idea era que *estallaran la Burbuja* y cuando fueran a buscar a la unidad perdida no encontraran a Aitor (o lo encontraran con Cooper). 
 
 No obstante, me planteé dejar de meter tantos personajes nuevos y probé a meter el punto de vista de Elizabeth. En el capítulo final dejo, no obstante, una referencia a la unidad de la Resistencia. Sofía y Paula son las chicas capturadas en el centro de control. ¡Casi lo logran!
+
+# Otros orígenes para Ana y/o Elizabeth
+
+- ¿? Ana es una infiltrada de RIO que está llevando a cabo la “limpieza” de la organización.
+    - ¿? Ana y Elizabeth son hermanas que quieren tomar el poder de RIO → O meter algún otro parentezco.
+- ¿Ana y Elizabeth son hermanas que aspiran a cargarse sus respectivas organizaciones y hacerse con el poder?
+- ¿Ana y Elizabeth son dos hermanas que fueron echadas de Atlántida y buscan la manera de volver probando ambas vías? ¿RIO y resistencia?
