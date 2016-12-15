@@ -28,6 +28,8 @@ Que te den, Ale.
 
 ## Capítulo 4
 
+- Jonás obliga a Lucas a caminar de un lado para otro, mareando este último.
+- Se habla de la inmunidad de Lucas y por eso lo mantienen vivo.
 - Jonás expone a Lucas al *Canto de Sirena* para sonsacarle información y finalmente "obedece" las órdenes de su superiores de convertir a Lucas en Mario para llevarlo a otra *Burbuja*. En secreto Jonás ajusta las nanomáquinas de Lucas para hacerlo inmune al *Canto de Sirena*, y el transporte a una *Burbuja* es el momento en el que Ajani lo rescatará.
     - ¿Y cómo escapa Jonás?
     - ¿Por qué lo va a convertir ya en Mario? ¿Le convence de que está en un hospital o qué?
@@ -37,6 +39,25 @@ Que te den, Ale.
 - ¿Jonás es consciente de que es él o ha sido "convertido" en otra persona?
 - Después de estar de pruebas con Jonás todo el día, Lucas es devuelto a su celda. Una voz lo despierta por la noche, indicándole que se está preparando su rescate.
     - ¿Escape por el ascensor?
+- Añadir referencia a capítulo 1 de la primera parte: Lucas sufre mareos en la ida al baño, pero no en la vuelta.
+    - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea?
+
+## Capítulo 5
+
+**¿Qé puedo meter aquí?**
+
+## Capítulo 6
+
+"Mario" viaja de vuelta a su ciudad burbuja con unos amigos tras las vacaciones. Ajani y la francotiradora interceptan el convoy y matan a sus amigos (miembros de RIO) salvo a uno: Jonás. Lucas vuelve en sí.
+
+## Capítulo 7
+
+Lucas es llevado a un campamento de la resistencia, donde comienza a ser entrenado. Se cuenta el origen falso de RIO.
+- ¿Ajani defendiéndose de las acusaciones de sabotear el ataque a RIO?
+
+## Capítulo 8
+
+
 
 ## Resto de primera parte (pre-Atlántida)
 
@@ -59,8 +80,7 @@ Que te den, Ale.
     - Aitor con el rostro quemado da una "clase de historia" a nuevos miembros de la resistencia donde cuenta el origen falso de RIO.
 
 1. Pruebas a Lucas (caminar / usar sobre nanomáquinas).
-    - Añadir referencia a capítulo 1 de la primera parte: Lucas sufre mareos en la ida al baño, pero no en la vuelta.
-        - ¿Diferentes tipos de nanomáquinas para encontrar la versión idónea?
+        
     - El capítulo se queda muy soso si es sólo esto. **¿Qué más le meto?**
     - **¿Jonás le modifica las nanomáquinas de su cabeza para conseguir algo? ¿Lo intenta pero se lo impiden?**
 
