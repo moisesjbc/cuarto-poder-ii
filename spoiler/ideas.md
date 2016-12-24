@@ -37,6 +37,7 @@ Que te den, Ale.
         - Ya lo ha hecho antes, pero tengo que pensar por qué.
     - ¿La parte buena de RIO no se ha fijado ya suficiente en Lucas para salvarlo? ¿Descartado por su falta de inmunidad al *Canto de Sirena*?
 - ¿Jonás es consciente de que es él o ha sido "convertido" en otra persona?
+- Obligan a Jonás a hacer daño a Lucas para comprobar su sumisión.
 - Después de estar de pruebas con Jonás todo el día, Lucas es devuelto a su celda. Una voz lo despierta por la noche, indicándole que se está preparando su rescate.
     - ¿Escape por el ascensor?
 - Añadir referencia a capítulo 1 de la primera parte: Lucas sufre mareos en la ida al baño, pero no en la vuelta.
@@ -44,7 +45,15 @@ Que te den, Ale.
 
 ## Capítulo 5
 
-**¿Qé puedo meter aquí?**
+Debate interno entre los líderes de RIO sobre el destino de Lucas.
+- Jonás les informa de los resultados de los tests a Lucas.
+- Mención a Lara capturada por parte de los de RIO o a algo que justifique la sumisión de Jonás.
+- Publicación de la cinta de Lucas vivo.
+- ¿Mencionar incidente de Inglaterra y la *Burbuja* de EEUU?
+- Importancia de Lucas.
+    - Jonás dice en clave algo sobre Lucas que hace cambiar de idea a los miembros "buenos" del consejo de RIO.
+- Al final se decide por votación devolver a Lucas a una *Burbuja*.
+- El episodio termina con el lema: Reality Is Ours.
 
 ## Capítulo 6
 
@@ -53,10 +62,19 @@ Que te den, Ale.
 ## Capítulo 7
 
 Lucas es llevado a un campamento de la resistencia, donde comienza a ser entrenado. Se cuenta el origen falso de RIO.
+
 - ¿Ajani defendiéndose de las acusaciones de sabotear el ataque a RIO?
 
 ## Capítulo 8
 
+
+
+## Capítulo n
+
+- Se lanza un asalto contra RIO, pero "fracasa" y Ajani los conduce al portal.
+- Muerte de Ana (¿por Cooper?).
+        - Cooper aparece y dispara a Ana antes de que esta lo mate para proteguer su tapadera.
+        - Antes de morir se hace pasar por una infiltrada de RIO que está llevando a cabo la caída de la resistencia.
 
 
 ## Resto de primera parte (pre-Atlántida)
@@ -78,11 +96,6 @@ Lucas es llevado a un campamento de la resistencia, donde comienza a ser entrena
         - ¿Se encuentra en la Burbuja de Aitor y le informa que no lo han encontrado?
         - ¿Elizabeth tiene capturado a Ajani?
     - Aitor con el rostro quemado da una "clase de historia" a nuevos miembros de la resistencia donde cuenta el origen falso de RIO.
-
-1. Pruebas a Lucas (caminar / usar sobre nanomáquinas).
-        
-    - El capítulo se queda muy soso si es sólo esto. **¿Qué más le meto?**
-    - **¿Jonás le modifica las nanomáquinas de su cabeza para conseguir algo? ¿Lo intenta pero se lo impiden?**
 
 2. **¿Escape?**
     - **¿A dónde?**
@@ -110,9 +123,6 @@ Lucas es llevado a un campamento de la resistencia, donde comienza a ser entrena
     - **¿Por qué iba a mantener Atlántida la conexión si RIO les putea?**
     - **¿Por qué iba a tener RIO problemas para acceder al portal si pueden chantajear a Atlántida?**
     - **ACLARAR ESTA PARTE**
-    - Muerte de Ana (¿por Cooper?).
-        - Cooper aparece y dispara a Ana antes de que esta lo mate para proteguer su tapadera.
-        - Antes de morir se hace pasar por una infiltrada de RIO que está llevando a cabo la caída de la resistencia.
     - Descubrimiento del paradero de Cooper.
 
 - Presentación de Ajani, Kasim y la francotiradora.
