@@ -31,8 +31,3 @@ Jonás se acercó a una pequeña mesa auxiliar de metal situada al lado derecho 
 - Administrando inhibidor A.
 
 La aguja se clavó en su piel y una sensación de ardor comenzó a extenderse por su brazo derecho hacia el resto del cuerpo. Lucas dejó escapar un pequeño grito ahogado.
-
-
-
-- [Capítulo anterior: 03 - Estallido](c03_estallido.md)
-

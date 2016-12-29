@@ -81,8 +81,3 @@ Silencio al otro dado. Tras unos instantes, la voz metálica respondió.
 
 "Nada de dudas", recordó mientras sonreía.
 
-
-## Navegación
-
-- [Capítulo anterior: 02 - Regreso](c02_regreso.md)
-- [Capítulo siguiente: 04 - Las pruebas](c04_las-pruebas.md)

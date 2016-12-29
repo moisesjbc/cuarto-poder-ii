@@ -63,7 +63,3 @@ Lucas se abrazó a su amiga y cerró los ojos ante las explosiones inminentes, p
 - Recuérdame enseñarte la diferencia entre una granada de fragmentación y una de gas.
 
 Lucas quiso responderle algo pero le falló la voz. Poco a poco empezaron a apagarse el resto de sus sentidos hasta que el joven perdió la consciencia por completo.
-
-## Navegación
-
-- [Capítulo siguiente: 02 - Regreso](c02_regreso.md)

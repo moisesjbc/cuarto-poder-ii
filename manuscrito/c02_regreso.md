@@ -88,7 +88,3 @@ Jonás permanecía inmóvil e inmutable ante ellos. Lejos de vestir como un pris
 
 - Pase.
 
-## Navegación
-
-- [Capítulo anterior: 01 - Oscuridad](c01_oscuridad.md)
-- [Capítulo siguiente: 03 - Estallido](c03_estallido.md)
