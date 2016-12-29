@@ -18,7 +18,21 @@ El golpe hizo que Jonás se girara. Cuando lo vio en el suelo, se limitó a deci
 
 - Ponlo en la silla.
 
-Lucas intentó ponerse en pie, pero sus brazos eran incapaces de encontrar un apoyo seguro en un suelo que parecía tener vida propia. Otros brazos que no eran los suyos lo tomaron por la cintura y lo pusieron en pie de manera tan brusca que no pudo evitar vomitar. Estuvo a punto de caer de nuevo, pero el agente de RIO lo llevó dando tumbos hasta una silla metálica. A pocos pasos de esta, Lucas comenzó a pisar sobre firme y se abalanzó sobre la silla. El frío tacto del metal recorrió su cuerpo como un rayo.
+Lucas intentó ponerse en pie, pero sus brazos eran incapaces de encontrar un apoyo seguro en un suelo que parecía tener vida propia. Otros brazos que no eran los suyos lo tomaron por la cintura y lo pusieron en pie de manera tan brusca que no pudo evitar vomitar. Estuvo a punto de caer de nuevo, pero el agente de RIO lo llevó dando tumbos hasta una silla metálica. A pocos pasos de esta, Lucas comenzó a pisar sobre firme y se abalanzó sobre la silla. El frío tacto del metal recorrió su cuerpo como un rayo cuando se sentó.
+
+Jonás habló en alto.
+
+- El sujeto continúa mostrando una desarrollada sensiblidad a las nanomáquinas.
+
+Lucas, convertido en una masa sudorosa sobr la silla, miró hacia el gran espejo a su derecha. Una mueca de asco afloró en su rostro.
+
+Jonás se acercó a una pequeña mesa auxiliar de metal situada al lado derecho de la silla, donde reposaba una bandeja con tres inyecciones. Jonás cogió la que estaba más cerca de Lucas. Este último intentó levantarse para huir, pero unas largas tiras de metal rodeadon su tronco, brazos y piernas, aferrándolo a la silla y acabando con toda esperanza de huida.
+
+- Administrando inhibidor A.
+
+La aguja se clavó en su piel y una sensación de ardor comenzó a extenderse por su brazo derecho hacia el resto del cuerpo. Lucas dejó escapar un pequeño grito ahogado.
+
+
 
 - [Capítulo anterior: 03 - Estallido](c03_estallido.md)
 
