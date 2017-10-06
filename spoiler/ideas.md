@@ -322,6 +322,10 @@ Usar en alguna parte: “Pasa algo curioso con las palabras. Existen millones de
 
 - "Hay muchas putadas que pueden hacerte, pero privarte del control sobre tu cerebro, sobre tu cuerpo... es inhumano".
 
+- Lucas habla con un hombre que dice haber tenido las mismas visiones y le habla del planeta, pero cada vez parece más loco y Lucas deja de creerle.
+    - Ana usa el Canto de Sirena que recuperó Elizabeth.
+    - ¿Por qu no lo cogió ella en la otra Burbuja tras salvar a LUcas?
+    - ¿Por qué querra Ana evitar que Lucas sepa del planeta? ¿No quiere volver? 
 
 ## Aprovechables para el siguiente libro
 
