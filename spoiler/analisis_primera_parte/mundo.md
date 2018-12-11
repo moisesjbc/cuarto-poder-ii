@@ -24,6 +24,11 @@
 - **¿Qué pasó en Inglaterra exactamente?**
 
 
+## Asalto al AT de Gran Canaria
+
+El ataque comienza en Agosto, perpretado por soldados ingleses liderados por Cooper.
+
+
 ## Situación de EEUU
 
 - Lucas insinúa que le va mal, pero **NO se especifica por qué**

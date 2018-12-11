@@ -57,6 +57,33 @@
 - Ojos azules.
 - Excelente condición física.
 
+### Personalidad
+
+
+
 ### Otros
 
 - Habla español perfectamente.
+
+
+## Jonás
+
+### Físico
+
+- Pelo reseco y mustio.
+
+### Personalidad
+
+### Otros
+
+- Mendigo. Lleva mucho tiempo huyendo.
+    - **¿De qué?**
+- Tiene sueños en los que se mueve y le sangra la nariz con abundancia.
+    - Se suele despertar mareado / débil de sus sueños.
+- Al principio de la primera parte vive en un zulo en el que va acumulando víveres.
+    - **¿De dónde lo saca?**
+- Al principio de la primera parte lleva una mochila con un portátil y planos propiedad de la corporación RIO.
+    - **¿Qué ocurre con la mochila y su contenido?**
+- Su único contacto es Ajani, quién le salvó la vida hace tiempo. Jonás se siente obligado a devolverle el favor y por eso se infiltra durante el asalto al AT de Gran Canaria. **¿Sólo le debe un favor?**
+    - **¿Cuándo y cómo lo salvó?**
+
