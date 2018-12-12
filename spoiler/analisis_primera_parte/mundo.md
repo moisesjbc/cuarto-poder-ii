@@ -18,6 +18,12 @@
 - Logotipo: Un "río de información" fluyendo desde un planeta hacia una cabeza humana. 
 - La crisis económica ha acabado con casi todos sus competidores, dejando a RIO como la única opción disponible en muchos lugares.
 
+## Resistencia
+
+- Uniforme: chándal de una pieza azul y ceñido al cuerpo, con un pequeño logotipo.
+    - **¿Qué forma tiene el logotipo? ¿Es el mismo para toda la resistencia?**
+- **¿Origen, nombre y motivación de la resistencia?**
+
 ## Incidente de Inglaterra
 
 - Sucedió hace años y desde entonces la corporación RIO juega con Lucas, volviendo a sus compañeros contra él pero sin despedirlo (**¿por qué?**).

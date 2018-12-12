@@ -16,6 +16,7 @@
 - Pesimista.
 - Serio.
 - Acostumbrado a que sus compañeros le hagan el vacío desde el *Incidente de Inglaterra*.
+    - Se siente culpable por no haber encontrado pruebas de la verdad en "todos estos años".
 
 ### Ocupación
 
@@ -46,9 +47,19 @@
     - **¿Qué sabe exactamente?**
 - Todos los días se queda 5 minutos más tarde en el trabajo.
     - **¿Por qué?**
+- En los primeros momentos de encontrarse con Cooper y los demás soldados, Ana está visiblemente conmocionada.
+    - **Demasiado, según Lucas. ¿Por qué?**
+- **¿Cuál es su trabajo ficticio en RIO?**
+- En el capítulo 3 aparece vestida como miembro de la Resistencia.
+    - **¿Motivación y verdadera identidad / alianza?**
+    - **¿Desde cuándo lleva en RIO?**
+    - **¿Desde cuándo lleva en la Resistencia?**
 
+## Coronel Cooper
 
-## Cooper (CONFIRMAR RANGO Y NOMBRE)
+Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglaterra*.
+
+- **¿Cooper es el apellido? ¿Cuál es el nombre?**.
 
 ### Físico
 
@@ -64,6 +75,7 @@
 ### Otros
 
 - Habla español perfectamente.
+- Vivió el *Incidente de Inglaterra*. Lanza el ataque a RIO supuestamente por no haber podido encontrar pruebas en todo este tiempo.
 
 
 ## Jonás
@@ -87,3 +99,31 @@
 - Su único contacto es Ajani, quién le salvó la vida hace tiempo. Jonás se siente obligado a devolverle el favor y por eso se infiltra durante el asalto al AT de Gran Canaria. **¿Sólo le debe un favor?**
     - **¿Cuándo y cómo lo salvó?**
 
+
+## Allan
+
+Soldado bajo las órdenes de Cooper. Conoce a Lucas del *Incidente de Inglaterra*.
+
+### Físico
+
+### Personalidad
+
+### Otros
+
+- **¿Habla Español? ¿En qué idioma se comunica con Cooper y/o Lucas?**
+
+
+## Ajani
+
+Según RIO: terrorista y criminal de guerra despiadado, buscado en todo el mundo, con incontables saqueos, violaciones y matanzas a sus espaldas.
+
+### Físico
+
+### Personalidad
+
+### Otros
+
+- En un email a Cooper lamenta no poder acompañarlo en el ataque a RIO. **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
+- En el mismo email a Cooper le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
+- **¿Motivación?**
+- **Extraer info del relato "El héroe" e incluirla en la historia**
