@@ -26,3 +26,11 @@ Lucas niega saber de qué habla Ajani y Cooper le cree. El primero le cuenta al 
 
 Ana aparece junto al grupo de Cooper, inmovilizando a este cuando intenta atacarla. La joven viste un chándal de una pieza azul y ceñido al cuerpo, con un pequeño logotipo en el pecho izquierdo. Ana se disculpa con Lucas por lo que está a punto de hacer, y le dice que sabe "lo de Inglaterra". Acto seguido, esquiva a los soldados y se mete de lleno en la planta 26 respondiendo al tiroteo con su pistola. Lucas se desmaya de la impresión.
 
+## 4. La guardia
+
+Paco y Miguel, dos policías, hacen guardia en una de las entradas traseras de La Cadena. Hace 20 minutos se recibió un aviso de un atentado terrorista y la policía había llegado hace 10, recibiendo disparos como respuesta en la entrada delantera.
+
+Miguel escucha un ruido y se va por una esquina para investigar. Al ver que su compañero no vuelve tras unos instantes, Paco va a buscarlo. Tras cruzar la esquina se topa con un vagabundo que lo derriba de un puñetazo. El vagabundo asegura no querer herir a nadie, pero Paco le ha obligado al no seguir el protocolo y pedir refuerzos en lo que él se escondía.
+
+El vagabundo golpea a Paco y este pierde el conocimiento durante unos 10 o 15 minutos. Despierta escuchando por la radio que se han producido disparos en la sala 26. La policía se prepara para entrar cuanto antes para proteger a los rehenes.
+

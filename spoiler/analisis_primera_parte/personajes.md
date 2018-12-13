@@ -82,7 +82,7 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 
 ### Físico
 
-- Pelo reseco y mustio.
+- Pelo oscuro, reseco y mustio, pero generoso.
 
 ### Personalidad
 
@@ -98,6 +98,7 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
     - **¿Qué ocurre con la mochila y su contenido?**
 - Su único contacto es Ajani, quién le salvó la vida hace tiempo. Jonás se siente obligado a devolverle el favor y por eso se infiltra durante el asalto al AT de Gran Canaria. **¿Sólo le debe un favor?**
     - **¿Cuándo y cómo lo salvó?**
+- Al infiltrarse en el AT de Gran Canaria viste una gabardina gris desecha.
 
 
 ## Allan
@@ -127,3 +128,47 @@ Según RIO: terrorista y criminal de guerra despiadado, buscado en todo el mundo
 - En el mismo email a Cooper le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
 - **¿Motivación?**
 - **Extraer info del relato "El héroe" e incluirla en la historia**
+
+
+## Paco
+
+- Policía destinado a vigilar una entrada trasera de La Cadena durante el ataque al AT de Gran Canaria.
+
+### Físico
+
+- Gordo.
+- Calvo, con un gran bigote negro.
+
+### Personalidad
+
+- Mal humor y pataletas contínuos.
+	- Desafiante. Culpa a todo el mundo de no reconocer su gran valía.
+- (Según Miguel) Gran persona cuando se le llega a conocer.
+
+### Otros
+
+- Amante de la comida basura.
+
+
+## Miguel
+
+- Compañero de Paco. Destinado a vigilar la entrada trasera de La Cadena junto con este durante el ataque al AT de Gran Canaria.
+
+### Físico
+
+### Personalidad
+
+- Burlón con Paco.
+
+
+## Manuel
+
+Jefe de policía. Acude personalmente al AT de Gran Canaria cuando se da el aviso del ataque terrorista al mismo.
+
+### Físico
+
+### Personalidad
+
+- Serio, profesional.
+
+### Otros

@@ -18,6 +18,12 @@
 - Logotipo: Un "río de información" fluyendo desde un planeta hacia una cabeza humana. 
 - La crisis económica ha acabado con casi todos sus competidores, dejando a RIO como la única opción disponible en muchos lugares.
 
+### AT de Gran Canaria
+
+- Cadena de televisión de 26 plantas.
+- "La entrada principal al edificio de La Cadena, en el otro lado, consistía en unas escaleras anchas, custodiadas a ambos lados por sendas rampas que bajaban hasta los aparcamientos subterráneos. Tras subir los escalones, el visitante se encontraba un paseo peatonal de tres metros de ancho, decorado a ambos lados con palmeras endémicas de quince metros de altura, así como farolas y bancos."
+    - El edificio está completamente rodeado por rejas de tres metros con finos pero resistentes barrotes de hierro.
+
 ## Resistencia
 
 - Uniforme: chándal de una pieza azul y ceñido al cuerpo, con un pequeño logotipo.
@@ -38,4 +44,7 @@ El ataque comienza en Agosto, perpretado por soldados ingleses liderados por Coo
 ## Situación de EEUU
 
 - Lucas insinúa que le va mal, pero **NO se especifica por qué**
+
+
+
 
