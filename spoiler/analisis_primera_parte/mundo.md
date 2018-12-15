@@ -17,12 +17,15 @@
     - **¿A dónde se supone que no llega?**
 - Logotipo: Un "río de información" fluyendo desde un planeta hacia una cabeza humana. 
 - La crisis económica ha acabado con casi todos sus competidores, dejando a RIO como la única opción disponible en muchos lugares.
+- Ricardo, el director del AT de Gran Canaria, tiene una **tarjeta**: "un rectángulo de  plástico blanco, sin más decoración que el logotipo de RIO en azul".
+    - **Aclarar uso(s) de estas tarjetas**
 
 ### AT de Gran Canaria
 
 - Cadena de televisión de 26 plantas.
 - "La entrada principal al edificio de La Cadena, en el otro lado, consistía en unas escaleras anchas, custodiadas a ambos lados por sendas rampas que bajaban hasta los aparcamientos subterráneos. Tras subir los escalones, el visitante se encontraba un paseo peatonal de tres metros de ancho, decorado a ambos lados con palmeras endémicas de quince metros de altura, así como farolas y bancos."
     - El edificio está completamente rodeado por rejas de tres metros con finos pero resistentes barrotes de hierro.
+    - Descripción de la planta 26 en el capítulo 05 de la primera parte.
 
 ## Resistencia
 

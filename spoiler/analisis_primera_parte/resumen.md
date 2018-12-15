@@ -34,3 +34,18 @@ Miguel escucha un ruido y se va por una esquina para investigar. Al ver que su c
 
 El vagabundo golpea a Paco y este pierde el conocimiento durante unos 10 o 15 minutos. Despierta escuchando por la radio que se han producido disparos en la sala 26. La policía se prepara para entrar cuanto antes para proteger a los rehenes.
 
+## 5. Planta 26
+
+Lucas despierta en medio de un tiroteo en la planta 26. Al otro lado de la sala, Cooper reprende a sus soldados por radio por haber dejado colarse a un vagabundo y que este "desapareciera" junto con el ascensor. Allan, junto a Lucas, le cuenta que Ana abatió a múltiples enemigos y se coló en el despacho del director.
+
+Los militares avanzan con *El Venezolano* (Arturo) en cabeza, abatiendo a los enemigos restantes y entrando en el despacho de Ricardo Gómez, el director del AT de Gran Canaria. Allí encuentran un reguero de cadáveres y a Ana apuntando a Ricardo, de rodillas a su lado. Ana les habla de "un ascensor B" con "más destinos", activable por la tarjeta que Ricardo le "entregó amablemente".
+
+Jonás les habla por el interfono y usa una frase en clave para que Ana lo reconozca como aliado. Les informa de que la tarjeta es falsa (*) y les sube el ascensor, avisando: "no se preocupen por Lucas, estará bien". Cooper, Lucas, Michael, Ana y Ricardo entran en el ascensor. 
+
+Lucas comienza a sentir unos enormes mareos mientras Jonás activa el ascensor y comienzan a descender. A través del interfono Jonás se lamenta de que lo han descubierto y de que intentará ganar todo el tiempo posible. De repente su voz se quiebra, mientras dice "No quiero volver, ¡no! ¡no! ¡no quiero!". Entonces la transmisión se corta.
+
+El ascensor continúa descendiendo un buen rato tras pasar el piso -3, el más bajo según creía Lucas. Ricardo mira a Lucas y sonríe, confiado.
+
+- (*) **Sobre la tarjeta de Ricardo**, Jonás dice "Es falsa, un amigo le dio el cambiazo hará cosa de unos días."
+    - **¿Quién lo hizo? ¿Ajani?**
+

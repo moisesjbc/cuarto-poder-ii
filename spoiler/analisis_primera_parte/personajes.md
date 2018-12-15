@@ -99,7 +99,8 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Su único contacto es Ajani, quién le salvó la vida hace tiempo. Jonás se siente obligado a devolverle el favor y por eso se infiltra durante el asalto al AT de Gran Canaria. **¿Sólo le debe un favor?**
     - **¿Cuándo y cómo lo salvó?**
 - Al infiltrarse en el AT de Gran Canaria viste una gabardina gris desecha.
-
+- Cuando es descubierto en el sótano del AT de Gran Canaria, su voz se quiebra y dice "No quiero volver, ¡no! ¡no! ¡no quiero!".
+    - **¿A dónde? ¿Por qué?**
 
 ## Allan
 
@@ -172,3 +173,36 @@ Jefe de policía. Acude personalmente al AT de Gran Canaria cuando se da el avis
 - Serio, profesional.
 
 ### Otros
+
+
+## Arturo "El Venezolano"
+
+Soldado de la unidad de Cooper.
+
+### Físico
+
+- Alto y delgado.
+- Cuando se presenta a Lucas, este le ve "unos ojos que destilan locura y cordura a partes iguales".
+
+### Personalidad
+
+- Suicida / arriesgado: tiene fama de querer ir en cabeza e ignorar el peligro.
+
+
+## Ricardo Gómez
+
+Director del AT de Gran Canaria, con sus despacho siduado en la planta 26.
+
+### Físico
+
+- Larga melena lacia y negra.
+- Gran bigote negro.
+- Gran tamaño.
+- Facciones duras y marcadas.
+    - Para Lucas tiene más pinta de "imponente motero".
+
+## Personalidad
+
+- Serio, no habla durante su captura (al menos, no delante de Lucas y los militares).
+- Confiado: cuando bajan en el ascensor al sótano secreto, Ricardo mira hacia Lucas y sonríe.
+
