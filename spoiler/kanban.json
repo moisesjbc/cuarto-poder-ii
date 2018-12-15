@@ -1,0 +1,127 @@
+{
+  "name": "Cuarto poder 2",
+  "numberOfColumns": 3,
+  "columns": [
+    {
+      "name": "ToDo",
+      "cards": [
+        {
+          "name": "[Análisis primera parte] Capítulo 6 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[SPLIT] Releer primera parte y extraer notas",
+          "details": "",
+          "color": "FCC7FC"
+        },
+        {
+          "name": "Planificar siguientes pasos",
+          "details": "",
+          "color": "FCC7FC"
+        },
+        {
+          "name": "Analizar estado del repositorio y extraer objetivos",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Descargar e instalar Manuskript 0.8.0",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Copiar proyecto de cuarto-poder-2 (manuskript)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Estudiar si se puede integrar Manuskript fácilmente con control de versiones (DESC)",
+          "details": "Web: \"To force Manukript to store chapters as folders and scenes as text files in your computer's file system, de-select the general setting Save to one single file check box. This can be useful to enable editing the scene text files with a different text editor, or the use of a revision control system like git. Be sure to not have Manuskript open at the same time otherwise conflicts can arise.\"\n\n- COMPROBAR que se guarda todo (fichas de personajes y demás incluido).",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Analizar qué puedo hacer para evitar el \"info overload\" de la primera parte (DESC)",
+          "details": "- Ale ha mencionado también que tanto cambio de personaje se hace pesado en un libro tan pequeño.",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar write_novel_using_snowflake_method.md",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Tener en cuenta (DESC)",
+          "details": "- Aclarar el \"show, don't tell\": https://en.wikipedia.org/wiki/Show,_don%27t_tell\n- Me \"paro\" mucho a describir la distribución del pasillo y las dos grandes salas de la planta 26 a pesar de que se está produciendo una avanzadilla de los ingleses (¡acción!).",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Comenzar diario",
+          "details": "",
+          "color": "FAFCD2"
+        }
+      ],
+      "settings": {}
+    },
+    {
+      "name": "On going",
+      "cards": [],
+      "settings": {
+        "limit": 2
+      }
+    },
+    {
+      "name": "Done",
+      "cards": [
+        {
+          "name": "Gedit: establecer por defecto tabuladores de 4 espacios",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 5 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 4 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 3 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 2 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Ver si añado Kanban a repositorio",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Crear tarea periódica (Tasks) para guardar Kanban y resumir (diario)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 1 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Clonar repositorio",
+          "details": "",
+          "color": "FAFCD2"
+        }
+      ],
+      "settings": {}
+    }
+  ],
+  "archived": [],
+  "settings": {}
+}
