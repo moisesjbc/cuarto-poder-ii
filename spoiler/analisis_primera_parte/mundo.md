@@ -20,6 +20,9 @@
 - Ricardo, el director del AT de Gran Canaria, tiene una **tarjeta**: "un rectángulo de  plástico blanco, sin más decoración que el logotipo de RIO en azul".
     - **Aclarar uso(s) de estas tarjetas**
 
+- Las cadenas de televisión de RIO se conocen como "Afluentes Televisivos" o AT, los periódicos "Afluentes Periodísticos" (AP), los portales web de noticias, "Afluentes Internautas" (AI), etc.
+- En cada ciudad donde RIO emplaza una cadena de noticias, los lugareños acostumbran a llamarla "La Cadena".
+
 ### AT de Gran Canaria
 
 - Cadena de televisión de 26 plantas.
@@ -49,5 +52,14 @@ El ataque comienza en Agosto, perpretado por soldados ingleses liderados por Coo
 - Lucas insinúa que le va mal, pero **NO se especifica por qué**
 
 
+## Barrios empresariales y estatales
 
+El Estado ha abandona a sus ciudadanos a su suerte, provocando que los barrios marginales donde viven estos se conozcan como *Barrios Estatales* y sufran de grandes cotas de crímenes. Los *barrios empresariales* son construidos por empresas o grupos de empresas para la seguridad de sus empleados y son mucho más prósperos. 
+
+Los *barrios empresariales* separados por *barrios estatales* están protegidos por murallas y controles, y se conectan por túneles subterráneos.
+
+
+### Termitas
+
+Ladrones de los *barrios estatales* que escarban agujeros en los túneles y asaltan a sus transeuntes.
 

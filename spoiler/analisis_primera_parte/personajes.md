@@ -206,3 +206,56 @@ Director del AT de Gran Canaria, con sus despacho siduado en la planta 26.
 - Serio, no habla durante su captura (al menos, no delante de Lucas y los militares).
 - Confiado: cuando bajan en el ascensor al sótano secreto, Ricardo mira hacia Lucas y sonríe.
 
+
+## Andrés
+
+Miembro de la resistencia encubierto que cena con Elizabeth y persigue a esta y su acompañante cuando corren para defender el AT de Gran Canaria.
+
+### Físico
+
+- Alto, complexión fuerte. Imponente.
+- Cara de pocos amigos.
+- Pelo corto y rizado.
+- En el capítulo 6 viste una camiseta cualquiera, un pantalón largo y gorra.
+
+## Elizabeth
+
+Reportera de la AT de Gran Canaria. Hace reportajes "de relleno", al final de las noticias. Antigua compañera de clase de Aitor en la carrera de Periodismo.
+
+### Físico
+
+- Pecho generoso.
+- (c6) Traje rojo ceñido.
+- Largas piernas.
+- Ojos almendrados y marrones.
+- Nariz fina.
+- Larga cabellera ondulada y castaña.
+- Labios carnosos y finos.
+
+### Personalidad
+
+- Mientras cena con Aitor (c6) se comporta de manera pícara. Cuando le informan del *ataque al AT de Gran Canaria* se vuelve fría y directa.
+
+### Otros
+
+- La resistencia la considera muy peligrosa.
+
+
+## Aitor
+
+Miembro de la Resistencia. Cena con Elizabeth en el c6 y la persigue cuando esta corre con Andrés hacia el AT de Gran Canaria. 
+
+### Físico
+
+- (c6) Viste esmoquin.
+
+### Personalidad
+
+- Se muestra nervioso en el capítulo 6 mientras cena con Elizabeth. Cuando la persigue a escondidas se muestra ágil y frio.
+
+### Otros
+
+- Según cuenta a Elizabeth, trabaja en el *Gran Canaria Ahora*, competencia de RIO.
+    - **¿Qué tipo de medio es? ¿Un periódico?**
+
+

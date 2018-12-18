@@ -49,3 +49,13 @@ El ascensor continúa descendiendo un buen rato tras pasar el piso -3, el más b
 - (*) **Sobre la tarjeta de Ricardo**, Jonás dice "Es falsa, un amigo le dio el cambiazo hará cosa de unos días."
     - **¿Quién lo hizo? ¿Ajani?**
 
+## 6. La cita
+
+Aitor cena con Elizabeth, una antigua compañera de la universidad, en el Costa Agraciada. Los interrumpe un hombre al que Elizabeth conoce como Andrés y que informa a Elizabeth de que iniciaron un ataque contra La Cadena hace media hora.
+
+Elizabeth se vuelve fría y se marcha corriendo con Andrés. Aitor los sigue a distancia sin ser descubierto, avisando por teléfono a alguien de lo ocurrido y de que substraer el móvil a Elizabeth (*) "les ha hecho ganarle bastante tiempo a los ingleses". La pareja se dirige al túnel que separa el "Barrio Empresarial" en el que se encuentran del *Barrio Empresarial* del AT de Gran Canaria.
+
+Mientras cruza el túnel, unas *Termitas*, ladrones de los *barrios estatales* que escarvan en los túneles para robar a los transeuntes, interceptan a Andrés, pero este los esquiva rápidamente y continúa su persecusión.
+
+- (*) Andrés le substrajo el móvil a Elizabeth, **¿se lo quedó y sacó algo de información del mismo? ¿Es una trampa de Elizabeth?**
+
