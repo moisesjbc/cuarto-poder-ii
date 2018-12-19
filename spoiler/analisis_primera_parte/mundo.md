@@ -63,3 +63,8 @@ Los *barrios empresariales* separados por *barrios estatales* están protegidos 
 
 Ladrones de los *barrios estatales* que escarban agujeros en los túneles y asaltan a sus transeuntes.
 
+
+## Resistencia
+
+Organización contraria a la corporación RIO y sus mentiras. Anteriormente luchaba contra RIO investigando y tratando de sacar a la luz sus farsas, pero cuando se demostró que eso no llevaba a ninguna parte, se vio forzada a radicalizarse. Ahora intenta destruirla por todos los medios posibles, como con agentes infiltrados como Ana.
+

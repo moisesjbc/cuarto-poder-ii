@@ -36,11 +36,13 @@
 
 - Jovial y divertida.
     - Siempre consigue animar a Lucas.
+- Fría y calculadora mientras actúa como parte de la resistencia.
 
 ### Otros
 
 - Mejor amiga de Lucas.
     - **¿Desde hace cuánto se conocen?**
+- Miembro de la resistencia.
 - "Odia a los conejitos". Lleva un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo.
 - A ojos de Lucas, trabaja lo justo y necesario para que el jefe piense que está trabajando siempre.
 - Siempre intenta sonsacarle a Lucas lo del hecho de Inglaterra.
@@ -54,6 +56,8 @@
     - **¿Motivación y verdadera identidad / alianza?**
     - **¿Desde cuándo lleva en RIO?**
     - **¿Desde cuándo lleva en la Resistencia?**
+- Según ella es un miembro de la resistencia que se infiltró en RIO.
+- **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?** (**¿Quizás no es de la resistencia realmente...?**)
 
 ## Coronel Cooper
 
@@ -76,6 +80,7 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 
 - Habla español perfectamente.
 - Vivió el *Incidente de Inglaterra*. Lanza el ataque a RIO supuestamente por no haber podido encontrar pruebas en todo este tiempo.
+- Se siente muy culpable de no acordarse de sus hombres rato después de bajar al sótano secreto del AT de Gran Canaria.
 
 
 ## Jonás
@@ -101,6 +106,11 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Al infiltrarse en el AT de Gran Canaria viste una gabardina gris desecha.
 - Cuando es descubierto en el sótano del AT de Gran Canaria, su voz se quiebra y dice "No quiero volver, ¡no! ¡no! ¡no quiero!".
     - **¿A dónde? ¿Por qué?**
+
+- Diseñó la tecnología de la "cortina de humo negro".
+    - **¿Lo hizo sólo? ¿Lo hizo antes o después de ser capturado por RIO?**
+- Conoce al líder del "pelotón de fusilamiento" que sorprende al grupo cuando baja al sótano del AT de Gran Canaria.
+- No duda en aconsejar matar a Ricardo.
 
 ## Allan
 
@@ -258,4 +268,8 @@ Miembro de la Resistencia. Cena con Elizabeth en el c6 y la persigue cuando esta
 - Según cuenta a Elizabeth, trabaja en el *Gran Canaria Ahora*, competencia de RIO.
     - **¿Qué tipo de medio es? ¿Un periódico?**
 
+
+## Michael
+
+Soldado de Cooper que lo acompaña cuando el grupo desciende al sótano del AT de Gran Canaria.
 

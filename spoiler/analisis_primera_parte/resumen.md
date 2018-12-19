@@ -59,3 +59,17 @@ Mientras cruza el túnel, unas *Termitas*, ladrones de los *barrios estatales* q
 
 - (*) Andrés le substrajo el móvil a Elizabeth, **¿se lo quedó y sacó algo de información del mismo? ¿Es una trampa de Elizabeth?**
 
+## 7. El sótano
+
+El ascensor se detiene ante un pasillo de hormigón donde un "pelotón de fusilamiento" de 10 efectivos de RIO recibe al grupo. Cooper intenta usar a Ricardo y a Lucas como salvoconducto, pero el jefe del pelotón afirma que Lucas "es bastante valioso para ellos, pero por suerte no es único".
+
+Jonás los salva activando una "cortina de humo negro" entre los enemigos y ellos. El enemigo, burlón, dispara a la cortina, provocando que la bala simplemente desaparezca al atravesarla. Jonás vuelve a activar el ascensor.
+
+El grupo se baja en otra planta con un pasillo idéntico pero sin enemigos. Jonás les dice que se encuentra en una sala de seguridad en el mismo piso y que vayan a buscarlo.
+
+Cooper se acuerda de sus hombres e intenta comunicarse con ellos por radio (Steve, Jordan, ...). Siguiendo el consejo de Jonás, envía a Michael en el ascensor a buscarlos para que bajen con ellos.
+
+Lucas pregunta a Ana quién es y esta les cuenta que forma parte de una organización que lucha contra RIO y sus mentiras. Cuando Ricardo la insulta, Ana lo noquea.
+
+Lucas informa de que la policía ha entrado en el edificio y espera que detengan a los hombres de Cooper, ya que hay efectivos de RIO "para los que quizás no sea una prioridad capturarlos vivos".
+
