@@ -16,6 +16,7 @@
 - Corporación de medios de información. Engloba emisoras de televisión y de radio, periódicos y sitios web repartidos a lo largo de más de medio mundo.
     - **¿A dónde se supone que no llega?**
 - Logotipo: Un "río de información" fluyendo desde un planeta hacia una cabeza humana. 
+    - "El planeta Tierra a la izquierda, una cabeza humana de perfil a la derecha, y un río que conectaba a la primera con la frente de la segunda"
 - La crisis económica ha acabado con casi todos sus competidores, dejando a RIO como la única opción disponible en muchos lugares.
 - Ricardo, el director del AT de Gran Canaria, tiene una **tarjeta**: "un rectángulo de  plástico blanco, sin más decoración que el logotipo de RIO en azul".
     - **Aclarar uso(s) de estas tarjetas**
@@ -29,6 +30,11 @@
 - "La entrada principal al edificio de La Cadena, en el otro lado, consistía en unas escaleras anchas, custodiadas a ambos lados por sendas rampas que bajaban hasta los aparcamientos subterráneos. Tras subir los escalones, el visitante se encontraba un paseo peatonal de tres metros de ancho, decorado a ambos lados con palmeras endémicas de quince metros de altura, así como farolas y bancos."
     - El edificio está completamente rodeado por rejas de tres metros con finos pero resistentes barrotes de hierro.
     - Descripción de la planta 26 en el capítulo 05 de la primera parte.
+    - Descripción de la primera planta en el capítulo 08 de la primera parte.
+
+### "Hombres de negro"
+
+Hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Siempre aparecen cuando hay problemas en los que RIO está involucrada de una manera u otra. Aparecen con una orden judicial que les da carta blanca para tomar el control de la situación.
 
 ## Resistencia
 

@@ -273,3 +273,36 @@ Miembro de la Resistencia. Cena con Elizabeth en el c6 y la persigue cuando esta
 
 Soldado de Cooper que lo acompaña cuando el grupo desciende al sótano del AT de Gran Canaria.
 
+
+## Enrique
+
+Jefe de la unidad antiterrorista que irrumpe en el AT de Gran Canaria. Muere presuntamente traicionado por miembros de su unidad.
+
+### Personalidad
+
+- Decidido.
+- Acepta y valora las dudas con respecto a sus órdenes siempre que sean razonables.
+
+### Otros
+
+- Lleva mucho tiempo en el cuerpo.
+- Hábil disparando.
+- Odia a los "hombres de negro" de RIO.
+- Opina que RIO apesta a podrido.
+- Ordena entrar desoyendo a sus superiores y a los "hombres de RIO".
+    - Parte de su unidad se negó a participar.
+        - **¿Cuál es el tamaño normal de una unidad?**
+- Suele actuar junto con su grupo de manera directa y sin importarle si está la prensa presente o no, sorprendiendo a los criminales.
+  
+
+## Unidad antiterrorista de Enrique
+
+Felipe, Manuel, Juan, Javier, David, Mario, Marcos
+
+- Felipe cae desmayado por un arma eléctrica.
+- Juan es el mejor observador del equipo.
+- David y Mario traicionan a su unidad.
+- Enrique, Juan y Marcos son abatidos a tiros, junto con otros 3 miembros.
+
+- **Revisar si están todos sin faltar / sobrar ninguno de los 8 que suben arriba ni de los 10 originales**
+

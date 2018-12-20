@@ -73,3 +73,13 @@ Lucas pregunta a Ana quién es y esta les cuenta que forma parte de una organiza
 
 Lucas informa de que la policía ha entrado en el edificio y espera que detengan a los hombres de Cooper, ya que hay efectivos de RIO "para los que quizás no sea una prioridad capturarlos vivos".
 
+## 8. La purga
+
+Un equipo de 10 antiterroristas, liderados por Enrique, entra en la gran recepción de dos plantas del AT de Gran Canaria, desoyendo las órdenes de sus superiores y de los "hombres de negro" de RIO.
+
+Los terroristas que los recibieron a tiros pasan entonces a usar armas eléctricas y reducen a 2 antiterroristas, al tiempo que se van replegando junto al ascensor y las escaleras. Enrique alcanza a uno de los terroristas en la pierna y escucha gritos en ingĺés del resto. Los terroristas liberan a los rehenes y estos forman un torrente de personas hacia la salida, y aprovechan la confusión para recuperar al herido y comenzar a subir por las escaleras a las planta superiores.
+
+El equipo antirreroista comienza a perseguir a los terroristas escaleras arriba hasta que estos hacen explotar unos explosivos tras ellos, entre los pisos 24 y 25. El equipo de Enrique entra en la sala 23 y comienza a buscar caminos alternativos, pero sólo van encontrando oficinas y salas de servidores.
+
+Su unidad es abatida a tiros por dos traidores de la misma, David y Mario, y por hombres de negro escoltando a una "mujer imponente vestida de rojo" (Elizabeth).
+
