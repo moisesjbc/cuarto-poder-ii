@@ -274,6 +274,7 @@ Miembro de la Resistencia. Cena con Elizabeth en el c6 y la persigue cuando esta
 
 - Según cuenta a Elizabeth, trabaja en el *Gran Canaria Ahora*, competencia de RIO.
     - **¿Qué tipo de medio es? ¿Un periódico?**
+- Su amigo Fernando y él se criaron en un barrio estatal y aprendieron a sobrevivir como maestros estafadores. RIO los reclutó como agentes encubiertos y les dio identidades de periodistas con la esperanza de que RIO los reclutara.
 
 
 ## Michael
@@ -313,3 +314,15 @@ Felipe, Manuel, Juan, Javier, David, Mario, Marcos
 
 - **Revisar si están todos sin faltar / sobrar ninguno de los 8 que suben arriba ni de los 10 originales**
 
+
+## Fernando
+
+Amigo de Aitor. Miembro de la resistencia que se hace pasar por periodista para ser reclutado por RIO.
+
+### Físico
+
+- (capítulo 10) "Fernando iba vestido como un vagabundo más. Llevaba una capucha sobre la cabeza y un pañuelo en la cara para resultar tan irreconocible como le fuera posible".
+
+### Personalidad
+
+- Terco.

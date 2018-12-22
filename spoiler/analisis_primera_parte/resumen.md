@@ -91,3 +91,16 @@ Ana indica que irá a ayudar a Jonás, y Lucas decide ir con ella. Cooper dice q
 
 La pareja llega a una gran puerta acorazada que Jonás comienza a abrir remotamente. Ana sonríe al reconocer una voz desde el otro lado.
 
+## 10. Los preparativos
+
+Aitor y Fernando están en un barrio estatal, empujando contenedores con otros miembros de la resistencia para bloquear las calles laterales a la avenida y poder "concetrar los efectivos" en esta última. La pareja habla de la cena de Aitor con Elizabeth.
+
+Aitor y Fernando son maestros estafadores criados en un barrio estatal que fueron reclutados por un "cazatalentos" de la Resistencia a cambio de salvarse de la cárcel. Se les creó una nueva identidad como periodistas y debían cosechar éxitos hasta llamar la atención de RIO. Aitor fue reconocido por Elizabeth, por lo que ya no mantiene su identidad secreta.
+
+Una superiora les informa de que RIO ha capturado a la mayor parte de los ingleses y está retomando el control rápidamente. La mujer se muestra mucho menos optimista que la pareja sobre si el grupo del AT de Gran Canaria lo conseguirá.
+
+- Los miembros de la resistencia como Aitor saben que Ana está con los ingleses, y que Ajani está "moviendo los hilos".
+    - **¿La resistencia sabía del ataque y no informó a Ana por alguna razón? ¿La intentó informar pero el mensaje se interceptó?**
+
+
+
