@@ -6,7 +6,7 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "[Análisis primera parte] Capítulo 6 - Releer y tomar notas",
+          "name": "[Análisis primera parte] Capítulo 12 - Releer y tomar notas",
           "details": "",
           "color": "C1F7C2"
         },
@@ -32,6 +32,11 @@
         },
         {
           "name": "Copiar proyecto de cuarto-poder-2 (manuskript)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Releer correo de Marina y tomar notas",
           "details": "",
           "color": "FAFCD2"
         },
@@ -73,6 +78,36 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "[Análisis primera parte] Capítulo 11 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 10 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 9 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 8 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 7 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 6 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
         {
           "name": "Gedit: establecer por defecto tabuladores de 4 espacios",
           "details": "",
