@@ -102,5 +102,12 @@ Una superiora les informa de que RIO ha capturado a la mayor parte de los ingles
 - Los miembros de la resistencia como Aitor saben que Ana está con los ingleses, y que Ajani está "moviendo los hilos".
     - **¿La resistencia sabía del ataque y no informó a Ana por alguna razón? ¿La intentó informar pero el mensaje se interceptó?**
 
+## 11. Refuerzos
+
+Ana y Lucas atraviesan la gran puerta acorazada y entran en una gran recepción acogedora y de los pisos de altura. Ana corre hacia una pareja que hay en el fondo, de espaldas a ellos y manteniendo un tireoteo con una amenaza invisible situada el pasillo frente a ellos.
+
+La pareja reconoce a Ana, y esta charla con el hombre, Marcos, sin preocuparse apenas por el tiroteo. Marcos le informa de que Jonás se encuentra en la sala de seguridad, situada en la segunda planta y cuyos grandes ventanales dan a la recepción.
+
+La gran puerta acorazada vuelve a abrirse y Cooper y sus cinco hombres entran en la recepción. La unidad deja a Ricardo, aún incosciente, y comienza a limpiar el pasillo de enemigos. Rescatan a Jonás, quien mira a Lucas y le sonríe, con un hilillo de sangre brotando de su nariz.
 
 

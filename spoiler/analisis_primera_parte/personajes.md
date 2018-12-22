@@ -18,6 +18,7 @@
 - Acostumbrado a que sus compañeros le hagan el vacío desde el *Incidente de Inglaterra*.
     - Se siente culpable por no haber encontrado pruebas de la verdad en "todos estos años".
 - Poco acostumbrado a los conflictos.
+- Teme disparar. Aunque desprecia a los de RIO, se muestra cortado cuando Ana bromea sobre la muerte de uno de ellos.
 
 ### Ocupación
 
@@ -65,6 +66,8 @@
 - Según ella es un miembro de la resistencia que se infiltró en RIO.
 - **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?** (**¿Quizás no es de la resistencia realmente...?**)
     - Ana se sorprende cuando Jonás habla de miembros de la Resistencia infiltrados que lo están ayudando.
+- Desprecia enormemente a los agentes de RIO, bromeando con la muerte de los mismos.
+
 
 ## Coronel Cooper
 
@@ -326,3 +329,27 @@ Amigo de Aitor. Miembro de la resistencia que se hace pasar por periodista para 
 ### Personalidad
 
 - Terco.
+
+
+## Marcos
+
+Miembro de la resistencia que mantiene una sana rivalidad con Ana sobre quién sorprende más al otro.
+
+### Físico
+
+- Individuo de color.
+- Bastante alto.
+- Viste de manera formal (capítulo 11).
+
+### Personalidad
+
+- Burlón.
+
+## Lucía
+
+Miembro de la resistencia y compañera de Marcos.
+
+### Físico
+
+- Viste de manera formal (capítulo 11).
+
