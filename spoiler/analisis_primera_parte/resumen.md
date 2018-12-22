@@ -83,3 +83,11 @@ El equipo antirreroista comienza a perseguir a los terroristas escaleras arriba 
 
 Su unidad es abatida a tiros por dos traidores de la misma, David y Mario, y por hombres de negro escoltando a una "mujer imponente vestida de rojo" (Elizabeth).
 
+## 9. Discrepancia
+
+Un grupo de 5 soldados incluyendo a *El Venezolano*, se baja del ascensor. Jonás, al que se escucha con un tireteo cercano, les apremia a ayudarlo, antes de que sigan muriendo más agentes infiltrados de la Resistencia que lo están ayudando. Ante la decisión de Cooper de esperar por sus hombres, Jonás espeta "¡No entiendo cómo Ajani pudo confiar en usted!"
+
+Ana indica que irá a ayudar a Jonás, y Lucas decide ir con ella. Cooper dice que se encargará de Ricardo y le da una pistola a Lucas. Jonás, desesperado, informa que Elizabeth, una de las mejores agentes de RIO, ha interceptado el ascensor. Jonás despliega una pared del "humo negro" entre Ana y Lucas y los militares. Discute con Cooper la imposibilidad de ayudar a sus hombres mientras Ana y Lucas corren.
+
+La pareja llega a una gran puerta acorazada que Jonás comienza a abrir remotamente. Ana sonríe al reconocer una voz desde el otro lado.
+

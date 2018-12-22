@@ -31,6 +31,7 @@
     - El edificio está completamente rodeado por rejas de tres metros con finos pero resistentes barrotes de hierro.
     - Descripción de la planta 26 en el capítulo 05 de la primera parte.
     - Descripción de la primera planta en el capítulo 08 de la primera parte.
+- Sótano secreto con múltiples pisos. Los pisos más superiores dan a túneles de hormigón, con "poros" en la pared desde los que Jonás hace aparecer el "humo negro".
 
 ### "Hombres de negro"
 

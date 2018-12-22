@@ -17,10 +17,16 @@
 - Serio.
 - Acostumbrado a que sus compañeros le hagan el vacío desde el *Incidente de Inglaterra*.
     - Se siente culpable por no haber encontrado pruebas de la verdad en "todos estos años".
+- Poco acostumbrado a los conflictos.
 
 ### Ocupación
 
 - Lucas lleva años trabajando para RIO. Trabajó como corresponsal hasta el *Incidente de Inglaterra*, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores.
+
+### Otros
+
+- Lucas se siente especialmente culpable, ahora que presencia gente muriendo (capítulo 9), de no haber hecho nada contra RIO en todos estos años.
+
 
 ## Ana
 
@@ -58,6 +64,7 @@
     - **¿Desde cuándo lleva en la Resistencia?**
 - Según ella es un miembro de la resistencia que se infiltró en RIO.
 - **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?** (**¿Quizás no es de la resistencia realmente...?**)
+    - Ana se sorprende cuando Jonás habla de miembros de la Resistencia infiltrados que lo están ayudando.
 
 ## Coronel Cooper
 
