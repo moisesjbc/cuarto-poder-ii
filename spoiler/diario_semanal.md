@@ -1,6 +1,6 @@
 # Diario semanal
 
-## Semana 1 (10/11/2018 - 15/11/2018)
+## Semana 1 (10/12/2018 - 15/12/2018)
 
 Sabía que me había dejado ir con lo de retomar la segunda parte del libro, pero ver que llevo desde 2016 sin tocarlo apenas... ¡guau!.
 
