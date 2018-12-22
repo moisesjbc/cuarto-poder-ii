@@ -18,3 +18,17 @@ Por último, aprovecho este diario para hacer un balance del proyecto en esta se
 
 Termino esta entrada con la esperanza de mantener el ritmo con una afición que tengo más abandonada de lo que me gustaría.
 
+## Semana 2 (17/12/2018 - 22/12/2018)
+
+Durante esta semana me he centrado en mantener el ritmo de dedicar 20/30 minutos cada día al análisis de la primera parte. Únicamente "fallé" ayer pero acabo de recuperar el tiempo hoy, así que bien. 
+
+He llegado hasta el capítulo 11 (inclusive), resumiendo y tomando notas. Por lo que he visto por ahora:
+
+- **Realmente tengo un problema con sobrecargar al lector con mucha información sobre el mundo**, de manera poco natural e interrumpiendo la acción a cada rato.
+- **Tal como apuntó Marina** en su análisis de la semana pasada, **muchos personajes tienen muy poca profundidad** (al tomar notas de algunos de ellos, me sorprendí al tener una única línea). Con suerte, las notas que voy tomando sobre ellos y el mundo me ayudarán a enriquecerlos en la segunda parte manteniendo la coherencia con lo que ya he contado.
+- Dentro de lo bueno, **tengo un estilo sencillo de leer.** Algo que intenté lograr en la primera parte y que Marina y otras personas me han confirmado.
+
+¡Segunda semana que mantengo el ritmo! Espero seguir avanzando despacio pero con buena letra.
+
+
+ 
