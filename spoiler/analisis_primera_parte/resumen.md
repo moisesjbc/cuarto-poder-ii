@@ -110,4 +110,14 @@ La pareja reconoce a Ana, y esta charla con el hombre, Marcos, sin preocuparse a
 
 La gran puerta acorazada vuelve a abrirse y Cooper y sus cinco hombres entran en la recepción. La unidad deja a Ricardo, aún incosciente, y comienza a limpiar el pasillo de enemigos. Rescatan a Jonás, quien mira a Lucas y le sonríe, con un hilillo de sangre brotando de su nariz.
 
+## 12. La bronca
+
+El jefe de policía Manuel, furioso, discute con Paco frente a la puerta de servicio por la que entró el vagabundo. Dice que sólo han conseguido detener a dos terroristas y que el resto de los terroristas y antiterroristas ha desaparecido.
+
+Manuel acaba despidiendo a Paco, pero un hombre de negro habla en privado con él. En la distancia, la negativa tajante de Manuel se va convirtiendo en súplica, hasta que el hombre de negro se va y Manuel readmite a Paco, abatido.
+
+
+- **Sólo consiguieron detener a dos "terroristas". ¿Quiénes?**
+- **Resto del grupo terrorista y el grupo antirrerorista ha desaparecido. ¿A dónde fueron?**
+- **¿Qué interés tienen los "hombres de negro" en mantener a Paco?**
 

@@ -191,8 +191,11 @@ Jefe de policía. Acude personalmente al AT de Gran Canaria cuando se da el avis
 ### Personalidad
 
 - Serio, profesional.
+- Furioso con Paco.
 
 ### Otros
+
+- Abatido cuando un hombre de negro le amenaza con **algo** y se ve forzado a readmitir a Paco.
 
 
 ## Arturo "El Venezolano"
