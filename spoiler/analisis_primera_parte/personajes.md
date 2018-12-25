@@ -70,6 +70,7 @@
 - **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?** (**¿Quizás no es de la resistencia realmente...?**)
     - Ana se sorprende cuando Jonás habla de miembros de la Resistencia infiltrados que lo están ayudando.
 - Desprecia enormemente a los agentes de RIO, bromeando con la muerte de los mismos.
+- Visiblemente afectada por la muerte de Lucas.
 
 
 ## Coronel Cooper
@@ -366,4 +367,17 @@ Miembro de la resistencia y compañera de Marcos.
 ### Físico
 
 - Viste de manera formal (capítulo 11).
+
+
+## Falso policía de la Resistencia
+
+Policía de incógnito que lleva a Aitor y Fernando al puerto y recoge a Ana allí.
+
+### Personalidad
+
+- Fría.
+
+### Otros
+
+- Gran conductor.
 

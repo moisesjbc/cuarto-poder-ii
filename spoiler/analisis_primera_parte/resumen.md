@@ -120,7 +120,7 @@ Manuel acaba despidiendo a Paco, pero un hombre de negro habla en privado con é
 - **Resto del grupo terrorista y el grupo antirrerorista ha desaparecido. ¿A dónde fueron?**
 - **¿Qué interés tienen los "hombres de negro" en mantener a Paco?**
 
-# 13. Blanco y negro
+## 13. Blanco y negro
 
 El grupo de miembros de la resistencia y militares se sube a un ascensor circular, con Jonás controlando el mismo hacia los niveles inferiores.
 
@@ -130,4 +130,17 @@ El ascensor se detiene de repente y Jonás envuelve al grupo con la nube de humo
 
 Un miembro de la resistencia disfrazado de efectivo de RIO los espera al final del pasillo y los apremia diciendo "¡Llegan tarde! ¡Vamos, o perderemos el barco!" (*).
 
-- **(*) ¿Cuál es el plan de Jonás si parece que directamente escapan del AT sin hacer nada?** 
+- **(*) ¿Cuál es el plan de Jonás si parece que directamente escapan del AT sin hacer nada?**
+
+## 14. El puerto
+
+Fernando y Aitor corren al enterarse de que el grupo que asaltó el AT de Gran Canaria ha llegado al puerto, presumiblemente por una red subterránea de túneles. La pareja atraviesa un túnel ilegal hacia el barrio del puerto, donde un falso policía los lleva en un coche patrulla blindado mientras les dice que el objetivo es rescatar únicamente a Ana y su prisionero (*)
+
+El coche llega a toda velocidad hasta el puerto y atraviesa la reja ignorando los disparos de los militares apostados allí. El trío ve un barco zarpando mientras sus ocupantes mantienen un tiroteo con personas situadas en el dique. Ana sale cojeando de entre unos contenedores y se sube al coche, informando que Ricardo ha muerto. Los cuatro abandonan el puerto a toda velocidad.
+
+Ana, con la voz quebrada, se niega a hablar de lo que ha pasado por el momento. Cuando Aitor le pregunta por Lucas esta dice que "también ha muerto". En la lejanía, se produce una explosión en el barco y este comienza a hundirse. Ana confirma que se trata de los ingleses.
+
+- **(*) ¿Por qué está Ana sola?**
+
+
+- **(*) ¿Por qué no al resto? ¿Quizás es un doble agente como Ana? ¿Lo es Ana?**
