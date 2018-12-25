@@ -32,10 +32,18 @@
     - Descripción de la planta 26 en el capítulo 05 de la primera parte.
     - Descripción de la primera planta en el capítulo 08 de la primera parte.
 - Sótano secreto con múltiples pisos. Los pisos más superiores dan a túneles de hormigón, con "poros" en la pared desde los que Jonás hace aparecer el "humo negro".
+- Descripción del segundo sótano secreto del AT de Gran Canaria en el capítulo 13.
 
 ### "Hombres de negro"
 
 Hombres y mujeres anónimos que vestían de manera muy formal, con trajes neutros y unas gafas de sol a juego para aumentar el misterio. Siempre aparecen cuando hay problemas en los que RIO está involucrada de una manera u otra. Aparecen con una orden judicial que les da carta blanca para tomar el control de la situación.
+
+Un hombre de negro fuerza a Manuel a readmitir a Paco justo después de que lo despida.
+
+### Humo negro
+
+- La nube de humo negro parpadea brillante durante unos instantes, al igual que el guante de Jonás, cuando la primera se detiene alrededor del ascensor (capítulo 13).
+- La nube de humo negro brilla allí donde deshace una bala.
 
 ## Resistencia
 

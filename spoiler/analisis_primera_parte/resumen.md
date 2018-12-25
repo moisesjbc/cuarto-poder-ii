@@ -116,8 +116,18 @@ El jefe de policía Manuel, furioso, discute con Paco frente a la puerta de serv
 
 Manuel acaba despidiendo a Paco, pero un hombre de negro habla en privado con él. En la distancia, la negativa tajante de Manuel se va convirtiendo en súplica, hasta que el hombre de negro se va y Manuel readmite a Paco, abatido.
 
-
 - **Sólo consiguieron detener a dos "terroristas". ¿Quiénes?**
 - **Resto del grupo terrorista y el grupo antirrerorista ha desaparecido. ¿A dónde fueron?**
 - **¿Qué interés tienen los "hombres de negro" en mantener a Paco?**
 
+# 13. Blanco y negro
+
+El grupo de miembros de la resistencia y militares se sube a un ascensor circular, con Jonás controlando el mismo hacia los niveles inferiores.
+
+El ascensor desciende por un gran hueco de 5 metros, con plantas y plantas llenas de oficinas desprovistas de vida rodeándolo. Efectivos de RIO armados van organizándose alrededor del ascensor en las diversas plantas.
+
+El ascensor se detiene de repente y Jonás envuelve al grupo con la nube de humo negro, controlándola con un guante de plástico negro en su mano derecha. El grupo sale escoltado por la nube y los efectivos de RIO disparan a la nube sin éxito hasta que algunas balas empiezan a atraversarla, reduciendo el grupo de 17 personas a 9.
+
+Un miembro de la resistencia disfrazado de efectivo de RIO los espera al final del pasillo y los apremia diciendo "¡Llegan tarde! ¡Vamos, o perderemos el barco!" (*).
+
+- **(*) ¿Cuál es el plan de Jonás si parece que directamente escapan del AT sin hacer nada?** 

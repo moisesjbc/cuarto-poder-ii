@@ -27,6 +27,9 @@
 ### Otros
 
 - Lucas se siente especialmente culpable, ahora que presencia gente muriendo (capítulo 9), de no haber hecho nada contra RIO en todos estos años.
+- Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
+- Sin apenas puntería.
+- Se siente en parte culpable porque los agentes de RIO eviten dispararle y en su lugar disparen a "aquellos que estaban actuando y muriendo por derrocar a RIO".
 
 
 ## Ana
@@ -121,6 +124,9 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
     - **¿Lo hizo sólo? ¿Lo hizo antes o después de ser capturado por RIO?**
 - Conoce al líder del "pelotón de fusilamiento" que sorprende al grupo cuando baja al sótano del AT de Gran Canaria.
 - No duda en aconsejar matar a Ricardo.
+- Con un guante negro hecho de un material plástico aparentemente muy resistente controla el humo negro (capítulo 13).
+- Un hilillo de sangre brota de su nariz y Jonás muestra una expresión de dolor mientras controla la nube de humo negro.
+
 
 ## Allan
 
@@ -228,6 +234,11 @@ Director del AT de Gran Canaria, con sus despacho siduado en la planta 26.
 
 - Serio, no habla durante su captura (al menos, no delante de Lucas y los militares).
 - Confiado: cuando bajan en el ascensor al sótano secreto, Ricardo mira hacia Lucas y sonríe.
+
+## Otros
+
+- Sorprendido cuando Jonás controla la nube de humo negro con el guante.
+    - **¿Por qué?**
 
 
 ## Andrés
