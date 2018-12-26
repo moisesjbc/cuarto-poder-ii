@@ -73,6 +73,7 @@
 - Desprecia enormemente a los agentes de RIO, bromeando con la muerte de los mismos.
 - Visiblemente afectada por la muerte de Lucas. Jura venganza contra Elizabeth.
 - Pierde su coartada durante el AT de Gran Canaria.
+- Se guarda las balas que recibe como recuerdo.
 
 
 ## Coronel Cooper
@@ -209,9 +210,9 @@ Jefe de policía. Acude personalmente al AT de Gran Canaria cuando se da el avis
 - Abatido cuando un hombre de negro le amenaza con **algo** y se ve forzado a readmitir a Paco.
 
 
-## Arturo "El Venezolano"
+## Arturo Ramírez - "El Venezolano"
 
-Soldado de la unidad de Cooper.
+Soldado de la unidad de Cooper. Es capturado durante el asalto al AT de Gran Canaria y posteriormente rescatado por Ana (3 meses después, c17).
 
 ### Físico
 
@@ -221,6 +222,12 @@ Soldado de la unidad de Cooper.
 ### Personalidad
 
 - Suicida / arriesgado: tiene fama de querer ir en cabeza e ignorar el peligro.
+
+### Otros
+
+- Durante los 3 meses posteriores al ataque al AT de Gran Canaria, RIO le ha inyectado algo todos los días y le ha hecho caminar una y otra vez de un lado a otro en una habitación del manicomio.
+- Prefiere que lo llamen "El Venezolano".
+- No le importa seguir con la camisa de fuerza puesta (c17).
 
 
 ## Ricardo Gómez
@@ -495,3 +502,15 @@ Alcalde del pueblo / *burbuja*. Presenta a la familia Pérez en la plaza del pue
 - Alegre.
 - Bromista
 - Carismático.
+
+
+## María
+
+- Forma parte del equipo que acompaña a Ana en el rescate (c17).
+- Hay confianza entre ella y Ana.
+
+
+## Miguel
+
+- Forma parte del equipo que asalta el manicomio (c17).
+- Tiene fama de tener mala memoria.

@@ -49,7 +49,11 @@ Un hombre de negro fuerza a Manuel a readmitir a Paco justo después de que lo d
 
 - Uniforme: chándal de una pieza azul y ceñido al cuerpo, con un pequeño logotipo.
     - **¿Qué forma tiene el logotipo? ¿Es el mismo para toda la resistencia?**
+    - (c17) "Todos vestían un chándal azul de una pieza y cremallera en la parte delantera. La vestimenta contaba con un pequeño logotipo de contornos simples que descansaba sobre el pecho izquierdo. Representaba una venda cayéndose de una cabeza humana, todo visto desde perfil. "
 - **¿Origen, nombre y motivación de la resistencia?**
+- **¿Cómo se organiza?**
+- Durante los *3 meses* posteriores al ataque al AT de Gran Canaria, la Resistencia se ha centrado en proteguer a todas las unidades expuestas por el ataque.
+- La resistencia tiene un equipo de francotiradores en el rescate del manicomio (c17).
 
 ## Incidente de Inglaterra
 
@@ -114,4 +118,19 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
 ### Casa de la familia Pérez
 
 - "Ante ellos se alzaba una casa de madera blanca de dos pisos. Tenía un tejado principal a dos aguas que caía por delante y por detrás, y un tejado más pequeño que resguardaba el garaje, el cual sobresalía hacia delante por el lado derecho del frontal de la construcción."
+
+
+# Manicomio
+
+Falso manicomio donde RIO retienen a Arturo durante los 3 meses posteriores al ataque al AT de Gran Canaria.
+
+## Descripción 
+
+- Lleno de pasillos completamente blancos, con una hilera de puertas metálicas, rojas y numeradas a cada lado.
+- Único edificio en medio de un valle con grandes arboledas cubriendo las montañas cercanas.
+
+## Experimentos
+
+- **¿Para qué son las pruebas que le hacen a Arturo?**
+Según Arturo, le inyectaban algo todos los días: "siempre me las inyectaban media hora antes de llevarme a la sala donde caminaba de un lado para otro. [...] y me obligaban a caminar de un lado a otro. Me hacían caminar de un lado a otro y entonces me preguntaban qué sentía. Luego me obligaban a caminar en el sentido contrario y volvían a preguntarme qué sentía. Y así una y otra y otra vez cada día"
 

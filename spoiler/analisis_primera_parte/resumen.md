@@ -163,3 +163,11 @@ Al terminar las introducciones, se escuchan unas notas de xilófono a través de
 
 Mario comprueba la hora: las dos del mediodía. La familia se dirige hacia su nueva casa. Antes de entrar, un chico en bici les grita que huyan de la ciudad en cuanto puedan, antes de que policía con uniforme blanco le llame la atención e invite a la familia a entrar en su casa tras escuchar la señal.
 
+## 17. El rescate
+
+Ana dirige una unidad de miembros de la resistencia y asalta lo que parece ser un manicomio. Buscan a Arturo Ramírez, presumiblemente en la habitación 615.
+
+El equipo de francotiradores comunica a Ana que ha asegurado "el paquete" y Ana y su equipo suben a la azotea, donde se encuentran a Arturo Ramírez.
+
+Arturo les cuenta que solían inyectarle algo todos los días, media hora antes de llevarlo a una habitación dónde le obligaban a caminar de un lado a otro muchas veces y le iban preguntando qué sentía. El Venezolano los lleva a la susodicha habitación, pero sólo encuentran un gran agujero perfectamente rectangular en el centro de la habitación, sin escombros en el piso inferior.
+
