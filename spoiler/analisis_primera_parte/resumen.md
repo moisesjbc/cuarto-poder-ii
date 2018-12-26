@@ -141,6 +141,15 @@ El coche llega a toda velocidad hasta el puerto y atraviesa la reja ignorando lo
 Ana, con la voz quebrada, se niega a hablar de lo que ha pasado por el momento. Cuando Aitor le pregunta por Lucas esta dice que "también ha muerto". En la lejanía, se produce una explosión en el barco y este comienza a hundirse. Ana confirma que se trata de los ingleses.
 
 - **(*) ¿Por qué está Ana sola?**
-
-
 - **(*) ¿Por qué no al resto? ¿Quizás es un doble agente como Ana? ¿Lo es Ana?**
+
+## 15. La emisión
+
+Elizabeth presenta una emisión de urgencia de RIO, informando del ataque y descubriendo que los supuestos terroristas eran realmente militares ingleses encubiertos. 
+
+La reportera informa que la mitad del equipo antiterrorista liderado por Enrique ha muerto, así como Ricardo Gómez y los soldados ingleses, estos últimos suicidándose en el barco antes de ser capturados por el ejército. También indica que se encontró el cuerpo sin vida de Lucas y da a entender que puede tratarse de una represalia por el reportaje del mismo destapando una conspiración, hace 3 años, de los ingleses para atacar EEUU.
+
+En un piso franco de la resistencia, Ana ve el reportaje y jura vengarse de Elizabeth. Luis, otro miembro de la resistencia, le pide que lo informe. La joven pelirroja le dice que fueron emboscados por Elizabeth en el túnel que llevaba al puerto y que entonces ejecutó a Ricardo y Lucas. También informa que los militares fueron capturados antes de llegar al barco, y que Jonás se tiró al agua, intentando escapar desesperadamente para no volver a ser capturado por RIO.
+
+Luis informa que Ajani ha desaparecido después del ataque fallido, y que las órdenes de los superiores son desaparecer.
+

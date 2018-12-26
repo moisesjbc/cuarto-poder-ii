@@ -47,6 +47,7 @@
 - Jovial y divertida.
     - Siempre consigue animar a Lucas.
 - Fría y calculadora mientras actúa como parte de la resistencia.
+- No le gusta esconderse, pero lo hace si así puede proteguer a los suyos.
 
 ### Otros
 
@@ -70,7 +71,8 @@
 - **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?** (**¿Quizás no es de la resistencia realmente...?**)
     - Ana se sorprende cuando Jonás habla de miembros de la Resistencia infiltrados que lo están ayudando.
 - Desprecia enormemente a los agentes de RIO, bromeando con la muerte de los mismos.
-- Visiblemente afectada por la muerte de Lucas.
+- Visiblemente afectada por la muerte de Lucas. Jura venganza contra Elizabeth.
+- Pierde su coartada durante el AT de Gran Canaria.
 
 
 ## Coronel Cooper
@@ -128,6 +130,8 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Con un guante negro hecho de un material plástico aparentemente muy resistente controla el humo negro (capítulo 13).
 - Un hilillo de sangre brota de su nariz y Jonás muestra una expresión de dolor mientras controla la nube de humo negro.
 
+- (Según Ana) Se tira al agua en el puerto intentando escapar desesperadamente, **maldiciendo a Ajani** y jurando que no volverá a ser capturado **otra vez** por RIO.
+
 
 ## Allan
 
@@ -156,7 +160,7 @@ Según RIO: terrorista y criminal de guerra despiadado, buscado en todo el mundo
 - En el mismo email a Cooper le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
 - **¿Motivación?**
 - **Extraer info del relato "El héroe" e incluirla en la historia**
-
+- Seguún Luis (capítulo 15): no ha dado señales de vida después del ataque fallido al AT de Gran Canaria.
 
 ## Paco
 
@@ -222,6 +226,7 @@ Soldado de la unidad de Cooper.
 ## Ricardo Gómez
 
 Director del AT de Gran Canaria, con sus despacho siduado en la planta 26.
+- **(Según Ana - c15) Muerto durante el ataque al AT de Gran Canaria.**
 
 ### Físico
 
@@ -253,7 +258,7 @@ Miembro de la resistencia encubierto que cena con Elizabeth y persigue a esta y 
 - Pelo corto y rizado.
 - En el capítulo 6 viste una camiseta cualquiera, un pantalón largo y gorra.
 
-## Elizabeth
+## Elizabeth Ramírez
 
 Reportera de la AT de Gran Canaria. Hace reportajes "de relleno", al final de las noticias. Antigua compañera de clase de Aitor en la carrera de Periodismo.
 
@@ -300,9 +305,10 @@ Miembro de la Resistencia. Cena con Elizabeth en el c6 y la persigue cuando esta
 Soldado de Cooper que lo acompaña cuando el grupo desciende al sótano del AT de Gran Canaria.
 
 
-## Enrique
+## Enrique Suárez
 
 Jefe de la unidad antiterrorista que irrumpe en el AT de Gran Canaria. Muere presuntamente traicionado por miembros de su unidad.
+- **(Según Ana - c15) Muerto durante el ataque al AT de Gran Canaria.**
 
 ### Personalidad
 
@@ -319,6 +325,7 @@ Jefe de la unidad antiterrorista que irrumpe en el AT de Gran Canaria. Muere pre
     - Parte de su unidad se negó a participar.
         - **¿Cuál es el tamaño normal de una unidad?**
 - Suele actuar junto con su grupo de manera directa y sin importarle si está la prensa presente o no, sorprendiendo a los criminales.
+- En el capítulo 15 Elizabeth lo da por muerto. **¿Ha muerto realmente?**
   
 
 ## Unidad antiterrorista de Enrique
@@ -349,6 +356,7 @@ Amigo de Aitor. Miembro de la resistencia que se hace pasar por periodista para 
 ## Marcos
 
 Miembro de la resistencia que mantiene una sana rivalidad con Ana sobre quién sorprende más al otro.
+- (Según Ana) Muere en el ataque al AT de Gran Canaria.
 
 ### Físico
 
@@ -363,15 +371,22 @@ Miembro de la resistencia que mantiene una sana rivalidad con Ana sobre quién s
 ## Lucía
 
 Miembro de la resistencia y compañera de Marcos.
+- (Según Ana) Muere en el ataque al AT de Gran Canaria.
 
 ### Físico
 
 - Viste de manera formal (capítulo 11).
 
 
-## Falso policía de la Resistencia
+## Luis
 
-Policía de incógnito que lleva a Aitor y Fernando al puerto y recoge a Ana allí.
+Miembro de la resistencia que se hace pasar por policía. Lleva a Aitor y Fernando al puerto y recoge a Ana allí, de la que pide un informe después.
+- **¿Superior de Ana?** 
+    - **¿Cómo se organiza la resistencia internamente?**
+
+### Físico
+
+- Corta melena rizada y rubia.
 
 ### Personalidad
 

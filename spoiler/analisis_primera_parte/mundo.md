@@ -55,11 +55,14 @@ Un hombre de negro fuerza a Manuel a readmitir a Paco justo después de que lo d
 
 - Sucedió hace años y desde entonces la corporación RIO juega con Lucas, volviendo a sus compañeros contra él pero sin despedirlo (**¿por qué?**).
 - **¿Qué pasó en Inglaterra exactamente?**
-
+- Según el reportaje de Elizabeth en el capítulo 15: *nuestros informativos fueron los que destaparon la gran conspiración hace tres años (*), cuando Inglaterra planeaba atacar Estados Unidos aprovechando su delicada situación interna.*
+    - (*) Sería en 2022 de ser cierto.
 
 ## Asalto al AT de Gran Canaria
 
-El ataque comienza en Agosto, perpretado por soldados ingleses liderados por Cooper.
+El ataque comienza en Agosto del año 2025, perpretado por soldados ingleses liderados por Cooper.
+
+Según Luis, los ingleses atacaron sin avisar, forzando a los infiltrados de la resistencia a decidir en el momento si ayudaban o mantenían un perfil bajo. La resistencia optó por no informar a Ana ya que lo consideraron un ataque suicida y no querían comprometer a Ana.
 
 
 ## Situación de EEUU
