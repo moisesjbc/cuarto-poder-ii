@@ -153,3 +153,13 @@ En un piso franco de la resistencia, Ana ve el reportaje y jura vengarse de Eliz
 
 Luis informa que Ajani ha desaparecido después del ataque fallido, y que las órdenes de los superiores son desaparecer.
 
+## 16. Una nueva vida
+
+La familia Pérez conduce durante horas desde su antiguo hogar en la ciudad hasta un pueblo en lo más recóndito, rodeado por murallas con una gran puerta de madera cerrada. Cuando llegan a al pueblo son conducidos a la plaza del mismo, donde los reciben una congregación entre gritos y aplausos.
+
+En la plaza son dirigidos a un gran escenario que rodea una torre donde los espera el alcalde Batido de Maíz, vestido y maquillado de manera estrambótica. El alcade los presenta al pueblo y les pide una pequeña introducción a cada uno ante el pueblo.
+
+Al terminar las introducciones, se escuchan unas notas de xilófono a través de unos grandes altavoces. Todos los habitantes sin excepción comienzan a marcharse, tranquilamente y en silencio, hacia sus casas. El alcalde, antes de irse, les dice que es la hora de la siesta y que se la toman muy en serio.
+
+Mario comprueba la hora: las dos del mediodía. La familia se dirige hacia su nueva casa. Antes de entrar, un chico en bici les grita que huyan de la ciudad en cuanto puedan, antes de que policía con uniforme blanco le llame la atención e invite a la familia a entrar en su casa tras escuchar la señal.
+

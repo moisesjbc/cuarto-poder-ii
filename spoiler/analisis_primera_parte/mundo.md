@@ -86,3 +86,32 @@ Ladrones de los *barrios estatales* que escarban agujeros en los túneles y asal
 
 Organización contraria a la corporación RIO y sus mentiras. Anteriormente luchaba contra RIO investigando y tratando de sacar a la luz sus farsas, pero cuando se demostró que eso no llevaba a ninguna parte, se vio forzada a radicalizarse. Ahora intenta destruirla por todos los medios posibles, como con agentes infiltrados como Ana.
 
+
+## Burbujas
+
+### Burbuja ???
+
+- "La de Mario" (c16). **Le falta un nombre**
+- Rodeado por murallas. La única construcción que sobresale es una gran torre con forma de faro, con grandes campanas en su parte superior.
+    - Gran puerta de madera que se abre únicamente para permitir a la familia Pérez entrar.
+    - Según el alcalde, la muralla cuenta con puertas más pequeñas que se mantienen siempre abiertas. **¿Esto era cierto al final?**
+- Muy recóndita. A la familia Pérez le lleva más de 7 horas y media de viaje llegar, 4 horas y media de ellas por carretera secundaria por paisajes desérticos.
+
+#### Descripciones en c16
+
+- "Cuando cruzaron la gran puerta con el coche, se encontraron con una avenida asfaltada en piedra grisácea. La vía estaba escoltada a ambos lados por una línea de abetos, con una tercera fila que cortaba los dos sentidos de circulación. Los árboles de los lados proporcionaban sombra a la acera, la cual estaba hecha de piedras pintadas de amarillo pastel."
+- "Las casas a ambos lados eran de los más variados colores, con cada una defendiendo su particular estilo, pero todas parecían someterse a una ley no escrita, o tal vez sí, que estipulaba que no podían superar los dos pisos de altura."
+- La plaza es una rotonda enorme, con aparcamientos a lo largo de toda su curvatura
+- Grandes postes con unos grandes altavoces que a veces emiten el sonido de un xilófono.
+    - **¿Siempre es el mismo tipo de sonido?**
+    
+#### Gentes / Otros
+
+- Todos se congregan para recibir a la familia Pérez, sonrientes.
+- Policía con uniforme blanco e impoluto.
+- **Cuando se escuchan tres notas graves, cortas, seguidas de una larga y aguda (c16)**, todos los presentes se van.
+
+### Casa de la familia Pérez
+
+- "Ante ellos se alzaba una casa de madera blanca de dos pisos. Tenía un tejado principal a dos aguas que caía por delante y por detrás, y un tejado más pequeño que resguardaba el garaje, el cual sobresalía hacia delante por el lado derecho del frontal de la construcción."
+

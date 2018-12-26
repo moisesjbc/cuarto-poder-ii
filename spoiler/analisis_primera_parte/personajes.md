@@ -396,3 +396,102 @@ Miembro de la resistencia que se hace pasar por policía. Lleva a Aitor y Fernan
 
 - Gran conductor.
 
+
+## Mario Pérez
+
+Técnico informático que se ha mudado a un pueblo (*Burbuja*) con su familia.
+
+### Físico
+
+- 31 años
+
+### Personalidad
+
+- Tranquilo
+
+### Otros
+
+- Técnico informático en la ciudad.
+- Será técnico informático en el ayuntamiento.
+- Se queda con un nudo en la garganta cuando el chico les grita que huyan de la ciudad y el policía les invita amablemente a entrar en casa.
+
+
+## Lucía
+
+Mujer de Mario. Profesora de matemáticas.
+
+### Físico
+
+- 35 años.
+- Gran melena lacia y rubia.
+
+### Personalidad
+
+- Confiada.
+
+### Otros
+
+- En la ciudad era profesora de matemáticas en la universidad.
+- En el pueblo será profesora de matemáticas en el instituto.
+
+
+## Noemí Pérez
+
+Hija de Mario y Lucía. Estudiante de instituto.
+
+### Físico
+
+- 14 años
+
+### Personalidad
+
+- Directa (pe. pregunta directamente al alcalde Batido de Maíz por qué "están encerrados allí" - c16).
+- Según ella: "no me gusta estar encerrada"
+
+
+## Lara Pérez
+
+- Hija de Mario y Lucía. Estudiante de instituto. Este es su último año en la ESO.
+    - **¿La ESO sigue existiendo en el futuro, o sólo en la ciudad burbuja?**
+
+### Físico
+
+- 16 años
+- Larga cabellera castaña.
+
+### Personalidad
+
+- "Se ríe con cualquier cosa" según Noemí.
+- Le encanta la idea de tener jardín en su nueva casa.
+
+
+## Chico en bici
+
+- Grita a la familia Pérez, diciéndole que huya del pueblo mientras pueda (c16).
+
+### Físico
+
+- Pelo castaño y ondulado
+
+### Otros
+
+- Según un policía, le gusta asustar a la gente.
+
+
+## Alcalde "Batido de Maíz"
+
+Alcalde del pueblo / *burbuja*. Presenta a la familia Pérez en la plaza del pueblo (c16).
+
+### Físico
+
+- Unos cincuenta años.
+- Bastante obeso.
+- Ostentoso bigote negro.
+- (c16) Vestido con un pijama blanco decorado con coches de colores. "Las mangas de las manos y de los pies estaban hechas jirones, dando un gran contraste con el impecable sombrero de copa negro, exageradamente alto, que cubría su cabeza."
+    - "El alcalde también iba maquillado. Toda su cara estaba empolvada en blanco, con unos círculos de colores pintados con rotulador alrededor de los ojos. Además, sus labios estaban pintados de un negro petróleo. Una gran nariz de payaso verde completaba la apariencia estrambótica de tan singular personaje"
+
+### Personalidad
+
+- Alegre.
+- Bromista
+- Carismático.
