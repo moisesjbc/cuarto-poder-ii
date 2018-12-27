@@ -105,8 +105,9 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
 - "La de Mario" (c16). **Le falta un nombre**
 - Rodeado por murallas. La única construcción que sobresale es una gran torre con forma de faro, con grandes campanas en su parte superior.
     - Gran puerta de madera que se abre únicamente para permitir a la familia Pérez entrar.
-    - Según el alcalde, la muralla cuenta con puertas más pequeñas que se mantienen siempre abiertas. **¿Esto era cierto al final?**
+    - Según el alcalde, la muralla cuenta con puertas más pequeñas que se mantienen siempre abiertas. Esto resulta ser mentira.
 - Muy recóndita. A la familia Pérez le lleva más de 7 horas y media de viaje llegar, 4 horas y media de ellas por carretera secundaria por paisajes desérticos.
+
 
 #### Descripciones en c16
 
@@ -128,6 +129,13 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
     - **¿Motivación y funcionamiento de las notas de xilófono?**
 - El alcalde Badito de Maíz parece inmune al xilófono y parece ordenar que lo hagan sonar haciendo gestos a las cámaras de seguridad de la ciudad.
     - **¿Motivación? ¿Relación con otros alcaldes de Burbujas?**
+- Tres notas graves y cortas, seguidas de una larga y aguda -> Hora de almozar.
+- El sistema del xilófono parece tener fallos: cuando suena, los habitantes salen de sus casas y miran con odio a la familia, pero no se lanzan contra ellos (c20).
+    - **¿Por qué? ¿Qué tipo de fallos?**
+- Tres notas agudas y largas de xilófono, seguida de una grave y corta.
+    - **¿Es la misma que se produjo al "calmar" a los habitantes en el capítulo 18?**
+        - **¿Cómo funcionan? ¿Las que acaban en una nota aguda animan y las que acaban en una grave calman. ¿Variaciones? ¿Relación con el Canto de Sirena?**
+    - Los habitantes del pueblo comienzan a desmayarse y volver en sí.
 
 ### Casa de la familia Pérez
 

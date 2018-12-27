@@ -193,3 +193,15 @@ Una miembro de la resistencia informa que han encontrado otra *Burbuja* y le da 
 
 - **¿Dónde están? ¿Y el manicomio?**
 
+## 20. Escapando del infierno
+
+Lara rechaza la ayuda de la turba y pide ayuda a sus hijas para volver a casa, donde se reúnen con Mario que está preparando el coche para huir. La familia comienza a huir en coche mientras el alcalde se burla de ellos a través de los altavoces.
+
+Suenan las notas de xilófono y los habitantes del pueblo los persiguen para intentar detenerles, hasta que suenan "tres notas graves y cortas de xilófono, seguida de una larga y aguda" y los habitantes comienzan a largarse. 
+
+El chico que los instó a largarse el día anterior avanza con otros miembros de la resistencia hasta el coche y obligan a la familia a ir a la plaza. Allí, miembros de la resistencia encañonan al alcalde y otros miembros de RIO ante los gritos de "¡muerte!" del pueblo. Una chica pelirroja que apunta al alcalde mira fijamente a Mario y le sonríe.
+
+El alcalde suplica por su vida, intentando vender informacón relevante sobre RIO, pero la chica anuncia "¡Es hora de que esta *Burbuja* estalle!" y el alcalde y sus hombres son ejecutados.
+
+Suenan tres notas agudas y largas de xilófono, seguida de una grave y corta. Los habitantes del pueblo comienzan a desmayarse, incluida la familia Pérez. Todos sienten un súbito dolor de cabeza que dura unos segundos. Tras ello, Mario se siente "diferente". Lucas reconoce en la mujer pelirroja a Ana antes de desmayarse.
+
