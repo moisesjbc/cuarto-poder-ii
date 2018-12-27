@@ -23,6 +23,9 @@
 
 - Las cadenas de televisión de RIO se conocen como "Afluentes Televisivos" o AT, los periódicos "Afluentes Periodísticos" (AP), los portales web de noticias, "Afluentes Internautas" (AI), etc.
 - En cada ciudad donde RIO emplaza una cadena de noticias, los lugareños acostumbran a llamarla "La Cadena".
+- Según Iván, RIO se ha vuelto muy confiada, descuidando el inventario de su material (pe. guantes "del humo negro").
+- Realizó una purga en el AT de Gran Canaria tras el ataque.
+
 
 ### AT de Gran Canaria
 
@@ -54,6 +57,8 @@ Un hombre de negro fuerza a Manuel a readmitir a Paco justo después de que lo d
 - **¿Cómo se organiza?**
 - Durante los *3 meses* posteriores al ataque al AT de Gran Canaria, la Resistencia se ha centrado en proteguer a todas las unidades expuestas por el ataque.
 - La resistencia tiene un equipo de francotiradores en el rescate del manicomio (c17).
+- Muchos agentes infiltrados en el AT de Gran Canaria cayeron durante el ataque y después, durante la purga que realizó RIO. Sin embargo, según Iván aún quedan "unos cuantos".
+- Decide esperar a que se calmen las aguas para realizar otro ataque frontal. Mientras, se centran en liberar a los ingleses capturados y en "estar *Burbujas*".
 
 ## Incidente de Inglaterra
 
@@ -92,6 +97,8 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
 
 
 ## Burbujas
+
+- RIO obligó a Jonás a programarle la clave del xilófono a los "sujetos". **Jonás se da un toque en la cabeza para indicarlo**. **¿Estos sujetos están únicamente en las Burbujas?**
 
 ### Burbuja ???
 

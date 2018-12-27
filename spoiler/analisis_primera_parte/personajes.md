@@ -105,6 +105,8 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 ### Físico
 
 - Pelo oscuro, reseco y mustio, pero generoso.
+- Mechones de pelo lacio y negro caían sobre su cara
+    - **¿No es un fallo con lo que digo más adelante cuando se abraza con Lara?**
 
 ### Personalidad
 
@@ -133,6 +135,18 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 
 - (Según Ana) Se tira al agua en el puerto intentando escapar desesperadamente, **maldiciendo a Ajani** y jurando que no volverá a ser capturado **otra vez** por RIO.
 - **¿Pasó alguna vez por una *Burbuja*?**
+
+- Fue capturado tras el ataque al AT de Gran Canaria y estaba retenido en el mismo "manicomio" que Arturo.
+- Tiene nanomáquinas en la cabeza, que le hacen "escuchar ruido, interferencias, a todas horas".
+    - "El suero" que menciona Iván (c19) en lugar de arreglarlo, lo empeora.
+- Siente una conexión simbionte con el guante.
+- Jonás dice que "Estaba preparando las nanomáquinas para escapar" en relación a su fuga (c19).
+    - **¿Se refiere a las de su cabeza y/o a las del "humo negro?**
+        - **¿Cómo funcionan las nanomáquinas?**
+- Según Iván: "mero simpatizante" de la resistencia.
+- Sólo quiere alejarse de RIO tanto como puede, sobre todo **después de lo que le hicieron a la hermana (*)**. Sólo accedió a lo del ataque porque Ajani se lo pidió; le debe su libertad y quiere saldar la deuda.
+    - **(*) ¿Qué le hicieron según Jonás? ¿Qué le hicieron realmente?**
+
 
 ## Allan
 
@@ -442,7 +456,7 @@ Mujer de Mario. Profesora de matemáticas.
 
 - En la ciudad era profesora de matemáticas en la universidad.
 - En el pueblo será profesora de matemáticas en el instituto.
-
+- **¿Por qué fue capturada por RIO?**
 
 ## Noemí Pérez
 
@@ -463,6 +477,7 @@ Hija de Mario y Lucía. Estudiante de instituto.
     - Correr desde el baño donde se peina hasta la entrada de la casa sin que Noemí despeine a Lara.
     - Suele ganar Noemí.
 - Resolutiva: en c18 idea usar el extintor para salvar a su madre.
+- **¿Por qué fue capturada por RIO?**
 
 
 ## Lara Pérez
@@ -488,6 +503,7 @@ Hija de Mario y Lucía. Estudiante de instituto.
 - (c18) "Cada vez que miraba hacia la pizarra llena de fórmulas, sentía como una nube nublaba su cabeza, como si le costara pensar con claridad"
     - De repente responde en voz baja la solución, de manera involuntaria.
 - Bastante asustadiza con las cosas que no puede controlar.
+- **¿Por qué fue capturada por RIO?**
 
 
 ## Chico en bici
@@ -532,3 +548,25 @@ Alcalde del pueblo / *burbuja*. Presenta a la familia Pérez en la plaza del pue
 
 - Forma parte del equipo que asalta el manicomio (c17).
 - Tiene fama de tener mala memoria.
+
+
+## Iván
+
+Miembro de la resistencia infiltrado en RIO como jefe de seguridad (**¿de qué?**). Ayuda a escapar a Jonás tras el ataque al manicomio (c19).
+
+### Físico
+
+- Calvo.
+- Imponente.
+
+### Personalidad / otros.
+
+- Burlón
+- Personaje: un jefe de seguridad sádico, chulo y burlón, que disfrutaba con su sufrimiento.
+- Serioe, honorable, comprometido con la causa de la resistencia.
+
+
+## Pedro y Jacob
+
+Guardias de RIO que llevan a Jonás en la parte trasera del furgón (c19).
+

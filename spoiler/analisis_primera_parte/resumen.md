@@ -181,3 +181,15 @@ Las hijas rescatan a la madre y las tres consiguen huir del colegio escalando la
 
 Lara, aterrada, cree leer en los labios del alcalde: "Hasta la próxima".
 
+## 19. El trayecto
+
+Iván y otros dos agentes de RIO a su mando escoltan a Jonás cautivo en la parte trasera de un furgón, tras escapar del manicomio donde lo retenían junto a Arturo. Jonás consigue escapar y deshacerse de su camisa de fuerza gracias a la nube de humo negro que controla con un guante.
+
+Consigue huir hasta un piso franco de la resistencia, donde miembros de la resistencia disfrazados de vagabundos repelen a los perseguidores de Jonás. Dentro se reúne con Iván, quién resulta ser un miembro de la resistencia infiltrado en RIO y que le ayudó a escapar.
+
+La pareja habla sobre la situación actual de RIO y de la resistencia. Iván intenta animarlo para que luche contra RIO, ya que esta "nunca lo dejará en paz".
+
+Una miembro de la resistencia informa que han encontrado otra *Burbuja* y le da una foto a Iván. Este pregunta si Ana ha visto la foto y la chica lo confirma, diciendo que está llevando a cabo los preparativos para la liberación personalmente. Jonás reconoce a una chica en la foto.
+
+- **¿Dónde están? ¿Y el manicomio?**
+
