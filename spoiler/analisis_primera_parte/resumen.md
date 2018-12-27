@@ -171,3 +171,13 @@ El equipo de francotiradores comunica a Ana que ha asegurado "el paquete" y Ana 
 
 Arturo les cuenta que solían inyectarle algo todos los días, media hora antes de llevarlo a una habitación dónde le obligaban a caminar de un lado a otro muchas veces y le iban preguntando qué sentía. El Venezolano los lleva a la susodicha habitación, pero sólo encuentran un gran agujero perfectamente rectangular en el centro de la habitación, sin escombros en el piso inferior.
 
+## 18. Primer día de clase
+
+Lara y Noemí juegan al juego de esta última “Revuélvele el pelo a tu hermana la coqueta” antes de desayunar con el resto de la familia. Las hijas van al instituto y los padres a sus respectivos trabajos.
+
+Durante una clase de matemáticas tediosa, Lara comienza a sentirse nublada al mirar las complejas ecuaciones de la pizarra y da la solución de manera involuntaria. Suenan las notas de xilófono y los alumnos comienzan a matar a los profesores al grito de "¡Muerte al traidor!". Lara huye y se topa con su hermana en la salida de la clase. Ambas comienzan a buscar a la madre y la encuentran recibiendo una paliza de sus alumnos. 
+
+Las hijas rescatan a la madre y las tres consiguen huir del colegio escalando la puerta del patio. En el otro lado las recibe el alcalde Batido de Maíz que las felicita por superar el "primer nivel", mientras más habitantes corren furiosos contra ellas. Tras un gesto del alcalde a una cámara de seguridad, suenan "tres notas de xilófono cortas y agudas, seguidas de una larga y grave" y la turba se calma, ofreciendo su ayuda a las chicas.
+
+Lara, aterrada, cree leer en los labios del alcalde: "Hasta la próxima".
+

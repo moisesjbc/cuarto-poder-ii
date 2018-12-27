@@ -114,6 +114,13 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
 - Todos se congregan para recibir a la familia Pérez, sonrientes.
 - Policía con uniforme blanco e impoluto.
 - **Cuando se escuchan tres notas graves, cortas, seguidas de una larga y aguda (c16)**, todos los presentes se van.
+- **(c17) Un xilófono emitía tres notas graves y cortas, seguidas de una larga y aguda**.
+    - Los alumnos comienzan a matar a sus profesores al grito de "¡Traidores!". Cuando Lucía, Noemí y Lara escapan, el alcalde Batido de Maíz las felicita por superar **el primer nivel**.
+    - **¿Cuáles son los niveles? ¿Cuál es el "objetivo?**.
+- Tres notas de xilófono cortas y agudas, seguidas de una larga y grave parece calmar a la gente.
+    - **¿Motivación y funcionamiento de las notas de xilófono?**
+- El alcalde Badito de Maíz parece inmune al xilófono y parece ordenar que lo hagan sonar haciendo gestos a las cámaras de seguridad de la ciudad.
+    - **¿Motivación? ¿Relación con otros alcaldes de Burbujas?**
 
 ### Casa de la familia Pérez
 

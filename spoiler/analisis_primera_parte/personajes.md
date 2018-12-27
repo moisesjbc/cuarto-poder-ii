@@ -132,7 +132,7 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Un hilillo de sangre brota de su nariz y Jonás muestra una expresión de dolor mientras controla la nube de humo negro.
 
 - (Según Ana) Se tira al agua en el puerto intentando escapar desesperadamente, **maldiciendo a Ajani** y jurando que no volverá a ser capturado **otra vez** por RIO.
-
+- **¿Pasó alguna vez por una *Burbuja*?**
 
 ## Allan
 
@@ -421,6 +421,7 @@ Técnico informático que se ha mudado a un pueblo (*Burbuja*) con su familia.
 - Técnico informático en la ciudad.
 - Será técnico informático en el ayuntamiento.
 - Se queda con un nudo en la garganta cuando el chico les grita que huyan de la ciudad y el policía les invita amablemente a entrar en casa.
+- Cierta predilección sana por Noemí, de quién dice que es una "auténtica cazadora".
 
 
 ## Lucía
@@ -431,6 +432,7 @@ Mujer de Mario. Profesora de matemáticas.
 
 - 35 años.
 - Gran melena lacia y rubia.
+- Pecho generoso.
 
 ### Personalidad
 
@@ -449,11 +451,18 @@ Hija de Mario y Lucía. Estudiante de instituto.
 ### Físico
 
 - 14 años
+- Según Lara: "le da igual llevar el pelo hecho un desastre".
+- Pelo rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes
+- Ágil, activa.
 
 ### Personalidad
 
 - Directa (pe. pregunta directamente al alcalde Batido de Maíz por qué "están encerrados allí" - c16).
 - Según ella: "no me gusta estar encerrada"
+ Le gusta jugar con Lara a “Revuélvele el pelo a tu hermana la coqueta”.
+    - Correr desde el baño donde se peina hasta la entrada de la casa sin que Noemí despeine a Lara.
+    - Suele ganar Noemí.
+- Resolutiva: en c18 idea usar el extintor para salvar a su madre.
 
 
 ## Lara Pérez
@@ -464,12 +473,21 @@ Hija de Mario y Lucía. Estudiante de instituto.
 ### Físico
 
 - 16 años
-- Larga cabellera castaña.
+- Larga cabellera castaña, que le llega hasta media espalda. Muy cuidada.
+- Pecho generoso.
 
-### Personalidad
+### Personalidad / Otros
 
 - "Se ríe con cualquier cosa" según Noemí.
 - Le encanta la idea de tener jardín en su nueva casa.
+- Coqueta.
+- Le gusta jugar a escapar de Noemí que intenta despeinarla.
+- Envidia en secreto a su hermana por su gran naturalidad y despreocupación.
+- Heredó los pechos generosos de su madre. Esto le ha causado algún que otro disgusto en el anterior instituto.
+- El primer día de clase no consigue hacer amigos.
+- (c18) "Cada vez que miraba hacia la pizarra llena de fórmulas, sentía como una nube nublaba su cabeza, como si le costara pensar con claridad"
+    - De repente responde en voz baja la solución, de manera involuntaria.
+- Bastante asustadiza con las cosas que no puede controlar.
 
 
 ## Chico en bici
