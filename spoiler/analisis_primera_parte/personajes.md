@@ -577,3 +577,25 @@ Miembro de la resistencia infiltrado en RIO como jefe de seguridad (**¿de qué?
 
 Guardias de RIO que llevan a Jonás en la parte trasera del furgón (c19).
 
+
+## Lidia, Marta, Joseph (líder), Aitor y "Conductor".
+
+Equipo de asalto que entra en la *Burbuja* de las proyecciones en el cielo (capítulo 21).
+
+- Joseph: serio, profesional.
+- Un proyectil incendiario cae sobre ellos. **¿Qué ocurre con ellos?**
+- **No se especifica que Aitor es el mismo del capítulo 6**.
+
+
+## Alicia
+
+Miembro de la resistencia infiltrada en la *Burbuja* **de Aitor**. Resulta ser una traidora.
+
+### Físico
+
+- Unos treinta años
+- Pelo largo, castaño y rizado, aplastado bajo una gorra blanca con el escudo de la ciudad.
+
+### Personalidad / otros
+
+- Fría una vez se descubre su traición.

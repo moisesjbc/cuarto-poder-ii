@@ -205,3 +205,11 @@ El alcalde suplica por su vida, intentando vender informacón relevante sobre RI
 
 Suenan tres notas agudas y largas de xilófono, seguida de una grave y corta. Los habitantes del pueblo comienzan a desmayarse, incluida la familia Pérez. Todos sienten un súbito dolor de cabeza que dura unos segundos. Tras ello, Mario se siente "diferente". Lucas reconoce en la mujer pelirroja a Ana antes de desmayarse.
 
+## 21. Mirando al cielo
+
+Tres equipos de la resistencia llegan de noche a una *Burbuja* para liberarla. El grupo liderado por Joseph y compuesto por Lidia, Marta, Joseph, Aitor y el conductor entra escalando la muralla azul, ayudados por una infiltrada de la Resistencia llamada Alicia.
+
+El grupo entra en una casa cuyo interior presenta una escena llena de sangre y muestras de lucha, según Alicia, por uno de los "entrenamientos" de RIO. Cuando avanzan por la avenida, Joseph recibe un aviso de que Alicia es una traidora. Joseph acaba con ella cuando se escuchan las notas de xilófono. Los habitantes de la *Burbuja* comienzan a salir, serios, de sus casas, y miran al cielo.
+
+A través de la megafonía de la *Burbuja* una voz ordena "empezar el juego", y una proyección en el cielo muestra un cabeza escupiendo fuego. El equipo de Joseph entra corriendo en la casa más cercana mientras proyectiles incendiarios caen por todo el pueblo. Uno de ellos atraviesa el techo de la casa y envuelve la estancia en llamas.
+

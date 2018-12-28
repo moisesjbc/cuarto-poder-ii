@@ -141,6 +141,20 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
 
 - "Ante ellos se alzaba una casa de madera blanca de dos pisos. Tenía un tejado principal a dos aguas que caía por delante y por detrás, y un tejado más pequeño que resguardaba el garaje, el cual sobresalía hacia delante por el lado derecho del frontal de la construcción."
 
+### Burbuja ?¿? (la de Aitor)
+
+- "Pertenece a un estado avanzado del sistema de entrenamiento de RIO"
+    - **¿Cómo se organizan este sistema y las Burbujas entre sí?**
+- uniforme completamente blanco salvo por unas líneas horizontales azules en las mangas de la camisa y el pantalón
+    - **¿Uniforme igual al de los efectivos de RIO en el AT?**
+- Entradas este, oeste y sur. Esta última es la avenida principal.
+- Centro de control en la plaza.
+- El "sistema de entrenamiento" se activa a intervalos regulares.
+- Se interrumpen todas las comunicaciones hacia el exterior y se escuchan todas las comunicaciones en el interior.
+- Proyección en el cielo de multitud de siluetas blancas sucediéndose mientras se escucha el sonido de una tragaperras. La silueta que aparece indica el tipo de "entrenamiento".
+    - Señal "Exceso de población": la gente empieza a matarse entre sí.
+    - Señal de una cabeza escupiendo fuego: empiezan a caer proyectiles incendiarios y la gente corre a protegerse.
+
 
 # Manicomio
 
