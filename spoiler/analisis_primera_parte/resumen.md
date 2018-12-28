@@ -225,3 +225,11 @@ Lucas le dice a Ana que se unirá a la resistencia, ahora que saba que no lo dej
 
 Ana se separa para "atar unos cabos" en el centro de control de la *Burbuja* mientras llega el transporte. Lucas repara en que ni Lara ni Jonás están presentes.
 
+## 23. 15 minutos
+
+Ana habla por la megafonía de la ciudad, indicando que los habitantes se separarán en dos grupos y se irán en tren desde una estación a 3000 metros al norte del pueblo.
+
+Noemí se junta a Mario, mientras María permanece en el primer grupo. Miembros de la resistencia comienzan a salir del centrol de control vestidos de civiles, incluida Ana, que va teñida de negro. Parte del grupo se mezcla con el primer grupo de habitantes y parten hacia la estación de trenes.
+
+Aparecen Jonás y Lara. Jonás informa que una superiora del alcalde llamó preguntando por él y que él se inventó una excusa para su ausencia, aunque no asegura al 100% que funcionara. Informan a Ana de que el otro grupo ha llegado a la estación y el tren está llegando a su vez. La comunicación se interrumpirá durante 15 minutos, en los que el tren llega a la siguiente parada.
+

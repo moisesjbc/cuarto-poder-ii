@@ -32,6 +32,9 @@
 - Se siente en parte culpable porque los agentes de RIO eviten dispararle y en su lugar disparen a "aquellos que estaban actuando y muriendo por derrocar a RIO".
 - Según Ana, tiene una "sensiblidad especial" muy valiosa para RIO.
 - Le dice a Ana que se unirá a la resistencia, al ver que RIO nunca lo dejará en paz y al ver lo que la corporación es capaz de hacer (c22).
+- Se había ganado la enemistad de RIO con los sucesos de Inglaterra.
+- No se permitía que su amistad con Ana fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la resistencia, se lo replantea.
+- Se siente unido a Noemí.
 
 
 ## Ana
@@ -39,10 +42,14 @@
 ### Físico
 
 - 29 años
-- Alta y delgada. 
+- Alta y delgada.
+- Esbelta.
 - Piel blanca.
 - Pelo ondulado y pelirrojo anaranjado. Casi rosa sus hombros.
 - Cara pecosa.
+- Abundante pecho.
+- (c23) Vestida con una camiseta negra de un grupo de rock y unos pantalones vaqueros de color azul fuerte. Pelo teñido de moreno.
+    - Pistola en el pantalón, oculta bajo la camiseta del grupo de rock.
 
 ### Personalidad
 
@@ -149,7 +156,9 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Según Iván: "mero simpatizante" de la resistencia.
 - Sólo quiere alejarse de RIO tanto como puede, sobre todo **después de lo que le hicieron a la hermana (*)**. Sólo accedió a lo del ataque porque Ajani se lo pidió; le debe su libertad y quiere saldar la deuda.
     - **(*) ¿Qué le hicieron según Jonás? ¿Qué le hicieron realmente?**
-- **En el capítulo 22 desaparece junto con Lara**.
+- Jonás ayuda a evitar que RIO les descubra en el centro de control de la *Burbuja* (c23).
+- Según Ana, Jonás necesita a la resistencia, y más ahora que tiene que proteguer a Lara.
+- La corporación lo capturó hace tiempo y experimentó con él. Y no fue precisamente algo voluntario
 
 
 ## Allan
@@ -482,6 +491,9 @@ Hija de Mario y Lucía. Estudiante de instituto.
     - Suele ganar Noemí.
 - Resolutiva: en c18 idea usar el extintor para salvar a su madre.
 - **¿Por qué fue capturada por RIO?**
+- Predilección por Mario.
+- Llorosa desde que "despierta".
+- Se siente unida a Lucas.
 
 
 ## Lara Pérez
@@ -509,7 +521,6 @@ Hija de Mario y Lucía. Estudiante de instituto.
 - Bastante asustadiza con las cosas que no puede controlar.
 - **¿Por qué fue capturada por RIO?**
 - Asustadiza
-- **En el capítulo 22 desaparece junto con Jonás**.
 
 
 ## Chico en bici
@@ -609,3 +620,5 @@ Miembro de la resistencia infiltrada en la *Burbuja* **de Aitor**. Resulta ser u
 ## María (B)
 
 Fue la que era Lucía en la *Burbuja*.
+
+- Primer grupo para abandonar la *Burbuja* (c23).

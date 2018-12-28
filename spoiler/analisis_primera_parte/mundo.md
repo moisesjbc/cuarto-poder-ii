@@ -59,6 +59,7 @@ Un hombre de negro fuerza a Manuel a readmitir a Paco justo después de que lo d
 - La resistencia tiene un equipo de francotiradores en el rescate del manicomio (c17).
 - Muchos agentes infiltrados en el AT de Gran Canaria cayeron durante el ataque y después, durante la purga que realizó RIO. Sin embargo, según Iván aún quedan "unos cuantos".
 - Decide esperar a que se calmen las aguas para realizar otro ataque frontal. Mientras, se centran en liberar a los ingleses capturados y en "estar *Burbujas*".
+- Equipo: "El miembro de la resistencia se llevó la mano a su oreja derecha y presionó un pequeño botón en el auricular que llevaba puesto. Del auricular salía un pequeño micrófono que usó para comunicarse con un interlocutor desconocido".
 
 ## Incidente de Inglaterra
 
@@ -102,6 +103,7 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
 - RIO obligó a Jonás a programarle la clave del xilófono a los "sujetos". **Jonás se da un toque en la cabeza para indicarlo**. **¿Estos sujetos están únicamente en las Burbujas?**
 - "¿Los menores de edad conservan su nombre?"
 - Los que han sufrido un "cambio de personalidad" (pe. "Mario" y "Lucía") sienten "como si la otra persona que hemos sido intentara retomar el control".
+- Llamadas de control desde los superiores cada X tiempo.
 
 
 ### Burbuja ???
