@@ -30,6 +30,8 @@
 - Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
 - Sin apenas puntería.
 - Se siente en parte culpable porque los agentes de RIO eviten dispararle y en su lugar disparen a "aquellos que estaban actuando y muriendo por derrocar a RIO".
+- Según Ana, tiene una "sensiblidad especial" muy valiosa para RIO.
+- Le dice a Ana que se unirá a la resistencia, al ver que RIO nunca lo dejará en paz y al ver lo que la corporación es capaz de hacer (c22).
 
 
 ## Ana
@@ -107,6 +109,7 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Pelo oscuro, reseco y mustio, pero generoso.
 - Mechones de pelo lacio y negro caían sobre su cara
     - **¿No es un fallo con lo que digo más adelante cuando se abraza con Lara?**
+- (c22) "La resistencia había aseado a Jonás y le había ofrecido ropas nuevas, acabando con su imagen de vagabundo"
 
 ### Personalidad
 
@@ -146,6 +149,7 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Según Iván: "mero simpatizante" de la resistencia.
 - Sólo quiere alejarse de RIO tanto como puede, sobre todo **después de lo que le hicieron a la hermana (*)**. Sólo accedió a lo del ataque porque Ajani se lo pidió; le debe su libertad y quiere saldar la deuda.
     - **(*) ¿Qué le hicieron según Jonás? ¿Qué le hicieron realmente?**
+- **En el capítulo 22 desaparece junto con Lara**.
 
 
 ## Allan
@@ -482,7 +486,7 @@ Hija de Mario y Lucía. Estudiante de instituto.
 
 ## Lara Pérez
 
-- Hija de Mario y Lucía. Estudiante de instituto. Este es su último año en la ESO.
+- Hija de Mario y Lucía. Estudiante de instituto. Este es su último año en la ESO. **Resulta ser la hermana de Jonás**.
     - **¿La ESO sigue existiendo en el futuro, o sólo en la ciudad burbuja?**
 
 ### Físico
@@ -505,6 +509,7 @@ Hija de Mario y Lucía. Estudiante de instituto.
 - Bastante asustadiza con las cosas que no puede controlar.
 - **¿Por qué fue capturada por RIO?**
 - Asustadiza
+- **En el capítulo 22 desaparece junto con Jonás**.
 
 
 ## Chico en bici
@@ -599,3 +604,8 @@ Miembro de la resistencia infiltrada en la *Burbuja* **de Aitor**. Resulta ser u
 ### Personalidad / otros
 
 - Fría una vez se descubre su traición.
+
+
+## María (B)
+
+Fue la que era Lucía en la *Burbuja*.

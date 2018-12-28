@@ -95,10 +95,14 @@ Ladrones de los *barrios estatales* que escarban agujeros en los túneles y asal
 
 Organización contraria a la corporación RIO y sus mentiras. Anteriormente luchaba contra RIO investigando y tratando de sacar a la luz sus farsas, pero cuando se demostró que eso no llevaba a ninguna parte, se vio forzada a radicalizarse. Ahora intenta destruirla por todos los medios posibles, como con agentes infiltrados como Ana.
 
+- Recluta nuevos miembros entre los habitantes de las *Burbujas* estalladas. Aquellos que no se únen son realojados en barrios estatales, ya que la resistencia no tiene recursos para procurarles algo mejor.
 
 ## Burbujas
 
 - RIO obligó a Jonás a programarle la clave del xilófono a los "sujetos". **Jonás se da un toque en la cabeza para indicarlo**. **¿Estos sujetos están únicamente en las Burbujas?**
+- "¿Los menores de edad conservan su nombre?"
+- Los que han sufrido un "cambio de personalidad" (pe. "Mario" y "Lucía") sienten "como si la otra persona que hemos sido intentara retomar el control".
+
 
 ### Burbuja ???
 
