@@ -30,5 +30,12 @@ He llegado hasta el capítulo 11 (inclusive), resumiendo y tomando notas. Por lo
 
 ¡Segunda semana que mantengo el ritmo! Espero seguir avanzando despacio pero con buena letra.
 
+## Semana 3 (24/12/2018 - 29/12/2018)
 
- 
+Aprovechando que tenía esta semana de vecaciones, he dividido el resto de capítulos de la primera parte entre los diferentes días. Ha dado 3 capítulos por día y eso he hecho, analizar 3 capítulos de la primera parte ¡hasta terminarla hoy!
+
+- **Me gustó especialmente releer los capítulos del 16 ("Una nueva vida") al 21 ("Mirando al cielo")**. Recuerdo que en su momento me gustó escribir sobretodo la parte relativa a las *Burbujas*. Estos "pueblos locos" de RIO permanecen siendo en su mayor parte un misterio, y a mi amigo Alejandro también le gustó dicha parte, así que... ¡todo me anima a darles una parte importante en el segundo libro! ;-)
+- Como me comentó Marina en su amplio análisis, **es un poco liosa la línea temporal en la segunda mitad de la primera parte** (después del ataque al AT de Gran Canaria). Aunque menciono de pasada que sucede 3 meses después del ataque, sí es cierto que no queda del todo claro cuándo sucede cada cosa. Me lo apunto.
+- **¡Qué cantidad de personajes y cabos sueltos tengo!**.
+
+Y hasta aquí puedo leer. La semana / año que viene revisaré las notas y curiosidades que tengo anexas en la primera parte y comenzaré a planificar todo el lío de notas que he tomado.
