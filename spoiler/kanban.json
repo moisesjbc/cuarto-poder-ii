@@ -6,11 +6,6 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "[Análisis primera parte] Capítulo 12 - Releer y tomar notas",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
           "name": "[SPLIT] Releer primera parte y extraer notas",
           "details": "",
           "color": "FCC7FC"
@@ -19,6 +14,26 @@
           "name": "Planificar siguientes pasos",
           "details": "",
           "color": "FCC7FC"
+        },
+        {
+          "name": "Analizar \"curiosidades.md\" de la primera parte",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Analizar carpeta \"SPOILER\" de la primera parte",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Repasar código de colores y usarlo.",
+          "details": "",
+          "color": "989FFA"
+        },
+        {
+          "name": "Ver dónde subi la primera parte",
+          "details": "",
+          "color": "FFFFFF"
         },
         {
           "name": "Analizar estado del repositorio y extraer objetivos",
@@ -36,8 +51,8 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Releer correo de Marina y tomar notas",
-          "details": "",
+          "name": "Releer correo de Marina y tomar notas (DESC)",
+          "details": "Comentó algo de cómo uso la puntuación. Tenerlo en cuenta y planificar v1.3.1 de la primera parte.",
           "color": "FAFCD2"
         },
         {
@@ -59,11 +74,6 @@
           "name": "Tener en cuenta (DESC)",
           "details": "- Aclarar el \"show, don't tell\": https://en.wikipedia.org/wiki/Show,_don%27t_tell\n- Me \"paro\" mucho a describir la distribución del pasillo y las dos grandes salas de la planta 26 a pesar de que se está produciendo una avanzadilla de los ingleses (¡acción!).",
           "color": "FAFCD2"
-        },
-        {
-          "name": "Comenzar diario",
-          "details": "",
-          "color": "FAFCD2"
         }
       ],
       "settings": {}
@@ -79,9 +89,79 @@
       "name": "Done",
       "cards": [
         {
+          "name": "[Análisis primera parte] Capítulo 24 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 23 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 22 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 21 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 20 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 19 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 18 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 17 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 16 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 15 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 14 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 13 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 12 - Releer y tomar notas",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
           "name": "[Análisis primera parte] Capítulo 11 - Releer y tomar notas",
           "details": "",
           "color": "C1F7C2"
+        },
+        {
+          "name": "Comenzar diario",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "[Análisis primera parte] Capítulo 10 - Releer y tomar notas",
@@ -152,6 +232,11 @@
           "name": "Clonar repositorio",
           "details": "",
           "color": "FAFCD2"
+        },
+        {
+          "name": "[Análisis primera parte] Capítulo 22 - Releer y tomar notas",
+          "details": "",
+          "color": "FFFFFF"
         }
       ],
       "settings": {}
