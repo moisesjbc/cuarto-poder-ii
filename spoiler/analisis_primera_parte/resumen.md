@@ -233,3 +233,13 @@ Noemí se junta a Mario, mientras María permanece en el primer grupo. Miembros 
 
 Aparecen Jonás y Lara. Jonás informa que una superiora del alcalde llamó preguntando por él y que él se inventó una excusa para su ausencia, aunque no asegura al 100% que funcionara. Informan a Ana de que el otro grupo ha llegado a la estación y el tren está llegando a su vez. La comunicación se interrumpirá durante 15 minutos, en los que el tren llega a la siguiente parada.
 
+## 24. La excursión
+
+El primer grupo informa que ha llegado a su destino. El segundo partirá en media hora. Ana, Lucas, Noemí, Lara y Jonás se separan en un banco de la plaza. Este último pregunta a Lara si le ha sangrado la nariz y maldice cuando Lara responde afirmativamente.
+
+Ana habla con Jonás a solas (*) mientras Lucas hace lo propio con Noemí y Lara. Noemí cuenta que sus padres trabajaban para RIO hasta que descubrieron una de sus grandes mentiras (el incidente de Inglaterra) e intentaron unirse a la resistencia, pero RIO los mató y capturó a Noemí unos días más tardes.
+
+Jonás y Ana regresan y el primero habla a solas con Lara. Ana anuncia que es el momento y el segundo grupo parte hacia la estación de tren. Allí Lucas comienza a sentirse mal y Jonás se percata, gritando a todos que salgan. El grupo intenta huir pero el suelo desaparece bajo sus pies. Lucas tropieza y se golpea en la cabeza con el suelo de la entrada, cayendo al vacío mientras la mano de Jonás intenta alcanzarlo.
+
+Lucas tiene una visión de un planeta con dos lunas, una dorada y la otra plateada, antes de desmayarse por completo.
+

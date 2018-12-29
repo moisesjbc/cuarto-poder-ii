@@ -159,6 +159,10 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Jonás ayuda a evitar que RIO les descubra en el centro de control de la *Burbuja* (c23).
 - Según Ana, Jonás necesita a la resistencia, y más ahora que tiene que proteguer a Lara.
 - La corporación lo capturó hace tiempo y experimentó con él. Y no fue precisamente algo voluntario
+- No se siente muy cómodo con gente alrededor.
+- Maldice cuando Lara le cuenta cómo le sangró la nariz en clase de matemáticas.
+
+(*) **¿Jonás le cuenta algo más de las nanomáquinas o sobre Lara y él?**
 
 
 ## Allan
@@ -494,6 +498,8 @@ Hija de Mario y Lucía. Estudiante de instituto.
 - Predilección por Mario.
 - Llorosa desde que "despierta".
 - Se siente unida a Lucas.
+- No quiere salir de la *Burbuja* porque "al menos tenía una familia".
+- Sus padres fueron asesinados por RIO cuando intentaron "desertar" a la resistencia. Ella fue capturada 2 días después y "convertida en otra Noemí".
 
 
 ## Lara Pérez
@@ -622,3 +628,15 @@ Miembro de la resistencia infiltrada en la *Burbuja* **de Aitor**. Resulta ser u
 Fue la que era Lucía en la *Burbuja*.
 
 - Primer grupo para abandonar la *Burbuja* (c23).
+
+
+## Cámara
+
+Miembro de la resistencia que graba la liberación de la burbuja ??? (la de Mario).
+
+- Bromista (bromea con grabar la ceja mal teñida de Ana en el capítulo 24).
+
+
+## Padres de Noemí
+
+Antiguos trabajadores de RIO que descubrieron la farsa del incidente de Inglaterra. Interaron desertar a la resistencia pero RIO los mató y dos días después capturaron a Noemí.

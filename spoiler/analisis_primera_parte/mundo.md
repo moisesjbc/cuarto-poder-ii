@@ -67,6 +67,9 @@ Un hombre de negro fuerza a Manuel a readmitir a Paco justo después de que lo d
 - **¿Qué pasó en Inglaterra exactamente?**
 - Según el reportaje de Elizabeth en el capítulo 15: *nuestros informativos fueron los que destaparon la gran conspiración hace tres años (*), cuando Inglaterra planeaba atacar Estados Unidos aprovechando su delicada situación interna.*
     - (*) Sería en 2022 de ser cierto.
+- "¿Recordaría Noemí haber visto el montaje en el que él, Lucas, reportero de RIO, sentenciaba a Inglaterra a múltiples sanciones internacionales?"
+- Noemí llegó a ver el "vídeo original" del incidente de Inglaterra; algo que descubrieron sus padres.
+    - **¿Qué pasaba en ambos vídeos?**.
 
 ## Asalto al AT de Gran Canaria
 
@@ -104,6 +107,8 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
 - "¿Los menores de edad conservan su nombre?"
 - Los que han sufrido un "cambio de personalidad" (pe. "Mario" y "Lucía") sienten "como si la otra persona que hemos sido intentara retomar el control".
 - Llamadas de control desde los superiores cada X tiempo.
+- Noemí fue capturada hace tiempo y "convertida en otra Noemí" hace tiempo, pero en la primera parte está comenzando una "nueva vida" con "Mario", quién lleva 3 meses en poder de RIO.
+    - **Aclarar los tiempos. ¿Hay algún tipo de prueba y error y/o preparación previa con los sujetos?**
 
 
 ### Burbuja ???
@@ -113,7 +118,10 @@ Organización contraria a la corporación RIO y sus mentiras. Anteriormente luch
     - Gran puerta de madera que se abre únicamente para permitir a la familia Pérez entrar.
     - Según el alcalde, la muralla cuenta con puertas más pequeñas que se mantienen siempre abiertas. Esto resulta ser mentira.
 - Muy recóndita. A la familia Pérez le lleva más de 7 horas y media de viaje llegar, 4 horas y media de ellas por carretera secundaria por paisajes desérticos.
-
+- Fuera: "un paisaje desértico que se extendía kilómetros y kilómetros en todas las direcciones".
+    - Cadena montañosa que rodea en la lejanía a la gran extensión llana que alberga al pueblo.
+    - Estación de tren a 300 metros al norte. "Tanto en un lado como en el otro, las vías se adentraban mediante túneles en las montañas del horizonte".
+        - "Una gran sala abandonada a su suerte, con muebles de madera carcomida, mostradores de vidrio destrozados, ratas campando a sus anchas".
 
 #### Descripciones en c16
 
@@ -176,3 +184,8 @@ Falso manicomio donde RIO retienen a Arturo durante los 3 meses posteriores al a
 - **¿Para qué son las pruebas que le hacen a Arturo?**
 Según Arturo, le inyectaban algo todos los días: "siempre me las inyectaban media hora antes de llevarme a la sala donde caminaba de un lado para otro. [...] y me obligaban a caminar de un lado a otro. Me hacían caminar de un lado a otro y entonces me preguntaban qué sentía. Luego me obligaban a caminar en el sentido contrario y volvían a preguntarme qué sentía. Y así una y otra y otra vez cada día"
 
+# Planeta X:
+
+Visión de Lucas (c24): "Sintió la hierba acariciar sus pies desnudos mientras permanecía de pie frente a un océano cuyo color azul verdoso teñía el cielo. Lucas alzó la vista y alcanzó a ver un cielo dominado por dos lunas gigantes, una dorada y la otra plateada"
+
+- **Bueno, explicar esto**.
