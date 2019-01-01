@@ -83,6 +83,9 @@
 - Visiblemente afectada por la muerte de Lucas. Jura venganza contra Elizabeth.
 - Pierde su coartada durante el AT de Gran Canaria.
 - Se guarda las balas que recibe como recuerdo.
+- **¿Jonás tendrá alguna evolución con las nanomáquinas?** En el documento de curiosidades de la primera parte referencio dos vías:
+    - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
+    - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
 
 
 ## Coronel Cooper
@@ -98,11 +101,7 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 - Ojos azules.
 - Excelente condición física.
 
-### Personalidad
-
-
-
-### Otros
+### Personalidad / Otros
 
 - Habla español perfectamente.
 - Vivió el *Incidente de Inglaterra*. Lanza el ataque a RIO supuestamente por no haber podido encontrar pruebas en todo este tiempo.
