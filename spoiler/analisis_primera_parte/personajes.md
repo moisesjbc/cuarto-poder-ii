@@ -192,6 +192,12 @@ Según RIO: terrorista y criminal de guerra despiadado, buscado en todo el mundo
 - **¿Motivación?**
 - **Extraer info del relato "El héroe" e incluirla en la historia**
 - Seguún Luis (capítulo 15): no ha dado señales de vida después del ataque fallido al AT de Gran Canaria.
+- **Recordar significado del nombre**.
+- **Desarrollar historia de él y su hermano Karim (comprobar y verificar significado del nombre)**.
+    - ¿Regufiados en país africano X?
+    - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
+    - ¿Leyenda del torniquete y la guerra definitiva?
+    - ¿Creo el personaje de la francotiradora?
 
 ## Paco
 
