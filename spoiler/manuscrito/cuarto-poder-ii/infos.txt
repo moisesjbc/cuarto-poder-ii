@@ -1,1 +1,3 @@
 Title:          Cuarto Poder II
+Author:         Moisés J. Bonilla Caraballo
+Email:          moisesjbc@gmail.com
