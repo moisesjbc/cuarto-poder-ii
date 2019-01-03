@@ -1,2 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<root/>
+<root>
+  <plot name="Incidente de Inglaterra" ID="0" importance="2" characters="0"/>
+  <plot name="Estallido de la burbuja de Mario" ID="1" importance="2"/>
+</root>

@@ -2,5 +2,7 @@
 <opml version="1.0">
   <body>
     <outline name="RIO" ID="0"/>
+    <outline name="Resistencia" ID="1"/>
+    <outline name="Nanomáquinas" ID="2"/>
   </body>
 </opml>

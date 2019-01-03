@@ -86,7 +86,7 @@
         },
         "Tree": {
             "Background": "Nothing",
-            "Icon": "Nothing",
+            "Icon": "POV",
             "InfoFolder": "Nothing",
             "InfoText": "Nothing",
             "Text": "Compile",

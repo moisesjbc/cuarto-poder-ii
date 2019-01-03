@@ -1,42 +1,5 @@
 # Personajes
 
-## Lucas
-
-### Físico
-
-- 30 años
-- Moreno, alto y de complexión media.
-- Pelo castaño y corto.
-- Ojos marrones.
-- Bigote y barba de dos semanas (al comienzo de la primera parte).
-
-### Personalidad
-
-- Hastío.
-- Pesimista.
-- Serio.
-- Acostumbrado a que sus compañeros le hagan el vacío desde el *Incidente de Inglaterra*.
-    - Se siente culpable por no haber encontrado pruebas de la verdad en "todos estos años".
-- Poco acostumbrado a los conflictos.
-- Teme disparar. Aunque desprecia a los de RIO, se muestra cortado cuando Ana bromea sobre la muerte de uno de ellos.
-
-### Ocupación
-
-- Lucas lleva años trabajando para RIO. Trabajó como corresponsal hasta el *Incidente de Inglaterra*, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores.
-
-### Otros
-
-- Lucas se siente especialmente culpable, ahora que presencia gente muriendo (capítulo 9), de no haber hecho nada contra RIO en todos estos años.
-- Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
-- Sin apenas puntería.
-- Se siente en parte culpable porque los agentes de RIO eviten dispararle y en su lugar disparen a "aquellos que estaban actuando y muriendo por derrocar a RIO".
-- Según Ana, tiene una "sensiblidad especial" muy valiosa para RIO.
-- Le dice a Ana que se unirá a la resistencia, al ver que RIO nunca lo dejará en paz y al ver lo que la corporación es capaz de hacer (c22).
-- Se había ganado la enemistad de RIO con los sucesos de Inglaterra.
-- No se permitía que su amistad con Ana fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la resistencia, se lo replantea.
-- Se siente unido a Noemí.
-
-
 ## Ana
 
 ### Físico

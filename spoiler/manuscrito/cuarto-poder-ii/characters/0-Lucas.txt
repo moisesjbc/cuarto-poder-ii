@@ -1,4 +1,23 @@
 Name:                Lucas
 ID:                  0
 Importance:          2
+Goal:                - Acabar con RIO.
+                     - ¿Acabar con {C:1:Ana}?
+Full Summary:        Lucas lleva años trabajando para {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario}, decide unirse a la {W:1:Resistencia}.
+                     
+                     - Acostumbrado a que sus compañeros le hagan el vacío tras el {P:0:Incidente de Inglaterra}.
+Notes:               - Lucas se siente especialmente culpable, ahora que presencia gente muriendo (capítulo 9), de no haber hecho nada contra {W:0:RIO} en todos estos años.
+                     - Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
+                     - Se siente en parte culpable porque los agentes de {W:0:RIO} eviten dispararle y en su lugar disparen a "aquellos que estaban actuando y muriendo por derrocar a {W:0:RIO}".
+                     - Según Ana, tiene una "sensiblidad especial" muy valiosa para {W:0:RIO} ({W:2:Nanomáquinas}).
+                     - Se había ganado la enemistad de RIO después del {P:0:Incidente de Inglaterra}.
+                     - No se permitía que su amistad con {C:1:Ana} fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la {W:1:Resistencia}, se lo replantea.
+                     - Se siente unido a {C:2:Noemí}.
 Color:               #fcaf3e
+Edad:                30 años
+Cuerpo:              Moreno, alto y de complexión media
+Pelo:                Castaño, corto
+Ojos:                Marrones
+Bello facial:        Bigote y barba cortos.
+Personalidad:        Serio, pesimista (comienzo del C1 de la primera parte). poco acostumbrado a conflictos. Teme disparar aunque sea a enemigos.
+Destreza con armas:  Puntería pésima. Miedo a disparar.
