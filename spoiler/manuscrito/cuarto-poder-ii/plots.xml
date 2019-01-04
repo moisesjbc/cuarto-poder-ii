@@ -2,4 +2,5 @@
 <root>
   <plot name="Incidente de Inglaterra" ID="0" importance="2" characters="0"/>
   <plot name="Estallido de la burbuja de Mario" ID="1" importance="2"/>
+  <plot name="Asalto al AT de Gran Canaria" ID="2" importance="2"/>
 </root>

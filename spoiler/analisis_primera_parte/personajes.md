@@ -1,56 +1,5 @@
 # Personajes
 
-## Ana
-
-### Físico
-
-- 29 años
-- Alta y delgada.
-- Esbelta.
-- Piel blanca.
-- Pelo ondulado y pelirrojo anaranjado. Casi rosa sus hombros.
-- Cara pecosa.
-- Abundante pecho.
-- (c23) Vestida con una camiseta negra de un grupo de rock y unos pantalones vaqueros de color azul fuerte. Pelo teñido de moreno.
-    - Pistola en el pantalón, oculta bajo la camiseta del grupo de rock.
-
-### Personalidad
-
-- Jovial y divertida.
-    - Siempre consigue animar a Lucas.
-- Fría y calculadora mientras actúa como parte de la resistencia.
-- No le gusta esconderse, pero lo hace si así puede proteguer a los suyos.
-
-### Otros
-
-- Mejor amiga de Lucas.
-    - **¿Desde hace cuánto se conocen?**
-- Miembro de la resistencia.
-- "Odia a los conejitos". Lleva un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo.
-- A ojos de Lucas, trabaja lo justo y necesario para que el jefe piense que está trabajando siempre.
-- Siempre intenta sonsacarle a Lucas lo del hecho de Inglaterra.
-    - **¿Qué sabe exactamente?**
-- Todos los días se queda 5 minutos más tarde en el trabajo.
-    - **¿Por qué?**
-- En los primeros momentos de encontrarse con Cooper y los demás soldados, Ana está visiblemente conmocionada.
-    - **Demasiado, según Lucas. ¿Por qué?**
-- **¿Cuál es su trabajo ficticio en RIO?**
-- En el capítulo 3 aparece vestida como miembro de la Resistencia.
-    - **¿Motivación y verdadera identidad / alianza?**
-    - **¿Desde cuándo lleva en RIO?**
-    - **¿Desde cuándo lleva en la Resistencia?**
-- Según ella es un miembro de la resistencia que se infiltró en RIO.
-- **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?** (**¿Quizás no es de la resistencia realmente...?**)
-    - Ana se sorprende cuando Jonás habla de miembros de la Resistencia infiltrados que lo están ayudando.
-- Desprecia enormemente a los agentes de RIO, bromeando con la muerte de los mismos.
-- Visiblemente afectada por la muerte de Lucas. Jura venganza contra Elizabeth.
-- Pierde su coartada durante el AT de Gran Canaria.
-- Se guarda las balas que recibe como recuerdo.
-- **¿Jonás tendrá alguna evolución con las nanomáquinas?** En el documento de curiosidades de la primera parte referencio dos vías:
-    - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
-    - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
-
-
 ## Coronel Cooper
 
 Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglaterra*.
@@ -126,6 +75,9 @@ Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglate
 
 (*) **¿Jonás le cuenta algo más de las nanomáquinas o sobre Lara y él?**
 
+- **¿Jonás tendrá alguna evolución con las nanomáquinas?** En el documento de curiosidades de la primera parte referencio dos vías:
+    - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
+    - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
 
 ## Allan
 

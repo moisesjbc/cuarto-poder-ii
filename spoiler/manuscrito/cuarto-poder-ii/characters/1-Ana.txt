@@ -1,4 +1,47 @@
 Name:                Ana
 ID:                  1
 Importance:          2
+Full Summary:        Mejor amiga de Lucas (**¿desde cuándo se conocen?**). En la primera parte se descubre como un miembro de la {W:1:Resistencia} infiltrado en {W:0:RIO}.
+                     	- **¿Motivación y verdadera identidad / alianza?**
+                         	- **¿Desde cuándo lleva en {W:0:RIO}?**
+                         	- **¿Desde cuándo lleva en la Resistencia?**
+                     
+                     Participa activamente en el asalto al AT de Gran {P:2:Asalto al AT de Gran Canaria}, aunque la {W:1:Resistencia} no la informó debido al riesgo.
+Notes:               **Primeros capítulos de la primera parte**
+                     
+                     - Lleva un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo.
+                     	- **¿Qué sucede con él?**
+                     - A ojos de {C:0:Lucas}, trabaja lo justo y necesario para que el jefe piense que está trabajando siempre.
+                     - Siempre intenta sonsacarle a Lucas lo del hecho del {P:0:Incidente de Inglaterra}.
+                         - **¿Qué sabe exactamente? Más adelante le dice a {C:0:Lucas} que lo sabe**
+                     - Todos los días se queda 5 minutos más tarde en el trabajo.
+                         - **¿Por qué?**
+                     - En los primeros momentos de encontrarse con Cooper y los demás soldados, Ana está visiblemente conmocionada.
+                         - **Demasiado, según Lucas. ¿Por qué?**
+                     - **¿Cuál es su trabajo ficticio en {W:0:RIO}?**
+                     
+                     - En el capítulo 3 aparece vestida como miembro de la Resistencia.
+                         
+                     - Según ella es un miembro de la resistencia que se infiltró en RIO.
+                     - **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?** (**¿Quizás no es de la resistencia realmente...?**)
+                         - Ana se sorprende cuando Jonás habla de miembros de la Resistencia infiltrados que lo están ayudando.
+                     - Desprecia enormemente a los agentes de RIO, bromeando con la muerte de los mismos.
+                     - Visiblemente afectada por la muerte de Lucas. Jura venganza contra Elizabeth.
+                     - Pierde su coartada durante el {P:2:Asalto al AT de Gran Canaria}.
+                     - Se guarda las balas que recibe como recuerdo.
+                     
+                     **Final de la primera parte**
+                     - Al final de la primera parte viste una camiseta negra de un grupo de rock y unos pantalones vaqueros de color azul fuerte.
+                     	- Pelo teñido de moreno. 
+                     	- Pistola en el pantalón, oculta bajo la camiseta.
 Color:               #feb982
+Edad:                29 años
+Complexión:          Alta y delgada
+Color de piel:       Blanco
+Pelo:                Ondulado y pelirrojo anaranjado. Casi roza sus hombros.
+Cara:                Pecosa
+Pecho:               Abundante
+Personalidad:        Jovial y divertida. Fría con los enemigos mientras actúa como parte de la Resistencia
+Valentía:            No le gusta esconderse, pero lo hace si así puede proteguer a los suyos
+Manía (I):           Odia a los conejitos
+Manía (II):          e guarda las balas que recibe como recuerdo
