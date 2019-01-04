@@ -1,0 +1,4 @@
+Name:                Ricardo Gómez
+ID:                  6
+Importance:          0
+Color:               #aaeeca
