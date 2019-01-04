@@ -3,6 +3,10 @@
   <body>
     <outline name="RIO" ID="0"/>
     <outline name="Resistencia" ID="1"/>
-    <outline name="Nanomáquinas" ID="2"/>
+    <outline name="Nanomáquinas" ID="2">
+      <outline name="Nanoguante" ID="4" description="Guante negro hecho de un material plástico aparentemente muy resistente con el que controla el {W:5:Humo negro}."/>
+      <outline name="Humo negro" ID="5"/>
+    </outline>
+    <outline name="AT de Gran Canaria" ID="3"/>
   </body>
 </opml>

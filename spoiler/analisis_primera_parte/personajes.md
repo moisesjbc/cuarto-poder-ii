@@ -1,83 +1,10 @@
-# Personajes
-
-## Coronel Cooper
-
-Lidera el ataque al AT de Gran Canaria. Conoce a Lucas del *Incidente de Inglaterra*.
-
-- **¿Cooper es el apellido? ¿Cuál es el nombre?**.
-
-### Físico
-
-- Entrado en años (**¿edad exacta?**).
-- Pelo blanco e incipiente.
-- Ojos azules.
-- Excelente condición física.
-
-### Personalidad / Otros
-
-- Habla español perfectamente.
-- Vivió el *Incidente de Inglaterra*. Lanza el ataque a RIO supuestamente por no haber podido encontrar pruebas en todo este tiempo.
-- Se siente muy culpable de no acordarse de sus hombres rato después de bajar al sótano secreto del AT de Gran Canaria.
-
-
 ## Jonás
-
-### Físico
-
-- Pelo oscuro, reseco y mustio, pero generoso.
-- Mechones de pelo lacio y negro caían sobre su cara
-    - **¿No es un fallo con lo que digo más adelante cuando se abraza con Lara?**
-- (c22) "La resistencia había aseado a Jonás y le había ofrecido ropas nuevas, acabando con su imagen de vagabundo"
 
 ### Personalidad
 
 ### Otros
 
-- Mendigo. Lleva mucho tiempo huyendo.
-    - **¿De qué?**
-- Tiene sueños en los que se mueve y le sangra la nariz con abundancia.
-    - Se suele despertar mareado / débil de sus sueños.
-- Al principio de la primera parte vive en un zulo en el que va acumulando víveres.
-    - **¿De dónde lo saca?**
-- Al principio de la primera parte lleva una mochila con un portátil y planos propiedad de la corporación RIO.
-    - **¿Qué ocurre con la mochila y su contenido?**
-- Su único contacto es Ajani, quién le salvó la vida hace tiempo. Jonás se siente obligado a devolverle el favor y por eso se infiltra durante el asalto al AT de Gran Canaria. **¿Sólo le debe un favor?**
-    - **¿Cuándo y cómo lo salvó?**
-- Al infiltrarse en el AT de Gran Canaria viste una gabardina gris desecha.
-- Cuando es descubierto en el sótano del AT de Gran Canaria, su voz se quiebra y dice "No quiero volver, ¡no! ¡no! ¡no quiero!".
-    - **¿A dónde? ¿Por qué?**
 
-- Diseñó la tecnología de la "cortina de humo negro".
-    - **¿Lo hizo sólo? ¿Lo hizo antes o después de ser capturado por RIO?**
-- Conoce al líder del "pelotón de fusilamiento" que sorprende al grupo cuando baja al sótano del AT de Gran Canaria.
-- No duda en aconsejar matar a Ricardo.
-- Con un guante negro hecho de un material plástico aparentemente muy resistente controla el humo negro (capítulo 13).
-- Un hilillo de sangre brota de su nariz y Jonás muestra una expresión de dolor mientras controla la nube de humo negro.
-
-- (Según Ana) Se tira al agua en el puerto intentando escapar desesperadamente, **maldiciendo a Ajani** y jurando que no volverá a ser capturado **otra vez** por RIO.
-- **¿Pasó alguna vez por una *Burbuja*?**
-
-- Fue capturado tras el ataque al AT de Gran Canaria y estaba retenido en el mismo "manicomio" que Arturo.
-- Tiene nanomáquinas en la cabeza, que le hacen "escuchar ruido, interferencias, a todas horas".
-    - "El suero" que menciona Iván (c19) en lugar de arreglarlo, lo empeora.
-- Siente una conexión simbionte con el guante.
-- Jonás dice que "Estaba preparando las nanomáquinas para escapar" en relación a su fuga (c19).
-    - **¿Se refiere a las de su cabeza y/o a las del "humo negro?**
-        - **¿Cómo funcionan las nanomáquinas?**
-- Según Iván: "mero simpatizante" de la resistencia.
-- Sólo quiere alejarse de RIO tanto como puede, sobre todo **después de lo que le hicieron a la hermana (*)**. Sólo accedió a lo del ataque porque Ajani se lo pidió; le debe su libertad y quiere saldar la deuda.
-    - **(*) ¿Qué le hicieron según Jonás? ¿Qué le hicieron realmente?**
-- Jonás ayuda a evitar que RIO les descubra en el centro de control de la *Burbuja* (c23).
-- Según Ana, Jonás necesita a la resistencia, y más ahora que tiene que proteguer a Lara.
-- La corporación lo capturó hace tiempo y experimentó con él. Y no fue precisamente algo voluntario
-- No se siente muy cómodo con gente alrededor.
-- Maldice cuando Lara le cuenta cómo le sangró la nariz en clase de matemáticas.
-
-(*) **¿Jonás le cuenta algo más de las nanomáquinas o sobre Lara y él?**
-
-- **¿Jonás tendrá alguna evolución con las nanomáquinas?** En el documento de curiosidades de la primera parte referencio dos vías:
-    - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
-    - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
 
 ## Allan
 
