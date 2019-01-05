@@ -1,25 +1,3 @@
-## Ajani
-
-Según RIO: terrorista y criminal de guerra despiadado, buscado en todo el mundo, con incontables saqueos, violaciones y matanzas a sus espaldas.
-
-### Físico
-
-### Personalidad
-
-### Otros
-
-- En un email a Cooper lamenta no poder acompañarlo en el ataque a RIO. **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
-- En el mismo email a Cooper le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
-- **¿Motivación?**
-- **Extraer info del relato "El héroe" e incluirla en la historia**
-- Seguún Luis (capítulo 15): no ha dado señales de vida después del ataque fallido al AT de Gran Canaria.
-- **Recordar significado del nombre**.
-- **Desarrollar historia de él y su hermano Karim (comprobar y verificar significado del nombre)**.
-    - ¿Regufiados en país africano X?
-    - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
-    - ¿Leyenda del torniquete y la guerra definitiva?
-    - ¿Creo el personaje de la francotiradora?
-
 ## Paco
 
 - Policía destinado a vigilar una entrada trasera de La Cadena durante el ataque al AT de Gran Canaria.

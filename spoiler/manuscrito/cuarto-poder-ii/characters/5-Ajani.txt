@@ -1,4 +1,26 @@
 Name:                Ajani
 ID:                  5
 Importance:          1
+Full Summary:        Según {W:0:RIO}: terrorista y criminal de guerra despiadado, buscado en todo el mundo, con incontables saqueos, violaciones y matanzas a sus espaldas. Según conversación de {C:0:Lucas} y {C:3:Coronel Cooper} en la primera parte: 
+                     
+                     """
+                     - "Es el mayor héroe de todos los tiempos y toda la humanidad le debe una bien grande."
+                     - No sé si encabeza el ranking pero, ¡correcto! - confirmó el oficial -. Pues bien, él fue quien te condenó a acompañarnos.
+                     """
+Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}. 
+                     	- **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
+                     	- En el mismo email al {C:3:Coronel Cooper} le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
+                     	- 
+                     - **¿Motivación?**
+                     
+                     - **Extraer info del relato "El héroe" e incluirla en la historia**
+                     
+                     - Según Luis (capítulo 15): no ha dado señales de vida después del {P:2:Asalto al AT de Gran Canaria}.
+                     
+                     - **Recordar significado del nombre**.
+                     - **Desarrollar historia de él y su hermano Karim (comprobar y verificar significado del nombre)**.
+                         - ¿Regufiados en país africano X?
+                         - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
+                         - ¿Leyenda del torniquete y la guerra definitiva?
+                         - ¿Creo el personaje de la francotiradora?
 Color:               #81e3a7
