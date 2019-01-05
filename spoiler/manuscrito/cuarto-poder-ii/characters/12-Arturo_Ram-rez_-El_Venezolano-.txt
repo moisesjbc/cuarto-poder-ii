@@ -1,0 +1,12 @@
+Name:                Arturo Ramírez "El Venezolano"
+ID:                  12
+Importance:          0
+Full Summary:        Soldado de la unidad del {C:3:Coronel Cooper}. Es capturado durante el {P:2:Asalto al AT de Gran Canaria} y posteriormente rescatado por Ana (3 meses después, c17).
+Notes:               - Cuando se presenta a {C:0:Lucas}, este le ve "unos ojos que destilan locura y cordura a partes iguales".
+                     - Durante los 3 meses posteriores al {P:2:Asalto al AT de Gran Canaria}, {W:0:RIO} le ha inyectado algo todos los días y le ha hecho caminar una y otra vez de un lado a otro en una habitación del manicomio.
+                     - Prefiere que lo llamen "El Venezolano".
+                     - No le importa seguir con la camisa de fuerza puesta (c17).
+Color:               #b09d80
+Complexión:          Alto y delgado.
+Ojos:                "Destilan locura y cordura a partes iguales"
+Personalidad:        Suicida / arriesgado: tiene fama de querer ir en cabeza e ignorar el peligro.

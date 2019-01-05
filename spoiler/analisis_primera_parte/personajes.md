@@ -1,39 +1,3 @@
-## Manuel
-
-
-
-### Físico
-
-### Personalidad
-
-- Serio, profesional.
-- Furioso con Paco.
-
-### Otros
-
-
-
-
-## Arturo Ramírez - "El Venezolano"
-
-Soldado de la unidad de Cooper. Es capturado durante el asalto al AT de Gran Canaria y posteriormente rescatado por Ana (3 meses después, c17).
-
-### Físico
-
-- Alto y delgado.
-- Cuando se presenta a Lucas, este le ve "unos ojos que destilan locura y cordura a partes iguales".
-
-### Personalidad
-
-- Suicida / arriesgado: tiene fama de querer ir en cabeza e ignorar el peligro.
-
-### Otros
-
-- Durante los 3 meses posteriores al ataque al AT de Gran Canaria, RIO le ha inyectado algo todos los días y le ha hecho caminar una y otra vez de un lado a otro en una habitación del manicomio.
-- Prefiere que lo llamen "El Venezolano".
-- No le importa seguir con la camisa de fuerza puesta (c17).
-
-
 ## Ricardo Gómez
 
 Director del AT de Gran Canaria, con sus despacho siduado en la planta 26.
