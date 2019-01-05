@@ -5,20 +5,20 @@ Full Summary:        Vagabundo que fue capturado por {W:0:RIO} en el pasado pero
                      
                      Tiene la capacidad de controlar las {W:2:Nanomáquinas} gracias a unos guantes especiales  que puede manejar (**definir funcionamiento**).
 Notes:               - Tiene sueños en los que se mueve y le sangra la nariz con abundancia.
-                         - Se suele despertar mareado / débil.
-                         
+                     - Se suele despertar mareado / débil.
+                     
                      **Principios de la primera parte**
                      - Vive en un zulo en el que va acumulando víveres.
-                         - **¿De dónde los saca?**
+                     - **¿De dónde los saca?**
                      - Lleva una mochila con un portátil y planos propiedad de la corporación RIO.
-                         - **¿Qué ocurre con la mochila y su contenido?**
-                         
+                     - **¿Qué ocurre con la mochila y su contenido?**
+                     
                      - Al infiltrarse en el AT de Gran Canaria viste una gabardina gris desecha.
                      - Cuando es descubierto en el sótano del AT de Gran Canaria, su voz se quiebra y dice "No quiero volver, ¡no! ¡no! ¡no quiero!".
-                         - **¿A dónde? ¿Por qué?**
+                     - **¿A dónde? ¿Por qué?**
                      
                      - Diseñó la tecnología del {W:5:Humo negro}.
-                         - **¿Lo hizo sólo? ¿Lo hizo antes o después de ser capturado por {W:0:RIO}?**
+                     - **¿Lo hizo sólo? ¿Lo hizo antes o después de ser capturado por {W:0:RIO}?**
                      - Conoce al líder del "pelotón de fusilamiento" que sorprende al grupo cuando baja al sótano del AT de Gran Canaria.
                      - No duda en aconsejar matar a Ricardo.
                      
@@ -29,14 +29,14 @@ Notes:               - Tiene sueños en los que se mueve y le sangra la nariz co
                      
                      - Fue capturado tras el ataque al AT de Gran Canaria y estaba retenido en el mismo "manicomio" que Arturo.
                      - Tiene nanomáquinas en la cabeza, que le hacen "escuchar ruido, interferencias, a todas horas".
-                         - "El suero" que menciona Iván (c19) en lugar de arreglarlo, lo empeora.
+                     - "El suero" que menciona Iván (c19) en lugar de arreglarlo, lo empeora.
                      - Siente una conexión simbionte con el guante.
                      - Jonás dice que "Estaba preparando las nanomáquinas para escapar" en relación a su fuga (c19).
-                         - **¿Se refiere a las de su cabeza y/o a las del "humo negro?**
-                             - **¿Cómo funcionan las nanomáquinas?**
+                     - **¿Se refiere a las de su cabeza y/o a las del "humo negro?**
+                     - **¿Cómo funcionan las nanomáquinas?**
                      - Según Iván: "mero simpatizante" de la resistencia.
                      - Sólo quiere alejarse de RIO tanto como puede, sobre todo **después de lo que le hicieron a la hermana (*)**. Sólo accedió a lo del ataque porque Ajani se lo pidió; le debe su libertad y quiere saldar la deuda.
-                         - **(*) ¿Qué le hicieron según Jonás? ¿Qué le hicieron realmente?**
+                     - **(*) ¿Qué le hicieron según Jonás? ¿Qué le hicieron realmente?**
                      - Jonás ayuda a evitar que RIO les descubra en el centro de control de la *Burbuja* (c23).
                      - Según Ana, Jonás necesita a la resistencia, y más ahora que tiene que proteguer a Lara.
                      - La corporación lo capturó hace tiempo y experimentó con él. Y no fue precisamente algo voluntario
@@ -46,8 +46,8 @@ Notes:               - Tiene sueños en los que se mueve y le sangra la nariz co
                      (*) **¿Jonás le cuenta algo más de las nanomáquinas o sobre Lara y él?**
                      
                      - **¿Jonás tendrá alguna evolución con las nanomáquinas?** En el documento de curiosidades de la primera parte referencio dos vías:
-                         - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
-                         - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
+                     - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
+                     - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
 Color:               #a1edec
 Pelo (principio P1): Lacio, negro oscuro, reseco y mustio, pero generoso
 Pelo (principio de P2):Cuidado

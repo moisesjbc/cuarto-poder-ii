@@ -1,24 +1,3 @@
-## Jonás
-
-### Personalidad
-
-### Otros
-
-
-
-## Allan
-
-Soldado bajo las órdenes de Cooper. Conoce a Lucas del *Incidente de Inglaterra*.
-
-### Físico
-
-### Personalidad
-
-### Otros
-
-- **¿Habla Español? ¿En qué idioma se comunica con Cooper y/o Lucas?**
-
-
 ## Ajani
 
 Según RIO: terrorista y criminal de guerra despiadado, buscado en todo el mundo, con incontables saqueos, violaciones y matanzas a sus espaldas.
