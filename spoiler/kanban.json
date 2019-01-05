@@ -6,9 +6,14 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "[SPLIT] Releer primera parte y extraer notas",
+          "name": "Migrar información del mundo a Manuskript",
           "details": "",
-          "color": "FCC7FC"
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Migrar notas de resumen.md a Manuskript",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "Planificar siguientes pasos",
@@ -16,22 +21,12 @@
           "color": "FCC7FC"
         },
         {
-          "name": "Analizar \"curiosidades.md\" de la primera parte",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
-          "name": "Analizar carpeta \"SPOILER\" de la primera parte",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
           "name": "Repasar código de colores y usarlo.",
           "details": "",
           "color": "989FFA"
         },
         {
-          "name": "Ver dónde subi la primera parte",
+          "name": "Ver dónde subi la primera parte y si está actualizada (Bubok)",
           "details": "",
           "color": "FFFFFF"
         },
@@ -56,11 +51,6 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Estudiar si se puede integrar Manuskript fácilmente con control de versiones (DESC)",
-          "details": "Web: \"To force Manukript to store chapters as folders and scenes as text files in your computer's file system, de-select the general setting Save to one single file check box. This can be useful to enable editing the scene text files with a different text editor, or the use of a revision control system like git. Be sure to not have Manuskript open at the same time otherwise conflicts can arise.\"\n\n- COMPROBAR que se guarda todo (fichas de personajes y demás incluido).",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Analizar qué puedo hacer para evitar el \"info overload\" de la primera parte (DESC)",
           "details": "- Ale ha mencionado también que tanto cambio de personaje se hace pesado en un libro tan pequeño.",
           "color": "FAFCD2"
@@ -72,7 +62,12 @@
         },
         {
           "name": "Tener en cuenta (DESC)",
-          "details": "- Aclarar el \"show, don't tell\": https://en.wikipedia.org/wiki/Show,_don%27t_tell\n- Me \"paro\" mucho a describir la distribución del pasillo y las dos grandes salas de la planta 26 a pesar de que se está produciendo una avanzadilla de los ingleses (¡acción!).",
+          "details": "- Aclarar el \"show, don't tell\": https://en.wikipedia.org/wiki/Show,_don%27t_tell\n- Me \"paro\" mucho a describir la distribución del pasillo y las dos grandes salas de la planta 26 a pesar de que se está produciendo una avanzadilla de los ingleses (¡acción!).\n- Muchos personajes.\n- Sin pausa.",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Leer relato \"el héroe\" y ver cómo lo integro en la historia.",
+          "details": "",
           "color": "FAFCD2"
         }
       ],
@@ -80,7 +75,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Migrar personajes a Manuskript",
+          "details": "",
+          "color": "FAFCD2"
+        }
+      ],
       "settings": {
         "limit": 2
       }
@@ -88,6 +89,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Investigar cómo puedo incluir \"pendientes\" en Manuskript (¿se podrá referenciar personajes / mundo?)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Estudiar si se puede integrar Manuskript fácilmente con control de versiones (DESC)",
+          "details": "Web: \"To force Manukript to store chapters as folders and scenes as text files in your computer's file system, de-select the general setting Save to one single file check box. This can be useful to enable editing the scene text files with a different text editor, or the use of a revision control system like git. Be sure to not have Manuskript open at the same time otherwise conflicts can arise.\"\n\n- COMPROBAR que se guarda todo (fichas de personajes y demás incluido).",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Analizar carpeta \"SPOILER\" de la primera parte",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Analizar \"curiosidades.md\" de la primera parte",
+          "details": "",
+          "color": "C1F7C2"
+        },
         {
           "name": "[Análisis primera parte] Capítulo 24 - Releer y tomar notas",
           "details": "",
@@ -112,6 +133,11 @@
           "name": "[Análisis primera parte] Capítulo 20 - Releer y tomar notas",
           "details": "",
           "color": "C1F7C2"
+        },
+        {
+          "name": "[SPLIT] Releer primera parte y extraer notas",
+          "details": "",
+          "color": "FCC7FC"
         },
         {
           "name": "[Análisis primera parte] Capítulo 19 - Releer y tomar notas",

@@ -39,3 +39,14 @@ Aprovechando que tenía esta semana de vecaciones, he dividido el resto de capí
 - **¡Qué cantidad de personajes y cabos sueltos tengo!**.
 
 Y hasta aquí puedo leer. La semana / año que viene revisaré las notas y curiosidades que tengo anexas en la primera parte y comenzaré a planificar todo el lío de notas que he tomado.
+
+## Semana 4 (31/12/2018 - 05/01/2019)
+
+Pues a lo tonto... ¡llevo un mes manteniendo el ritmo!
+
+Esta semana he decidido reinstalar el programa [Manuskript](https://www.theologeek.ch/manuskript/) y comenzar a trastear con él. He creado un proyecto para el libro y he comenzado a "migrar" las fichas de personajes al mismo (en Git: rama "feature/migracion-personajes-manuskript"). Mis conclusiones por ahora:
+
+- **Me gusta lo completo que parece Manuskript**, permitiéndome definir fichas de personajes, tramas, mundo, ... . **Me parece especialmente útil el sistema de referencias que tiene**, para enlazar personajes, tramas y demás entre sí.
+- **Por el lado negativo, no he visto en Manuskript una opción para deshacer lo último que has hecho**. Si me cargo una ficha de personaje sin querer... mejor que la haya guardado en el control de versiones.
+
+Por último, me gustaría mencionar que **para este año me he propuesto terminar un primer borrador del libro**. ¡Vamos a ver si lo cumplo!
