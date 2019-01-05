@@ -1,17 +1,6 @@
-## Miguel
-
-- Compañero de Paco. Destinado a vigilar la entrada trasera de La Cadena junto con este durante el ataque al AT de Gran Canaria.
-
-### Físico
-
-### Personalidad
-
-- Burlón con Paco.
-
-
 ## Manuel
 
-Jefe de policía. Acude personalmente al AT de Gran Canaria cuando se da el aviso del ataque terrorista al mismo.
+
 
 ### Físico
 
@@ -22,7 +11,7 @@ Jefe de policía. Acude personalmente al AT de Gran Canaria cuando se da el avis
 
 ### Otros
 
-- Abatido cuando un hombre de negro le amenaza con **algo** y se ve forzado a readmitir a Paco.
+
 
 
 ## Arturo Ramírez - "El Venezolano"

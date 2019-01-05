@@ -1,4 +1,8 @@
 Name:                Manuel
 ID:                  11
 Importance:          0
+Full Summary:        Jefe de policía. Acude personalmente al {W:3:AT de Gran Canaria} cuando se da el aviso del ataque terrorista al mismo ({P:2:Asalto al AT de Gran Canaria}).
+Notes:               - Furioso con {C:8:Paco}.
+                     - Abatido cuando uno de los {W:6:Hombres de negro}  le amenaza con **algo** y se ve forzado a readmitir a {C:8:Paco}.
 Color:               #d0baa1
+Personalidad:        Serio, profesional
