@@ -44,7 +44,7 @@ Y hasta aquí puedo leer. La semana / año que viene revisaré las notas y curio
 
 Pues a lo tonto... ¡llevo un mes manteniendo el ritmo!
 
-Esta semana he decidido reinstalar el programa [Manuskript](https://www.theologeek.ch/manuskript/) y comenzar a trastear con él. He creado un proyecto para el libro y he comenzado a "migrar" las fichas de personajes al mismo (en Github: rama "feature/migracion-personajes-manuskript"). Mis conclusiones por ahora:
+Esta semana he decidido reinstalar el programa [Manuskript](https://www.theologeek.ch/manuskript/) y comenzar a trastear con él. He creado un proyecto para el libro y he comenzado a "migrar" las fichas de personajes al mismo (en Git: rama "feature/migracion-personajes-manuskript"). Mis conclusiones por ahora:
 
 - **Me gusta lo completo que parece Manuskript**, permitiéndome definir fichas de personajes, tramas, mundo, ... . **Me parece especialmente útil el sistema de referencias que tiene**, para enlazar personajes, tramas y demás entre sí.
 - **Por el lado negativo, no he visto en Manuskript una opción para deshacer lo último que has hecho**. Si me cargo una ficha de personaje sin querer... mejor que la haya guardado en el control de versiones.
