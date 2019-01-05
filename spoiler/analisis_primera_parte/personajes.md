@@ -1,23 +1,3 @@
-## Paco
-
-- Policía destinado a vigilar una entrada trasera de La Cadena durante el ataque al AT de Gran Canaria.
-
-### Físico
-
-- Gordo.
-- Calvo, con un gran bigote negro.
-
-### Personalidad
-
-- Mal humor y pataletas contínuos.
-	- Desafiante. Culpa a todo el mundo de no reconocer su gran valía.
-- (Según Miguel) Gran persona cuando se le llega a conocer.
-
-### Otros
-
-- Amante de la comida basura.
-
-
 ## Miguel
 
 - Compañero de Paco. Destinado a vigilar la entrada trasera de La Cadena junto con este durante el ataque al AT de Gran Canaria.

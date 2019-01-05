@@ -1,0 +1,4 @@
+Name:                Manuel
+ID:                  11
+Importance:          0
+Color:               #d0baa1
