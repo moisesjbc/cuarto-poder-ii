@@ -1,4 +1,10 @@
 Name:                Aitor
 ID:                  15
 Importance:          1
+Full Summary:        Miembro de la {W:1:Resistencia}. Cena con {C:14:Elizabeth Ramírez} en el c6 (p1) y la persigue cuando esta corre con {C:13:Andrés} hacia el AT de Gran Canaria.
+Notes:               - Según cuenta a {C:14:Elizabeth Ramírez}, trabaja en el *Gran Canaria Ahora*, competencia de {W:0:RIO}.
+                         - **¿Qué tipo de medio es? ¿Un periódico?**
+                     - Su amigo {C:16:Fernando} y él se criaron en un barrio estatal y aprendieron a sobrevivir como maestros estafadores. La {W:1:Resistencia} los reclutó como agentes encubiertos y les dio identidades de periodistas con la esperanza de que {W:0:RIO} los reclutara.
 Color:               #b3bab9
+Vestimenta:          Viste esmoquin
+Personalidad:        Nervioso (fachada, p1c6). Ágil y frío (agente)

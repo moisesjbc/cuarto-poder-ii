@@ -1,20 +1,15 @@
 ## Aitor
 
-Miembro de la Resistencia. Cena con Elizabeth en el c6 y la persigue cuando esta corre con Andrés hacia el AT de Gran Canaria. 
+
 
 ### Físico
 
-- (c6) Viste esmoquin.
 
 ### Personalidad
 
-- Se muestra nervioso en el capítulo 6 mientras cena con Elizabeth. Cuando la persigue a escondidas se muestra ágil y frio.
-
 ### Otros
 
-- Según cuenta a Elizabeth, trabaja en el *Gran Canaria Ahora*, competencia de RIO.
-    - **¿Qué tipo de medio es? ¿Un periódico?**
-- Su amigo Fernando y él se criaron en un barrio estatal y aprendieron a sobrevivir como maestros estafadores. RIO los reclutó como agentes encubiertos y les dio identidades de periodistas con la esperanza de que RIO los reclutara.
+
 
 
 ## Michael
