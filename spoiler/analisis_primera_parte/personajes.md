@@ -1,26 +1,3 @@
-## Elizabeth Ramírez
-
-Reportera de la AT de Gran Canaria. Hace reportajes "de relleno", al final de las noticias. Antigua compañera de clase de Aitor en la carrera de Periodismo.
-
-### Físico
-
-- Pecho generoso.
-- (c6) Traje rojo ceñido.
-- Largas piernas.
-- Ojos almendrados y marrones.
-- Nariz fina.
-- Larga cabellera ondulada y castaña.
-- Labios carnosos y finos.
-
-### Personalidad
-
-- Mientras cena con Aitor (c6) se comporta de manera pícara. Cuando le informan del *ataque al AT de Gran Canaria* se vuelve fría y directa.
-
-### Otros
-
-- La resistencia la considera muy peligrosa.
-
-
 ## Aitor
 
 Miembro de la Resistencia. Cena con Elizabeth en el c6 y la persigue cuando esta corre con Andrés hacia el AT de Gran Canaria. 

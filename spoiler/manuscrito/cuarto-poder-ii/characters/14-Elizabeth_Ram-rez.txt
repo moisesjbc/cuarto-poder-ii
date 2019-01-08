@@ -1,4 +1,15 @@
 Name:                Elizabeth Ramírez
 ID:                  14
 Importance:          1
+Full Summary:        Agente de {W:0:RIO}. Públicamente reportera del {W:3:AT de Gran Canaria}. Hace reportajes "de relleno", al final de las noticias. Antigua compañera de clase de {C:15:Aitor} en la carrera de Periodismo.
+Notes:               - **Tener en cuenta lo de que fue compañera de {C:15:Aitor} si la quiero hacer nativa del planeta X**.
+                     - La {W:1:Resistencia} la considera muy peligrosa.
 Color:               #9dc7ab
+Pecho:               Generoso
+Vestimenta:          (c6) Traje rojo ceñido
+Piernas:             Largas
+Ojos:                Almendrados y marrones
+Nariz:               Fina
+Pelo:                Larga cabellera ondulada y castaña
+Labios:              Carnosos y finos
+Personalidad:        Pícara (fachada) / fría y directa (agente)
