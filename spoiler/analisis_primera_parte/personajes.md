@@ -1,26 +1,3 @@
-## Enrique Suárez
-
-Jefe de la unidad antiterrorista que irrumpe en el AT de Gran Canaria. Muere presuntamente traicionado por miembros de su unidad.
-- **(Según Ana - c15) Muerto durante el ataque al AT de Gran Canaria.**
-
-### Personalidad
-
-- Decidido.
-- Acepta y valora las dudas con respecto a sus órdenes siempre que sean razonables.
-
-### Otros
-
-- Lleva mucho tiempo en el cuerpo.
-- Hábil disparando.
-- Odia a los "hombres de negro" de RIO.
-- Opina que RIO apesta a podrido.
-- Ordena entrar desoyendo a sus superiores y a los "hombres de RIO".
-    - Parte de su unidad se negó a participar.
-        - **¿Cuál es el tamaño normal de una unidad?**
-- Suele actuar junto con su grupo de manera directa y sin importarle si está la prensa presente o no, sorprendiendo a los criminales.
-- En el capítulo 15 Elizabeth lo da por muerto. **¿Ha muerto realmente?**
-  
-
 ## Unidad antiterrorista de Enrique
 
 Felipe, Manuel, Juan, Javier, David, Mario, Marcos
