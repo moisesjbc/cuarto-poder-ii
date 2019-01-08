@@ -1,22 +1,3 @@
-## Aitor
-
-
-
-### Físico
-
-
-### Personalidad
-
-### Otros
-
-
-
-
-## Michael
-
-Soldado de Cooper que lo acompaña cuando el grupo desciende al sótano del AT de Gran Canaria.
-
-
 ## Enrique Suárez
 
 Jefe de la unidad antiterrorista que irrumpe en el AT de Gran Canaria. Muere presuntamente traicionado por miembros de su unidad.
