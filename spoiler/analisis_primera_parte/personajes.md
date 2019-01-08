@@ -1,15 +1,3 @@
-## Unidad antiterrorista de Enrique
-
-Felipe, Manuel, Juan, Javier, David, Mario, Marcos
-
-- Felipe cae desmayado por un arma eléctrica.
-- Juan es el mejor observador del equipo.
-- David y Mario traicionan a su unidad.
-- Enrique, Juan y Marcos son abatidos a tiros, junto con otros 3 miembros.
-
-- **Revisar si están todos sin faltar / sobrar ninguno de los 8 que suben arriba ni de los 10 originales**
-
-
 ## Fernando
 
 Amigo de Aitor. Miembro de la resistencia que se hace pasar por periodista para ser reclutado por RIO.
