@@ -1,14 +1,3 @@
-## Andrés
-
-Miembro de la resistencia encubierto que cena con Elizabeth y persigue a esta y su acompañante cuando corren para defender el AT de Gran Canaria.
-
-### Físico
-
-- Alto, complexión fuerte. Imponente.
-- Cara de pocos amigos.
-- Pelo corto y rizado.
-- En el capítulo 6 viste una camiseta cualquiera, un pantalón largo y gorra.
-
 ## Elizabeth Ramírez
 
 Reportera de la AT de Gran Canaria. Hace reportajes "de relleno", al final de las noticias. Antigua compañera de clase de Aitor en la carrera de Periodismo.
