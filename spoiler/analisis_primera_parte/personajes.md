@@ -1,27 +1,3 @@
-## Ricardo Gómez
-
-Director del AT de Gran Canaria, con sus despacho siduado en la planta 26.
-- **(Según Ana - c15) Muerto durante el ataque al AT de Gran Canaria.**
-
-### Físico
-
-- Larga melena lacia y negra.
-- Gran bigote negro.
-- Gran tamaño.
-- Facciones duras y marcadas.
-    - Para Lucas tiene más pinta de "imponente motero".
-
-## Personalidad
-
-- Serio, no habla durante su captura (al menos, no delante de Lucas y los militares).
-- Confiado: cuando bajan en el ascensor al sótano secreto, Ricardo mira hacia Lucas y sonríe.
-
-## Otros
-
-- Sorprendido cuando Jonás controla la nube de humo negro con el guante.
-    - **¿Por qué?**
-
-
 ## Andrés
 
 Miembro de la resistencia encubierto que cena con Elizabeth y persigue a esta y su acompañante cuando corren para defender el AT de Gran Canaria.

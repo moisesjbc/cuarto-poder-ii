@@ -8,9 +8,9 @@ Full Summary:        Según {W:0:RIO}: terrorista y criminal de guerra despiadad
                      - No sé si encabeza el ranking pero, ¡correcto! - confirmó el oficial -. Pues bien, él fue quien te condenó a acompañarnos.
                      """
 Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}. 
-                     	- **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
-                     	- En el mismo email al {C:3:Coronel Cooper} le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
-                     	- 
+                     - **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
+                     - En el mismo email al {C:3:Coronel Cooper} le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
+                     -
                      - **¿Motivación?**
                      
                      - **Extraer info del relato "El héroe" e incluirla en la historia**
@@ -19,8 +19,8 @@ Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acomp
                      
                      - **Recordar significado del nombre**.
                      - **Desarrollar historia de él y su hermano Karim (comprobar y verificar significado del nombre)**.
-                         - ¿Regufiados en país africano X?
-                         - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
-                         - ¿Leyenda del torniquete y la guerra definitiva?
-                         - ¿Creo el personaje de la francotiradora?
+                     - ¿Regufiados en país africano X?
+                     - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
+                     - ¿Leyenda del torniquete y la guerra definitiva?
+                     - ¿Creo el personaje de la francotiradora?
 Color:               #81e3a7
