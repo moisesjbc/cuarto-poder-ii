@@ -1,16 +1,3 @@
-## Fernando
-
-Amigo de Aitor. Miembro de la resistencia que se hace pasar por periodista para ser reclutado por RIO.
-
-### Físico
-
-- (capítulo 10) "Fernando iba vestido como un vagabundo más. Llevaba una capucha sobre la cabeza y un pañuelo en la cara para resultar tan irreconocible como le fuera posible".
-
-### Personalidad
-
-- Terco.
-
-
 ## Marcos
 
 Miembro de la resistencia que mantiene una sana rivalidad con Ana sobre quién sorprende más al otro.

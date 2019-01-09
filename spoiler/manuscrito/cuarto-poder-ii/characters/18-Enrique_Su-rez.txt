@@ -7,8 +7,8 @@ Notes:               - Lleva mucho tiempo en el cuerpo.
                      - Odia a los "{W:6:Hombres de negro}" de {W:0:RIO}.
                      - Opina que {W:0:RIO} apesta a podrido.
                      - Ordena entrar desoyendo a sus superiores y a los "{W:6:Hombres de negro}".
-                         - Parte de su unidad se negó a participar.
-                             - **¿Cuál es el tamaño normal de una unidad?**
+                     - Parte de su unidad se negó a participar.
+                     - **¿Cuál es el tamaño normal de una unidad?**
                      - Suele actuar junto con su grupo de manera directa y sin importarle si está la prensa presente o no, sorprendiendo a los criminales.
                      - En el capítulo 15 {C:14:Elizabeth Ramírez} lo da por muerto. **¿Ha muerto realmente?**
 Color:               #abc0de
