@@ -3,7 +3,7 @@ ID:                  0
 Importance:          2
 Goal:                - Acabar con RIO.
                      - ¿Acabar con {C:1:Ana}?
-Full Summary:        Lucas lleva años trabajando para {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario}, decide unirse a la {W:1:Resistencia}.
+Full Summary:        Lucas lleva años trabajando para {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario} (antes de la cuál es {C:22:Mario Pérez}), decide unirse a la {W:1:Resistencia}.
                      
                      - Acostumbrado a que sus compañeros le hagan el vacío tras el {P:0:Incidente de Inglaterra}.
 Notes:               - Lucas se siente especialmente culpable, ahora que presencia gente muriendo (capítulo 9), de no haber hecho nada contra {W:0:RIO} en todos estos años.

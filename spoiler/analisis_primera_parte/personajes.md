@@ -1,23 +1,3 @@
-## Mario Pérez
-
-Técnico informático que se ha mudado a un pueblo (*Burbuja*) con su familia.
-
-### Físico
-
-- 31 años
-
-### Personalidad
-
-- Tranquilo
-
-### Otros
-
-- Técnico informático en la ciudad.
-- Será técnico informático en el ayuntamiento.
-- Se queda con un nudo en la garganta cuando el chico les grita que huyan de la ciudad y el policía les invita amablemente a entrar en casa.
-- Cierta predilección sana por Noemí, de quién dice que es una "auténtica cazadora".
-
-
 ## Lucía
 
 Mujer de Mario. Profesora de matemáticas.
