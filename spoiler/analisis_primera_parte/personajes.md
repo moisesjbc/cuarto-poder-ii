@@ -1,18 +1,3 @@
-## Marcos
-
-Miembro de la resistencia que mantiene una sana rivalidad con Ana sobre quién sorprende más al otro.
-- (Según Ana) Muere en el ataque al AT de Gran Canaria.
-
-### Físico
-
-- Individuo de color.
-- Bastante alto.
-- Viste de manera formal (capítulo 11).
-
-### Personalidad
-
-- Burlón.
-
 ## Lucía
 
 Miembro de la resistencia y compañera de Marcos.

@@ -1,0 +1,10 @@
+Name:                Marcos
+ID:                  20
+Importance:          0
+Full Summary:        Miembro de la {W:1:Resistencia} que mantiene una sana rivalidad con {C:1:Ana} sobre quién sorprende más al otro.
+                     
+                     - (Según {C:1:Ana}) Muere en el {P:2:Asalto al AT de Gran Canaria}.
+Color:               #e78cd4
+Color de piel:       Negro
+Complexión:          Alto
+Personalidad:        Burlón
