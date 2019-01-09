@@ -1,0 +1,14 @@
+Name:                Lucía Pérez
+ID:                  23
+Importance:          0
+Full Summary:        Mujer de {C:22:Mario Pérez}. Profesora de matemáticas.
+                     
+                     Personalidad impuesta a {C:24:María}.
+Notes:               - En la ciudad era profesora de matemáticas en la universidad.
+                     - En el pueblo será profesora de matemáticas en el instituto.
+                     - **¿Por qué fue capturada por RIO?**
+Color:               #f598ca
+Edad:                35 años
+Pelo:                Gran melena lacia y rubia
+Pecho:               Generoso
+Personalidad:        Confiada

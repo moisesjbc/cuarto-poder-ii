@@ -1,23 +1,3 @@
-## Lucía
-
-Mujer de Mario. Profesora de matemáticas.
-
-### Físico
-
-- 35 años.
-- Gran melena lacia y rubia.
-- Pecho generoso.
-
-### Personalidad
-
-- Confiada.
-
-### Otros
-
-- En la ciudad era profesora de matemáticas en la universidad.
-- En el pueblo será profesora de matemáticas en el instituto.
-- **¿Por qué fue capturada por RIO?**
-
 ## Noemí Pérez
 
 Hija de Mario y Lucía. Estudiante de instituto.

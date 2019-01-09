@@ -13,6 +13,8 @@ Notes:               - Lucas se siente especialmente culpable, ahora que presenc
                      - Se había ganado la enemistad de RIO después del {P:0:Incidente de Inglaterra}.
                      - No se permitía que su amistad con {C:1:Ana} fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la {W:1:Resistencia}, se lo replantea.
                      - Se siente unido a {C:2:Noemí}.
+                     
+                     - Después del {P:1:Estallido de la burbuja de Mario}, siente a veces dolores de cabeza y como si la personalidad de {C:22:Mario Pérez} intentara tomar el control.
 Color:               #fcaf3e
 Edad:                30 años
 Cuerpo:              Moreno, alto y de complexión media

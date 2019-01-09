@@ -1,0 +1,5 @@
+Name:                María
+ID:                  24
+Importance:          0
+Full Summary:        Antes del {P:1:Estallido de la burbuja de Mario}, es {C:23:Lucía Pérez}.
+Color:               #c5f9b8
