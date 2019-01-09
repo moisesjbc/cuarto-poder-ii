@@ -1,0 +1,7 @@
+Name:                Lucía
+ID:                  21
+Importance:          0
+Full Summary:        Miembro de la {W:1:Resistencia} y compañera de {C:20:Marcos}.
+                     - (Según {C:1:Ana}) Muere en el {P:2:Asalto al AT de Gran Canaria}.
+Notes:               - Viste de manera formal (p1c11).
+Color:               #f8abc4

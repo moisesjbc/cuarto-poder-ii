@@ -1,13 +1,3 @@
-## Lucía
-
-Miembro de la resistencia y compañera de Marcos.
-- (Según Ana) Muere en el ataque al AT de Gran Canaria.
-
-### Físico
-
-- Viste de manera formal (capítulo 11).
-
-
 ## Luis
 
 Miembro de la resistencia que se hace pasar por policía. Lleva a Aitor y Fernando al puerto y recoge a Ana allí, de la que pide un informe después.
