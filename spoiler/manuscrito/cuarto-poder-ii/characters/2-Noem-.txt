@@ -1,4 +1,8 @@
 Name:                Noemí
 ID:                  2
 Importance:          1
+Notes:               - Llorosa desde que "despierta" de su personalidad de {C:25:Noemí Pérez}.
+                     - Se siente unida a {C:0:Lucas}.
+                     - No quiere salir de la *Burbuja* porque "al menos tenía una familia".
+                     - Sus padres fueron asesinados por RIO cuando intentaron "desertar" a la resistencia. Ella fue capturada 2 días después y "convertida en otra Noemí".
 Color:               #f4ddae

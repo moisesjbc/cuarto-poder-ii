@@ -1,0 +1,17 @@
+Name:                Noemí Pérez
+ID:                  25
+Importance:          0
+Full Summary:        Hija de {C:22:Mario Pérez} y {C:21:Lucía}. Estudiante de instituto.
+                     
+                     Personalidad impuesta de RIO a {C:2:Noemí}.
+Notes:               - Le gusta jugar con Lara a “Revuélvele el pelo a tu hermana la coqueta”.
+                     	- Correr desde el baño donde se peina hasta la entrada de la casa sin que Noemí despeine a Lara.
+                         	- Suele ganar Noemí.
+                     - **¿Por qué fue capturada por RIO?**
+                     - Predilección por Mario.
+Color:               #a5dc97
+Edad:                14 años
+Personalidad:        Despreocupada (pelo desastrozo), ágil, activa.
+Pelo:                Rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes
+Personalidad (II):   Directa, resolutiva.
+Manías:              No le gusta estar encerrada.
