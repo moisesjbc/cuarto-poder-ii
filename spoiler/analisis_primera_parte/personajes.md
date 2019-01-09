@@ -1,30 +1,3 @@
-## Lara Pérez
-
-- Hija de Mario y Lucía. Estudiante de instituto. Este es su último año en la ESO. **Resulta ser la hermana de Jonás**.
-    - **¿La ESO sigue existiendo en el futuro, o sólo en la ciudad burbuja?**
-
-### Físico
-
-- 16 años
-- Larga cabellera castaña, que le llega hasta media espalda. Muy cuidada.
-- Pecho generoso.
-
-### Personalidad / Otros
-
-- "Se ríe con cualquier cosa" según Noemí.
-- Le encanta la idea de tener jardín en su nueva casa.
-- Coqueta.
-- Le gusta jugar a escapar de Noemí que intenta despeinarla.
-- Envidia en secreto a su hermana por su gran naturalidad y despreocupación.
-- Heredó los pechos generosos de su madre. Esto le ha causado algún que otro disgusto en el anterior instituto.
-- El primer día de clase no consigue hacer amigos.
-- (c18) "Cada vez que miraba hacia la pizarra llena de fórmulas, sentía como una nube nublaba su cabeza, como si le costara pensar con claridad"
-    - De repente responde en voz baja la solución, de manera involuntaria.
-- Bastante asustadiza con las cosas que no puede controlar.
-- **¿Por qué fue capturada por RIO?**
-- Asustadiza
-
-
 ## Chico en bici
 
 Miembro de RIO que al parecer vive en la *Burbuja* de Mario (*) Grita a la familia Pérez, diciéndole que huya del pueblo mientras pueda (c16).

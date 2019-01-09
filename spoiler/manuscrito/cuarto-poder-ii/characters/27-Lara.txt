@@ -1,0 +1,7 @@
+Name:                Lara
+ID:                  27
+Importance:          0
+Full Summary:        Hermana de {C:4:Jonás}
+                     
+                     RIO le impone la personalidad {C:26:Lara Pérez} (P1).
+Color:               #cafaee

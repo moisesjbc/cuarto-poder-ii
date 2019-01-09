@@ -1,4 +1,21 @@
 Name:                Lara Pérez
 ID:                  26
 Importance:          0
+Full Summary:        - Hija de Mario y Lucía. Estudiante de instituto. Este es su último año en la ESO.
+                     	- **¿La ESO sigue existiendo en el futuro, o sólo en la ciudad burbuja?**
+                     
+                     Personalidad impuesta por parte de RIO a {C:27:Lara}.
+Notes:               - Le encanta la idea de tener jardín en su nueva casa.
+                     - Le gusta jugar a escapar de {C:25:Noemí Pérez} que intenta despeinarla.
+                     - Envidia en secreto a su hermana ({C:25:Noemí Pérez}) por su gran naturalidad y despreocupación.
+                     - Heredó los pechos generosos de su madre ({C:23:Lucía Pérez}). Esto le ha causado algún que otro disgusto en el anterior instituto.
+                     - El primer día de clase no consigue hacer amigos.
+                     - (c18) "Cada vez que miraba hacia la pizarra llena de fórmulas, sentía como una nube nublaba su cabeza, como si le costara pensar con claridad"
+                         - De repente responde en voz baja la solución, de manera involuntaria.
+                         - ¿Qué es lo que tiene para que le sangre la nariz igual que a {C:4:Jonás} (¿interacción con las nanomáquinas?)?
+                     - **¿Por qué fue capturada por {W:0:RIO}?**
 Color:               #b1aeda
+Edad:                16 años
+Pelo:                Larga cabellera castaña, que le llega hasta media espalda. Muy cuidada.
+Pecho:               Generoso
+Personalidad:        Coqueta. Asustadiza con lo que no puede controlar. Se ríe con cualquier cosa
