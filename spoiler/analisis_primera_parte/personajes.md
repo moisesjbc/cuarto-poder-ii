@@ -1,22 +1,3 @@
-## Luis
-
-Miembro de la resistencia que se hace pasar por policía. Lleva a Aitor y Fernando al puerto y recoge a Ana allí, de la que pide un informe después.
-- **¿Superior de Ana?** 
-    - **¿Cómo se organiza la resistencia internamente?**
-
-### Físico
-
-- Corta melena rizada y rubia.
-
-### Personalidad
-
-- Fría.
-
-### Otros
-
-- Gran conductor.
-
-
 ## Mario Pérez
 
 Técnico informático que se ha mudado a un pueblo (*Burbuja*) con su familia.

@@ -4,7 +4,7 @@
     <outline name="RIO" ID="0">
       <outline name="Hombres de negro" ID="6"/>
     </outline>
-    <outline name="Resistencia" ID="1"/>
+    <outline name="Resistencia" ID="1" description="- **¿Cómo se organiza la resistencia internamente?**"/>
     <outline name="Nanomáquinas" ID="2">
       <outline name="Nanoguante" ID="4" description="Guante negro hecho de un material plástico aparentemente muy resistente con el que controla el {W:5:Humo negro}."/>
       <outline name="Humo negro" ID="5"/>
