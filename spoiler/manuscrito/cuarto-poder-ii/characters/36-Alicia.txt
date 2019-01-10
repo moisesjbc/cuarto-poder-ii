@@ -2,6 +2,8 @@ Name:                Alicia
 ID:                  36
 Importance:          0
 Full Summary:        Miembro de la {W:1:Resistencia} infiltrada en la *Burbuja* **de Aitor**. Resulta ser una traidora a favor de {W:0:RIO}.
+                     
+                     **Asesinada por {C:35:Equipo de Joseph}**
 Color:               #f9f7d4
 Edad:                30 años
 Pelo:                Pelo largo, castaño y rizado.
