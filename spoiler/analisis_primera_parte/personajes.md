@@ -1,21 +1,3 @@
-## Chico en bici
-
-Miembro de RIO que al parecer vive en la *Burbuja* de Mario (*) Grita a la familia Pérez, diciéndole que huya del pueblo mientras pueda (c16).
-
-- **(*) Si es de la resistencia y lleva tiempo en la *Burbuja*, ¿cómo es que esta última no fue descubierta por la resistencia hasta el capítulo 19?**
-
-### Físico
-
-- Unos 17 años.
-- Pelo castaño y ondulado
-
-### Otros
-
-- Según un policía, le gusta asustar a la gente.
-- Unos 17 años.
-- "¡No es una trampa! ¡Por fin somos libres!" (c20).
-- Miembro de RIO.
-
 ## Alcalde "Batido de Maíz"
 
 Alcalde del pueblo / *burbuja*. Presenta a la familia Pérez en la plaza del pueblo (c16).
