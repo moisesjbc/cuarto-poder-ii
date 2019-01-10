@@ -1,23 +1,3 @@
-## Alcalde "Batido de Maíz"
-
-Alcalde del pueblo / *burbuja*. Presenta a la familia Pérez en la plaza del pueblo (c16).
-
-### Físico
-
-- Unos cincuenta años.
-- Bastante obeso.
-- Ostentoso bigote negro.
-- (c16) Vestido con un pijama blanco decorado con coches de colores. "Las mangas de las manos y de los pies estaban hechas jirones, dando un gran contraste con el impecable sombrero de copa negro, exageradamente alto, que cubría su cabeza."
-    - "El alcalde también iba maquillado. Toda su cara estaba empolvada en blanco, con unos círculos de colores pintados con rotulador alrededor de los ojos. Además, sus labios estaban pintados de un negro petróleo. Una gran nariz de payaso verde completaba la apariencia estrambótica de tan singular personaje"
-
-### Personalidad
-
-- Alegre.
-- Bromista
-- Carismático.
-- Una vez comienzan las matanzas: sádico, burlón.
-
-
 ## María
 
 - Forma parte del equipo que acompaña a Ana en el rescate (c17).
