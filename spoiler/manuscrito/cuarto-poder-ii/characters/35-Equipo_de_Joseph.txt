@@ -1,0 +1,8 @@
+Name:                Equipo de Joseph
+ID:                  35
+Importance:          0
+Full Summary:        Equipo de la {W:1:Resistencia} que participa junto con otros 3 en el {P:4:Estallido de la Burbuja de Aitor}.
+Notes:               - Joseph: serio, profesional.
+                     - Un proyectil incendiario cae sobre ellos. **¿Qué ocurre con ellos?**
+                     - **No se especifica que Aitor es el mismo del capítulo 6**.
+Color:               #9cfea4
