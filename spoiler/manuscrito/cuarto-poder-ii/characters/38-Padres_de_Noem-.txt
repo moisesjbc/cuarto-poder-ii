@@ -1,0 +1,5 @@
+Name:                Padres de Noemí
+ID:                  38
+Importance:          0
+Full Summary:        Antiguos trabajadores de {W:0:RIO} que descubrieron la farsa del {P:0:Incidente de Inglaterra} . Interaron desertar a la resistencia pero {W:0:RIO} los mató y dos días después capturaron a {C:2:Noemí}.
+Color:               #d7e185
