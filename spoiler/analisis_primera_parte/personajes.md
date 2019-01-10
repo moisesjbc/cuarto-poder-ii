@@ -1,25 +1,3 @@
-## Miguel
-
-- Forma parte del equipo que asalta el manicomio (c17).
-- Tiene fama de tener mala memoria.
-
-
-## Iván
-
-Miembro de la resistencia infiltrado en RIO como jefe de seguridad (**¿de qué?**). Ayuda a escapar a Jonás tras el ataque al manicomio (c19).
-
-### Físico
-
-- Calvo.
-- Imponente.
-
-### Personalidad / otros.
-
-- Burlón
-- Personaje: un jefe de seguridad sádico, chulo y burlón, que disfrutaba con su sufrimiento.
-- Serioe, honorable, comprometido con la causa de la resistencia.
-
-
 ## Pedro y Jacob
 
 Guardias de RIO que llevan a Jonás en la parte trasera del furgón (c19).

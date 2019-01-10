@@ -1,0 +1,9 @@
+Name:                Iván
+ID:                  32
+Importance:          0
+Full Summary:        Miembro de la {W:1:Resistencia} infiltrado en {W:0:RIO} como jefe de seguridad (**¿de qué?**). Ayuda a escapar a {C:4:Jonás} tras el {P:3:Rescate del manicomio}.
+Color:               #cb92a0
+Pelo:                Calvo
+Complexión:          Imponente
+Personalidad (fachada ante RIO):Sádico, chulo y burlón
+Personalidad (real): Serio, honorable, comprometido con la resistencia
