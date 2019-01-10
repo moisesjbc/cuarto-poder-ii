@@ -1,8 +1,3 @@
-## Pedro y Jacob
-
-Guardias de RIO que llevan a Jonás en la parte trasera del furgón (c19).
-
-
 ## Lidia, Marta, Joseph (líder), Aitor y "Conductor".
 
 Equipo de asalto que entra en la *Burbuja* de las proyecciones en el cielo (capítulo 21).
