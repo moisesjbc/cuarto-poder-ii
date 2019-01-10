@@ -1,10 +1,3 @@
-## María (B)
-
-Fue la que era Lucía en la *Burbuja*.
-
-- Primer grupo para abandonar la *Burbuja* (c23).
-
-
 ## Cámara
 
 Miembro de la resistencia que graba la liberación de la burbuja ??? (la de Mario).
