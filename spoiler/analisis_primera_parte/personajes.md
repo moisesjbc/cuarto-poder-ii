@@ -1,9 +1,3 @@
-## María
-
-- Forma parte del equipo que acompaña a Ana en el rescate (c17).
-- Hay confianza entre ella y Ana.
-
-
 ## Miguel
 
 - Forma parte del equipo que asalta el manicomio (c17).
