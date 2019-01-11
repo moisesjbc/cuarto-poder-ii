@@ -3,7 +3,7 @@ ID:                  29
 Importance:          0
 Full Summary:        Alcalde del pueblo / *burbuja*. Presenta a la familia Pérez en la plaza del pueblo (p1,c16).
 Notes:               - (p1,c16) Vestido con un pijama blanco decorado con coches de colores. "Las mangas de las manos y de los pies estaban hechas jirones, dando un gran contraste con el impecable sombrero de copa negro, exageradamente alto, que cubría su cabeza."
-                         - "El alcalde también iba maquillado. Toda su cara estaba empolvada en blanco, con unos círculos de colores pintados con rotulador alrededor de los ojos. Además, sus labios estaban pintados de un negro petróleo. Una gran nariz de payaso verde completaba la apariencia estrambótica de tan singular personaje"
+                     - "El alcalde también iba maquillado. Toda su cara estaba empolvada en blanco, con unos círculos de colores pintados con rotulador alrededor de los ojos. Además, sus labios estaban pintados de un negro petróleo. Una gran nariz de payaso verde completaba la apariencia estrambótica de tan singular personaje"
 Color:               #96ed8a
 Edad:                Unos 50 años
 Complexión:          Bastante obeso
