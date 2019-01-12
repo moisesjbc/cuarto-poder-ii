@@ -50,3 +50,19 @@ Esta semana he decidido reinstalar el programa [Manuskript](https://www.theologe
 - **Por el lado negativo, no he visto en Manuskript una opción para deshacer lo último que has hecho**. Si me cargo una ficha de personaje sin querer... mejor que la haya guardado en el control de versiones.
 
 Por último, me gustaría mencionar que **para este año me he propuesto terminar un primer borrador del libro**. ¡Vamos a ver si lo cumplo!
+
+## Semana 5 (07/01/2019 - 12/01/2019)
+
+Otra semana más.
+
+Esta semana **he terminado de migrar las fichas de personajes a Manuskript**. ¡Qué razón tenía Marina con la cantidad y poca profundidad de personajes que tengo!
+
+![img/s5-personajes-primera-parte.png]()
+
+Algunos personajes cuentan con tanta información en el libro como una o dos frases ^^U
+
+**Tras los personajes, migré las notas sobre el mundo**. De esta manera he creando fichas en Manuskript sobre RIO, la resistencia, las *Burbujas*, etc. Todas ellas llenas de cabos sueltos, por supuesto.
+
+**Por último, hoy mismo he comenzado a convertir el resumen que hice de la primera parte en tramas de Manuskript**, para no perder el control de nada.
+
+Por el momento, **estoy contento con mi decisión de pararme a analizar todo lo que he escrito hasta el momento** sobre la historia y el mundo. **Espero no pasarme y llegar al "sobreanálisis" y comenzar a diseñar / escribir la segunda parte**
