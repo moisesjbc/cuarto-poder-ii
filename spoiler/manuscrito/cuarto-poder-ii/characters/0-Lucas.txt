@@ -14,7 +14,11 @@ Notes:               - Lucas se siente especialmente culpable, ahora que presenc
                      - No se permitía que su amistad con {C:1:Ana} fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la {W:1:Resistencia}, se lo replantea.
                      - Se siente unido a {C:2:Noemí}.
                      
+                     - Importante para RIO (sus agentes evitan dispararle). Ajani sabe que él tiene un "sexto sentido" que lo hace sentirse mal en caminos / sitios peligrosos.
+                     
                      - Después del {P:1:Estallido de la burbuja de Mario}, siente a veces dolores de cabeza y como si la personalidad de {C:22:Mario Pérez} intentara tomar el control.
+                     
+                     - En su trabajo en el {W:3:AT de Gran Canaria}: El joven evita ir al baño hasta que no puede más y sufre unos mareos espantosos cuando va, como siempre. Vuelve a su puesto haciendo el mismo camino pero sin sufrir mareo alguno (**¿por qué?**).
 Color:               #fcaf3e
 Edad:                30 años
 Cuerpo:              Moreno, alto y de complexión media
