@@ -1,4 +1,4 @@
-Name:                Miguel
+Name:                Miguel (policía)
 ID:                  10
 Importance:          0
 Full Summary:        Compañero de {C:8:Paco}. Destinado a vigilar la entrada trasera de La Cadena junto con este durante el {P:2:Asalto al AT de Gran Canaria}.
