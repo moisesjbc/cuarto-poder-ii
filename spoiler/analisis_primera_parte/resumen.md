@@ -1,30 +1,5 @@
 # Notas de la primera parte de Cuarto Poder
 
-## 5. Planta 26
-
-Lucas despierta en medio de un tiroteo en la planta 26. Al otro lado de la sala, Cooper reprende a sus soldados por radio por haber dejado colarse a un vagabundo y que este "desapareciera" junto con el ascensor. Allan, junto a Lucas, le cuenta que Ana abatió a múltiples enemigos y se coló en el despacho del director.
-
-Los militares avanzan con *El Venezolano* (Arturo) en cabeza, abatiendo a los enemigos restantes y entrando en el despacho de Ricardo Gómez, el director del AT de Gran Canaria. Allí encuentran un reguero de cadáveres y a Ana apuntando a Ricardo, de rodillas a su lado. Ana les habla de "un ascensor B" con "más destinos", activable por la tarjeta que Ricardo le "entregó amablemente".
-
-Jonás les habla por el interfono y usa una frase en clave para que Ana lo reconozca como aliado. Les informa de que la tarjeta es falsa (*) y les sube el ascensor, avisando: "no se preocupen por Lucas, estará bien". Cooper, Lucas, Michael, Ana y Ricardo entran en el ascensor. 
-
-Lucas comienza a sentir unos enormes mareos mientras Jonás activa el ascensor y comienzan a descender. A través del interfono Jonás se lamenta de que lo han descubierto y de que intentará ganar todo el tiempo posible. De repente su voz se quiebra, mientras dice "No quiero volver, ¡no! ¡no! ¡no quiero!". Entonces la transmisión se corta.
-
-El ascensor continúa descendiendo un buen rato tras pasar el piso -3, el más bajo según creía Lucas. Ricardo mira a Lucas y sonríe, confiado.
-
-- (*) **Sobre la tarjeta de Ricardo**, Jonás dice "Es falsa, un amigo le dio el cambiazo hará cosa de unos días."
-    - **¿Quién lo hizo? ¿Ajani?**
-
-## 6. La cita
-
-Aitor cena con Elizabeth, una antigua compañera de la universidad, en el Costa Agraciada. Los interrumpe un hombre al que Elizabeth conoce como Andrés y que informa a Elizabeth de que iniciaron un ataque contra La Cadena hace media hora.
-
-Elizabeth se vuelve fría y se marcha corriendo con Andrés. Aitor los sigue a distancia sin ser descubierto, avisando por teléfono a alguien de lo ocurrido y de que substraer el móvil a Elizabeth (*) "les ha hecho ganarle bastante tiempo a los ingleses". La pareja se dirige al túnel que separa el "Barrio Empresarial" en el que se encuentran del *Barrio Empresarial* del AT de Gran Canaria.
-
-Mientras cruza el túnel, unas *Termitas*, ladrones de los *barrios estatales* que escarvan en los túneles para robar a los transeuntes, interceptan a Andrés, pero este los esquiva rápidamente y continúa su persecusión.
-
-- (*) Andrés le substrajo el móvil a Elizabeth, **¿se lo quedó y sacó algo de información del mismo? ¿Es una trampa de Elizabeth?**
-
 ## 7. El sótano
 
 El ascensor se detiene ante un pasillo de hormigón donde un "pelotón de fusilamiento" de 10 efectivos de RIO recibe al grupo. Cooper intenta usar a Ricardo y a Lucas como salvoconducto, pero el jefe del pelotón afirma que Lucas "es bastante valioso para ellos, pero por suerte no es único".
