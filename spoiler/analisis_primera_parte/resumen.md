@@ -1,55 +1,5 @@
 # Notas de la primera parte de Cuarto Poder
 
-## 15. La emisión
-
-Elizabeth presenta una emisión de urgencia de RIO, informando del ataque y descubriendo que los supuestos terroristas eran realmente militares ingleses encubiertos. 
-
-La reportera informa que la mitad del equipo antiterrorista liderado por Enrique ha muerto, así como Ricardo Gómez y los soldados ingleses, estos últimos suicidándose en el barco antes de ser capturados por el ejército. También indica que se encontró el cuerpo sin vida de Lucas y da a entender que puede tratarse de una represalia por el reportaje del mismo destapando una conspiración, hace 3 años, de los ingleses para atacar EEUU.
-
-En un piso franco de la resistencia, Ana ve el reportaje y jura vengarse de Elizabeth. Luis, otro miembro de la resistencia, le pide que lo informe. La joven pelirroja le dice que fueron emboscados por Elizabeth en el túnel que llevaba al puerto y que entonces ejecutó a Ricardo y Lucas. También informa que los militares fueron capturados antes de llegar al barco, y que Jonás se tiró al agua, intentando escapar desesperadamente para no volver a ser capturado por RIO.
-
-Luis informa que Ajani ha desaparecido después del ataque fallido, y que las órdenes de los superiores son desaparecer.
-
-## 16. Una nueva vida
-
-La familia Pérez conduce durante horas desde su antiguo hogar en la ciudad hasta un pueblo en lo más recóndito, rodeado por murallas con una gran puerta de madera cerrada. Cuando llegan a al pueblo son conducidos a la plaza del mismo, donde los reciben una congregación entre gritos y aplausos.
-
-En la plaza son dirigidos a un gran escenario que rodea una torre donde los espera el alcalde Batido de Maíz, vestido y maquillado de manera estrambótica. El alcade los presenta al pueblo y les pide una pequeña introducción a cada uno ante el pueblo.
-
-Al terminar las introducciones, se escuchan unas notas de xilófono a través de unos grandes altavoces. Todos los habitantes sin excepción comienzan a marcharse, tranquilamente y en silencio, hacia sus casas. El alcalde, antes de irse, les dice que es la hora de la siesta y que se la toman muy en serio.
-
-Mario comprueba la hora: las dos del mediodía. La familia se dirige hacia su nueva casa. Antes de entrar, un chico en bici les grita que huyan de la ciudad en cuanto puedan, antes de que policía con uniforme blanco le llame la atención e invite a la familia a entrar en su casa tras escuchar la señal.
-
-## 17. El rescate
-
-Ana dirige una unidad de miembros de la resistencia y asalta lo que parece ser un manicomio. Buscan a Arturo Ramírez, presumiblemente en la habitación 615.
-
-El equipo de francotiradores comunica a Ana que ha asegurado "el paquete" y Ana y su equipo suben a la azotea, donde se encuentran a Arturo Ramírez.
-
-Arturo les cuenta que solían inyectarle algo todos los días, media hora antes de llevarlo a una habitación dónde le obligaban a caminar de un lado a otro muchas veces y le iban preguntando qué sentía. El Venezolano los lleva a la susodicha habitación, pero sólo encuentran un gran agujero perfectamente rectangular en el centro de la habitación, sin escombros en el piso inferior.
-
-## 18. Primer día de clase
-
-Lara y Noemí juegan al juego de esta última “Revuélvele el pelo a tu hermana la coqueta” antes de desayunar con el resto de la familia. Las hijas van al instituto y los padres a sus respectivos trabajos.
-
-Durante una clase de matemáticas tediosa, Lara comienza a sentirse nublada al mirar las complejas ecuaciones de la pizarra y da la solución de manera involuntaria. Suenan las notas de xilófono y los alumnos comienzan a matar a los profesores al grito de "¡Muerte al traidor!". Lara huye y se topa con su hermana en la salida de la clase. Ambas comienzan a buscar a la madre y la encuentran recibiendo una paliza de sus alumnos. 
-
-Las hijas rescatan a la madre y las tres consiguen huir del colegio escalando la puerta del patio. En el otro lado las recibe el alcalde Batido de Maíz que las felicita por superar el "primer nivel", mientras más habitantes corren furiosos contra ellas. Tras un gesto del alcalde a una cámara de seguridad, suenan "tres notas de xilófono cortas y agudas, seguidas de una larga y grave" y la turba se calma, ofreciendo su ayuda a las chicas.
-
-Lara, aterrada, cree leer en los labios del alcalde: "Hasta la próxima".
-
-## 19. El trayecto
-
-Iván y otros dos agentes de RIO a su mando escoltan a Jonás cautivo en la parte trasera de un furgón, tras escapar del manicomio donde lo retenían junto a Arturo. Jonás consigue escapar y deshacerse de su camisa de fuerza gracias a la nube de humo negro que controla con un guante.
-
-Consigue huir hasta un piso franco de la resistencia, donde miembros de la resistencia disfrazados de vagabundos repelen a los perseguidores de Jonás. Dentro se reúne con Iván, quién resulta ser un miembro de la resistencia infiltrado en RIO y que le ayudó a escapar.
-
-La pareja habla sobre la situación actual de RIO y de la resistencia. Iván intenta animarlo para que luche contra RIO, ya que esta "nunca lo dejará en paz".
-
-Una miembro de la resistencia informa que han encontrado otra *Burbuja* y le da una foto a Iván. Este pregunta si Ana ha visto la foto y la chica lo confirma, diciendo que está llevando a cabo los preparativos para la liberación personalmente. Jonás reconoce a una chica en la foto.
-
-- **¿Dónde están? ¿Y el manicomio?**
-
 ## 20. Escapando del infierno
 
 Lara rechaza la ayuda de la turba y pide ayuda a sus hijas para volver a casa, donde se reúnen con Mario que está preparando el coche para huir. La familia comienza a huir en coche mientras el alcalde se burla de ellos a través de los altavoces.
