@@ -31,16 +31,6 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Descargar e instalar Manuskript 0.8.0",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Copiar proyecto de cuarto-poder-2 (manuskript)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Releer correo de Marina y tomar notas (DESC)",
           "details": "Comentó algo de cómo uso la puntuación. Tenerlo en cuenta y planificar v1.3.1 de la primera parte.",
           "color": "FAFCD2"
@@ -72,9 +62,9 @@
       "name": "On going",
       "cards": [
         {
-          "name": "Migrar notas y tramas de resumen.md a Manuskript",
-          "details": "",
-          "color": "FAFCD2"
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Volver a rama develop\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear develop.\n5. Mejora continúa.\n6. Planificación de la semana que viene.\n7. Meter en Tasks si será por objetivos o tiempo.\n8. Devolver esta tarea en ToDo.",
+          "color": "FCE4D4"
         }
       ],
       "settings": {
@@ -85,29 +75,59 @@
       "name": "Done",
       "cards": [
         {
-          "name": "Migrar información del mundo a Manuskript",
+          "name": "Integrar cuarto-poder-2.mk y eliminar (incluir REPO)",
           "details": "",
-          "color": "FAFCD2"
+          "color": "C1F7C2"
         },
         {
-          "name": "Migrar 5 personajes a Manuskript",
+          "name": "[Análisis primera parte] Migrar resumen.md (c20 - c24) a Manuskript",
           "details": "",
-          "color": "FAFCD2"
+          "color": "C1F7C2"
         },
         {
-          "name": "Migrar 5 personajes a Manuskript",
+          "name": "[Análisis primera parte] Migrar resumen.md (c15 - c20) a Manuskript",
           "details": "",
-          "color": "FAFCD2"
+          "color": "C1F7C2"
         },
         {
-          "name": "Migrar 5 personajes a Manuskript",
+          "name": "[Análisis primera parte] Migrar resumen.md (c10 - c14) a Manuskript",
           "details": "",
-          "color": "FAFCD2"
+          "color": "C1F7C2"
         },
         {
-          "name": "Migrar 7 personajes a Manuskript",
+          "name": "[Análisis primera parte] Migrar resumen.md (c5 - c9) a Manuskript",
           "details": "",
-          "color": "FAFCD2"
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Migrar notas y tramas de resumen.md (capítulos 1 - 4) a Manuskript",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Migrar información del mundo a Manuskript",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Migrar 5 personajes a Manuskript",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Migrar 5 personajes a Manuskript",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Migrar 5 personajes a Manuskript",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "[Análisis primera parte] Migrar 7 personajes a Manuskript",
+          "details": "",
+          "color": "C1F7C2"
         },
         {
           "name": "Investigar cómo puedo incluir \"pendientes\" en Manuskript (¿se podrá referenciar personajes / mundo?)",
