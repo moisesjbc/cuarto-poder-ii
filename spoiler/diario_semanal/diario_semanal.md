@@ -66,3 +66,13 @@ Algunos personajes cuentan con tanta información en el libro como una o dos fra
 **Por último, hoy mismo he comenzado a convertir el resumen que hice de la primera parte en tramas de Manuskript**, para no perder el control de nada.
 
 Por el momento, **estoy contento con mi decisión de pararme a analizar todo lo que he escrito hasta el momento** sobre la historia y el mundo. **Espero no pasarme y llegar al "sobreanálisis" y comenzar a diseñar / escribir la segunda parte**
+
+## Semana 6 (14/01/2019 - 19/01/2019)
+
+¡Finalmente **he terminado de "migrar" todas las notas que tomé sobre la primera parte a Manuskript**!. 
+
+**Esta semana he probado a cambiar la planificación y marcarme un pequeño objetivo cada día** en lugar de simplemente ponerme el temporizador 21 minutos. En este caso ha sido sencillo de hacer, puesto que he dividido el resumen del primer libro en 4 partes y el objetivo de cada día consistió en migrar una de las partes. 
+
+**El quinto y último día (hoy) consitió en recuperar un proyecto de Manuskript** que comencé hace tiempo también con la segunda parte y mover la información al nuevo proyecto. No ha costado mucho, puesto que la única información que había era unos resúmenes de una frase, un párrafo y una página sobre la segunda parte. Dichos resúmenes se hicieron siguiendo el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/), el cuál pienso seguir para escribir esta segunda parte a ver qué tal.
+
+Ya no queda (casi) nada que analizar de la primera parte. ¡Al fin puedo empezar a centrarme en la segunda parte!
