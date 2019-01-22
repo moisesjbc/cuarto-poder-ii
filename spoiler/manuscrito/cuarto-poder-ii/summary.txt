@@ -1,4 +1,36 @@
 Sentence:    Los protagonistas descubren el origen de la corporación RIO y la detienen.
+             
+             Misterios a resolver:
+             - **Sensibilidad de Lucas a las nanomáquinas**
+             - 	¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
+             - **Verdadera motivación y alineación de cada personaje (al menos de los principales)**
+             - **Incidente de Inglaterra (especificar)**
+             - 	Qué pasa en el vídeo original y en el que vio Noemí.
+             - **Origen, motivación y organización de RIO y de la resistencia**
+             - Hombres de negro.
+             - **Planeta X**
+             - 	Visión de Lucas.
+             - 	¿Real?
+             - **Origen, motivación y usos / funcionamiento de las nanomáquinas y el humo negro (diseño de Jonás)**
+             - 	Funcionamiento del guante y las nanomáquinas.
+             - **Qué experimentos hizo RIO con Jonás**
+             - 	Captura y huida de Jonás.
+             - 	¿Por qué Lara tiene la misma capacidad o similar?
+             - **Qué ha estado haciendo Ajani toda la primera parte**
+             - 	¿Por qué avisor tan justo del ataque a Jonás si ya sabía del ataque?
+             - **Interés de los hombres de negro porque la policía readmita a Paco**
+             - Experimentos con Arturo en el manicomio. ¿Consecuencias?
+             - Captura de Lara. ¿RIO sabe su parentezco con Jonás?
+             - Destino del primer grupo que toma el tren (incluye a María).
+             - ¿Por qué Noemí fue capturada por RIO? -> Por los padres.
+             - Origen y motivación de las Burbujas.
+             - 	Clave del xilófono programada en la cabeza de los sujetos por Jonás.
+             - 	Se les menciona como "sistema de entrenamiento" de RIO (varios niveles).
+             - Destino de la unidad de Joseph (Aitor).
+             - Qué sucede con el segundo grupo. En especial con el cámara y las grabaciones que tiene de Lucas.
+             - Asalto al AT de Gran Canaria.
+             - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
+             - 	Consecuencias para el coronel e Inglaterra.
 Paragraph:   Un antiguo trabajador de la corporación RIO descubre, junto con la resistencia, el origen secreto de la entidad en otro planeta. En su búsqueda de un método para llegar al planeta origen de RIO, el grupo pierde varios miembros  importantes  pero logran alcanzar un transporte / portal y viajar al planeta.  Allí hacen ver a sus habitantes que la corporación RIO ha iniciado una tiranía sobre La Tierra, fingiendo ante el gobierno del planeta que ejercen un control inocuo como le fue ordenado. Los miembros "malos" de RIO inician un ataque sobre los portales (¿activando agentes durmientes / Lucas con las notas de xilófono?), impidiendo el viaje entre los dos mundos. El protagonista forma parte de una misión para atacar a RIO en la Tierra y lograr desactivarla.
 Page:        Lucas es capturado por RIO y llevado a unas instalaciones secretas. Allí, es usado como conejillo de indias para probar nuevas versiones de las nanomáquina,s debido a la sensibilidad del joven a las mismas. 
              
