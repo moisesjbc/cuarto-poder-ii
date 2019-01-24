@@ -1,4 +1,39 @@
-Sentence:    Los protagonistas descubren el origen de la corporación RIO y la detienen.
+Sentence:    Un ex-reportero se une a la lucha contra la corporación de medios de comunicación para la que trabaja.
+Paragraph:   Lucas, un antiguo reportero de una corporación de medios de comunicación, se une a la resistencia que lucha para exponer y destruir a la entidad. El joven es entrenado por la resistencia hasta que es capturado por RIO durante una misión de liberación. La corporación experimenta con él, hasta que Ajani lo rescata junto a otros prisioneros y los dirige a un portal / agujero de gusano, donde X muere ayudándoles a escapar por él. El grupo llega al planeta X, donde descubren que la situación actual se produce a partir de una guerra entre los colonos y los terrícolas, y que gran parte de RIO está, de hecho, de parte de estos últimos. Sin querer, acaban descubriendo a los colonos esta información sobre RIO y estos planean un ataque definitivo sobre la Tierra, pero es frustrado por Lucas y los demás.
+             
+             ---
+             
+             Alternativa: EEUU luchó contra RIO.
+             
+             ---
+             
+             1. Huida milagrosa (**¿cómo? ¿ataque orbital?**) y unión de Lucas a la resistencia. Captura de Lucas y otros miembros por parte de RIO mientras liberan una burbuja.
+             2. Experimentos con Lucas y los demás hasta que Ajani consigue llevarlos hasta uno de los portales de RIO. Allí muere X (**¿quién?**) ayudándolos a activar el portal.
+             3. Llegada al planeta X. Juicio contra Ajani por ir contra RIO y traerse a "ilegales". Cuando filtran a la opinión pública la verdad sobre RIO, 
+             4. Misión de destrucción de RIO (¿cómo? ¿cuál es el objetivo?).
+             
+             
+             - - -
+             
+             Durante la carrera espacial, la URSS descubrió un agujero de gusano que llevaba a otro planeta perfectamente habitable. EEUU lo descubrió más tarde e intentó hacerse con el control del planeta, pero ganaron los colonos.
+             
+             una burbuja
+             
+             
+             
+             descubre, junto con la resistencia, el origen secreto de la entidad en otro planeta. En su búsqueda de un método para llegar al planeta origen de RIO, el grupo pierde varios miembros  importantes  pero logran alcanzar un transporte / portal y viajar al planeta.  Allí hacen ver a sus habitantes que la corporación RIO ha iniciado una tiranía sobre La Tierra, fingiendo ante el gobierno del planeta que ejercen un control inocuo como le fue ordenado. Los miembros "malos" de RIO inician un ataque sobre los portales (¿activando agentes durmientes / Lucas con las notas de xilófono?), impidiendo el viaje entre los dos mundos. El protagonista forma parte de una misión para atacar a RIO en la Tierra y lograr desactivarla.
+             
+             
+             """
+             You can also use this paragraph in your proposal. Ideally, your paragraph will have about five sentences. One sentence to give me the backdrop and story setup. Then one sentence each for your three disasters. Then one more sentence to tell the ending.
+             """
+             
+             Una organización rebelde descubre el origen secreto de una corporación de medios de comunicación.
+             
+             
+             Los protagonistas descubren el origen de la corporación RIO y la detienen.
+             
+             Resistencia, RIO, burbujas, planeta.
              
              Misterios a resolver:
              - **Sensibilidad de Lucas a las nanomáquinas**
@@ -17,7 +52,7 @@ Sentence:    Los protagonistas descubren el origen de la corporación RIO y la d
              - 	Captura y huida de Jonás.
              - 	¿Por qué Lara tiene la misma capacidad o similar?
              - **Qué ha estado haciendo Ajani toda la primera parte**
-             - 	¿Por qué avisor tan justo del ataque a Jonás si ya sabía del ataque?
+             - 	¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?
              - **Interés de los hombres de negro porque la policía readmita a Paco**
              - Experimentos con Arturo en el manicomio. ¿Consecuencias?
              - Captura de Lara. ¿RIO sabe su parentezco con Jonás?
@@ -31,7 +66,6 @@ Sentence:    Los protagonistas descubren el origen de la corporación RIO y la d
              - Asalto al AT de Gran Canaria.
              - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
              - 	Consecuencias para el coronel e Inglaterra.
-Paragraph:   Un antiguo trabajador de la corporación RIO descubre, junto con la resistencia, el origen secreto de la entidad en otro planeta. En su búsqueda de un método para llegar al planeta origen de RIO, el grupo pierde varios miembros  importantes  pero logran alcanzar un transporte / portal y viajar al planeta.  Allí hacen ver a sus habitantes que la corporación RIO ha iniciado una tiranía sobre La Tierra, fingiendo ante el gobierno del planeta que ejercen un control inocuo como le fue ordenado. Los miembros "malos" de RIO inician un ataque sobre los portales (¿activando agentes durmientes / Lucas con las notas de xilófono?), impidiendo el viaje entre los dos mundos. El protagonista forma parte de una misión para atacar a RIO en la Tierra y lograr desactivarla.
 Page:        Lucas es capturado por RIO y llevado a unas instalaciones secretas. Allí, es usado como conejillo de indias para probar nuevas versiones de las nanomáquina,s debido a la sensibilidad del joven a las mismas. 
              
              -> ¿Cómo paso de aquí a que descubra la existencia del planeta?
