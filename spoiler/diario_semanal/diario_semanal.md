@@ -76,3 +76,13 @@ Por el momento, **estoy contento con mi decisión de pararme a analizar todo lo 
 **El quinto y último día (hoy) consitió en recuperar un proyecto de Manuskript** que comencé hace tiempo también con la segunda parte y mover la información al nuevo proyecto. No ha costado mucho, puesto que la única información que había era unos resúmenes de una frase, un párrafo y una página sobre la segunda parte. Dichos resúmenes se hicieron siguiendo el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/), el cuál pienso seguir para escribir esta segunda parte a ver qué tal.
 
 Ya no queda (casi) nada que analizar de la primera parte. ¡Al fin puedo empezar a centrarme en la segunda parte!
+
+## Semana 7 (21/01/2019 - 27/01/2019)
+
+Esta semana **he comenzado a pensar a grandes rasgos la historia que quiero contar en la segunda parte**. El lunes **comencé por hacerme una lista de los principales "misterios" que dejé pendientes de resolver en la primera parte**. El martes, como comenté la semana pasada, comencé por seguir el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/). De esta manera hice un resumen de una frase y luego empecé con el resumen de un párrafo... y hasta ahora.
+
+**Al pensar la historia del libro** siguiendo la estructura que propone el método (3 desastres más una conclusión), **entré en un pequeño bloqueo creativo**. Esto se debe a que para ello me planteé definir someramente el trasfondo de la misma: de dónde surge RIO y la Resistencia, teniendo en cuenta los misterios a resolver y que no "colisionara" con lo que había escrito hasta ahora. A esto dediqué martes, miércoles y jueves (*), consiguiendo más una lista de notas inconexas que un resumen propiamente dicho. El resto de la semana no he podido dedicarle más tiempo porque participé en la [Global Game Jam](https://globalgamejam.org/)... qué le vamos a hacer ;-)
+
+En fin, a ver si la semana que viene consigo definir la historia que quiero contar.
+
+(*) Nota mental: conseguir un resumen de un párrafo de una novela que planeas escribir no vale como tarea a plantearse para un único día.
