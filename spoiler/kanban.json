@@ -6,6 +6,26 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Refinar párrafo resumen (~20 min)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Eliminar personajes superfluos",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar personajes (1/2) siguiendo el Snowflake method",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar personajes (2/2) siguiendo el Snowflake method",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Planificar siguientes pasos",
           "details": "",
           "color": "FCC7FC"
@@ -74,6 +94,16 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Realizar resumen de una frase y de un párrafo (teniendo en cuenta los misterios)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Extraer misterios a explicar de Manuskript",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Integrar cuarto-poder-2.mk y eliminar (incluir REPO)",
           "details": "",
