@@ -6,6 +6,16 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "[Trasfondo] Integrar misterios en trasfondo (DESC)",
+          "details": "- Burbujas (+ canto de sirena)",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Planificar siguientes pasos",
+          "details": "",
+          "color": "FCC7FC"
+        },
+        {
           "name": "Refinar párrafo resumen (~20 min)",
           "details": "",
           "color": "FAFCD2"
@@ -24,11 +34,6 @@
           "name": "Refinar personajes (2/2) siguiendo el Snowflake method",
           "details": "",
           "color": "FAFCD2"
-        },
-        {
-          "name": "Planificar siguientes pasos",
-          "details": "",
-          "color": "FCC7FC"
         },
         {
           "name": "Repasar código de colores y usarlo.",
@@ -94,6 +99,11 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "[Trasfondo] Definir origen e interrelación entre RIO, resistencia y planeta X",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Realizar resumen de una frase y de un párrafo (teniendo en cuenta los misterios)",
           "details": "",
