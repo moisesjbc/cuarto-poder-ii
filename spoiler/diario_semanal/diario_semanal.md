@@ -86,3 +86,11 @@ Esta semana **he comenzado a pensar a grandes rasgos la historia que quiero cont
 En fin, a ver si la semana que viene consigo definir la historia que quiero contar.
 
 (*) Nota mental: conseguir un resumen de un párrafo de una novela que planeas escribir no vale como tarea a plantearse para un único día.
+
+## Semana 8 (28/01/2019 - 03/02/2019)
+
+Si hay algo en común **entre la semana pasada, esta y la siguiente**, es que por A o por B **no tengo tanto tiempo para dedicarle a la novela**... qué le vamos a hacer. Esta semana tocó volver a ver a un buen amigo, y la semana que viene casi seguro que cae viaje a Italia. Se me ocurren bastantes razones mucho peores para no escribir tanto ;-)
+
+**Esta semana** he estado dándole vueltas al origen de las *Burbujas*. Cuando creía tener un buen primer candidato, **me golpeó en la cara lo que se suele decir como "ser esclavo de mis propias palabras"**: lo que había pensado no concordaba con lo que ya había contado sobre las *Burbujas* en la primera parte de la novela. El resto del tiempo he estado pensando ideas alternativas y es en lo que he ocupado el tiempo disponible de esta semana. Sea como sea, el origen de estas prisiones de RIO está íntimamente relacionado con gran parte de la trama que quiero tratar en la segunda parte, así que no parece mala idea dedicarle un buen tiempo.
+
+La semana que viene veré si el tiempo me da para quedarme con una de las alternativas y refinarla hasta estar a gusto con ella. ¡A ver qué tal!.
