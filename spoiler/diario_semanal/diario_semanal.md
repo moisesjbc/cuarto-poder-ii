@@ -94,3 +94,12 @@ Si hay algo en común **entre la semana pasada, esta y la siguiente**, es que po
 **Esta semana** he estado dándole vueltas al origen de las *Burbujas*. Cuando creía tener un buen primer candidato, **me golpeó en la cara lo que se suele decir como "ser esclavo de mis propias palabras"**: lo que había pensado no concordaba con lo que ya había contado sobre las *Burbujas* en la primera parte de la novela. El resto del tiempo he estado pensando ideas alternativas y es en lo que he ocupado el tiempo disponible de esta semana. Sea como sea, el origen de estas prisiones de RIO está íntimamente relacionado con gran parte de la trama que quiero tratar en la segunda parte, así que no parece mala idea dedicarle un buen tiempo.
 
 La semana que viene veré si el tiempo me da para quedarme con una de las alternativas y refinarla hasta estar a gusto con ella. ¡A ver qué tal!.
+
+## Semana 9 (04/02/2019 - 10/02/2019)
+
+Pues al final cayó un buen viaje a Italia ;-) O, lo que es lo mismo, apenas dediqué tiempo a la novela.
+
+**Esta semana refiné un poco el origen de las Burbujas**. **Además**, aprovechando los aviones de ida y vuelta, **me terminé un libro sobre creación de personajes** que mi familia me regaló para el día de Reyes: "Dar vida al personaje. Técnicas para crear personajes inolvidables", de Silvia Adela Kohan. Aunque diría que peca un poco de repetitivo, he sacado ideas aplicables para centrarme en los personajes de la segunda parte. Veamos qué tal sale.
+
+¡Y poco más! La semana que viene en teoría debería volver al ritmo actual... en teoría.
+
