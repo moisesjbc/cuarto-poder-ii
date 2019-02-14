@@ -1,5 +1,14 @@
-Sentence:    Un ex-reportero se une a la lucha contra la corporación de medios de comunicación para la que trabaja.
-Paragraph:   Lucas, un antiguo reportero de una corporación de medios de comunicación, se une a la resistencia que lucha para exponer y destruir a la entidad. El joven es entrenado por la resistencia hasta que es capturado por RIO durante una misión de liberación. La corporación experimenta con él, hasta que Ajani lo rescata junto a otros prisioneros y los dirige a un portal / agujero de gusano, donde X muere ayudándoles a escapar por él. El grupo llega al planeta X, donde descubren que la situación actual se produce a partir de una guerra entre los colonos y los terrícolas, y que gran parte de RIO está, de hecho, de parte de estos últimos. Sin querer, acaban descubriendo a los colonos esta información sobre RIO y estos planean un ataque definitivo sobre la Tierra, pero es frustrado por Lucas y los demás.
+Sentence:    Un ex-reportero se une a la lucha para destapar las mentiras de la corporación de medios de comunicación para la que trabajaba.
+Paragraph:   Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. El joven es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación. RIO experimenta con él hasta que Ajani lo rescata junto a otros prisioneros y los dirige a un portal / agujero de gusano, donde X muere ayudándoles a escapar por él. El grupo llega al planeta X, donde una revolución ha acabado con el poder de RIO pero mantienen una fachada ante esta que Ana traiciona provocando una retoma de control por parte de la corporación. Lucas y otros ayudan a los supervivientes a acabar con RIO definitivamente.
+             
+             ---
+             
+             , donde descubren que la situación actual se produce a partir de una guerra entre los colonos y los terrícolas, y que gran parte de RIO está, de hecho, de parte de estos últimos. Sin querer, acaban descubriendo a los colonos esta información sobre RIO y estos planean un ataque definitivo sobre la Tierra, pero es frustrado por Lucas y los demás.
+             
+             
+             - Setup, 3 desasgres, conclusión.
+             	- Primer desastre por causas externas. Dos siguientes por intentos del protragonista.
+             
              
              ---
              
