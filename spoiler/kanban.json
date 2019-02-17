@@ -6,14 +6,24 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "[Trasfondo] Integrar misterios en trasfondo (DESC)",
-          "details": "- Burbujas (+ canto de sirena)",
-          "color": "FAFCD2"
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Volver a rama develop\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear develop.\n5. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n6. Planificación de la semana que viene.\n7. Meter en Tasks si será por objetivos o tiempo.\n8. Devolver esta tarea en ToDo.",
+          "color": "FCE4D4"
         },
         {
           "name": "Planificar siguientes pasos",
           "details": "",
           "color": "FCC7FC"
+        },
+        {
+          "name": "[Trasfondo] Completar \"Descubrimiento del planeta X\" (nombre y año)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "[Trasfondo] Integrar misterios en trasfondo (DESC)",
+          "details": "- Burbujas (+ canto de sirena)",
+          "color": "FAFCD2"
         },
         {
           "name": "Refinar párrafo resumen (~20 min)",
@@ -85,13 +95,7 @@
     },
     {
       "name": "On going",
-      "cards": [
-        {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Volver a rama develop\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear develop.\n5. Mejora continúa.\n6. Planificación de la semana que viene.\n7. Meter en Tasks si será por objetivos o tiempo.\n8. Devolver esta tarea en ToDo.",
-          "color": "FCE4D4"
-        }
-      ],
+      "cards": [],
       "settings": {
         "limit": 2
       }
@@ -99,6 +103,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "[Trasfondo] Ultimar resumen de un párrafo.",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "[Trasfondo] Pensar alternativas para el resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "[Trasfondo] Realizar resumen de un párrafo (primera versión)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "[Trasfondo] Completar año y motivación del nacimiento de RIO y la Resistencia",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "[Trasfondo] Definir origen e interrelación entre RIO, resistencia y planeta X",
           "details": "",
