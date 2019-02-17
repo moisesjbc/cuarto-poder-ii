@@ -103,3 +103,10 @@ Pues al final cayó un buen viaje a Italia ;-) O, lo que es lo mismo, apenas ded
 
 ¡Y poco más! La semana que viene en teoría debería volver al ritmo actual... en teoría.
 
+## Semana 10 (11/02/2019 - 17/02/2019)
+
+He vuelto al ritmo normal, dedicándole mínimo 20 minutos de martes y a sábado a la novela.
+
+**Esta semana he trabajado principalmente en el resumen de un parráfo**, pensando alternativas y quedándome (en principio) con un resumen que ahora toca ampliar a una página (de nuevo, siguiendo el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/)). **Me he topado con bloqueos que no eran tales**: en primer lugar perdí tiempo pensando un nombre para el "planeta X". Ciertamente es algo que tengo que hacer, pero hoy por hoy no me afecta para esbozar la historia de la novela. El segundo bloqueo vino de no saber qué relación tendrá entre sí RIO y el "planeta X". Aunque está bien darle vueltas a las diferentes alternativas, al final voy a dejar cosas atrás que me gustarían tome una decisión u otra, y el resumen no es algo que escriba sobre piedra y que no pueda modificar en el futuro próximo así que... **mejor concentrarme en seguir avanzando aunque sea poco a poco**.
+
+Y eso es todo. **Mi plan para la semana que viene es ponerme con el resumen de una página, integrando los principales misterios que dejé por resolver en la primera parte**.
