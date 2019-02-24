@@ -6,29 +6,19 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Volver a rama develop\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear develop.\n5. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n6. Planificación de la semana que viene.\n7. Meter en Tasks si será por objetivos o tiempo.\n8. Devolver esta tarea en ToDo.",
-          "color": "FCE4D4"
+          "name": "Leer relato \"el héroe\" e integrarlo en Manuskript",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar resumen de una página. Planificar",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "Planificar siguientes pasos",
           "details": "",
           "color": "FCC7FC"
-        },
-        {
-          "name": "[Trasfondo] Completar \"Descubrimiento del planeta X\" (nombre y año)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "[Trasfondo] Integrar misterios en trasfondo (DESC)",
-          "details": "- Burbujas (+ canto de sirena)",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Refinar párrafo resumen (~20 min)",
-          "details": "",
-          "color": "FAFCD2"
         },
         {
           "name": "Eliminar personajes superfluos",
@@ -61,11 +51,6 @@
           "color": "FFFFFF"
         },
         {
-          "name": "Analizar estado del repositorio y extraer objetivos",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Releer correo de Marina y tomar notas (DESC)",
           "details": "Comentó algo de cómo uso la puntuación. Tenerlo en cuenta y planificar v1.3.1 de la primera parte.",
           "color": "FAFCD2"
@@ -76,18 +61,8 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Repasar write_novel_using_snowflake_method.md",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Tener en cuenta (DESC)",
           "details": "- Aclarar el \"show, don't tell\": https://en.wikipedia.org/wiki/Show,_don%27t_tell\n- Me \"paro\" mucho a describir la distribución del pasillo y las dos grandes salas de la planta 26 a pesar de que se está produciendo una avanzadilla de los ingleses (¡acción!).\n- Muchos personajes.\n- Sin pausa.",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Leer relato \"el héroe\" y ver cómo lo integro en la historia.",
-          "details": "",
           "color": "FAFCD2"
         }
       ],
@@ -95,7 +70,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Volver a rama develop\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear develop.\n5. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n6. Planificación de la semana que viene.\n7. Meter en Tasks si será por objetivos o tiempo.\n8. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        }
+      ],
       "settings": {
         "limit": 2
       }
