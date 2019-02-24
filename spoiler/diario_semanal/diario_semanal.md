@@ -105,8 +105,14 @@ Pues al final cayó un buen viaje a Italia ;-) O, lo que es lo mismo, apenas ded
 
 ## Semana 10 (11/02/2019 - 17/02/2019)
 
-He vuelto al ritmo normal, dedicándole mínimo 20 minutos de martes y a sábado a la novela.
+He vuelto al ritmo normal, dedicándole mínimo 20 minutos de martes a sábado a la novela.
 
 **Esta semana he trabajado principalmente en el resumen de un parráfo**, pensando alternativas y quedándome (en principio) con un resumen que ahora toca ampliar a una página (de nuevo, siguiendo el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/)). **Me he topado con bloqueos que no eran tales**: en primer lugar perdí tiempo pensando un nombre para el "planeta X". Ciertamente es algo que tengo que hacer, pero hoy por hoy no me afecta para esbozar la historia de la novela. El segundo bloqueo vino de no saber qué relación tendrá entre sí RIO y el "planeta X". Aunque está bien darle vueltas a las diferentes alternativas, al final voy a dejar cosas atrás que me gustarían tome una decisión u otra, y el resumen no es algo que escriba sobre piedra y que no pueda modificar en el futuro próximo así que... **mejor concentrarme en seguir avanzando aunque sea poco a poco**.
 
 Y eso es todo. **Mi plan para la semana que viene es ponerme con el resumen de una página, integrando los principales misterios que dejé por resolver en la primera parte**.
+
+## Semana 11 (18/02/2019 - 24/02/2019)
+
+**Esta semana pequé de muy optimista**. Mi plan inicial era terminar de escribir el resumen de una página integrando los ~18 misterios que me gustaría resolver de la primera parte. El resultado ha sido bastante diferente: empecé integrando algunos misterios pequeños para luego atascarme en definir el *Incidente de Inglaterra*. Finalmente comencé a replantearme el trasfondo de la historia (principalmente, la relación entre RIO, Lucas y el planeta X)... y ahí sigo. Lo bueno es que he ido sacando alternativas que pueden darle más profundidad a la historia, moviendo a los actores principales en una escala de grises más que en una dualidad blanco / negro o bueno / malo.
+
+Toca planificar la semana que viene. Voy a intentar definir objetivos lo más sencillos posibles sin perder avance. A ver qué tal.
