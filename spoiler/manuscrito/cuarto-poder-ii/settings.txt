@@ -20,7 +20,7 @@
         "wordMin": 1
     },
     "fullScreenTheme": "spacedreams",
-    "lastTab": 3,
+    "lastTab": 4,
     "openIndexes": [
         0,
         [],

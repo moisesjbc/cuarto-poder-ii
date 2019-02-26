@@ -13,8 +13,6 @@ Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acomp
                      -
                      - **¿Motivación?**
                      
-                     - **Extraer info del relato "El héroe" e incluirla en la historia**
-                     
                      - Según Luis (capítulo 15): no ha dado señales de vida después del {P:2:Asalto al AT de Gran Canaria}.
                      
                      - **Recordar significado del nombre**.
@@ -23,4 +21,11 @@ Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acomp
                      - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
                      - ¿Leyenda del torniquete y la guerra definitiva?
                      - ¿Creo el personaje de la francotiradora?
+                     
+                     - En la lucha, dice "No soy más que un producto de la Cadena. Un peón que se ha vuelto en contra de ellos." (**¿por qué?**).
+                     - Ajani: "El que gana la lucha" (**¿fuente?**).
+                     
+                     Información del relato "El héroe": 
+                     ---
+                     "Se trataba de un hombre conocido como Ajani, aunque nadie sabe su verdadero nombre. Él es un icono, una leyenda entre los miembros de la resistencia. Al igual que los grandes mitos griegos, se contaban muchas versiones de su historia. La más extendida, sin embargo, era la de un joven y su hermano, Kasim. Su padre era un español voluntario en Nigeria, África. Allí conoció a la que sería la madre de los hermanos y formó una familia. La felicidad sin embargo, no duró mucho, pues el campamento dónde vivían quedó sumido en una guerra entre dos fracciones extremistas locales. Los padres de Ajani y Kasim murieron, pero ellos consiguieron escapar. Pasaban semanas enteras vagando por el desierto, aprovechando la oscuridad de la noche para robar alimentos en los campamentos por los que pasaban. Sus jóvenes e inocentes manos no tardaron en mancharse de sangre. Ambos se vieron obligados a matar a soldados que amenazaban con acabar con sus vidas, y muy a su pesar, no tardaron en convertirse en expertos combatientes. A pesar de las múltiples versiones sobre su historia, ninguna sabe llenar el vacío de por qué un día los hermanos se separaron y ya no se volvió a saber nada del hermano de Ajani, sin embargo, Ajani fue cobrando cada día más presencia. Había decidido que no podía cambiar el pasado, se había convertido en un soldado, pero no se convertiría en un asesino. Decidió así seguir luchando, uniéndose al bando cuyos ideales compartiera, y actualmente ese bando era el de los rebeldes."
 Color:               #81e3a7
