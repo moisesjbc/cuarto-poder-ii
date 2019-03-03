@@ -116,3 +116,9 @@ Y eso es todo. **Mi plan para la semana que viene es ponerme con el resumen de u
 **Esta semana pequé de muy optimista**. Mi plan inicial era terminar de escribir el resumen de una página integrando los ~18 misterios que me gustaría resolver de la primera parte. El resultado ha sido bastante diferente: empecé integrando algunos misterios pequeños para luego atascarme en definir el *Incidente de Inglaterra*. Finalmente comencé a replantearme el trasfondo de la historia (principalmente, la relación entre RIO, Lucas y el planeta X)... y ahí sigo. Lo bueno es que he ido sacando alternativas que pueden darle más profundidad a la historia, moviendo a los actores principales en una escala de grises más que en una dualidad blanco / negro o bueno / malo.
 
 Toca planificar la semana que viene. Voy a intentar definir objetivos lo más sencillos posibles sin perder avance. A ver qué tal.
+
+## Semana 12 (25/02/2019 - 03/03/2019)
+
+**Esta semana tampoco ha ido mucho mejor**. Aunque he estado dedicándole los 20 minutos de rigor cada día, **únicamente he añadido notas sobre mi relato ["El héroe"](https://github.com/moisesjbc/relatos-cortos/blob/master/anterior-a-2013/el_h%C3%A9roe.md) en el proyecto y he seguido dándome cabezazos con la relación entre RIO y el planeta X**.
+
+Ahora toca planificar la semana que viene. **Intentaré aumentar el tiempo que dedico cada día y me replantearé cómo enfocar este "bloqueo creativo"**. A ver. 
