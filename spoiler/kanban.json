@@ -6,19 +6,34 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Leer relato \"el héroe\" e integrarlo en Manuskript",
+          "name": "Definir descubrimiento del planeta X (cuándo y cómo).",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Refinar resumen de una página. Planificar",
+          "name": "Definir relación entre planeta X, RIO y Resistencia. Definir situación de bloqueo.",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Planificar siguientes pasos",
+          "name": "Identificar personajes principales",
           "details": "",
-          "color": "FCC7FC"
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Describir cada personaje principal (DESC)",
+          "details": "- Resumen vital.\n- Motivación.\n- Objetivos.\n- Conflicto.\n- Epifanía.",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Integrar OTROS_consejos_escritura.md en el documento maestro",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "¿Rio ha provocado la guerra fría mundial? ¿Por qué?",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "Eliminar personajes superfluos",
@@ -84,6 +99,11 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Leer relato \"el héroe\" e integrarlo en Manuskript",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "[Trasfondo] Ultimar resumen de un párrafo.",
           "details": "",
