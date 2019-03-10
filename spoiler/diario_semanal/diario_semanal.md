@@ -121,4 +121,10 @@ Toca planificar la semana que viene. Voy a intentar definir objetivos lo más se
 
 **Esta semana tampoco ha ido mucho mejor**. Aunque he estado dedicándole los 20 minutos de rigor cada día, **únicamente he añadido notas sobre mi relato ["El héroe"](https://github.com/moisesjbc/relatos-cortos/blob/master/anterior-a-2013/el_h%C3%A9roe.md) en el proyecto y he seguido dándome cabezazos con la relación entre RIO y el planeta X**.
 
-Ahora toca planificar la semana que viene. **Intentaré aumentar el tiempo que dedico cada día y me replantearé cómo enfocar este "bloqueo creativo"**. A ver. 
+Ahora toca planificar la semana que viene. **Intentaré aumentar el tiempo que dedico cada día y me replantearé cómo enfocar este "bloqueo creativo"**. A ver.
+
+## Semana 13 (04/03/2019 - 04/03/2019)
+
+**Durante la última semana he seguido dándole vueltas al trasfondo del planeta X y me ha planteado sustituirlo por un meteorito de Sirena que cayó a la Tierra**. El meteorito sería en realidad una criatura viva formada por millones de insectos microscópicos que emiten un gas que provoca el trance. **Me parece una alternativa bastante prometedora**; es más sencilla que plantearme la creación de un nuevo planeta con todo lo que ello conlleva, y unifico el origen de las nanomáquinas y de las *Burbujas*.
+
+**A pesar de este filón (o algo que parece un filón), sigo con la sensación de que no avanzo tanto como me gustaría**. Pero bueno, el ritmo de tiempo dedicado se mantiene (incluso he aumentado la friolera de 5 minutos cada día).
