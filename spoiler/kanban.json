@@ -6,12 +6,22 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Definir descubrimiento del planeta X (cuándo y cómo).",
+          "name": "Completar ficha \"Características del planeta\"",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Definir relación entre planeta X, RIO y Resistencia. Definir situación de bloqueo.",
+          "name": "Hacer y valorar una primera propuesta de ficha \"Interacción con el planeta\"",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Hacer y valorar una segunda propuesta de ficha \"Interacción con el planeta\"",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Elegir una de las propuestas sobre el planeta X",
           "details": "",
           "color": "FAFCD2"
         },
