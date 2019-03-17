@@ -6,27 +6,32 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Completar ficha \"Características del planeta\"",
+          "name": "Describir someramente a la criatura y su timeline principal",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Hacer y valorar una primera propuesta de ficha \"Interacción con el planeta\"",
+          "name": "Refinar descripción y timeline de la criatura",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Hacer y valorar una segunda propuesta de ficha \"Interacción con el planeta\"",
+          "name": "Rellenar ficha de interacción de agentes principales con Gran Sirena (aproximación)",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Elegir una de las propuestas sobre el planeta X",
+          "name": "Refinar ficha de interacción de agentes principales con Gran Sirena",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Identificar personajes principales",
+          "name": "Eliminar personajes superfluos",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Identificar personajes principales y secundarios",
           "details": "",
           "color": "FAFCD2"
         },
@@ -42,11 +47,6 @@
         },
         {
           "name": "¿Rio ha provocado la guerra fría mundial? ¿Por qué?",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Eliminar personajes superfluos",
           "details": "",
           "color": "FAFCD2"
         },
@@ -109,6 +109,11 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Organizar lo que hay escrito en Manuskript en la hoja de Gran Sirena",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Leer relato \"el héroe\" e integrarlo en Manuskript",
           "details": "",
