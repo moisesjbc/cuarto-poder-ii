@@ -123,8 +123,14 @@ Toca planificar la semana que viene. Voy a intentar definir objetivos lo más se
 
 Ahora toca planificar la semana que viene. **Intentaré aumentar el tiempo que dedico cada día y me replantearé cómo enfocar este "bloqueo creativo"**. A ver.
 
-## Semana 13 (04/03/2019 - 04/03/2019)
+## Semana 13 (04/03/2019 - 10/03/2019)
 
 **Durante la última semana he seguido dándole vueltas al trasfondo del planeta X y me ha planteado sustituirlo por un meteorito de Sirena que cayó a la Tierra**. El meteorito sería en realidad una criatura viva formada por millones de insectos microscópicos que emiten un gas que provoca el trance. **Me parece una alternativa bastante prometedora**; es más sencilla que plantearme la creación de un nuevo planeta con todo lo que ello conlleva, y unifico el origen de las nanomáquinas y de las *Burbujas*.
 
 **A pesar de este filón (o algo que parece un filón), sigo con la sensación de que no avanzo tanto como me gustaría**. Pero bueno, el ritmo de tiempo dedicado se mantiene (incluso he aumentado la friolera de 5 minutos cada día).
+
+## Semana 14 (11/03/2019 - 17/03/2019)
+
+**A principios de la semana comencé a darle vueltas al trasfondo sobre el gran meteorito que cayó en la Tierra. Sin embargo, causas externas me han impedido dedicarle más que un par de días:** mi cumpleaños y un virus de estómago que mi familia decidió compartir conmigo. Como apunte positivo, para mi cumpleaños cayó un nuevo libro sobre creación de personajes: "El arte de crear personajes en narrativa, cine y televisión", de David Corbett. **Espero poder mejorar mis personajes de cara a esta segunda parte** con esta ayuda extra.
+
+**Me sigue preocupando la poca sensación de avance que arrastro desde hace bastante tiempo**. Veamos si, de una vez, puedo darle un acelerón.
