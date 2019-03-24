@@ -134,3 +134,11 @@ Ahora toca planificar la semana que viene. **Intentaré aumentar el tiempo que d
 **A principios de la semana comencé a darle vueltas al trasfondo sobre el gran meteorito que cayó en la Tierra. Sin embargo, causas externas me han impedido dedicarle más que un par de días:** mi cumpleaños y un virus de estómago que mi familia decidió compartir conmigo. Como apunte positivo, para mi cumpleaños cayó un nuevo libro sobre creación de personajes: "El arte de crear personajes en narrativa, cine y televisión", de David Corbett. **Espero poder mejorar mis personajes de cara a esta segunda parte** con esta ayuda extra.
 
 **Me sigue preocupando la poca sensación de avance que arrastro desde hace bastante tiempo**. Veamos si, de una vez, puedo darle un acelerón.
+
+## Semana 15 (18/03/2019 - 24/03/2019)
+
+**Simple y llanamente, no he tocado el libro esta semana.** El lunes y el martes dediqué mi "momento creativo" a escribir y publicar en mi web un relato muy personal: ["Nervo"](https://github.com/moisesjbc/relatos-cortos/blob/master/2019/nervo.md). El miércoles y jueves estuve peleándome para reinstalar las cosas en mi nuevo PC. Del viernes en adelante... no hay mucha excusa que valga.
+
+**La semana que viene tiene pinta de que seguirá el mismo camino**, esta vez por un viaje de trabajo. 
+
+**De todas formas tengo la esperanza de que esta pausa del libro pueda ayudarme con mi bloqueo creativo**. Crucemos los dedos.
