@@ -142,3 +142,9 @@ Ahora toca planificar la semana que viene. **Intentaré aumentar el tiempo que d
 **La semana que viene tiene pinta de que seguirá el mismo camino**, esta vez por un viaje de trabajo. 
 
 **De todas formas tengo la esperanza de que esta pausa del libro pueda ayudarme con mi bloqueo creativo**. Crucemos los dedos.
+
+## Semana 16 (01/04/2019 - 04/04/2019)
+
+... pues la vuelta no ha estado muy allá. **He dedicado poco más de 50 minutos durante la semana y no he logrado ni la primera tarea marcada** ("Definir motivación de la criatura").
+
+**No obstante me mantengo optimista**. Toca planificar la siguiente semana y ver si saco algo en claro.
