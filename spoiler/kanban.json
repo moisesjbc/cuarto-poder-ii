@@ -6,6 +6,11 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Definir motivación de la criatura",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Describir someramente a la criatura y su timeline principal",
           "details": "",
           "color": "FAFCD2"
