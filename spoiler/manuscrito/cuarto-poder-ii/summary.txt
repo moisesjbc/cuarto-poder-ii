@@ -1,29 +1,49 @@
 Sentence:    Un ex-reportero se une a la lucha para destapar las mentiras de la corporación de medios de comunicación para la que trabajaba.
 Paragraph:   # Primera versión
              
-             1. Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. 
-             	(?) Ver cómo escapa de la situación en la que acaba la primera parte.
-             		- **¿Quizás se pueda introducir a Ajani aquí salvándolos?**
+             1. Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
+             (?) Ver cómo escapa de la situación en la que acaba la primera parte.
+             - **¿Quizás se pueda introducir a Ajani aquí salvándolos?**
              2. El joven es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación.
-             	(?) Ver cómo mantener el hilo / trama de Lucas investigando / lidiando con sus visiones.
-             	(+) Así puedo profundizar en en cómo funcionan la Resistencia y las Burbujas.
-             	(+) Se puede contar el inicio de RIO y la Resistencia aquí (¿Revolución Industrial?).
-             		- ¿Posible sobrecarga de información?
-             3. RIO experimenta con él hasta que Ajani lo rescata junto a otros prisioneros y los dirige a un portal / agujero de gusano, donde X muere ayudándoles a escapar por él. 
-             	(-) ¿Qué puede tener Lucas tan importante para que RIO no lo mate ya directamente?
-             	(?) No sé qué pensar de que Ajani aparezca justo entonces y junto con todo el tema del portal puede quedar un poco Deus Ex Maquina.
-             4. El grupo llega al planeta X, donde una revolución ha acabado con el poder de RIO y mantiene una fachada ante esta que Ana traiciona, provocando un intento de retoma de control por parte de la corporación. 
-             	(+) Todo un planeta nuevo me permite hacer volar la imaginación con la libertad que da otro mundo.
-             	(-) Todo un planeta nuevo puede ser demasiado para acometer de manera coherente y sin volverme loco.
-             		- Puede simplificarse haciendo que se trate de una colonia minera / floristera en un un mundo muerto.
-             			- ¿Alternativa?: Los de la colonia están infectados y RIO evita que infecten la Tierra sin dejar de experimentar con el polen -> ¿El virus / mente colmena puede querer infectar a Lucas o a cualquier otro de la Tierra que tenga conexión con el resto para infectarlos a la vez? -> Lucas cree estar haciendo una cosa mientras los otros realmente intentan impedírselo por el bien común.
-             			- Flores de Sirena controlan a los insectos para que las protegan formando un escudo o "noqueando" a los seres vivos cercanos (¿pero el planeta no estaba muerto?).
-             	(?) ¿Cómo conectar este nuevo mundo con lo anterior sin que queden dos partes tan diferenciadas?
-             	- ¿Conexión mental con el planeta? ¿Se transfiere la consciencia a los insectos y estos forman una figura humana que obedece a la conciencia que lo habita? -> Un poco fumada.
-             	(?) **Alternativa: alucinación provocada por la Gran Sirena.**
+             (?) Ver cómo mantener el hilo / trama de Lucas investigando / lidiando con sus visiones.
+             (+) Así puedo profundizar en en cómo funcionan la Resistencia y las Burbujas.
+             (+) Se puede contar el inicio de RIO y la Resistencia aquí (¿Revolución Industrial?).
+             - ¿Posible sobrecarga de información?
+             3. RIO experimenta con él hasta que Ajani lo rescata junto a otros prisioneros y los dirige a un portal / agujero de gusano, donde X muere ayudándoles a escapar por él.
+             (-) ¿Qué puede tener Lucas tan importante para que RIO no lo mate ya directamente?
+             (?) No sé qué pensar de que Ajani aparezca justo entonces y junto con todo el tema del portal puede quedar un poco Deus Ex Maquina.
+             4. El grupo llega al planeta X, donde una revolución ha acabado con el poder de RIO y mantiene una fachada ante esta que Ana traiciona, provocando un intento de retoma de control por parte de la corporación.
+             (+) Todo un planeta nuevo me permite hacer volar la imaginación con la libertad que da otro mundo.
+             (-) Todo un planeta nuevo puede ser demasiado para acometer de manera coherente y sin volverme loco.
+             - Puede simplificarse haciendo que se trate de una colonia minera / floristera en un un mundo muerto.
+             - ¿Alternativa?: Los de la colonia están infectados y RIO evita que infecten la Tierra sin dejar de experimentar con el polen -> ¿El virus / mente colmena puede querer infectar a Lucas o a cualquier otro de la Tierra que tenga conexión con el resto para infectarlos a la vez? -> Lucas cree estar haciendo una cosa mientras los otros realmente intentan impedírselo por el bien común.
+             - Flores de Sirena controlan a los insectos para que las protegan formando un escudo o "noqueando" a los seres vivos cercanos (¿pero el planeta no estaba muerto?).
+             (?) ¿Cómo conectar este nuevo mundo con lo anterior sin que queden dos partes tan diferenciadas?
+             - ¿Conexión mental con el planeta? ¿Se transfiere la consciencia a los insectos y estos forman una figura humana que obedece a la conciencia que lo habita? -> Un poco fumada.
+             - ¿El planeta puede ser Marte y el transporte a través de una nave espacial? => No muy discreto esto último.
+             (?) **Alternativa: alucinación provocada por la Gran Sirena.**
              5. Lucas y otros ayudan a los supervivientes a acabar con RIO definitivamente.
-             	(?) ¿Cómo? ¿Qué les aporta haber llegado al planeta para poder vencer a RIO?
-             		- ¿Antídoto? (realmente la Resistencia ya parece tener uno con las notas de xilófono invertidas).
+             (?) ¿Cómo? ¿Qué les aporta haber llegado al planeta para poder vencer a RIO?
+             - ¿Antídoto? (realmente la Resistencia ya parece tener uno con las notas de xilófono invertidas).
+             
+             # Segunda alternativa
+             
+             1. Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
+             2. El joven es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación.
+             	(+) Posibilidad de profundizar en la historia de la Resistencia, RIO y las Burbujas.
+             	(-) Como en la primera alternativa, ¿cómo escapa de la situación de emboscada de la primera parte? => Quizás se pueda cambiar el orden de los acontecimientos: Lucas es directamente capturado por RIO que experimenta con él y luego la Resistencia lo rescata (O RIO deja que lo rescaten...).
+             3. RIO experimenta con él mientras en su celda tiene visiones del otro planeta. En ellas, una mujer le dice cómo escapar y llegar al portal que lleva al planeta. Lucas consigue abrir la cámara, sólo para descubrir que todo eran alucinaciones provocadas por un virus ¿extraterrestre?
+             	(?) ¿Origen y motivación del virus?
+             	(?) ¿Por qué Lucas es la clave de su liberación?
+             4. El virus comienza a propagarse, con Lucas y Ajani (**¿de dónde salió?**) a la cabeza. RIO y la Resistencia colaboran para acabar con el virus.
+             	(+) El cambio de Lucas a "malo" puede estar bien...
+             	(-) ...pero no sé si es "cansino" volver a tener algo así sobre Lucas después de su cambio de personalidad de la primera parte.
+             	(+) Más simple/ manejable (en principio) que la historia del otro planeta.
+             	- El virus puede haber surgido en la Tierra ante los avances en medicina "física".
+             	- Puede tratarse del virus que funcionaba en dos fases: el pólen hace a los seres vivos entrar en "modo receptivo" y las ondas sonoras los controlan. La propagación del virus despierta a los "agentes durmientes" => Si tiene un origen vírico tengo que ver cómo integrar las flores de Sirena y/o el tema de las nanomáquinas.
+             	- Alternativa: realmente hay un portal a otro planeta (colonia minera). Allí Lucas es infectado y consigue escapar a la Tierra y seguir infectando. Los del planeta conocen a gente inmune que les dice cómo anular el virus.
+             5. La Resistencia descubre cómo acabar con RIO y ejecuta el plan.
+             	- **¿Qué descubren que no hayan podido descubrir antes y que pueda acabar con RIO?**
              
              Misterios a resolver:
              - **Sensibilidad de Lucas a las nanomáquinas**
