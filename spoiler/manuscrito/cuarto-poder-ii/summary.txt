@@ -30,20 +30,28 @@ Paragraph:   # Primera versión
              
              1. Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
              2. El joven es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación.
-             	(+) Posibilidad de profundizar en la historia de la Resistencia, RIO y las Burbujas.
-             	(-) Como en la primera alternativa, ¿cómo escapa de la situación de emboscada de la primera parte? => Quizás se pueda cambiar el orden de los acontecimientos: Lucas es directamente capturado por RIO que experimenta con él y luego la Resistencia lo rescata (O RIO deja que lo rescaten...).
+             (+) Posibilidad de profundizar en la historia de la Resistencia, RIO y las Burbujas.
+             (-) Como en la primera alternativa, ¿cómo escapa de la situación de emboscada de la primera parte? => Quizás se pueda cambiar el orden de los acontecimientos: Lucas es directamente capturado por RIO que experimenta con él y luego la Resistencia lo rescata (O RIO deja que lo rescaten...).
              3. RIO experimenta con él mientras en su celda tiene visiones del otro planeta. En ellas, una mujer le dice cómo escapar y llegar al portal que lleva al planeta. Lucas consigue abrir la cámara, sólo para descubrir que todo eran alucinaciones provocadas por un virus ¿extraterrestre?
-             	(?) ¿Origen y motivación del virus?
-             	(?) ¿Por qué Lucas es la clave de su liberación?
+             (?) ¿Origen y motivación del virus?
+             (?) ¿Por qué Lucas es la clave de su liberación?
              4. El virus comienza a propagarse, con Lucas y Ajani (**¿de dónde salió?**) a la cabeza. RIO y la Resistencia colaboran para acabar con el virus.
-             	(+) El cambio de Lucas a "malo" puede estar bien...
-             	(-) ...pero no sé si es "cansino" volver a tener algo así sobre Lucas después de su cambio de personalidad de la primera parte.
-             	(+) Más simple/ manejable (en principio) que la historia del otro planeta.
-             	- El virus puede haber surgido en la Tierra ante los avances en medicina "física".
-             	- Puede tratarse del virus que funcionaba en dos fases: el pólen hace a los seres vivos entrar en "modo receptivo" y las ondas sonoras los controlan. La propagación del virus despierta a los "agentes durmientes" => Si tiene un origen vírico tengo que ver cómo integrar las flores de Sirena y/o el tema de las nanomáquinas.
-             	- Alternativa: realmente hay un portal a otro planeta (colonia minera). Allí Lucas es infectado y consigue escapar a la Tierra y seguir infectando. Los del planeta conocen a gente inmune que les dice cómo anular el virus.
+             (+) El cambio de Lucas a "malo" puede estar bien...
+             (-) ...pero no sé si es "cansino" volver a tener algo así sobre Lucas después de su cambio de personalidad de la primera parte.
+             (+) Más simple/ manejable (en principio) que la historia del otro planeta.
+             - El virus puede haber surgido en la Tierra ante los avances en medicina "física".
+             - Puede tratarse del virus que funcionaba en dos fases: el pólen hace a los seres vivos entrar en "modo receptivo" y las ondas sonoras los controlan. La propagación del virus despierta a los "agentes durmientes" => Si tiene un origen vírico tengo que ver cómo integrar las flores de Sirena y/o el tema de las nanomáquinas.
+             - Alternativa: realmente hay un portal a otro planeta (colonia minera). Allí Lucas es infectado y consigue escapar a la Tierra y seguir infectando. Los del planeta conocen a gente inmune que les dice cómo anular el virus.
              5. La Resistencia descubre cómo acabar con RIO y ejecuta el plan.
-             	- **¿Qué descubren que no hayan podido descubrir antes y que pueda acabar con RIO?**
+             - **¿Qué descubren que no hayan podido descubrir antes y que pueda acabar con RIO?**
+             
+             # Tercera alternativa
+             
+             1. Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
+             2. El grupo es emboscado con un suelo trampa. Consiguen repeler el ataque, pero descubren que  Lucas ha desaparecido.
+             3. Ana comienza a liberar *Burbujas*, convencida de que Lucas está en una de ellas. Lo encuentran en X, pero Lucas está ido: vagando y diciendo incongruencias.
+             4. Usan a Lucas como caballo de Troya para entrar en RIO. Allí llegan hasta un altar donde Lucas se sacrifica y se abre un portal.
+             5. Llegan los del planeta X y salvan el día.
              
              Misterios a resolver:
              - **Sensibilidad de Lucas a las nanomáquinas**
