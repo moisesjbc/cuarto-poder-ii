@@ -148,3 +148,9 @@ Ahora toca planificar la semana que viene. **Intentaré aumentar el tiempo que d
 ... pues la vuelta no ha estado muy allá. **He dedicado poco más de 50 minutos durante la semana y no he logrado ni la primera tarea marcada** ("Definir motivación de la criatura").
 
 **No obstante me mantengo optimista**. Toca planificar la siguiente semana y ver si saco algo en claro.
+
+## Semana 17 (08/04/2019 - 14/04/2019)
+
+**Esta semana he vuelto a centrarme en crear un resumen de un párrafo** siguiendo el método "Snowflake". En los últimos tres días he escrito tres versiones alternativas, sacando notas, ventajas y desventajas de cada una. Volver a tener una visión más alejada de la historia en vez de centrarme ya en detalles me ha dado una pequeña sensación de avance. Menos mal.
+
+**Para la semana que viene me conformo con terminar de cerrar aunque sea una versión "casi-definitiva" del resumen**.
