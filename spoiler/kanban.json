@@ -6,21 +6,6 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Definir motivación de la criatura",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Describir someramente a la criatura y su timeline principal",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Refinar descripción y timeline de la criatura",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Rellenar ficha de interacción de agentes principales con Gran Sirena (aproximación)",
           "details": "",
           "color": "FAFCD2"
@@ -114,6 +99,21 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Definir tercera alternativa de resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Definir segunda alternativa de resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Definir primera alternativa de resumen de un parráfo",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Organizar lo que hay escrito en Manuskript en la hoja de Gran Sirena",
           "details": "",
