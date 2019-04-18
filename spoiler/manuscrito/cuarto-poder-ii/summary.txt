@@ -1,11 +1,12 @@
 Sentence:    Un ex-reportero se une a la lucha para destapar las mentiras de la corporación de medios de comunicación para la que trabajaba.
-Paragraph:   # 1
+Paragraph:   Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Tras una emboscada de RIO, el grupo es rescatado por Ajani, y Lucas es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación. RIO experimenta con él mientras Lucas tiene visiones que lo llevan a abrir una cámara para llegar al planeta X, sólo para descubrir que todo eran alucinaciones provocadas por un virus. El virus comienza a propagarse, con Lucas y Ajani a la cabeza. RIO y la Resistencia colaboran para acabar con el virus. La Resistencia descubre cómo acabar con RIO y ejecuta el plan.
+Page:        # 1
              
-             Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
+             Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. 
              
-             # 2 
+             # 2
              
-             El grupo es rescatado por Ajani de la emboscada (final de la primera parte), y Lucas es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación.
+             Tras una emboscada de RIO, el grupo es rescatado por Ajani, y Lucas es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación.
              
              - (?) ¿Qué ha estado haciendo Ajani durante toda la primera parte?
              - (?) ¿Cómo los rescata?
@@ -16,7 +17,7 @@ Paragraph:   # 1
              
              # 3
              
-             RIO experimenta con él mientras en su celda tiene visiones del otro planeta. En ellas, una mujer le dice cómo escapar y llegar al portal que lleva al planeta. Lucas consigue abrir la cámara, sólo para descubrir que todo eran alucinaciones provocadas por un virus.
+             RIO experimenta con él mientras Lucas tiene visiones que lo llevan a abrir una cámara para llegar al planeta X, sólo para descubrir que todo eran alucinaciones provocadas por un virus.
              
              - (?) ¿Origen y motivación del virus? ¿Extraterrestre o terrestre? ¿Sintético?
              - (?) ¿El virus tiene conciencia de sí mismo?
@@ -29,14 +30,15 @@ Paragraph:   # 1
              
              # 4
              
-             El virus comienza a propagarse, con Lucas y Ajani a la cabeza. RIO y la Resistencia colaboran para acabar con el virus.
+             El virus comienza a propagarse, con Lucas y Ajani a la cabeza.
              
              - (+) El cambio de Lucas a "malo" puede estar bien...
              - (-) ...pero no sé si es "cansino" volver a tener algo así sobre Lucas después de su cambio de personalidad de la primera parte.
              
              # 5
              
-             La Resistencia descubre cómo acabar con RIO y ejecuta el plan.
+             RIO y la Resistencia colaboran para acabar con el virus. La Resistencia descubre cómo acabar con RIO y ejecuta el plan.
+             
              - **¿Qué descubren que no hayan podido descubrir antes y que pueda acabar con RIO?**
              - ¿Antídoto? (realmente la Resistencia ya parece tener uno con las notas de xilófono invertidas).
              
@@ -72,80 +74,4 @@ Paragraph:   # 1
              - Asalto al AT de Gran Canaria.
              - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
              - 	Consecuencias para el coronel e Inglaterra.
-Page:        Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. 
-             
-             El joven comienza a ser entrenado por la resistencia, conociendo el origen y destino de RIO y de la resistencia. --- Se descubre (**¿cómo?**) que en Inglaterra fue a informar de los preparativos de un ataque a EEUU, pero Cooper consiguió hablar con él y contarle la verdad. Lucas lo cuenta a las cámaras pero entonces RIO lo presiona (**¿con qué?**) para que cuente la farsa. Lucas sin embargo consigue alertar a Cooper y los demás (**¿lanza bengala que le dió Cooper?**) ---  Es entrenado hasta que es capturado por la corporación durante una misión de liberación.
-             
-             Científicos de RIO experimentan con él y otros sujetos, explotando su sensibilidad a las nanomáquinas que la corporación usa para construir trampas y construcciones dinámicas. Ajani lo rescata junto a otros prisioneros y los dirige a un portal / agujero de gusano, donde X muere ayudándoles a escapar por él.
-             
-             El grupo llega al planeta X, donde una revolución ha acabado con el poder de RIO y mantiene una fachada ante esta que Ana traiciona, provocando un intento de retoma de control por parte de la corporación.
-             
-             Lucas y otros ayudan a los supervivientes a acabar con RIO definitivamente
-             
-             ---
-             
-             a) RIO controlaba el planeta pero los mineros se revelan y le presentan una coartada.
-             b) Intento de saqueo por parte de EEUU y represalias por parte del planeta. Se envían saboteadores a diferentes puntos de la Tierra, entre ellos a Lucas. Ajani captura a Lucas y ambos convienen en ocultar la personalidad de este último (**¿cómo?** **¿por qué?**).
-             
-             Alternativa: RIO encubriendo a los supervivientes de la Tierra después de que EEUU atacara y fuera diezmado. Lucas es un soldado del planeta que olvidó su personalidad por X. EEUU
-             
-             ---
-             
-             2/5
-             
-             MISTERIOS POR RESOLVER
-             
-             - **Incidente de Inglaterra (especificar)**
-             - 	Qué pasa en el vídeo original y en el que vio Noemí.
-             - Hombres de negro.
-             - **Planeta X**
-             - 	Visión de Lucas.
-             - 	¿Real?
-             - **Origen, motivación y usos / funcionamiento de las nanomáquinas y el humo negro (diseño de Jonás)**
-             - 	Funcionamiento del guante y las nanomáquinas.
-             - **Qué experimentos hizo RIO con Jonás**
-             - 	Captura y huida de Jonás.
-             - 	¿Por qué Lara tiene la misma capacidad o similar?
-             - **Qué ha estado haciendo Ajani toda la primera parte**
-             - 	¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?
-             - **Interés de los hombres de negro porque la policía readmita a Paco**
-             - Experimentos con Arturo en el manicomio. ¿Consecuencias?
-             - Captura de Lara. ¿RIO sabe su parentezco con Jonás?
-             - Destino del primer grupo que toma el tren (incluye a María).
-             - ¿Por qué Noemí fue capturada por RIO? -> Por los padres.
-             - Origen y motivación de las Burbujas.
-             - 	Clave del xilófono programada en la cabeza de los sujetos por Jonás.
-             - 	Se les menciona como "sistema de entrenamiento" de RIO (varios niveles).
-             - Destino de la unidad de Joseph (Aitor).
-             - Qué sucede con el segundo grupo. En especial con el cámara y las grabaciones que tiene de Lucas.
-             - Asalto al AT de Gran Canaria.
-             - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
-             - 	Consecuencias para el coronel e Inglaterra.
              - **Verdadera motivación y alineación de cada personaje (al menos de los principales)**
-             
-             
-             - Reality Inside Out?
-             - Lucas infiltrado del planeta al que Ajani indujo amnesia para salvarlo
-             - Ana investiga el apartamento de Lucas (¿No lo pudieron hacer antes?) Y ver indicios de que su pasado no es real
-             
-             CLASIFICAR
-             ---
-             Lucas es capturado por RIO y llevado a unas instalaciones secretas. Allí, es usado como conejillo de indias para probar nuevas versiones de las nanomáquina,s debido a la sensibilidad del joven a las mismas.
-             
-             -> ¿Cómo paso de aquí a que descubra la existencia del planeta?
-             a) La Resistencia salva a Lucas (¿por qué?) y se lo cuentan.
-             b) La Resistencia planea llevar a Lucas al otro planeta (¿por qué?)
-             c) Uno de los días Lucas es expuesto al Canto de Sirena. Cuando vuelve en sí lo hace a su personalidad original ¿y RIO planea en secreto llevarlo al planeta X para chantajear al gobierno?
-             a) ¿La personalidad secreta de Lucas es Karim?
-             b) ¿La personalidad secreta de Lucas es un pez gordo de RIO / el planeta X?
-             d) RIO trata de afianzar su seguridad tras el ataque a la ciudad Burbuja y planea llevar a Jonás y Lucas al planeta para mantenerlos cautivos.
-             e) En vez de ser capturado, Lucas es entrenado por la Resistencia, donde le hablan de su sensiblidad a las nanomáquinas y del supuesto origen de RIO en la Revolución Industrial. Durante un ataque a una Ciudad Burbuja descubren una biblioteca donde se referencian a la huida de los primeros colonos al planeta X.
-             * Puedo introducir el relato donde el equipo es atacado y Ajani los salva con un "ataque aéreo" (pista de la verdadera existencia del planeta).
-             
-             descubre, junto con la Resistencia, el origen secreto de RIO en otro planeta (planeta X).
-             
-             
-             ¿Y AJANI? ¿Y JONÁS? ¿Y...?
-             
-             01/10/2018: Completo el resumen de un párrafo. Me planteo dejarlo en dos libros.
-             04/10/2018: Trabajo en el resumen de una página. Me quedo en el primer párrafo, pensando cómo hacer que Lucas descubra la existencia del planeta X y planteando múltiples alternativas.
