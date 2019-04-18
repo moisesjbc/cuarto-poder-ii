@@ -1,6 +1,0 @@
-Name:                María (II)
-ID:                  30
-Importance:          0
-Full Summary:        Forma parte del equipo de la {W:1:Resistencia} que acompaña a Ana en el {P:3:Rescate del manicomio}.
-Notes:               - Hay confianza entre ella y {C:1:Ana}.
-Color:               #a3d0b9

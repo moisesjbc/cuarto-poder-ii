@@ -1,6 +1,0 @@
-Name:                Miguel (resistencia)
-ID:                  31
-Importance:          0
-Full Summary:        Miembro de la {W:1:Resistencia}. Forma parte del equipo en el {P:3:Rescate del manicomio}.
-Notes:               - Tiene fama de tener mala memoria.
-Color:               #cee6dc

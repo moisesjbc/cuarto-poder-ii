@@ -3,4 +3,5 @@ ID:                  39
 Importance:          1
 Notes:               - Hermano de {C:5:Ajani}.
                      - Kasim: "Controlador de la ira" (**¿fuente?**)
+                     - ¿Cómo se pronuncia el nombre?
 Color:               #9d9199

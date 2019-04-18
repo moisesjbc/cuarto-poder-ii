@@ -1,8 +1,22 @@
 Name:                Noemí
 ID:                  2
 Importance:          1
+Full Summary:        # Noemí Pérez
+                     
+                     - Hija de {C:22:Mario Pérez} y {C:21:Lucía}. Estudiante de instituto.
+                     
+                     - 14 años.
+                     - Despreocupada (pelo desastrozo), ágil, activa.
+                     - Pelo: Rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes.
+                     - Directa, resolutiva.
+                     - Manías: No le gusta estar encerrada.
 Notes:               - Llorosa desde que "despierta" de su personalidad de {C:25:Noemí Pérez}.
                      - Se siente unida a {C:0:Lucas}.
                      - No quiere salir de la *Burbuja* porque "al menos tenía una familia".
                      - Sus padres fueron asesinados por RIO cuando intentaron "desertar" a la resistencia. Ella fue capturada 2 días después y "convertida en otra Noemí".
+                     - Le gusta jugar con Lara a “Revuélvele el pelo a tu hermana la coqueta”.
+                     - Correr desde el baño donde se peina hasta la entrada de la casa sin que Noemí despeine a Lara.
+                     - Suele ganar Noemí.
+                     - **¿Por qué fue capturada por RIO?**
+                     - Predilección por Mario.
 Color:               #f4ddae

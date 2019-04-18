@@ -1,9 +1,0 @@
-Name:                Andrés
-ID:                  13
-Importance:          0
-Full Summary:        Miembro de {W:0:RIO} encubierto que irrumpe en la cena  de {C:14:Elizabeth Ramírez} y {C:15:Aitor} y avisa a esta sobre el {P:2:Asalto al AT de Gran Canaria}.
-Color:               #9ee9be
-Pelo:                Corto y rizado
-Complexión:          Alto, complexión fuerte. Imponente.
-Personalidad:        Brusco. Cara de pocos amigos.
-Vestimentas:         En el C6 (P1) viste una camiseta cualquiera, un pantalón largo y gorra

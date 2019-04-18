@@ -2,6 +2,20 @@ Name:                María
 ID:                  24
 Importance:          0
 Full Summary:        Antes del {P:1:Estallido de la burbuja de Mario}, es {C:23:Lucía Pérez}.
+                     
+                     
+                     # Lucía Pérez
+                     
+                     Mujer de {C:22:Mario Pérez}. Profesora de matemáticas.
+                     
+                     - 35 años.
+                     - Pecho generoso.
+                     - Gran melena lacia y rubia.
+                     - Personalidad: segura de si misma.
 Notes:               - Forma parte del primer grupo para abandonar la *Burbuja* (p1,c23) tras el {P:1:Estallido de la burbuja de Mario}.
                      - **¿Qué sucede con ellos?**
+                     
+                     - En la ciudad era profesora de matemáticas en la universidad.
+                     - En el pueblo será profesora de matemáticas en el instituto.
+                     - **¿Por qué fue capturada por RIO?**
 Color:               #c5f9b8

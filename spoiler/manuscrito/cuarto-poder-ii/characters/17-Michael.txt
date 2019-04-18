@@ -1,6 +1,0 @@
-Name:                Michael
-ID:                  17
-Importance:          0
-Full Summary:        Soldado de la unidad {C:3:Coronel Cooper} que lo acompaña cuando el grupo desciende al sótano del {W:3:AT de Gran Canaria}, durante el {P:2:Asalto al AT de Gran Canaria}.
-Notes:               - Sube a la superficie a buscar al resto de soldados, **pero después no indico si es uno de los que baja ni nada**.
-Color:               #f4d885

@@ -1,6 +1,0 @@
-Name:                Jacob
-ID:                  34
-Importance:          0
-Full Summary:        Guardia de {W:0:RIO} que transporta a {C:4:Jonás} tras el {P:3:Rescate del manicomio} junto con {C:32:Iván} y {C:33:Pedro}.
-Notes:               - Mudo.
-Color:               #97ade0
