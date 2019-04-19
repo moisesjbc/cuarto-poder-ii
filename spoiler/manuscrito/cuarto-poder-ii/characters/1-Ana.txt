@@ -1,6 +1,6 @@
 Name:                Ana
 ID:                  1
-Importance:          2
+Importance:          1
 Full Summary:        Mejor amiga de Lucas (**¿desde cuándo se conocen?**). En la primera parte se descubre como un miembro de la {W:1:Resistencia} infiltrado en {W:0:RIO}.
                      - **¿Motivación y verdadera identidad / alianza?**
                      - **¿Desde cuándo lleva en {W:0:RIO}?**

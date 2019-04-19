@@ -2,7 +2,7 @@ Sentence:    Un ex-reportero se une a la lucha para destapar las mentiras de la 
 Paragraph:   Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Tras una emboscada de RIO, el grupo es rescatado por Ajani, y Lucas es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación. RIO experimenta con él mientras Lucas tiene visiones que lo llevan a abrir una cámara para llegar al planeta X, sólo para descubrir que todo eran alucinaciones provocadas por un virus. El virus comienza a propagarse, con Lucas y Ajani a la cabeza. RIO y la Resistencia colaboran para acabar con el virus. La Resistencia descubre cómo acabar con RIO y ejecuta el plan.
 Page:        # 1
              
-             Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. 
+             Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
              
              # 2
              
@@ -76,3 +76,4 @@ Page:        # 1
              - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
              - 	Consecuencias para el coronel e Inglaterra.
              - **Verdadera motivación y alineación de cada personaje (al menos de los principales)**
+             - Idea: Lucas encuentra a Cooper en una de las Burbujas pero este está condicionado y es que le tiende la trampa.

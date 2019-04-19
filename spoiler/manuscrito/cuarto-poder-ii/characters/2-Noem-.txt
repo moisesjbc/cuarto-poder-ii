@@ -1,7 +1,11 @@
 Name:                Noemí
 ID:                  2
-Importance:          1
-Full Summary:        # Noemí Pérez
+Importance:          0
+Full Summary:        # Padres de Noemí
+                     
+                     Antiguos trabajadores de {W:0:RIO} que descubrieron la farsa del {P:0:Incidente de Inglaterra} . Interaron desertar a la resistencia pero {W:0:RIO} los mató y dos días después capturaron a {C:2:Noemí}.
+                     
+                     # Noemí Pérez
                      
                      - Hija de {C:22:Mario Pérez} y {C:21:Lucía}. Estudiante de instituto.
                      
