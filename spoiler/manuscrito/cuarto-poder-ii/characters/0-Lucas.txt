@@ -1,42 +1,61 @@
 Name:                Lucas
 ID:                  0
 Importance:          2
-Goal:                - Acabar con RIO.
-                     - ¿Acabar con {C:1:Ana}?
+Motivation:          Vivir tranquilo y con la consciencia en paz.
+Goal:                Unirse a la Resistencia y participar activamente (**pero lo mínimo posible**) en la destrucción de RIO.
+Conflict:            Lucas realmente quiere poder **vivir tranquilo** en un mundo libre y mejor del que le ha tocado vivir. No obstante, al mismo tiempo le gustaría poder ignorar los problemas del mismo, y le da miedo hacer algo para cambiar las cosas.  Se debate internamente entre hacer algo, actuar, o simplemente encerrarse en sí mismo hasta que pueda olvidar lo que sucede.
+Epiphany:            Con el tiempo y tras ver los crímenes de RIO se va dando cuenta de que "el mal" nunca descansará y hace suya la frase "Lo único que necesita el mal para triunfar es que los hombres buenos no hagan nada". Cada vez se involucra más en hacer algo.
 Phrase Summary:      Extrabajador de la corporación {W:0:RIO} que se une a la {W:1:Resistencia} para acabar con ella.
-Full Summary:        Lucas trabajó durante años para la corporación {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario} (antes de la cuál es {C:22:Mario Pérez}), decide unirse a la {W:1:Resistencia}.
+Paragraph Summary:   Lucas trabajó durante años para la corporación {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. Tras el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez". A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario} (antes de la cuál es {C:22:Mario Pérez}), decide unirse a la {W:1:Resistencia}.
+Full Summary:        # Vida anterior
                      
+                     Lucas trabajó durante años para la corporación {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. 
+                     
+                     - Se había ganado la enemistad de RIO después del {P:0:Incidente de Inglaterra}.
                      - Acostumbrado a que sus compañeros le hagan el vacío tras el {P:0:Incidente de Inglaterra}.
+                     - En su trabajo en el {W:3:AT de Gran Canaria}: El joven evita ir al baño hasta que no puede más y sufre unos mareos espantosos cuando va, como siempre. Vuelve a su puesto haciendo el mismo camino pero sin sufrir mareo alguno (**¿por qué?**).
                      
+                     # Asalto al AT de Gran Canaria y captura
                      
-                     # Mario Pérez
+                     Durante el {P:2:Asalto al AT de Gran Canaria}  es usado como conejillo de indias por una supuesta "sensibilidad especial".
                      
-                     Técnico informático que se ha mudado a un pueblo (*Burbuja*) con su familia.
+                     - En el descenso al sótano secreto del {W:3:AT de Gran Canaria} siente mareos y ganas de vomitar al usar el "ascensor B".
+                     - Lucas se siente especialmente culpable, ahora que presencia gente muriendo (capítulo 9), de no haber hecho nada contra {W:0:RIO} en todos estos años.
+                     - Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
+                     - Se siente en parte culpable porque los agentes de {W:0:RIO} eviten dispararle y en su lugar disparen a "aquellos que estaban actuando y muriendo por derrocar a {W:0:RIO}".
+                     - Según Ana (**¿O era según Ajani?**), tiene una "sensiblidad especial" muy valiosa para {W:0:RIO} ({W:2:Nanomáquinas}).
+                     - Puntería pésima. Miedo a disparar.
+                     - Importante para RIO (sus agentes evitan dispararle). Ajani sabe que él tiene un "sexto sentido" que lo hace sentirse mal en caminos / sitios peligrosos.
+                     
+                     # Conversión a Mario Pérez
+                     
+                     Tras el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez": un técnico informático que se ha mudado a un pueblo recóndito con su familia.
                      
                      - Técnico informático en la ciudad.
                      - Será técnico informático en el ayuntamiento.
                      - Cierta predilección sana por Noemí, de quién dice que es una "auténtica cazadora".
                      - Tranquilo. 31 años.
-Notes:               - Lucas se siente especialmente culpable, ahora que presencia gente muriendo (capítulo 9), de no haber hecho nada contra {W:0:RIO} en todos estos años.
-                     - Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
-                     - Se siente en parte culpable porque los agentes de {W:0:RIO} eviten dispararle y en su lugar disparen a "aquellos que estaban actuando y muriendo por derrocar a {W:0:RIO}".
-                     - Según Ana, tiene una "sensiblidad especial" muy valiosa para {W:0:RIO} ({W:2:Nanomáquinas}).
-                     - Se había ganado la enemistad de RIO después del {P:0:Incidente de Inglaterra}.
-                     - No se permitía que su amistad con {C:1:Ana} fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la {W:1:Resistencia}, se lo replantea.
-                     - Se siente unido a {C:2:Noemí}.
                      
-                     - En el descenso al sótano secreto del {W:3:AT de Gran Canaria} siente mareos y ganas de vomitar al usar el "ascensor B".
-                     
-                     - Importante para RIO (sus agentes evitan dispararle). Ajani sabe que él tiene un "sexto sentido" que lo hace sentirse mal en caminos / sitios peligrosos.
-                     
+                     - Cuando vuelve a ser Lucas, sigue sintiéndose unido a {C:2:Noemí}.
                      - Después del {P:1:Estallido de la burbuja de Mario}, siente a veces dolores de cabeza y como si la personalidad de {C:22:Mario Pérez} intentara tomar el control.
                      
-                     - En su trabajo en el {W:3:AT de Gran Canaria}: El joven evita ir al baño hasta que no puede más y sufre unos mareos espantosos cuando va, como siempre. Vuelve a su puesto haciendo el mismo camino pero sin sufrir mareo alguno (**¿por qué?**).
+                     # Unión a la Resistencia
+                     
+                     - No se permitía que su amistad con {C:1:Ana} fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la {W:1:Resistencia}, se lo replantea.
+                     - A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario}, decide unirse a la {W:1:Resistencia}.
+Notes:               # Info básica
+                     
+                     - 30 años
+                     
+                     # Físico
+                     
+                     - Cuerpo: Moreno, alto y de complexión media
+                     - Pelo: Castaño, corto
+                     - Ojos: marrones
+                     - Bello facial: Bigote y barba cortos.
+                     
+                     # Personalidad
+                     
+                     - Serio, pesimista (comienzo del C1 de la primera parte). 
+                     - Poco acostumbrado a conflictos. Teme disparar aunque sea a enemigos.
 Color:               #fcaf3e
-Edad:                30 años
-Cuerpo:              Moreno, alto y de complexión media
-Pelo:                Castaño, corto
-Ojos:                Marrones
-Bello facial:        Bigote y barba cortos.
-Personalidad:        Serio, pesimista (comienzo del C1 de la primera parte). poco acostumbrado a conflictos. Teme disparar aunque sea a enemigos.
-Destreza con armas:  Puntería pésima. Miedo a disparar.
