@@ -6,17 +6,22 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Anotar posibles soluciones para 7 misterios en el resumen",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Anotar posibles soluciones para 7 misterios en el resumen (II)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Rellenar ficha de interacción de agentes principales con Gran Sirena (aproximación)",
           "details": "",
           "color": "FAFCD2"
         },
         {
           "name": "Refinar ficha de interacción de agentes principales con Gran Sirena",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Eliminar personajes superfluos",
           "details": "",
           "color": "FAFCD2"
         },
@@ -88,7 +93,7 @@
       "cards": [
         {
           "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Volver a rama develop\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear develop.\n5. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n6. Planificación de la semana que viene.\n7. Meter en Tasks si será por objetivos o tiempo.\n8. Devolver esta tarea a ToDo.",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear en master.\n5. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n6. Planificación de la semana que viene.\n7. Meter en Tasks si será por objetivos o tiempo.\n8. Devolver esta tarea a ToDo.",
           "color": "FCE4D4"
         }
       ],
@@ -99,6 +104,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Rellenar primera pestaña de Lucas en Manuskript (DESC)",
+          "details": "Escribir una hoja resumen por cada personaje principal: resumen vital, motivación, objetivos, conflicto y epifanía.",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Clasificar personajes principales, secundarios y terciarios (DESC)",
+          "details": "Referencias\n\n- https://www.writerscookbook.com/character-types-story/\n\nRon and Hermione from Harry Potter are good examples of secondary characters. They’re three-dimensional, but it’s clear that the story doesn’t revolve around them. They’ll do anything they can to help the Harry, though.\n\nSubplots often revolve around secondary characters, such as Hermione’s creation of S.P.E.W..\n\n---\n\nThey’re not central to the story, and they’re not along for the ride. They may, however, play a crucial role in a part of the protagonist’s journey, such as Lupin teaching Harry about dementors.\n\n- https://gointothestory.blcklst.com/three-levels-of-characters-primary-secondary-tertiary-379b6fa05706\n\nPrimary: The main characters.\nSecondary: Recurring characters who are of lesser importance.\nTertiary: Characters who appear in one, perhaps two scenes for a specific, limited purpose.\n\nAs a way of helping a reader distinguish Primary and Secondary characters, I use last names for the latter. If I don’t need to establish a significant level of intimacy with a character who will only be around for a few scenes or a minor subplot, why waste a first name on them?\n\n- ¿Otros?",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Eliminar personajes superfluos",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Cerrar resumen de un párrafo y llevar misterios a una página",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar resumen de un párrafo, anotando (+), (-) y (?)",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Definir tercera alternativa de resumen de un párrafo",
           "details": "",
