@@ -154,3 +154,15 @@ Ahora toca planificar la semana que viene. **Intentaré aumentar el tiempo que d
 **Esta semana he vuelto a centrarme en crear un resumen de un párrafo** siguiendo el método "Snowflake". En los últimos tres días he escrito tres versiones alternativas, sacando notas, ventajas y desventajas de cada una. Volver a tener una visión más alejada de la historia en vez de centrarme ya en detalles me ha dado una pequeña sensación de avance. Menos mal.
 
 **Para la semana que viene me conformo con terminar de cerrar aunque sea una versión "casi-definitiva" del resumen**.
+
+## Semana 18 (15/04/2019 - 21/04/2019)
+
+¡Por fin algunos avances!
+
+Esta semana **he elegido una de las alternativas de resumen de un párrafo y lo he refinado**, anotando los puntos fuertes, débiles y dudas que iba notando.
+
+A continuación, **me he alejado temporalmente de la trama para centrarme en los personajes**. He comenzado por hacer una **criba, eliminando personajes muertos o superfluos**. Acto seguido **he clasificado los personajes supervivientes según importancia** en principal, secundarios y terciarios, leyendo un par de artículos por Internet para ayudarme. Por último, **he rellenado una primera versión de la ficha de Lucas**.
+
+Mientras realizaba los avances anteriores, he comenzado a leer el libro "El arte de crear personajes en narrativa, cine y televisión", de David Corbett, que me regalaron para mi cumpleaños (ver semana 14). Espero dotar a los personajes de la profundidad y realismo que se merecen ;-)
+
+¡Y esto es todo! Espero poder mantener el buen ritmo la semana que viene.
