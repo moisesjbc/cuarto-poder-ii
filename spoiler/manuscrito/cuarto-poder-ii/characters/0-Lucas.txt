@@ -6,43 +6,51 @@ Goal:                Unirse a la Resistencia y participar activamente (**pero lo
 Conflict:            Lucas realmente quiere poder **vivir tranquilo** en un mundo libre y mejor del que le ha tocado vivir. No obstante, al mismo tiempo le gustaría poder ignorar los problemas del mismo, y le da miedo hacer algo para cambiar las cosas.  Se debate internamente entre hacer algo, actuar, o simplemente encerrarse en sí mismo hasta que pueda olvidar lo que sucede.
 Epiphany:            Con el tiempo y tras ver los crímenes de RIO se va dando cuenta de que "el mal" nunca descansará y hace suya la frase "Lo único que necesita el mal para triunfar es que los hombres buenos no hagan nada". Cada vez se involucra más en hacer algo.
 Phrase Summary:      Extrabajador de la corporación {W:0:RIO} que se une a la {W:1:Resistencia} para acabar con ella.
-Paragraph Summary:   Lucas trabajó durante años para la corporación {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. Tras el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez". A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario} (antes de la cuál es {C:22:Mario Pérez}), decide unirse a la {W:1:Resistencia}.
+Paragraph Summary:   Lucas trabajó durante años para la corporación {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. Tras el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez". A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario}, decide unirse a la {W:1:Resistencia}.
 Full Summary:        # Vida anterior
                      
-                     Lucas trabajó durante años para la corporación {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. 
+                     Lucas nació el 15 de Junio de 1995 (30 años) en Gran Canaria.
                      
-                     - Se había ganado la enemistad de RIO después del {P:0:Incidente de Inglaterra}.
-                     - Acostumbrado a que sus compañeros le hagan el vacío tras el {P:0:Incidente de Inglaterra}.
+                     En 2013 acabó la carrera de Periodismo y consiguió un trabajo en un periódico insular, en el que estuvo 7 años hasta que estalló **la crisis de 2020**. Entonces RIO contactó con él y le ofreció un puesto en el {W:3:AT de Gran Canaria}.
+                     
+                     Lucas acabó en un trabajo de reportero en el extranjero hasta que se produjo el {P:0:Incidente de Inglaterra}, en 2022. Desengañado y enfadado con {W:0:RIO}, se sintió impotente al no poder abandonar de manera segura la corporación frente a la crisis económica mundial. Lucas permaneció en la corporación solicitando un puesto de oficina, y se autoengañó prometiéndose que intentaría hacer lo que pudiera para acabar con {W:0:RIO} desde dentro. 
+                     
+                     Desde entonces trabaja seleccionando "noticias jugosas" para sus superiores y lidia con el tedio y el vacío al que le someten sus compañeros tras los "mimos" de {W:0:RIO} para con él.
+                     
                      - En su trabajo en el {W:3:AT de Gran Canaria}: El joven evita ir al baño hasta que no puede más y sufre unos mareos espantosos cuando va, como siempre. Vuelve a su puesto haciendo el mismo camino pero sin sufrir mareo alguno (**¿por qué?**).
                      
                      # Asalto al AT de Gran Canaria y captura
                      
-                     Durante el {P:2:Asalto al AT de Gran Canaria}  es usado como conejillo de indias por una supuesta "sensibilidad especial".
+                     Durante el {P:2:Asalto al AT de Gran Canaria}  es sorprendido por el {C:3:Coronel Cooper} y los suyos. Lucas es usado como conejillo de indias por una supuesta "sensibilidad especial" para detectar caminos / sitios peligrosos sintiéndose mal, según un email de {C:5:Ajani}.
+                     
+                     Durante los tiroteos que se suceden, Lucas **se siente culpable de no haber hecho nada** en todos estos años, mientras otros ({W:1:Resistencia}) luchan y mueren por acabar con RIO. Su culpabilidad se acrecenta cuando los agentes de RIO evitan dispararle.
                      
                      - En el descenso al sótano secreto del {W:3:AT de Gran Canaria} siente mareos y ganas de vomitar al usar el "ascensor B".
-                     - Lucas se siente especialmente culpable, ahora que presencia gente muriendo (capítulo 9), de no haber hecho nada contra {W:0:RIO} en todos estos años.
                      - Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
-                     - Se siente en parte culpable porque los agentes de {W:0:RIO} eviten dispararle y en su lugar disparen a "aquellos que estaban actuando y muriendo por derrocar a {W:0:RIO}".
-                     - Según Ana (**¿O era según Ajani?**), tiene una "sensiblidad especial" muy valiosa para {W:0:RIO} ({W:2:Nanomáquinas}).
                      - Puntería pésima. Miedo a disparar.
-                     - Importante para RIO (sus agentes evitan dispararle). Ajani sabe que él tiene un "sexto sentido" que lo hace sentirse mal en caminos / sitios peligrosos.
                      
                      # Conversión a Mario Pérez
                      
-                     Tras el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez": un técnico informático que se ha mudado a un pueblo recóndito con su familia.
+                     Tras el {P:2:Asalto al AT de Gran Canaria}, se le da por muerto, pero realmente ha sido capturado y convertido en "Mario Pérez": un técnico informático que se ha mudado a un pueblo recóndito con su familia.
                      
                      - Técnico informático en la ciudad.
                      - Será técnico informático en el ayuntamiento.
                      - Cierta predilección sana por Noemí, de quién dice que es una "auténtica cazadora".
                      - Tranquilo. 31 años.
                      
-                     - Cuando vuelve a ser Lucas, sigue sintiéndose unido a {C:2:Noemí}.
-                     - Después del {P:1:Estallido de la burbuja de Mario}, siente a veces dolores de cabeza y como si la personalidad de {C:22:Mario Pérez} intentara tomar el control.
+                     Cuando vuelve a ser Lucas, sigue sintiéndose unido a {C:2:Noemí}, aunque no es capaz de explicarlo. Además, **echa de menos la tranquilidad** de su vida como Mario. También siente dolores de cabeza a veces, *como si la personalidad de {C:22:Mario Pérez} intentara tomar el control*.
                      
                      # Unión a la Resistencia
                      
-                     - No se permitía que su amistad con {C:1:Ana} fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la {W:1:Resistencia}, se lo replantea.
-                     - A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario}, decide unirse a la {W:1:Resistencia}.
+                     Tras la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas decide unirse a la {W:1:Resistencia}, al darse cuenta de que {W:0:RIO} nunca parará de intentar hacerle daño a él y a los demás. No obstante, **en secreto se lamenta de haberse metido en la boca del lobo**.
+                     
+                     En cuanto a su **relación con {C:1:Ana}**, Lucas no permitió nunca que su amistad fuera a más para protegerla, pero ahora que ambos iban a ser miembros de la {W:1:Resistencia}, se lo replantea.
+                     
+                     # Visión
+                     
+                     A finales de la primera parte, Lucas recibe un golpe en la cabeza y tiene experimenta lo siguiente:
+                     
+                     De repente, una luz verdosa lo embargó, sacándolo de la oscuridad. Sintió la hierba acariciar sus pies desnudos mientras permanecía de pie frente a un océano cuyo color azul verdoso teñía el cielo. Lucas alzó la vista y alcanzó a ver un cielo dominado por dos lunas gigantes, una dorada y la otra plateada. Escuchó su propia voz preguntar "¿Dónde estoy?" antes de perder la conciencia por completo.
 Notes:               # Info básica
                      
                      - 30 años
@@ -56,6 +64,6 @@ Notes:               # Info básica
                      
                      # Personalidad
                      
-                     - Serio, pesimista (comienzo del C1 de la primera parte). 
+                     - Serio, pesimista (comienzo del C1 de la primera parte).
                      - Poco acostumbrado a conflictos. Teme disparar aunque sea a enemigos.
 Color:               #fcaf3e
