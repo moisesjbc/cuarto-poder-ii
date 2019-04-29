@@ -166,3 +166,11 @@ A continuación, **me he alejado temporalmente de la trama para centrarme en los
 Mientras realizaba los avances anteriores, he comenzado a leer el libro "El arte de crear personajes en narrativa, cine y televisión", de David Corbett, que me regalaron para mi cumpleaños (ver semana 14). Espero dotar a los personajes de la profundidad y realismo que se merecen ;-)
 
 ¡Y esto es todo! Espero poder mantener el buen ritmo la semana que viene.
+
+## Semana 19 (22/04/2019 - 28/04/2019)
+
+Pues no, no he mantenido el ritmo.
+
+Esta semana la idea era refinar las fichas de los personajes principales, pero **sólo refine la ficha de Lucas**. No obstante, me quedo con lo positivo de empezar a ahondar en los personajes y sentirlos de alguna manera más vivos.
+
+No creo que trabaje apenas en el libro esta semana que empieza. El fin de semana es la Island Jam y pienso invertir el tiempo en practicar para intentar reducir (un poco) el estrés que se viene encima ;-) 
