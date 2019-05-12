@@ -174,3 +174,9 @@ Pues no, no he mantenido el ritmo.
 Esta semana la idea era refinar las fichas de los personajes principales, pero **sólo refine la ficha de Lucas**. No obstante, me quedo con lo positivo de empezar a ahondar en los personajes y sentirlos de alguna manera más vivos.
 
 No creo que trabaje apenas en el libro esta semana que empieza. El fin de semana es la Island Jam y pienso invertir el tiempo en practicar para intentar reducir (un poco) el estrés que se viene encima ;-) 
+
+## Semana 20 (06/05/2019 - 12/05/2019)
+
+Tal como prometí, la semana pasada participé en la Island Jam y no trabajé en el libro. Esta semana tampoco lo he tocado, pero sí que le **di un sprint al libro "El arte de crear personajes en narrativa, cine y televisión", de David Corbett y lo terminé**. Aunque bajo mi punto de vista se volvía muy repetitivo en algunas partes, siento que ha sido una lectura muy provechosa de cara a escribir este libro.
+
+No obstante, **es posible que esta semana que entra tampoco trabaje en el libro**. Estoy pensando si dedicarla a trabajar en mi marca personal (web) y retomar el libro a la siguiente. Como se suele decir... seguiremos informando.
