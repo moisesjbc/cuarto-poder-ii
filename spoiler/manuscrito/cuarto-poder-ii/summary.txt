@@ -75,5 +75,4 @@ Page:        # 1
              - Asalto al AT de Gran Canaria.
              - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
              - 	Consecuencias para el coronel e Inglaterra.
-             - **Verdadera motivación y alineación de cada personaje (al menos de los principales)**
              - Idea: Lucas encuentra a Cooper en una de las Burbujas pero este está condicionado y es que le tiende la trampa.

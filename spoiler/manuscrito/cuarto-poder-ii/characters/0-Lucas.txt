@@ -13,7 +13,7 @@ Full Summary:        # Vida anterior
                      
                      En 2013 acabó la carrera de Periodismo y consiguió un trabajo en un periódico insular, en el que estuvo 7 años hasta que estalló **la crisis de 2020**. Entonces RIO contactó con él y le ofreció un puesto en el {W:3:AT de Gran Canaria}.
                      
-                     Lucas acabó en un trabajo de reportero en el extranjero hasta que se produjo el {P:0:Incidente de Inglaterra}, en 2022. Desengañado y enfadado con {W:0:RIO}, se sintió impotente al no poder abandonar de manera segura la corporación frente a la crisis económica mundial. Lucas permaneció en la corporación solicitando un puesto de oficina, y se autoengañó prometiéndose que intentaría hacer lo que pudiera para acabar con {W:0:RIO} desde dentro. 
+                     Lucas acabó en un trabajo de reportero en el extranjero hasta que se produjo el {P:0:Incidente de Inglaterra}, en 2022. Desengañado y enfadado con {W:0:RIO}, se sintió impotente al no poder abandonar de manera segura la corporación frente a la crisis económica mundial. Lucas permaneció en la corporación solicitando un puesto de oficina, y se autoengañó prometiéndose que intentaría hacer lo que pudiera para acabar con {W:0:RIO} desde dentro.
                      
                      Desde entonces trabaja seleccionando "noticias jugosas" para sus superiores y lidia con el tedio y el vacío al que le someten sus compañeros tras los "mimos" de {W:0:RIO} para con él.
                      
@@ -48,9 +48,11 @@ Full Summary:        # Vida anterior
                      
                      # Visión
                      
-                     A finales de la primera parte, Lucas recibe un golpe en la cabeza y tiene experimenta lo siguiente:
+                     A finales de la primera parte, Lucas recibe un golpe en la cabeza y experimenta lo siguiente:
                      
+                     *
                      De repente, una luz verdosa lo embargó, sacándolo de la oscuridad. Sintió la hierba acariciar sus pies desnudos mientras permanecía de pie frente a un océano cuyo color azul verdoso teñía el cielo. Lucas alzó la vista y alcanzó a ver un cielo dominado por dos lunas gigantes, una dorada y la otra plateada. Escuchó su propia voz preguntar "¿Dónde estoy?" antes de perder la conciencia por completo.
+                     *
 Notes:               # Info básica
                      
                      - 30 años

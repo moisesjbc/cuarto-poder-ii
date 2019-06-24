@@ -20,7 +20,12 @@
         "wordMin": 1
     },
     "fullScreenTheme": "spacedreams",
-    "lastTab": 2,
+    "fullscreenSettings": {
+        "autohide-bottom": true,
+        "autohide-left": true,
+        "autohide-top": true
+    },
+    "lastTab": 0,
     "openIndexes": [
         0,
         [],
