@@ -11,6 +11,21 @@
           "color": "FAFCD2"
         },
         {
+          "name": "Idear adversarios (¿sólo Elizabeth?) y motivación de los mismos.",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar motivación y objetivo de RIO y Resistencia",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Split de rellenar fichas en ficha general / ficha resumen",
+          "details": "",
+          "color": "FCC7FC"
+        },
+        {
           "name": "Rellenar ficha de Elizabeth",
           "details": "",
           "color": "FAFCD2"
@@ -27,11 +42,6 @@
         },
         {
           "name": "Rellenar ficha de Ajani",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar motivación y objetivo de RIO y Resistencia",
           "details": "",
           "color": "FAFCD2"
         },
@@ -139,6 +149,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Repasar resúmenes y eventos",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar prioridad de personajes",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Instalar Manuskript",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Reducir documento de consejos de escritura a 5 páginas (sin bibliografía)",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Refinar ficha de Lucas",
           "details": "",
