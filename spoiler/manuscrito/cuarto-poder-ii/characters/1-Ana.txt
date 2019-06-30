@@ -14,9 +14,12 @@ Epiphany:            Ana se da cuenta de que el progreso para la especie justifi
                      - "50 años con un propósito son mejores que 100 años sin él".
                      - Siempre va a haber peligro, pero el uso del Canto de Sirena se puede controlar mediante un control férreo de la sociedad.
 Phrase Summary:      Agente secreto de los {W:6:Hombres de negro} que trabaja con la Resistencia para purgar en secreto a RIO.
-Paragraph Summary:   Ana estudió periodismo y comenzó a trabajar para una cadena de televisión local. Durante unas protestas por la crisis económica se vio envuelta en unos disturbios en los que colaboró con ambas partes para zanjar la disputa y facilitar el desarrollo de las mismas. Esto fue observado por los {W:6:Hombres de negro}, que comenzaron a captarla y  facilitaron su infiltración en la Resistencia como método de purgar RIO desde fuera.
-                     -> **Revisar**.
-Full Summary:        Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Canaria.
+Paragraph Summary:   Ana estudió periodismo y comenzó a trabajar para una cadena de televisión local. La joven captó la atención de los {W:6:Hombres de negro}, quienes la captaron. Estos facilitaron su infiltración en la Resistencia como método de controlar los movimientos de esta y al mismo tiempo purgar RIO desde fuera.
+Full Summary:        # Vida anterior
+                     
+                     Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Canaria. 
+                     
+                     Terminó la carrera de Periodismo en 2018 y consiguió una beca privada para trabajar en el AT de Gran Canaria.
                      
                      Mejor amiga de Lucas (**¿desde cuándo se conocen?**). En la primera parte se descubre como un miembro de la {W:1:Resistencia} infiltrado en {W:0:RIO}.
                      - **¿Motivación y verdadera identidad / alianza?**
@@ -24,6 +27,10 @@ Full Summary:        Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Ca
                      - **¿Desde cuándo lleva en la Resistencia?**
                      
                      Participa activamente en el asalto al AT de Gran {P:2:Asalto al AT de Gran Canaria}, aunque la {W:1:Resistencia} no la informó debido al riesgo.
+                     
+                     -> **Revisar**.
+                     
+                     -> Lucas y Ana discuten pero se abrazan a pesar de las diferencias.
 Notes:               **Primeros capítulos de la primera parte**
                      
                      - Lleva un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo.
@@ -41,7 +48,7 @@ Notes:               **Primeros capítulos de la primera parte**
                      
                      - Según ella es un miembro de la resistencia que se infiltró en RIO.
                      - **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?**
-                     	- **Repasar razón dada en el capítulo 15 de la primera parte**
+                     - **Repasar razón dada en el capítulo 15 de la primera parte**
                      - Ana se sorprende cuando Jonás habla de miembros de la Resistencia infiltrados que lo están ayudando.
                      - Desprecia enormemente a los agentes de RIO, bromeando con la muerte de los mismos.
                      - Visiblemente afectada por la muerte de Lucas. Jura venganza contra Elizabeth.
