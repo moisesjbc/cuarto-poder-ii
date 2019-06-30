@@ -180,3 +180,17 @@ No creo que trabaje apenas en el libro esta semana que empieza. El fin de semana
 Tal como prometí, la semana pasada participé en la Island Jam y no trabajé en el libro. Esta semana tampoco lo he tocado, pero sí que le **di un sprint al libro "El arte de crear personajes en narrativa, cine y televisión", de David Corbett y lo terminé**. Aunque bajo mi punto de vista se volvía muy repetitivo en algunas partes, siento que ha sido una lectura muy provechosa de cara a escribir este libro.
 
 No obstante, **es posible que esta semana que entra tampoco trabaje en el libro**. Estoy pensando si dedicarla a trabajar en mi marca personal (web) y retomar el libro a la siguiente. Como se suele decir... seguiremos informando.
+
+## Semana 21 (24/06/2019 - 30/06/2019)
+
+Pues a lo tonto... he estado casi dos meses sin tocar el libro. No estuve quieto; estuve remodelando mi [web personal](https://moisesjose.com/) e *intentando* arreglar mi gran [Juego de los bocadillos](https://moisesjose.com/games/jdb).
+
+**Esta semana tocaba aclimatarme de nuevo en la novela** así que la dediqué a lo siguiente:
+
+- Repasar y refinar un documento que tengo con consejos de escritura que voy recopilando.
+- Reinstalar [Manuskript](https://www.theologeek.ch/manuskript/), ya que durante este parón reinstalé Linux.
+- Repasar todas las notas escritas hasta la fecha.
+
+Además, **rellené la ficha de información básica del personaje de Ana**: resumen, motivación, objetivo, conflicto y epifanía.
+
+Toca planificar la siguiente semana. A ver si puedo darle un adelantón al resto de personajes secundarios.
