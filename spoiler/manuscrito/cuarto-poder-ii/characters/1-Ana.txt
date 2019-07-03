@@ -17,7 +17,7 @@ Phrase Summary:      Agente secreto de los {W:6:Hombres de negro} que trabaja co
 Paragraph Summary:   Ana estudió periodismo y comenzó a trabajar para una cadena de televisión local. La joven captó la atención de los {W:6:Hombres de negro}, quienes la captaron. Estos facilitaron su infiltración en la Resistencia como método de controlar los movimientos de esta y al mismo tiempo purgar RIO desde fuera.
 Full Summary:        # Vida anterior
                      
-                     Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Canaria. 
+                     Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Canaria.
                      
                      Terminó la carrera de Periodismo en 2018 y consiguió una beca privada para trabajar en el AT de Gran Canaria.
                      
