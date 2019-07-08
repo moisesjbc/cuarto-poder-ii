@@ -6,17 +6,22 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Rellenar ficha de Ana",
+          "name": "Idear origen y motivación de la crisis económica y militar global (¿Fue RIO?).",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Idear adversarios (¿sólo Elizabeth?) y motivación de los mismos.",
+          "name": "Rellenar resumen de Ana",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Rellenar motivación y objetivo de RIO y Resistencia",
+          "name": "Rellenar ficha (portada) de Elizabeth",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar ficha (resumen) de Elizabeth",
           "details": "",
           "color": "FAFCD2"
         },
@@ -24,11 +29,6 @@
           "name": "Split de rellenar fichas en ficha general / ficha resumen",
           "details": "",
           "color": "FCC7FC"
-        },
-        {
-          "name": "Rellenar ficha de Elizabeth",
-          "details": "",
-          "color": "FAFCD2"
         },
         {
           "name": "Rellenar ficha de Cooper",
@@ -78,16 +78,6 @@
         {
           "name": "Describir cada personaje principal (DESC)",
           "details": "- Resumen vital.\n- Motivación.\n- Objetivos.\n- Conflicto.\n- Epifanía.",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Integrar OTROS_consejos_escritura.md en el documento maestro",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "¿Rio ha provocado la guerra fría mundial? ¿Por qué?",
-          "details": "",
           "color": "FAFCD2"
         },
         {
@@ -150,6 +140,16 @@
       "name": "Done",
       "cards": [
         {
+          "name": "Rellenar motivación Resistencia",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar motivación y objetivo de RIO y hombres de Negro",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Repasar resúmenes y eventos",
           "details": "",
           "color": "FAFCD2"
@@ -161,6 +161,11 @@
         },
         {
           "name": "Instalar Manuskript",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Integrar OTROS_consejos_escritura.md en el documento maestro",
           "details": "",
           "color": "FAFCD2"
         },
