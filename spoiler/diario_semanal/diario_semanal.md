@@ -194,3 +194,9 @@ Pues a lo tonto... he estado casi dos meses sin tocar el libro. No estuve quieto
 Además, **rellené la ficha de información básica del personaje de Ana**: resumen, motivación, objetivo, conflicto y epifanía.
 
 Toca planificar la siguiente semana. A ver si puedo darle un adelantón al resto de personajes secundarios.
+
+## Semana 22 (01/07/2019 - 07/07/2019)
+
+**Esta semana he rellenado la motivación y el objetivo de la Resistencia, RIO y los "hombres de negro". También empecé a rellenar más información sobre la situación de crisis y guerra fría global**, pero no llegué a terminarlo. No cumplí todos los objetivos propuestos pero me ha sentado bien ahondar en los diferentes personajes / entes para evitar que sean meros autómatas de la historia.
+
+¡A por la siguiente semana!
