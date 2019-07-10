@@ -62,4 +62,11 @@
     <step name="Aparece Ajani" ID="3" meta="" summary=""/>
     <step name="Ajani ordena un ataque sobre la posición. Los de RIO se rinden" ID="4" meta="" summary="&quot;El héroe no hacía más que teclear incesantemente mientras los rebeldes daban sus vidas por él sin dudarlo ni un sólo momento. De repente, de uno de los altavoces del panel de control surgió una voz:&#10;&#10;- ¡Recibido! ¡Iniciando el ataque!.&#10;&#10;[...]&#10;&#10;&quot;El ensordecedor sonido de una explosión en el exterior inundó el almacén. A dicha explosión le siguieron muchas más. Las bajas enemigas se contaron por miles en pocos minutos. Las personas reunidas en el edificio miraban hacia el cielo. Buscaban a los aviones responsables de los bombardeos, pero en el aire sólo volaban las aeronaves enemigas que afectadas por las explosiones también sucumbían cayendo sobre el campo de batalla y provocando aún más bajas. Los soldados de la cadena reunidos en aquél almacén no tardaron en rendirse.&quot;&#10;&#10;&#10;- **¿Qué pasa después?**"/>
   </plot>
+  <plot name="Crisis económica" ID="8" importance="2" description="Instigación del clima de crisis económica y guerra fría por parte de {W:0:RIO} para afianzar su posición en el poder." steps="Resolution steps">
+    <step name="2007: RIO instiga la crisis económica" ID="0" meta="" summary=""/>
+    <step name="2010: RIO instiga un clima de desconfianza" ID="1" meta="" summary="Aprovechando la crisis económica mundial, RIO empieza a gestar un clima de desconfianza hacia el extranjero potenciando los nacionalismos y extremismos."/>
+    <step name="2015 - 2020: Auge de la ultraderecha" ID="2" meta="" summary="Ascenso al poder de líderes de ultraderecha."/>
+    <step name="2018 - 2020: Sucesión de ataques terroristas" ID="3" meta="" summary="- .&#10;-  -&gt; Definir."/>
+    <step name="2022: Incidente de Inglaterra" ID="4" meta="" summary=""/>
+  </plot>
 </root>
