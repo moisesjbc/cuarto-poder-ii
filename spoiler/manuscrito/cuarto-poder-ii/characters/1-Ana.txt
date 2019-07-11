@@ -14,23 +14,22 @@ Epiphany:            Ana se da cuenta de que el progreso para la especie justifi
                      - "50 años con un propósito son mejores que 100 años sin él".
                      - Siempre va a haber peligro, pero el uso del Canto de Sirena se puede controlar mediante un control férreo de la sociedad.
 Phrase Summary:      Agente secreto de los {W:6:Hombres de negro} que trabaja con la Resistencia para purgar en secreto a RIO.
-Paragraph Summary:   Ana estudió periodismo y comenzó a trabajar para una cadena de televisión local. La joven captó la atención de los {W:6:Hombres de negro}, quienes la captaron. Estos facilitaron su infiltración en la Resistencia como método de controlar los movimientos de esta y al mismo tiempo purgar RIO desde fuera.
+Paragraph Summary:   Ana captó la atención de los  {W:6:Hombres de negro} mientras estudiaba Periodismo y estos la captaron. La organización facilitó su infiltración en la Resistencia como método de controlar los movimientos de esta y al mismo tiempo purgar RIO desde fuera.
 Full Summary:        # Vida anterior
                      
                      Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Canaria.
                      
-                     Terminó la carrera de Periodismo en 2018 y consiguió una beca privada para trabajar en el AT de Gran Canaria.
+                     Cursó Periodismo, donde se hizo amiga de {C:0:Lucas}. Su activismo captó la atención de los {W:6:Hombres de negro}, quienes la captaron. Estos la infiltraron en la {W:1:Resistencia} y facilitaron en secreto su infiltración en {W:0:RIO} mediante una beca privada que inició en 2018, al terminar la carrera.
                      
-                     Mejor amiga de Lucas (**¿desde cuándo se conocen?**). En la primera parte se descubre como un miembro de la {W:1:Resistencia} infiltrado en {W:0:RIO}.
-                     - **¿Motivación y verdadera identidad / alianza?**
-                     - **¿Desde cuándo lleva en {W:0:RIO}?**
-                     - **¿Desde cuándo lleva en la Resistencia?**
+                     # Asalto al AT de Gran Canaria
                      
-                     Participa activamente en el asalto al AT de Gran {P:2:Asalto al AT de Gran Canaria}, aunque la {W:1:Resistencia} no la informó debido al riesgo.
+                     Durante el {P:2:Asalto al AT de Gran Canaria} está trabajando en {W:0:RIO} y se descubre que es miembro de la {W:1:Resistencia}. Participa activamente ayudando a los ingleses y a Jonás, pero son emboscados por RIO y consigue huir.
                      
-                     -> **Revisar**.
+                     # Misiones de rescate y estallido
                      
-                     -> Lucas y Ana discuten pero se abrazan a pesar de las diferencias.
+                     Tras el Asalto fallido al AT de Gran Canaria, Ana continúa trabajando para la {W:1:Resistencia} como agente de campo, rescatando a cautivos como {C:12:Arturo Ramírez "El Venezolano"} y estallando Burbujas.
+                     
+                     Durante la {P:1:Presentación y estallido de la burbuja de Mario}  se rencuentra con Lucas. Es emboscada junto con este y los demás habitantes de la Burbuja por {W:0:RIO} al final de la primera parte.
 Notes:               **Primeros capítulos de la primera parte**
                      
                      - Lleva un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo.
