@@ -6,21 +6,6 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Idear origen y motivación de la crisis económica y militar global (¿Fue RIO?).",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar resumen de Ana",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar ficha (portada) de Elizabeth",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Rellenar ficha (resumen) de Elizabeth",
           "details": "",
           "color": "FAFCD2"
@@ -139,6 +124,21 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Rellenar ficha (portada) de Elizabeth",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar resumen de Ana",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Idear origen y motivación de la crisis económica y militar global (¿Fue RIO?).",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Rellenar motivación Resistencia",
           "details": "",
