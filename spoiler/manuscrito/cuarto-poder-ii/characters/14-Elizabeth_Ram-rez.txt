@@ -1,6 +1,19 @@
 Name:                Elizabeth Ramírez
 ID:                  14
 Importance:          1
+Motivation:          "La humanidad está condenada desde hace mucho. ¿De verdad importa algo si simplemente quiero ser de las últimas piezas en caer?"
+                     
+                     Ambición por el poder y el progreso personal a toda costa.
+Goal:                - Asegurarse una posición de poder dentro de {W:0:RIO}.
+                     - Colaborar en la destrucción de la {W:1:Resistencia} como forma de terminar de ganarse la confianza de la cúpula de {W:0:RIO} y allanar su camino hasta la cima.
+Conflict:            ¿Esperar a ganarse el puesto en la cúpula o matar / traicionar para conseguirlo?
+                     
+                     - "Se puede construir un trono con bayonetas, pero no puede sentarse en él por mucho tiempo"
+Epiphany:            "Los de arriba rara vez quieren compartir el botín con los de abajo"
+                     
+                     Elizabeth comprende que si quiere alcanzar el poder debe traicionar y matar a quién sea.
+Phrase Summary:      Una de las agentes de campo más peligrosas de {W:0:RIO}. De cara al público es una reportera del {W:3:AT de Gran Canaria}.
+Paragraph Summary:   Elizabeth nació en un barrio marginal en el que desde pequeña tuvo que pelear y robar para sobrevivir. {W:0:RIO} la descubrió y la reclutó, entrenándola y dándole una nueva identidad más próspera a cambio de que hiciera los trabajos sucios de la corporación.
 Full Summary:        Agente de {W:0:RIO}. Públicamente reportera del {W:3:AT de Gran Canaria}. Hace reportajes "de relleno", al final de las noticias. Antigua compañera de clase de {C:15:Aitor} en la carrera de Periodismo.
 Notes:               - **Tener en cuenta lo de que fue compañera de {C:15:Aitor} si la quiero hacer nativa del planeta X**.
                      - La {W:1:Resistencia} la considera muy peligrosa.
