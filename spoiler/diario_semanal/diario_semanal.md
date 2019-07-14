@@ -200,3 +200,10 @@ Toca planificar la siguiente semana. A ver si puedo darle un adelantón al resto
 **Esta semana he rellenado la motivación y el objetivo de la Resistencia, RIO y los "hombres de negro". También empecé a rellenar más información sobre la situación de crisis y guerra fría global**, pero no llegué a terminarlo. No cumplí todos los objetivos propuestos pero me ha sentado bien ahondar en los diferentes personajes / entes para evitar que sean meros autómatas de la historia.
 
 ¡A por la siguiente semana!
+
+## Semana 23 (08/07/2019 - 14/07/2019)
+
+**En la última semana he seguido dotando de trasfondo a la historia**. He esbozado el origen y motivación de la crisis económica que azota al mundo de la historia. También he rellenado una primera versión del "resumen vital" de Ana y he rellenado la ficha básica de Elizabeth. 
+
+Me había propuesto rellenar también el resumen vital de Elizabeth pero... para la siguiente semana.
+
