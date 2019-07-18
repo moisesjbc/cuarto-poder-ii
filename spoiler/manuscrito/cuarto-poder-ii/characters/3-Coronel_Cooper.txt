@@ -1,6 +1,13 @@
 Name:                Coronel Cooper
 ID:                  3
 Importance:          1
+Motivation:          Justicia y disciplina.
+Goal:                - Limpiar el nombre de Inglaterra.
+                     - Exponer y destruir a {W:0:RIO}.
+Conflict:            Falta de confianza en su liderazgo tras el fracaso del {P:2:Asalto al AT de Gran Canaria}. Se debate sobre si seguir actuando públicamente como miembro del ejército inglés o actuar desde la sombra para no afectar más a la imagen de Inglaterra.
+Epiphany:            Confianza renovada en que puede dirigr misiones y ser decisivo en la destrucción de {W:0:RIO}.
+Phrase Summary:      Coronel del ejército de Inglaterra que conoce a {C:0:Lucas} del {P:0:Incidente de Inglaterra} y lidera el {P:2:Asalto al AT de Gran Canaria}.
+Paragraph Summary:   Cooper es un coronel condecorado del ejército de Inglaterra. Estuvo presente durante el {P:0:Incidente de Inglaterra}, en el que conoció a {C:0:Lucas} y vio de lo que era capaz {W:0:RIO}. Lideró el {P:2:Asalto al AT de Gran Canaria} por su cuenta y fue capturado por {W:0:RIO}.
 Full Summary:        Lidera el {P:2:Asalto al AT de Gran Canaria}. Conoce a {C:0:Lucas} del {P:0:Incidente de Inglaterra}.
 Notes:               - **¿Cooper es el apellido? ¿Cuál es el nombre?**.
                      - Vivió el {P:0:Incidente de Inglaterra}. Lanza el ataque a {W:0:RIO} supuestamente por no haber podido encontrar pruebas en todo este tiempo.
