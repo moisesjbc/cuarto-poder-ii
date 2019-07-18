@@ -1,9 +1,16 @@
 Name:                Jonás
 ID:                  4
 Importance:          1
-Full Summary:        Vagabundo que fue capturado por {W:0:RIO} en el pasado pero consiguió huir gracias a {C:5:Ajani} (**definir**). Desde entonces lleva mucho tiempo manteniéndose al margen (**definir tiempos**), hasta que su único contacto, {C:5:Ajani}, le avisa del {P:2:Asalto al AT de Gran Canaria} y Jonás participa en él para devolverle el favor.
-                     
-                     Tiene la capacidad de controlar las {W:2:Nanomáquinas} gracias a unos guantes especiales  que puede manejar (**definir funcionamiento**).
+Motivation:          Redención y libertad.
+Goal:                - Limpiar su conciencia tras haber colaborado con RIO en la creación de las {W:14:Burbujas} (**definir**).
+                     - Mantener a su hermana  y a si mismo a salvo de las garras de {W:0:RIO}.
+Conflict:            - Confesar o no su implicación en la creación de las *Burbujas*, especialmente a su hermana.
+                     - Aceptar su culpa o culpar de todo a {W:0:RIO} y "desentenderse".
+Epiphany:            - Nunca tendrá la conciencia totalmente en paz, pero confesar su secreto es un paso necesario.
+                     - Acepta su culpa y lucha para acabar con {W:0:RIO}.
+Phrase Summary:      Vagabundo al que RIO capturó y con el que experimentó con nanomáquinas hasta que fue rescatado por Ajani.
+Paragraph Summary:   Vagabundo que fue capturado por {W:0:RIO} en el pasado pero consiguió huir gracias a {C:5:Ajani} (**definir**). Desde entonces lleva mucho tiempo manteniéndose al margen (**definir tiempos**), hasta que su único contacto, {C:5:Ajani}, le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él para devolverle el favor.
+Full Summary:        Tiene la capacidad de controlar las {W:2:Nanomáquinas} gracias a unos guantes especiales  que puede manejar (**definir funcionamiento**).
 Notes:               - Tiene sueños en los que se mueve y le sangra la nariz con abundancia.
                      - Se suele despertar mareado / débil.
                      

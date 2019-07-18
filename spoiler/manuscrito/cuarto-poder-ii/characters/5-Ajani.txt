@@ -7,6 +7,8 @@ Full Summary:        Según {W:0:RIO}: terrorista y criminal de guerra despiadad
                      - "Es el mayor héroe de todos los tiempos y toda la humanidad le debe una bien grande."
                      - No sé si encabeza el ranking pero, ¡correcto! - confirmó el oficial -. Pues bien, él fue quien te condenó a acompañarnos.
                      """
+                     
+                     - Supuestamente rescató a Jonás de RIO, **¿por qué? ¿cómo casa esto con sus objetivos?**.
 Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}. 
                      - **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
                      - En el mismo email al {C:3:Coronel Cooper} le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
