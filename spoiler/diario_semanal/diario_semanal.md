@@ -207,3 +207,8 @@ Toca planificar la siguiente semana. A ver si puedo darle un adelantón al resto
 
 Me había propuesto rellenar también el resumen vital de Elizabeth pero... para la siguiente semana.
 
+## Semana 24 (15/07/2019 - 21/07/2019)
+
+**En la última semana he seguido con las fichas de los personajes**. Esperaba completar todos los secundarios, pero sólo he rellenado las fichas de Jonás y Cooper. Aunque sigo viendo que aún me queda un largísimo trecho por delante, me está gustando esto de pararme y pensar antes de escribir. Espero que la calidad final lo refleje ;-)
+
+**Ha llegado el momento de hacer otra pausa en el proyecto**. La semana que viene me voy de viaje y no volveré hasta el 11 de Agosto... Va a tocar repaso a la vuelta.
