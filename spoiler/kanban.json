@@ -6,7 +6,37 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear en master.\n5. Crear rama \"semana-<n>\"\n\n6. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n7. Planificación de la semana que viene.\n8. Meter en Tasks si será por objetivos o tiempo.\n9. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        },
+        {
+          "name": "Rellenar ficha (portada) de Ajani",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Corregir / aclarar \"crisis de 2020\" en ficha de Lucas / global",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar resumen de Jonás",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Rellenar ficha (resumen) de Elizabeth",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar resumen de Ajani",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar resumen de Cooper",
           "details": "",
           "color": "FAFCD2"
         },
@@ -14,26 +44,6 @@
           "name": "Split de rellenar fichas en ficha general / ficha resumen",
           "details": "",
           "color": "FCC7FC"
-        },
-        {
-          "name": "Rellenar ficha de Cooper",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar ficha de Jonás",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar ficha de Ajani",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Describir situación mundial someramente (DESC)",
-          "details": "En la ficha resumen de Lucas hago referencia a un la \"crisis de 2020\"",
-          "color": "FAFCD2"
         },
         {
           "name": "Anotar posibles soluciones para 7 misterios en el resumen",
@@ -56,23 +66,8 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Identificar personajes principales y secundarios",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Describir cada personaje principal (DESC)",
           "details": "- Resumen vital.\n- Motivación.\n- Objetivos.\n- Conflicto.\n- Epifanía.",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Refinar personajes (1/2) siguiendo el Snowflake method",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Refinar personajes (2/2) siguiendo el Snowflake method",
-          "details": "",
           "color": "FAFCD2"
         },
         {
@@ -110,13 +105,7 @@
     },
     {
       "name": "On going",
-      "cards": [
-        {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear en master.\n5. Crear rama \"semana-<n>\"\n\n6. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n7. Planificación de la semana que viene.\n8. Meter en Tasks si será por objetivos o tiempo.\n9. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
-        }
-      ],
+      "cards": [],
       "settings": {
         "limit": 2
       }
@@ -124,6 +113,16 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Rellenar ficha (portada) de Cooper",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar ficha (portada) de Jonás",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Rellenar ficha (portada) de Elizabeth",
           "details": "",
