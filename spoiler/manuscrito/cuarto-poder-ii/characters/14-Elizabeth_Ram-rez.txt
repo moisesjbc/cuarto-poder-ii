@@ -14,7 +14,15 @@ Epiphany:            "Los de arriba rara vez quieren compartir el botín con los
                      Elizabeth comprende que si quiere alcanzar el poder debe traicionar y matar a quién sea.
 Phrase Summary:      Una de las agentes de campo más peligrosas de {W:0:RIO}. De cara al público es una reportera del {W:3:AT de Gran Canaria}.
 Paragraph Summary:   Elizabeth nació en un barrio marginal en el que desde pequeña tuvo que pelear y robar para sobrevivir. {W:0:RIO} la descubrió y la reclutó, entrenándola y dándole una nueva identidad más próspera a cambio de que hiciera los trabajos sucios de la corporación.
-Full Summary:        Agente de {W:0:RIO}. Públicamente reportera del {W:3:AT de Gran Canaria}. Hace reportajes "de relleno", al final de las noticias. Antigua compañera de clase de {C:15:Aitor} en la carrera de Periodismo.
+Full Summary:        # Vida anterior
+                     
+                     Elizabeth nació el 16 de Octubre de 1991 (34 años).
+                     
+                     Cursó Periodismo, donde coincidió con Aitor. Terminó la carrera y rápidamente consiguió trabajo en una cadena de noticias local [...] {W:0:RIO}. Elizabeth comenzó a progresar rápidamente 
+                     
+                     
+                     
+                     Agente de {W:0:RIO}. Públicamente reportera del {W:3:AT de Gran Canaria}. Hace reportajes "de relleno", al final de las noticias. Antigua compañera de clase de {C:15:Aitor} en la carrera de Periodismo.
 Notes:               - **Tener en cuenta lo de que fue compañera de {C:15:Aitor} si la quiero hacer nativa del planeta X**.
                      - La {W:1:Resistencia} la considera muy peligrosa.
 Color:               #9dc7ab
