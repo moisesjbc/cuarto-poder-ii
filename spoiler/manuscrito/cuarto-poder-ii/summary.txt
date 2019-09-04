@@ -1,7 +1,11 @@
-Sentence:    Un ex-reportero se une a la lucha para destapar las mentiras de la corporación de medios de comunicación para la que trabajaba.
-Paragraph:   Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Tras una emboscada de RIO, el grupo es rescatado por Ajani, y Lucas es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación. RIO experimenta con él mientras Lucas tiene visiones que lo llevan a abrir una cámara para llegar al planeta X, sólo para descubrir que todo eran alucinaciones provocadas por un virus. El virus comienza a propagarse, con Lucas y Ajani a la cabeza. RIO y la Resistencia colaboran para acabar con el virus. La Resistencia descubre cómo acabar con RIO y ejecuta el plan.
+Sentence:    Un ex-reportero lucha por exponer las mentiras de la corporación de medios de comunicación para la que trabajaba.
+Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Lucas es entrenado por la resistencia hasta que es capturado por la corporación durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo llevan a abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un virus para conseguir liberarse. El virus comienza a propagarse, con Lucas y Ajani a la cabeza?, y varios grupos luchan / colaboran para destruir el virus o usarlo a su manera. Lucas es "curado" y decide sobre el destino del virus.
              
-             -> **Revisar**: Lucas y Ana discuten pero se abrazan a pesar de las diferencias.
+             Ideas:
+             - **Revisar**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
+             - Lucas es curado "en secreto" y finje ante Ajani (¿pero puede fingir ante el virus?).
+             - ¿{W:0:RIO} no tendría un plan de emergencia (pe. bomba) por si alguien accedía a la cámara?
+             - Cuando Lucas es contagiado puedo cambiar a la perspectiva de otro personaje, o puedo seguir con la perspectiva de Lucas, lidiando con las voces que lo guían.
 Page:        # 1
              
              Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
