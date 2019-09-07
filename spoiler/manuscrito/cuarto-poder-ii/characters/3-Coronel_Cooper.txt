@@ -8,7 +8,19 @@ Conflict:            Falta de confianza en su liderazgo tras el fracaso del {P:2
 Epiphany:            Confianza renovada en que puede dirigr misiones y ser decisivo en la destrucción de {W:0:RIO}.
 Phrase Summary:      Coronel del ejército de Inglaterra que conoce a {C:0:Lucas} del {P:0:Incidente de Inglaterra} y lidera el {P:2:Asalto al AT de Gran Canaria}.
 Paragraph Summary:   Cooper es un coronel condecorado del ejército de Inglaterra. Estuvo presente durante el {P:0:Incidente de Inglaterra}, en el que conoció a {C:0:Lucas} y vio de lo que era capaz {W:0:RIO}. Lideró el {P:2:Asalto al AT de Gran Canaria} por su cuenta y fue capturado por {W:0:RIO}.
-Full Summary:        Lidera el {P:2:Asalto al AT de Gran Canaria}. Conoce a {C:0:Lucas} del {P:0:Incidente de Inglaterra}.
+Full Summary:        # Vida Anterior
+                     
+                     Jaxon Cooper nació en Inglaterra en 1978 (47 años), siendo el menor de tres hermanos, siendo sus dos hermanos mayores gemelos.
+                     
+                     Los padres de Cooper no estaban preparados para la responsabilidad de ser padres y apenas pudieron hacerse cargos de ellos. Cuando sus hermanos George y Oliver cayeron en las drogas y murieron durante un ajuste de cuentas, Cooper culpó a la falta de disciplina de sus padres y se marchó de casa, uniéndose al ejército. Cooper consagró su vida al ejército, donde escaló posiciones haciendo gala de una disciplina férrea hasta que se convirtió en Coronel. 
+                     
+                     En 2022 se produjo el {P:0:Incidente de Inglaterra}, donde Jaxon conoció a {C:0:Lucas}. {W:0:RIO} hizo creer al mundo que Inglaterra preparaba un ataque contra EEUU, provocando un alubión de críticas y represalias sobre ella. El gobierno inglés usó como chivo expiatorio a Cooper, culpándole de todo. Este, sin embargo, comprendió que el movimiento del gobierno era necesario para proteger a su país. Sin negar las acuaciones, pero también sin compadecer para aceptar su falsa condena, Cooper se pasó a la clandestinidad, decidido a acabar con RIO. Sus hombres más leales lo siguen.
+                     
+                     # Asalto al AT de Gran Canaria
+                     
+                     Cooper es un coronel condecorado del ejército de Inglaterra. Estuvo presente durante el {P:0:Incidente de Inglaterra}, en el que conoció a {C:0:Lucas} y vio de lo que era capaz {W:0:RIO}. Lideró el {P:2:Asalto al AT de Gran Canaria} por su cuenta y fue capturado por {W:0:RIO}.
+                     
+                     Lidera el {P:2:Asalto al AT de Gran Canaria}.
 Notes:               - **¿Cooper es el apellido? ¿Cuál es el nombre?**.
                      - Vivió el {P:0:Incidente de Inglaterra}. Lanza el ataque a {W:0:RIO} supuestamente por no haber podido encontrar pruebas en todo este tiempo.
                      - Se siente muy culpable de no acordarse de sus hombres rato después de bajar al sótano secreto del {W:3:AT de Gran Canaria}.
