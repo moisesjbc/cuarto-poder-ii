@@ -12,15 +12,26 @@ Full Summary:        # Vida Anterior
                      
                      Jaxon Cooper nació en Inglaterra en 1978 (47 años), siendo el menor de tres hermanos, siendo sus dos hermanos mayores gemelos.
                      
-                     Los padres de Cooper no estaban preparados para la responsabilidad de ser padres y apenas pudieron hacerse cargos de ellos. Cuando sus hermanos George y Oliver cayeron en las drogas y murieron durante un ajuste de cuentas, Cooper culpó a la falta de disciplina de sus padres y se marchó de casa, uniéndose al ejército. Cooper consagró su vida al ejército, donde escaló posiciones haciendo gala de una disciplina férrea hasta que se convirtió en Coronel. 
+                     Los padres de Cooper no estaban preparados para la responsabilidad de ser padres y apenas pudieron hacerse cargos de ellos. Cuando sus hermanos George y Oliver cayeron en las drogas y murieron durante un ajuste de cuentas, Cooper culpó a la falta de disciplina de sus padres y se marchó de casa, uniéndose al ejército. Cooper consagró su vida al ejército, donde escaló posiciones haciendo gala de una disciplina férrea hasta que se convirtió en un coronel condecorado.
                      
-                     En 2022 se produjo el {P:0:Incidente de Inglaterra}, donde Jaxon conoció a {C:0:Lucas}. {W:0:RIO} hizo creer al mundo que Inglaterra preparaba un ataque contra EEUU, provocando un alubión de críticas y represalias sobre ella. El gobierno inglés usó como chivo expiatorio a Cooper, culpándole de todo. Este, sin embargo, comprendió que el movimiento del gobierno era necesario para proteger a su país. Sin negar las acuaciones, pero también sin compadecer para aceptar su falsa condena, Cooper se pasó a la clandestinidad, decidido a acabar con RIO. Sus hombres más leales lo siguen.
+                     En 2022 se produjo el {P:0:Incidente de Inglaterra}, donde Jaxon conoció a {C:0:Lucas}. {W:0:RIO} hizo creer al mundo que Inglaterra preparaba un ataque contra EEUU, provocando un alubión de críticas y represalias sobre ella. El gobierno inglés usó como chivo expiatorio a Cooper, culpándole de todo. Este, sin embargo, lo aceptó, comprendiendo que el movimiento del gobierno era necesario para proteger a su país. Sin negar las acuaciones, pero también sin compadecer para aceptar su falsa condena, Cooper se pasó a la clandestinidad, decidido a acabar con {W:0:RIO}. Sus hombres más leales lo siguen.
                      
                      # Asalto al AT de Gran Canaria
                      
-                     Cooper es un coronel condecorado del ejército de Inglaterra. Estuvo presente durante el {P:0:Incidente de Inglaterra}, en el que conoció a {C:0:Lucas} y vio de lo que era capaz {W:0:RIO}. Lideró el {P:2:Asalto al AT de Gran Canaria} por su cuenta y fue capturado por {W:0:RIO}.
+                     Cooper y sus hombres se pasan los tres años siguientes estudiando los movimientos de {W:0:RIO} y descubren que RIO oculta algo importante en el {W:3:AT de Gran Canaria} (¿cómo?). En el verano de 2025 viajan a Gran Canaria y atacan ({P:2:Asalto al AT de Gran Canaria}) (**¿por qué ese AT? ¿por qué ahora?**). Sin embargo, el plan sale mal e intentan huir en barco (**¿sin más? ¿con las manos vacías?**) (*). Los hombres de Cooper mueren o son capturados.
                      
-                     Lidera el {P:2:Asalto al AT de Gran Canaria}.
+                     (*)
+                     
+                     "
+                     Cuando Cooper avanzó decididamente hacia el vagabundo para detenerlo, una figura se asomó tras una de las esquinas al final del pasillo, a unos metros frente a ellos. Vestía como un enemigo, pero no actuaba como tal. Ni siquiera se inmutó al ver a los militares y a la resistencia. De hecho, daba la sensación de que los había estado esperando durante mucho tiempo.
+                     
+                     - ¡Llegan tarde! - se quejó -. ¡Vamos, o perderemos el barco!
+                     "
+                     
+                     # Después del asalto
+                     
+                     a) Cooper consigue huir y llega a la Resistencia (**¿Ana no se lo dice a Lucas? ¿Por qué?**).
+                     b) Cooper es capturado y RIO lo mete en una Burbuja (**¿por qué? ¿por qué no usarlo para obligarlo a acusar a Inglaterra?**)
 Notes:               - **¿Cooper es el apellido? ¿Cuál es el nombre?**.
                      - Vivió el {P:0:Incidente de Inglaterra}. Lanza el ataque a {W:0:RIO} supuestamente por no haber podido encontrar pruebas en todo este tiempo.
                      - Se siente muy culpable de no acordarse de sus hombres rato después de bajar al sótano secreto del {W:3:AT de Gran Canaria}.
