@@ -6,12 +6,7 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear en master.\n5. Crear rama \"semana-<n>\"\n\n6. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n7. Planificación de la semana que viene.\n8. Meter en Tasks si será por objetivos o tiempo.\n9. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
-        },
-        {
-          "name": "Rellenar ficha (portada) de Ajani",
+          "name": "Rellenar resumen de Cooper",
           "details": "",
           "color": "FAFCD2"
         },
@@ -26,17 +21,7 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Rellenar ficha (resumen) de Elizabeth",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Rellenar resumen de Ajani",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar resumen de Cooper",
           "details": "",
           "color": "FAFCD2"
         },
@@ -105,7 +90,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear en master.\n5. Crear rama \"semana-<n>\"\n\n6. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n7. Planificación de la semana que viene.\n8. Meter en Tasks si será por objetivos o tiempo.\n9. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        }
+      ],
       "settings": {
         "limit": 2
       }
@@ -113,6 +104,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Rellenar ficha (resumen) de Elizabeth",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar resumen de una frase",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar ficha (portada) de Ajani",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Rellenar ficha (portada) de Cooper",
           "details": "",
