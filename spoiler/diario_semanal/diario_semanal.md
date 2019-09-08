@@ -212,3 +212,13 @@ Me había propuesto rellenar también el resumen vital de Elizabeth pero... para
 **En la última semana he seguido con las fichas de los personajes**. Esperaba completar todos los secundarios, pero sólo he rellenado las fichas de Jonás y Cooper. Aunque sigo viendo que aún me queda un largísimo trecho por delante, me está gustando esto de pararme y pensar antes de escribir. Espero que la calidad final lo refleje ;-)
 
 **Ha llegado el momento de hacer otra pausa en el proyecto**. La semana que viene me voy de viaje y no volveré hasta el 11 de Agosto... Va a tocar repaso a la vuelta.
+
+## Semana 25 (02/09/2019 - 08/09/2019)
+
+Sip, ha pasado bastante tiempo. Se me juntaron vacaciones y **un asunto personal que aún no se ha resuelto** y **he estado poco más de un mes sin tocar el libro**.
+
+Esta semana he vuelto a las andadas, y **he optado por cambiar el enfoque: en vez de marcarme cada día el completar una tarea del libro, me he marcado dedicarle un tiempo X** (en principio 20 minutos). Me he dado cuenta de que por A o por B no puedo dedicarle mucho tiempo al día a la novela, y como buen proceso creativo, no puedo esperar sacar un objetivo diario, por pequeño que sea. Con la organización por tiempo me aseguro de no desmotivarme al ver que no cumplo el objetivo propuesto. El tiempo no deja de pasar, para bien o para mal.
+
+Teniendo en cuenta el cambio de enfoque, **en los últimos días he aprovechado para repasar y refinar los resúmenes de una frase y de un párrafo**. Además, **he completado el resumen de Elizabeth y he trabajado en el de Cooper**. Intento equilibrar entre saberlo todo sobre los personajes o centrarme en lo mínimo para que sean convincentes... a ver cómo sale.
+
+¡Y eso es todo! ¡A ver si puedo recuperar el ritmo!
