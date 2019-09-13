@@ -14,13 +14,30 @@ Full Summary:        # Vida anterior
                      
                      Jonás nació el 15 de Septiembre de 1993 (32 años).
                      
-                     En 2011 **estudió X**, y en 2016 continuó especializándose en nanotecnología. En 2020 Jonás, ya un experto en el tema, desarrolló la tecnología del "humo negro". {W:0:RIO} montó un **pariplé** para hacerlo desaparecer y lo secuestró, obligándolo a trabajar para ellos para proteger a su hermana.
+                     En 2011 **estudió X**, y en 2016 continuó especializándose en nanotecnología. En 2020 Jonás, ya un experto en el tema, desarrolló la tecnología del "humo negro" en la universidad. El joven descubre que su mente era compatible con el control "mente enjambre" del mismo aunque sufriendo mientras lo controlaba.
+                     
+                     {W:0:RIO} se entera del invento y fuerza una situación de necesidad (cierre del departamento sobre Jonás. A continuacion le tienta con una oferta de una empresa de I+D que controla en secreto y lo convence para venderles la patente por una gran suma y seguir trabajando en la tecnología. Aunque Jonás sabe de las aplicaciones cada vez más militarizadas de la tecnología, continúa trabajando en ella. RIO lo incluye en un programa de investigación para introducir las nanomáquinas en el cerebro y liberar drogas (Canto de Sirena) al escuchar ciertos estímulos ({W:16:Notas de xilófono}).
+                     
+                     
+                     
+                     # Captura
+                     
+                     Los agentes de {W:0:RIO} someten a Jonás al Canto de Sirena para controlarlo, pero descubren que este tiene resistencia contra el mismo y lo retienen a la antigua usanza: amenazando con hacer daño a su familia. Obligan a Jonás a perfeccionar la tecnología del "humo negro" para ellos, así como
+                     
+                     b) Alternativa: Jonás es tentado para trabajar en una empresa puntera secretamente controlada por RIO, donde perfecciona el "humo negro".
+                     c) Jonás está infectado por la Sirena, pero tiene cierta resistencia que le permite controlar sus recursos durante un pequeño intervalo de tiempo.
+                     
+                     
+                     d) Otra alternativa: Jonás descubre el insecto que porta el virus y RIO lo convence para venderles la patente y continuar trabajando en ello.
+                     	- **Esto implica que no se trata de nanomáquinas, sino insectos no descubiertos (¿alienígenas?) hasta ahora que portan el virus y la mente enjambre**.
+                     		- Con esto puedo decir que simplemente Lara fue contagiada y su resistencia le permite usar las nanomáquinas como su hermano.
+                     
                      
                      - Relacionar lo que tiene él para ser sensible a las nanomáquinas con lo que tiene su hermana.
                      
                      - Limpiar su conciencia tras haber colaborado con RIO en la creación de las {W:14:Burbujas} (**definir**).
                      - "Vagabundo que fue capturado por {W:0:RIO} en el pasado pero consiguió huir gracias a {C:5:Ajani} (**definir**). Desde entonces lleva mucho tiempo manteniéndose al margen (**definir tiempos**), hasta que su único contacto, {C:5:Ajani}, le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él para devolverle el favor."
-                     - 
+                     -
                      
                      
                      
