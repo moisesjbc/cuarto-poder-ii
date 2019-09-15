@@ -222,3 +222,11 @@ Esta semana he vuelto a las andadas, y **he optado por cambiar el enfoque: en ve
 Teniendo en cuenta el cambio de enfoque, **en los últimos días he aprovechado para repasar y refinar los resúmenes de una frase y de un párrafo**. Además, **he completado el resumen de Elizabeth y he trabajado en el de Cooper**. Intento equilibrar entre saberlo todo sobre los personajes o centrarme en lo mínimo para que sean convincentes... a ver cómo sale.
 
 ¡Y eso es todo! ¡A ver si puedo recuperar el ritmo!
+
+## Seman 26 (09/09/2019 - 15/09/2019)
+
+A pesar de que el "tema personal" sigue sin resolverse, esta semana he conseguido mantener el ritmo.
+
+En concreto, **he terminado un primer resumen del trasfondo de Cooper y he continuado con el de Jonás**. Con este último he comenzado a bloquearme, ya que en su ficha básica lo he puesto en el origen de las *Burbujas*. Al intentar adaptar su trasfondo con este aspecto y con otras "restricciones" que ya he establecido (como que diseñó el "Humo negro" o que Lara parece sufrir el mismo sangrado nasal que él), he comenzado a darle vueltas al tema. Finalmente, **he decidido aparcar el resumen de Jonás y repasar / refinar el de *la Sirena*** (nombre provisional), ya que el personaje de Jonás está íntimamente relacionado con ello, o eso pretendo conseguir.
+
+**Queda pendiente para la siguiente semana seguir ahondando en el trasfondo de estos dos elementos centrales** en el mundo de la historia.
