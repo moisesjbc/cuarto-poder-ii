@@ -6,17 +6,17 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Rellenar resumen de Cooper",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Corregir / aclarar \"crisis de 2020\" en ficha de Lucas / global",
+          "name": "Refinar hoja de la Sirena",
           "details": "",
           "color": "FAFCD2"
         },
         {
           "name": "Rellenar resumen de Jonás",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Corregir / aclarar \"crisis de 2020\" (¿CAMBIAR A CRISIS DE 2007?) en ficha de Lucas / global",
           "details": "",
           "color": "FAFCD2"
         },
@@ -93,7 +93,7 @@
       "cards": [
         {
           "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Volver a rama actual y mergear en master.\n5. Crear rama \"semana-<n>\"\n\n6. Mejora continúa.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo.\n7. Planificación de la semana que viene.\n8. Meter en Tasks si será por objetivos o tiempo.\n9. Devolver esta tarea a ToDo.",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo -> Nope, al final entre que es un proceso creativo y que no puedo dedicar mucho tiempo al día por A o por B, no puedo asegurar un ritmo constante de cumplir objetivos aunque sean muy pequeños.\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
           "color": "FCE4D4"
         }
       ],
@@ -104,6 +104,11 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Rellenar resumen de Cooper",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Rellenar ficha (resumen) de Elizabeth",
           "details": "",
