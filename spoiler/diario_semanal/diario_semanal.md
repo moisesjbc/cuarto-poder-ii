@@ -230,3 +230,9 @@ A pesar de que el "tema personal" sigue sin resolverse, esta semana he conseguid
 En concreto, **he terminado un primer resumen del trasfondo de Cooper y he continuado con el de Jonás**. Con este último he comenzado a bloquearme, ya que en su ficha básica lo he puesto en el origen de las *Burbujas*. Al intentar adaptar su trasfondo con este aspecto y con otras "restricciones" que ya he establecido (como que diseñó el "Humo negro" o que Lara parece sufrir el mismo sangrado nasal que él), he comenzado a darle vueltas al tema. Finalmente, **he decidido aparcar el resumen de Jonás y repasar / refinar el de *la Sirena*** (nombre provisional), ya que el personaje de Jonás está íntimamente relacionado con ello, o eso pretendo conseguir.
 
 **Queda pendiente para la siguiente semana seguir ahondando en el trasfondo de estos dos elementos centrales** en el mundo de la historia.
+
+## Semana 27 (16/09/2019 - 22/09/2019)
+
+Esta semana he "faltado" algunos días y no he avanzado mucho. **Además, he tenido un bloqueo definiendo la motivación de la Sirena**. Por suerte, hoy me ha venido un poco de inspiración y he pensado: **"¿Y si, inesperadamente, viniera a ayudar?**.
+
+Aprovecharé **la siguiente semamana** para darle vueltas y **veré si puedo "cerrar" ese tema** para seguir con los personajes, que Jonás sigue esperando ;-)
