@@ -25,7 +25,7 @@
         "autohide-left": true,
         "autohide-top": true
     },
-    "lastTab": 4,
+    "lastTab": 1,
     "openIndexes": [
         0,
         [],
