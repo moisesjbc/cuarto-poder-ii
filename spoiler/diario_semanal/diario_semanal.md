@@ -236,3 +236,12 @@ En concreto, **he terminado un primer resumen del trasfondo de Cooper y he conti
 Esta semana he "faltado" algunos días y no he avanzado mucho. **Además, he tenido un bloqueo definiendo la motivación de la Sirena**. Por suerte, hoy me ha venido un poco de inspiración y he pensado: **"¿Y si, inesperadamente, viniera a ayudar?**.
 
 Aprovecharé **la siguiente semamana** para darle vueltas y **veré si puedo "cerrar" ese tema** para seguir con los personajes, que Jonás sigue esperando ;-)
+
+## Semana 28 (23/09/2019 - 29/09/2019)
+
+Podría copiar y pegar la semana #27 y quedarme tan pancho. Básicamente, **he vuelto a faltar algunos días y he continuado dándole vueltas al origen y motivación de la Sirena**.
+
+Como novedad, estos días he recibido en mi email el número mensual de [Advanced Fiction Writing E-zine](https://www.advancedfictionwriting.com/ezine/). En él **recomendaban el libro "[Lifelong Writing Habit: The Secret to Writing Every Day: Write Faster, Write Smarter](https://www.amazon.com/dp/B014V7PXV8)" y lo he mandado a pedir**. 
+
+¡Esperemos que ayude!
+
