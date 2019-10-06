@@ -245,3 +245,10 @@ Como novedad, estos días he recibido en mi email el número mensual de [Advance
 
 ¡Esperemos que ayude!
 
+## Semana 29 (30/09/2019 - 06/10/2019)
+
+Pues... sólo le dediqué dos días y **sigo atascado con el tema de la Sirena**.
+
+Pasaron a dejar el libro que compre la semana pasada, pero no estaba.
+
+*Tose*.
