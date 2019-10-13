@@ -252,3 +252,9 @@ Pues... sólo le dediqué dos días y **sigo atascado con el tema de la Sirena**
 Pasaron a dejar el libro que compre la semana pasada, pero no estaba.
 
 *Tose*.
+
+## Semana 30 (07/10/2019 - 13/10/2019)
+
+Por fin **he recibido el libro "[Lifelong Writing Habit: The Secret to Writing Every Day: Write Faster, Write Smarter](https://www.amazon.com/dp/B014V7PXV8)" y he comenzado a leerlo a capítulo por día** (son cortitos). Mi idea es acábarmelo y con suerte retomar la escritura del libro con más energía.
+
+Crucemos los dedos.
