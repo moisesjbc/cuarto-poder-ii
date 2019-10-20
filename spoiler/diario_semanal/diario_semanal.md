@@ -258,3 +258,11 @@ Pasaron a dejar el libro que compre la semana pasada, pero no estaba.
 Por fin **he recibido el libro "[Lifelong Writing Habit: The Secret to Writing Every Day: Write Faster, Write Smarter](https://www.amazon.com/dp/B014V7PXV8)" y he comenzado a leerlo a capítulo por día** (son cortitos). Mi idea es acábarmelo y con suerte retomar la escritura del libro con más energía.
 
 Crucemos los dedos.
+
+## Semana 31 (14/10/2019 - 20/10/2019)
+
+Poco que decir. Esta semana **he seguido leyendo el libro "[Lifelong Writing Habit: The Secret to Writing Every Day: Write Faster, Write Smarter](https://www.amazon.com/dp/B014V7PXV8)"**. He procurado ir haciendo los ejercicios de cada capítulo (salvo el de despertarme antes por las mañanas para trabajar en el libro... ese queda pendiente). 
+
+Uno de los últimos capítulos habla de definir planes a corto y largo plazo lo más específicamente posible. **Si miro mi kanban... está lleno de objetivos a corto plazo sin ninguna planificación a más de una semana vista**. Definitivamente tengo que corregir eso.
+
+**La semana que viene debería terminar de leerme el libro y terminar de sacar consejos y conclusiones a aplicar** para ver si encamino la novela de una vez.
