@@ -6,26 +6,6 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Leer capítulo 5 + ejercicio - \"Lifelong Writing Habit\"",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
-          "name": "Leer capítulo 6 + ejercicio - \"Lifelong Writing Habit\"",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
-          "name": "Leer capítulo 7 + ejercicio - \"Lifelong Writing Habit\"",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
-          "name": "Leer capítulo 8 + ejercicio - \"Lifelong Writing Habit\"",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
           "name": "Leer capítulo 9 + ejercicio - \"Lifelong Writing Habit\"",
           "details": "",
           "color": "C1F7C2"
@@ -149,6 +129,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Leer capítulo 8 + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Leer capítulo 7 + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Leer capítulo 6 + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Leer capítulo 5 + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
         {
           "name": "Leer capítulo 4 + ejercicio - \"Lifelong Writing Habit\"",
           "details": "",
