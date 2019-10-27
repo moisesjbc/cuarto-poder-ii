@@ -266,3 +266,7 @@ Poco que decir. Esta semana **he seguido leyendo el libro "[Lifelong Writing Hab
 Uno de los últimos capítulos habla de definir planes a corto y largo plazo lo más específicamente posible. **Si miro mi kanban... está lleno de objetivos a corto plazo sin ninguna planificación a más de una semana vista**. Definitivamente tengo que corregir eso.
 
 **La semana que viene debería terminar de leerme el libro y terminar de sacar consejos y conclusiones a aplicar** para ver si encamino la novela de una vez.
+
+## Semana 32 (21/10/2019 - 27/10/2019)
+
+**He terminado el libro [Lifelong Writing Habit: The Secret to Writing Every Day: Write Faster, Write Smarter](https://www.amazon.com/dp/B014V7PXV8). Ha llegado el momento de ver si he sacado provecho a lo que he leido** y de momento ya he planificado los objetivos de la semana que viene. ¡A por ello!
