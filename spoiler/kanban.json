@@ -6,29 +6,14 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Leer capítulo 9 + ejercicio - \"Lifelong Writing Habit\"",
+          "name": "Repasar resúmenes (línea y párrafo) y fichas de personajes",
           "details": "",
-          "color": "C1F7C2"
+          "color": "FAFCD2"
         },
         {
-          "name": "Leer capítulo 10 + ejercicio - \"Lifelong Writing Habit\"",
+          "name": "Corregir / aclarar \"crisis de 2020\" (¿CAMBIAR A CRISIS DE 2007?) en fichas de personajes y global",
           "details": "",
-          "color": "C1F7C2"
-        },
-        {
-          "name": "Leer capítulo 11 + ejercicio - \"Lifelong Writing Habit\"",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
-          "name": "Leer capítulo 12 + ejercicio - \"Lifelong Writing Habit\"",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
-          "name": "Leer final + ejercicio - \"Lifelong Writing Habit\"",
-          "details": "",
-          "color": "C1F7C2"
+          "color": "FAFCD2"
         },
         {
           "name": "Refinar hoja de la Sirena",
@@ -37,11 +22,6 @@
         },
         {
           "name": "Rellenar resumen de Jonás",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Corregir / aclarar \"crisis de 2020\" (¿CAMBIAR A CRISIS DE 2007?) en ficha de Lucas / global",
           "details": "",
           "color": "FAFCD2"
         },
@@ -129,6 +109,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Leer final + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Leer capítulo 12 + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Leer capítulo 11 + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Leer capítulo 10 + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Leer capítulo 9 + ejercicio - \"Lifelong Writing Habit\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
         {
           "name": "Leer capítulo 8 + ejercicio - \"Lifelong Writing Habit\"",
           "details": "",
