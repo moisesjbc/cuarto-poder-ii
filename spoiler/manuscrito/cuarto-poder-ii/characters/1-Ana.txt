@@ -2,7 +2,7 @@ Name:                Ana
 ID:                  1
 Importance:          1
 Motivation:          Lograr una humanidad unida que trabaje por los mismos objetivos comunes. Se respetan las libertades individuales mientras estos no choquen con los globales.
-Goal:                Purgar RIO de los elementos que buscan un enriquecimiento y empoderamiento propios a costa del progreso. Instaurar en su lugar un sistema de castas con organizadores y productores.
+Goal:                Purgar RIO de los elementos que buscan un enriquecimiento y empoderamiento propios a costa del progreso. Instaurar en su lugar un sistema de organizadores y productores.
 Conflict:            ¿Usar o no el virus Canto de Sirena con los peligros que ello conlleva? (¿El fin justifica los medios?). Los riesgos del Canto de Sirena son varios:
                      
                      - ¿Reducción de la esperanza de vida?

@@ -4,7 +4,7 @@ Importance:          1
 Motivation:          - Venganza.
                      - Familia.
 Goal:                - Destruir {W:0:RIO} (venganza).
-                     - Proteger a su hermano a todo coste.
+                     - Proteger a su hermano a toda costa.
 Conflict:            Sus ganas de venganza y su ira convierten a Ajani en un luchador formidable. Sin embargo, también lo ciegan y afecta negativamente a aquellos que vayan con él o al objetivo de la misión en si mismo cuando no supone atacar directamente a RIO.
 Epiphany:            Acepta la ira como parte de si mismo y consigue enfocarla cuando realmente es útil para él y / o el grupo (mayor autocontrol).
 Phrase Summary:      Lobo solitario que perdió a su familia y amigos por culpa de {W:0:RIO} y busca la venganza a cualquier coste.
