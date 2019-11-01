@@ -25,7 +25,7 @@
         "autohide-left": true,
         "autohide-top": true
     },
-    "lastTab": 2,
+    "lastTab": 4,
     "openIndexes": [
         0,
         [],
@@ -54,7 +54,7 @@
     },
     "saveOnQuit": true,
     "saveToZip": false,
-    "spellcheck": false,
+    "spellcheck": true,
     "textEditor": {
         "alwaysCenter": false,
         "background": "#ffffff",
