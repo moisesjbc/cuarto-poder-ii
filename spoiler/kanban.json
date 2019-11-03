@@ -6,16 +6,6 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Repasar resúmenes (línea y párrafo) y fichas de personajes",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Corregir / aclarar \"crisis de 2020\" (¿CAMBIAR A CRISIS DE 2007?) en fichas de personajes y global",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Refinar hoja de la Sirena",
           "details": "",
           "color": "FAFCD2"
@@ -109,6 +99,16 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Corregir / aclarar \"crisis de 2020\" (¿CAMBIAR A CRISIS DE 2007?) en fichas de personajes y global",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar resúmenes (línea y párrafo) y fichas de personajes",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Leer final + ejercicio - \"Lifelong Writing Habit\"",
           "details": "",
