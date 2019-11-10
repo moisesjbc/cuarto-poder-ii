@@ -282,3 +282,9 @@ Sin embargo, **he sido constante, trabajando un poco todos los días (creo)** y 
 Volviendo al lado negativo del asunto: **aún no he encontrado un modelo de planificación con el que me encuentre cómodo**, y ya va siendo hora. A saber: si planifico la semana por tiempo (pe. 25 minutos todos los días), corro el riesgo de trabajar mirando el reloj simplemente "para cumplir el cupo". Por el otro lado, la planificación por objetivos parece mejor para motivarme e ir viendo más claramente los avances, pero **¿qué objetivo diario puedo marcarme en un trabajo creativo de manera que sea perfectamente factible?**. Por ejemplo, esta semana tenía como objetivo "Refinar hoja de la Sirena". Se ha demostrado que no es factible terminarlo en un día pero, ¿qué división de subtareas puedo hacer a priori, si no sé por dónde irán los tiros cuando empiece a darle forma?
 
 Tendré que seguir iterando.
+
+## Semana 34 (04/11/2019 - 10/11/2019)
+
+He vuelto **a cumplir un objetivo de los cinco que me había marcado**, pero aún así... siento que he hecho avances. Los cinco objetivos se refieren a la Gran Sirena (nombre temporal), y he intentado hacerlos lo más pequeño posibles pero... no puedes idear algo en un tiempo finito y prestablecido. O al menos a mi se me sigue escapando.
+
+Paso los objetivos a la siguiente semana y a ver qué tal.
