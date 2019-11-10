@@ -6,6 +6,31 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Refinar situación de desbloqueo con respecto a la Gran Sirena",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Aclarar relación de la Gran Sirena con RIO",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Aclarar relación de la Gran Sirena con Jonás",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Aclarar relación de la Gran Sirena con Ajani",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Aclarar relación de la Gran Sirena con Lucas",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Refinar hoja de la Sirena",
           "details": "",
           "color": "FAFCD2"
@@ -16,14 +41,14 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Rellenar resumen de Ajani",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Split de rellenar fichas en ficha general / ficha resumen",
           "details": "",
           "color": "FCC7FC"
+        },
+        {
+          "name": "Rellenar resumen de Ajani",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "Anotar posibles soluciones para 7 misterios en el resumen",
@@ -99,6 +124,16 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Refinar situación de bloqueo con respecto a la Gran Sirena",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Organizar lo que tengo escrito en ficha de la Gran Sirena",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Corregir / aclarar \"crisis de 2020\" (¿CAMBIAR A CRISIS DE 2007?) en fichas de personajes y global",
           "details": "",
