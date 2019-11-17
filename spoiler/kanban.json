@@ -6,16 +6,6 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Refinar situación de desbloqueo con respecto a la Gran Sirena",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Aclarar relación de la Gran Sirena con RIO",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Aclarar relación de la Gran Sirena con Jonás",
           "details": "",
           "color": "FAFCD2"
@@ -27,6 +17,11 @@
         },
         {
           "name": "Aclarar relación de la Gran Sirena con Lucas",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Aclarar relación de la Gran Sirena con hombres de negro",
           "details": "",
           "color": "FAFCD2"
         },
@@ -124,6 +119,16 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Aclarar relación de la Gran Sirena con RIO",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar situación de desbloqueo con respecto a la Gran Sirena",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Refinar situación de bloqueo con respecto a la Gran Sirena",
           "details": "",
