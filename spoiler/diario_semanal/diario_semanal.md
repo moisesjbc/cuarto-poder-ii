@@ -288,3 +288,13 @@ Tendré que seguir iterando.
 He vuelto **a cumplir un objetivo de los cinco que me había marcado**, pero aún así... siento que he hecho avances. Los cinco objetivos se refieren a la Gran Sirena (nombre temporal), y he intentado hacerlos lo más pequeño posibles pero... no puedes idear algo en un tiempo finito y prestablecido. O al menos a mi se me sigue escapando.
 
 Paso los objetivos a la siguiente semana y a ver qué tal.
+
+## Semana 35 (11/11/2019 - 17/11/2019)
+
+**Vuelvo a cumplir menos objetivos, pero sigo avanzando poco a poco**.
+
+**He vuelto a plantearme la planificación por tiempo pero sin dejar de marcarme tareas para cada día**. Algo del estilo "Dedicaré 30 minutos al libro en los que intentaré cumplir X objetivo. Si no lo cumplo... al menos he dedicado 30 minutos al libro". **Hasta que no sea capaz de cumplir un objetivo diario a rajatabla, veo obligatorio marcarme un límite de tiempo para organizar mejor mi día a día**.
+
+**Sigo dándole forma a la "Gran Sirena"** (realmente debo ir pensando un nombre definitivo), centrándome en su interacción con otros personajes / entidades como RIO o Jonás.
+
+Me estoy dando cuenta de que **quizás esté detallando mucho algo que puedo ir desarrollando con el tiempo... pero tengo miedo de dejarlo muy "por encima" y caer en alguna incoherencia**. Por ejemplo, hace un rato estuve refinando la idea de que Jonás sea una Sirena y de ahí venga su capacidad mental pero... ¿y las nanomáquinas que mencioné que tenía en el capítulo 19 de la primera parte? Siempre puedo hacer que fuera una mentira de Jonás por la razón X pero... tengo que tener cuidado con estas cosas.
