@@ -17,6 +17,10 @@ Full Summary:        Según {W:0:RIO}: terrorista y criminal de guerra despiadad
                      """
                      
                      - Supuestamente rescató a Jonás de RIO, **¿por qué? ¿cómo casa esto con sus objetivos?**.
+                     
+                     ### Ajani
+                     
+                     - La mente colmena ha infectado a Ajani y este cree haber visitado el planeta.
 Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}. 
                      - **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
                      - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
