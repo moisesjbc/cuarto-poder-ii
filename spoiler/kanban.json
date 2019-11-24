@@ -120,6 +120,11 @@
       "name": "Done",
       "cards": [
         {
+          "name": "Transformar ficha de Sirena a ficha de personaje",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Aclarar relación de la Gran Sirena con RIO",
           "details": "",
           "color": "FAFCD2"
