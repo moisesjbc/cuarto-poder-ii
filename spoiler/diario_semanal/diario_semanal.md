@@ -298,3 +298,9 @@ Paso los objetivos a la siguiente semana y a ver qué tal.
 **Sigo dándole forma a la "Gran Sirena"** (realmente debo ir pensando un nombre definitivo), centrándome en su interacción con otros personajes / entidades como RIO o Jonás.
 
 Me estoy dando cuenta de que **quizás esté detallando mucho algo que puedo ir desarrollando con el tiempo... pero tengo miedo de dejarlo muy "por encima" y caer en alguna incoherencia**. Por ejemplo, hace un rato estuve refinando la idea de que Jonás sea una Sirena y de ahí venga su capacidad mental pero... ¿y las nanomáquinas que mencioné que tenía en el capítulo 19 de la primera parte? Siempre puedo hacer que fuera una mentira de Jonás por la razón X pero... tengo que tener cuidado con estas cosas.
+
+## Semana 36 (18/11/2019 - 24/11/2019)
+
+**Intento no pensar mucho en que me había propuesto escribir el libro este año (sonrisa nerviosa)**
+
+Esta semana no estoy muy hablador. Simplemente comentar que **cuando he sentado el culo en la silla, he echo los 30 minutos y ni tan mal.** A ver si puedo sumarle el ir avanzando a un mejor ritmo.
