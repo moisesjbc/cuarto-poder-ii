@@ -304,3 +304,11 @@ Me estoy dando cuenta de que **quizás esté detallando mucho algo que puedo ir 
 **Intento no pensar mucho en que me había propuesto escribir el libro este año (sonrisa nerviosa)**
 
 Esta semana no estoy muy hablador. Simplemente comentar que **cuando he sentado el culo en la silla, he echo los 30 minutos y ni tan mal.** A ver si puedo sumarle el ir avanzando a un mejor ritmo.
+
+## Semana 37 (25/11/2019 - 01/12/2019)
+
+Esta semana **he seguido iterando sobre la Gran Sirena y su relación con el resto de personajes**, al tiempo que intentaba integrar la historia de mi [relato "El héroe"](https://moisesjose.com/literature/el-heroe) en la historia.
+
+Como mención aparte, esta semana Randy Ingermanson en su [Advanced Fiction Writing E-zine](https://www.advancedfictionwriting.com/ezine/) recomendó **[The Writer's Craft Super Stack](https://infostack.io/wc/)**. Se trata de una colección de cursos, libros y aplicaciones de escritura valorado en tres mil dólares por 50 dólares... sobra decir que fue una compra directa. Desde aquí, muchas graciasa Randy.
+
+Ahora t**oca decidir cómo organizarme para aprovechar todos esos recursos al tiempo que sigo dándole vueltas a la novela**.
