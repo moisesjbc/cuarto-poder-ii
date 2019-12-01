@@ -6,11 +6,6 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Aclarar relación de la Gran Sirena con Jonás",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Aclarar relación de la Gran Sirena con Ajani",
           "details": "",
           "color": "FAFCD2"
@@ -26,12 +21,17 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Refinar hoja de la Sirena",
+          "name": "Rellenar resumen de Jonás",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Rellenar resumen de Jonás",
+          "name": "Rellenar resumen de Ajani",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar hoja de la Sirena",
           "details": "",
           "color": "FAFCD2"
         },
@@ -39,11 +39,6 @@
           "name": "Split de rellenar fichas en ficha general / ficha resumen",
           "details": "",
           "color": "FCC7FC"
-        },
-        {
-          "name": "Rellenar resumen de Ajani",
-          "details": "",
-          "color": "FAFCD2"
         },
         {
           "name": "Anotar posibles soluciones para 7 misterios en el resumen",
@@ -119,6 +114,11 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Aclarar relación de la Gran Sirena con Jonás",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Transformar ficha de Sirena a ficha de personaje",
           "details": "",
