@@ -6,6 +6,26 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Añadir find and replace a Manuskript (Kanban separado)",
+          "details": "",
+          "color": "FCC7FC"
+        },
+        {
+          "name": "Aclarar funcionamiento del Mástil",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar resumen de Jonás",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Rellenar resumen de Ajani",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Aclarar relación de la Gran Sirena con Ajani",
           "details": "",
           "color": "FAFCD2"
@@ -17,16 +37,6 @@
         },
         {
           "name": "Aclarar relación de la Gran Sirena con hombres de negro",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar resumen de Jonás",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar resumen de Ajani",
           "details": "",
           "color": "FAFCD2"
         },
@@ -114,6 +124,11 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Aclarar funcionamiento del virus. ¿Cómo se eligen e interaccionan las Sirenas y los Marineros?",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Aclarar relación de la Gran Sirena con Jonás",
           "details": "",
