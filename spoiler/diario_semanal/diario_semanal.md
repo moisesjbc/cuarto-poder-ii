@@ -312,3 +312,11 @@ Esta semana **he seguido iterando sobre la Gran Sirena y su relación con el res
 Como mención aparte, esta semana Randy Ingermanson en su [Advanced Fiction Writing E-zine](https://www.advancedfictionwriting.com/ezine/) recomendó **[The Writer's Craft Super Stack](https://infostack.io/wc/)**. Se trata de una colección de cursos, libros y aplicaciones de escritura valorado en tres mil dólares por 50 dólares... sobra decir que fue una compra directa. Desde aquí, muchas graciasa Randy.
 
 Ahora t**oca decidir cómo organizarme para aprovechar todos esos recursos al tiempo que sigo dándole vueltas a la novela**.
+
+## Semana 38 (02/12/2019 - 08/12/2019)
+
+Comencé la semana **continuando el refinamiento de la Gran Sirena y eliminando la división Sirena / Marinero**. Quise buscar las referencias a estos términos para corregirlos, pero entonces recordé que **el programa que estoy usando, [Manuskript](https://www.theologeek.ch/manuskript/) no soporta búsquedas globales.**
+
+Al tratarse de un software libre que descontando esta falta básica me ofrece tanto... ¿por qué no colaborar y añadirle esta característica? Por esta razón y **a modo de "descanso" del libro, he optado por trabajar en introducir una búsqueda global en Manuskript**. De momento he conseguido mostrar una caja de búsqueda que no hace nada en la interfaz... poco a poco :-P
+
+Veamos si le doy un acelerón esta semana que viene.
