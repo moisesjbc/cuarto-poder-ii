@@ -320,3 +320,7 @@ Comencé la semana **continuando el refinamiento de la Gran Sirena y eliminando 
 Al tratarse de un software libre que descontando esta falta básica me ofrece tanto... ¿por qué no colaborar y añadirle esta característica? Por esta razón y **a modo de "descanso" del libro, he optado por trabajar en introducir una búsqueda global en Manuskript**. De momento he conseguido mostrar una caja de búsqueda que no hace nada en la interfaz... poco a poco :-P
 
 Veamos si le doy un acelerón esta semana que viene.
+
+## Semana 39 (09/12/2019 - 15/12/2019)
+
+Esta semana no cuenta.
