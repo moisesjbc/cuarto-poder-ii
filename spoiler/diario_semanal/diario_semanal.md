@@ -324,3 +324,13 @@ Veamos si le doy un acelerón esta semana que viene.
 ## Semana 39 (09/12/2019 - 15/12/2019)
 
 Esta semana no cuenta.
+
+## Semana 40 (16/12/2019 - 22/12/2019)
+
+**Pues se acerca el fin de año y no he empezado a escribir el libro en sí**. Qué le vamos a hacer.
+
+En el lado positivo, **esta semana sí he trabajado en añadir la búsqueda global a Manuskript** y he echo buenos avances. El principal ha sido darme cuenta de que "quizás", y solo quizás, lo mejor es ampliar el widget de búsqueda del que ya dispone Manuskript (pero que sólo busca en el "outline" del proyecto) en vez de la locura que estaba pensando (nuevo widget en otra zona  distinta de la interfaz).
+
+**Con esto en mente he trasteado y he sentado las bases para el desarrollo** y espero tener progresos más visibles la semana que viene :-)
+
+
