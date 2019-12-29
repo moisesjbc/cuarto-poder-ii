@@ -333,4 +333,8 @@ En el lado positivo, **esta semana sí he trabajado en añadir la búsqueda glob
 
 **Con esto en mente he trasteado y he sentado las bases para el desarrollo** y espero tener progresos más visibles la semana que viene :-)
 
+## Semana 41 (23/12/2019 - 29/12/2019)
 
+**He continuado añadiendo la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. Esta semana sí que he hecho avances visibles; ya es posible buscar textos en los personajes, filtrando por una, varias o todas las "columnas" de los mismos (resumen, descripción, etc).
+
+No se me ocurre nada más que añadir salvo que espero empezar el año con fuerza ;-)
