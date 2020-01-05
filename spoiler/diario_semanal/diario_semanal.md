@@ -338,3 +338,11 @@ En el lado positivo, **esta semana sí he trabajado en añadir la búsqueda glob
 **He continuado añadiendo la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. Esta semana sí que he hecho avances visibles; ya es posible buscar textos en los personajes, filtrando por una, varias o todas las "columnas" de los mismos (resumen, descripción, etc).
 
 No se me ocurre nada más que añadir salvo que espero empezar el año con fuerza ;-)
+
+## Semana 42 (30/12/2019 - 05/01/2020)
+
+Pues ya es oficial. El 2019 ha sido un año de "preproducción" :-P
+
+**Sigo trabajando en añadir la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. Ya busco por los resúmenes del libro (resumen de una frase, de un párrafo, etc y he recuperado la búsqueda por los diferentes campos del Outline. Esto último ya funcionaba, pero no resaltaba el resultado exacto que se había encontrado, cosa que estoy añadiendo.
+
+**Me he planteado cerrar un conjunto mínimo de la funcionalidad y enviar el Pull Request para que lo vayan valorando cuanto antes** A ver si esta semana puedo tenerlo.
