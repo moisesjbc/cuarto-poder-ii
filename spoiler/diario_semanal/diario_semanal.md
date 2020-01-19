@@ -350,3 +350,10 @@ Pues ya es oficial. El 2019 ha sido un año de "preproducción" :-P
 ## Semana 43
 
 **Continuo trabajando en añadir la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. Al final no he conseguido terminar el Pull Request durante la semana, pero me he quedado muy cerca. A ver la semana que viene.
+
+## Semana 44
+
+**Continuo trabajando en añadir la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. 
+
+El miércoles subí a Github lo que tengo hecho de la funcionalidad y [@gedakc](https://github.com/gedakc) me ha respondido que por el momento está ocupado para mirarlo. Pierdo esa parte de feedback temprano... pero bueno. En el lado positivo, he avanzado bastante y veo cerca el final :-)
+
