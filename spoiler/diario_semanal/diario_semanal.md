@@ -365,3 +365,9 @@ El miércoles subí a Github lo que tengo hecho de la funcionalidad y [@gedakc](
 
 Sobre lo de estar "a puntito de terminar la **funcionalidad de búsquedas globales** al software [Manuskript](https://www.theologeek.ch/manuskript/)... **Debería poder terminarlo esta semana que entra y volver al libro la siguiente.**
 
+## Semana 47
+
+¡Al fin! **He completado** (o eso creo) **la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)** y la he dejado para que la valoren: <https://github.com/olivierkes/manuskript/pull/717>.
+
+**¡Hora de retomar el libro!**
+
