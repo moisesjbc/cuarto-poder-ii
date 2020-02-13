@@ -1,14 +1,13 @@
 Name:                Ajani
 ID:                  5
 Importance:          1
-Motivation:          - Venganza.
-                     - Familia.
+Motivation:          Venganza y familia.
 Goal:                - Destruir {W:0:RIO} (venganza).
                      - Proteger a su hermano a toda costa.
 Conflict:            Sus ganas de venganza y su ira convierten a Ajani en un luchador formidable. Sin embargo, también lo ciegan y afecta negativamente a aquellos que vayan con él o al objetivo de la misión en si mismo cuando no supone atacar directamente a RIO.
 Epiphany:            Acepta la ira como parte de si mismo y consigue enfocarla cuando realmente es útil para él y / o el grupo (mayor autocontrol).
 Phrase Summary:      Lobo solitario que perdió a su familia y amigos por culpa de {W:0:RIO} y busca la venganza a cualquier coste.
-Paragraph Summary:   Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO}. Cuando lo descubrieron (**¿cómo?**), Ajani convirtió la ira hacia RIO, junto con la protección de su hermano, en los ejes de su vida. Desde entonces el **¿joven?** lucha por acabar con RIO por todos los medios posibles.
+Paragraph Summary:   Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO}. Cuando lo descubrieron (**¿cómo?**), Ajani convirtió la ira hacia RIO, junto con la protección de su hermano, en los ejes de su vida. Desde entonces lucha por acabar con RIO por todos los medios posibles.
 Full Summary:        Según {W:0:RIO}: terrorista y criminal de guerra despiadado, buscado en todo el mundo, con incontables saqueos, violaciones y matanzas a sus espaldas. Según conversación de {C:0:Lucas} y {C:3:Coronel Cooper} en la primera parte: 
                      
                      """

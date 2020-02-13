@@ -2,11 +2,11 @@ Name:                Lucas
 ID:                  0
 Importance:          2
 Motivation:          Vivir tranquilo y con la consciencia en paz.
-Goal:                Unirse a la Resistencia y participar activamente, **pero lo mínimo posible**, en la destrucción de RIO.
-Conflict:            Lucas realmente quiere poder **vivir tranquilo** en un mundo libre y mejor del que le ha tocado vivir. No obstante, al mismo tiempo le gustaría poder ignorar los problemas del mismo, y le da miedo hacer algo para cambiar las cosas.  Se debate internamente entre actuar y hacer algo, o simplemente encerrarse en sí mismo hasta que pueda olvidar lo que sucede.
-Epiphany:            Con el tiempo, y tras ver los crímenes de RIO, se va dando cuenta de que "el mal" nunca descansará. Lucas hace suya la frase "Lo único que necesita el mal para triunfar es que los hombres buenos no hagan nada" y cada vez se involucra más en hacer algo.
+Goal:                Unirse a la Resistencia y sentir que colabora en la destrucción de RIO.
+Conflict:            Lucas realmente quiere poder **vivir tranquilo** en un mundo libre y mejor del que le ha tocado vivir. No obstante, al mismo tiempo le gustaría poder ignorar los problemas del mismo, y le da miedo hacer algo para cambiar las cosas. que pueda poner en peligro su vida. Se debate internamente entre actuar y hacer algo, o simplemente encerrarse en sí mismo hasta que pueda olvidar lo que sucede a base de excusas.
+Epiphany:            Con el tiempo, y tras ver los crímenes de RIO, se va dando cuenta de que "el mal" nunca descansará. Lucas hace suya la frase "Lo único que necesita el mal para triunfar es que los hombres buenos no hagan nada", y cada vez se involucra más en hacer algo.
 Phrase Summary:      Extrabajador de la corporación {W:0:RIO} que se une a la {W:1:Resistencia} para acabar con ella.
-Paragraph Summary:   Lucas trabajó durante años para la corporación {W:0:RIO}. Trabajó como corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. Tras el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez". A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario}, decide unirse a la {W:1:Resistencia}.
+Paragraph Summary:   Lucas trabajó durante años para la corporación {W:0:RIO}. Fue corresponsal hasta el {P:0:Incidente de Inglaterra}, tras lo cuál optó a un trabajo de oficina. Desde entonces atiende el teléfono y el correo y selecciona noticias jugosas para sus superiores. Tras el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez". A finales de la primera parte, tras el {P:1:Estallido de la burbuja de Mario}, decide unirse a la {W:1:Resistencia}.
 Full Summary:        # Vida anterior
                      
                      Lucas nació el 15 de Junio de 1995 (30 años) en Gran Canaria.

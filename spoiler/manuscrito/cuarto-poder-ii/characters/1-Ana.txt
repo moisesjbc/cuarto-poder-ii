@@ -1,18 +1,14 @@
 Name:                Ana
 ID:                  1
 Importance:          1
-Motivation:          Lograr una humanidad unida que trabaje por los mismos objetivos comunes. Se respetan las libertades individuales mientras estos no choquen con los globales.
-Goal:                Purgar RIO de los elementos que buscan un enriquecimiento y empoderamiento propios a costa del progreso. Instaurar en su lugar un sistema de organizadores y productores.
-Conflict:            ¿Usar o no el virus Canto de Sirena con los peligros que ello conlleva? (¿El fin justifica los medios?). Los riesgos del Canto de Sirena son varios:
-                     
-                     - ¿Reducción de la esperanza de vida?
-                     - ¿Virus con voluntad propia?
+Motivation:          Lograr una humanidad unida que avance hacia los mismos objetivos comunes. Se respetan las libertades individuales mientras estos no choquen con los globales.
+Goal:                Instaurar un sistema que permita a la humanidad progresar como especie. Purgar a {W:0:RIO} y usar su poder para influir en el progreso de la humanidad.
+Conflict:            ¿Usar o no el virus Sirena con los peligros que ello conlleva? (¿El fin justifica los medios?). 
                      
                      **¿Su amistad con Lucas también puede ser motivo de conflicto?** Técnicamente no aportaría mucho al "Bien Común".
-Epiphany:            Ana se da cuenta de que el progreso para la especie justifica con creces los peligros.
+Epiphany:            Ana se da cuenta de que el progreso para la especie justifica con creces los peligros y acepta a la Sirena.
                      
                      - "50 años con un propósito son mejores que 100 años sin él".
-                     - Siempre va a haber peligro, pero el uso del Canto de Sirena se puede controlar mediante un control férreo de la sociedad.
 Phrase Summary:      Agente secreto de los {W:6:Hombres de negro} que trabaja con la Resistencia para purgar en secreto a RIO.
 Paragraph Summary:   Ana captó la atención de los  {W:6:Hombres de negro} mientras estudiaba Periodismo y estos la captaron. La organización facilitó su infiltración en la Resistencia como método de controlar los movimientos de esta y al mismo tiempo purgar RIO desde fuera.
 Full Summary:        # Vida anterior

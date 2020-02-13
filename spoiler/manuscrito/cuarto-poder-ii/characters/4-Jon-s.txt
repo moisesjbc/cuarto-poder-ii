@@ -6,17 +6,18 @@ Goal:                - Limpiar su conciencia tras haber colaborado con RIO en la
                      - Mantener a su hermana  y a si mismo a salvo de las garras de {W:0:RIO}.
 Conflict:            - Confesar o no su implicación en la creación de las *Burbujas*, especialmente a su hermana.
                      - Aceptar su culpa o culpar de todo a {W:0:RIO} y "desentenderse".
-Epiphany:            - Nunca tendrá la conciencia totalmente en paz, pero confesar su secreto es un paso necesario.
-                     - Acepta su culpa y lucha para acabar con {W:0:RIO}.
-Phrase Summary:      Vagabundo al que RIO capturó y con el que experimentó con nanomáquinas hasta que fue rescatado por Ajani.
-Paragraph Summary:   Vagabundo que fue capturado por {W:0:RIO} en el pasado pero consiguió huir gracias a {C:5:Ajani} (**definir**). Desde entonces lleva mucho tiempo manteniéndose al margen (**definir tiempos**), hasta que su único contacto, {C:5:Ajani}, le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él para devolverle el favor.
+Epiphany:            Jonás entiende que nunca tendrá la conciencia totalmente en paz, pero confesar su secreto es un paso necesario. Acaba aceptando su culpa y lucha para acabar con {W:0:RIO} y el virus Sirena.
+Phrase Summary:      Antiguo experto en nanotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*.
+                     
+                     Vagabundo al que RIO capturó y con el que experimentó con nanomáquinas hasta que fue rescatado por Ajani.
+Paragraph Summary:   Antiguo experto en nanotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*. Cuando RIO descubre su resistencia a la Sirena comienza a experimentar con él hasta que es rescatado por {C:5:Ajani} (**definir**). Desde entonces lleva mucho tiempo manteniéndose al margen (**definir tiempos**), hasta que su único contacto, {C:5:Ajani}, le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él para devolverle el favor.
 Full Summary:        # Vida anterior
                      
                      Jonás nació el 15 de Septiembre de 1993 (32 años).
                      
                      En 2011 **estudió X**, y en 2016 continuó especializándose en nanotecnología. En 2020 Jonás, ya un experto en el tema, desarrolló la tecnología del "humo negro" en la universidad. El joven descubre que su mente era compatible con el control "mente enjambre" del mismo aunque sufriendo mientras lo controlaba.
                      
-                     {W:0:RIO} se entera del invento y fuerza una situación de necesidad (cierre del departamento sobre Jonás. A continuacion le tienta con una oferta de una empresa de I+D que controla en secreto y lo convence para venderles la patente por una gran suma y seguir trabajando en la tecnología. Aunque Jonás sabe de las aplicaciones cada vez más militarizadas de la tecnología, continúa trabajando en ella. RIO lo incluye en un programa de investigación para introducir las nanomáquinas en el cerebro y liberar drogas (Canto de Sirena) al escuchar ciertos estímulos ({W:16:Notas de xilófono}).
+                     {W:0:RIO} se entera del invento y fuerza una situación de necesidad (cierre del departamento sobre Jonás. A continuación le tienta con una oferta de una empresa de I+D que controla en secreto y lo convence para venderles la patente por una gran suma y seguir trabajando en la tecnología. Aunque Jonás sabe de las aplicaciones cada vez más militarizadas de la tecnología, continúa trabajando en ella. RIO lo incluye en un programa de investigación para introducir las nanomáquinas en el cerebro y liberar drogas (Canto de Sirena) al escuchar ciertos estímulos ({W:16:Notas de xilófono}).
                      
                      
                      
