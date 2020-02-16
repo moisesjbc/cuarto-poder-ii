@@ -15,11 +15,33 @@ Full Summary:        # Vida anterior
                      
                      Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Canaria.
                      
-                     Cursó Periodismo, donde se hizo amiga de {C:0:Lucas}. Su activismo captó la atención de los {W:6:Hombres de negro}, quienes la captaron. Estos la infiltraron en la {W:1:Resistencia} y facilitaron en secreto su infiltración en {W:0:RIO} mediante una beca privada que inició en 2018, al terminar la carrera.
+                     Desde el instituto mostró una personalidad comprometida y activista.
+                     
+                     En 2014 (18 años), inició la carrera de Periodismo, donde se hizo amiga de {C:0:Lucas}. En 2018 (22 años) finaliza la carrera y empieza a trabajar en diversos medios locales, rechazando las ofertas para trabajar en RIO ya que sospechaba que no era trigo limpio.
+                     
+                     El activismo de Ana y su rechazo a RIO despierta el interés de la {W:1:Resistencia}, quienes empiezan a estudiarla. Finalmente Ana es reclutada en 2020 (24 años) y se convierte rápidamente en un efectivo muy valioso. En 2022, durante una misión de liberación de una *Burbuja*, cruza camino con los *Hombres de Negro*, quienes le muestran "evidencias" de la existencia del planeta X.
+                     
+                     **
+                     - Entender relación hombres de negro con Sirena, antes y después de la liberación del Mástil.
+                     - ¿Dónde entra aquí Ana? ¿Sabe sobre la Sirena? ¿O también piensa que abrirá un portal al planeta X? (**cambiar ficha resumen en consonancia**)
+                     **
+                     
+                     ## Unión a los Hombres de Negro
+                     
+                     Ana finalizó la carrera en 2018 (22 años), y comenzó a trabajar en diversos medios locales. Su 
+                     
+                     Mientras cursaba la carrera, su activismo captó la atención de los {W:6:Hombres de negro}, quienes la captaron en secreto en 2016
+                     
+                     
+                      (20 años).
+                     
+                     2020
+                     
+                     Estos la infiltraron en la {W:1:Resistencia} y facilitaron en secreto su infiltración en {W:0:RIO} mediante una beca privada que inició en 2018, al terminar la carrera.
                      
                      # Asalto al AT de Gran Canaria
                      
-                     Durante el {P:2:Asalto al AT de Gran Canaria} está trabajando en {W:0:RIO} y se descubre que es miembro de la {W:1:Resistencia}. Participa activamente ayudando a los ingleses y a Jonás, pero son emboscados por RIO y consigue huir.
+                     Durante el {P:2:Asalto al AT de Gran Canaria} está trabajando en {W:0:RIO} y se descubre que es miembro de la {W:1:Resistencia}. Participa activamente ayudando a los ingleses y a Jonás, pero estos son emboscados por RIO y consigue huir.
                      
                      # Misiones de rescate y estallido
                      
