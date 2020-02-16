@@ -371,3 +371,8 @@ Sobre lo de estar "a puntito de terminar la **funcionalidad de búsquedas global
 
 **¡Hora de retomar el libro!**
 
+## Semana 48
+
+**He repasado y refinado los resúmenes de una frase y de un párrafo del libro, así como las hojas resumen de cada personaje principal y secundario**.
+
+**Actualmente estoy dándole vueltas al paso sobre extender el resumen de un párrafo a cinco párrafos**. La cosa está cogiendo forma y voy teniendo una historia que me gustaría contar, aunque para variar, voy por detrás de lo que había planificado inicialmente ^^U.
