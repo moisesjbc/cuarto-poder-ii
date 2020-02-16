@@ -8,33 +8,17 @@ Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              - Lucas es curado "en secreto" y finje ante Ajani (¿pero puede fingir ante el virus?).
              - ¿{W:0:RIO} no tendría un plan de emergencia (pe. bomba) por si alguien accedía a la cámara?
              - Cuando Lucas es contagiado puedo cambiar a la perspectiva de otro personaje, o puedo seguir con la perspectiva de Lucas, lidiando con las voces que lo guían.
-Page:        # 1
+Page:        Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras intenta abandonar la *Burbuja* en la que fue capturado, el grupo es emboscado por {W:0:RIO}, pero {C:5:Ajani} interviene y los salva.
              
-             Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
+             Lucas es entrenado por la Resistencia y comienza a saber más sobre la historia de esta y de RIO. El joven comienza a participar en misiones *estallando Burbujas* mientras continúa teniendo visiones del planeta X. Descubre que otros liberados de las Burbujas han experimentado visiones pero estas desaparecen al poco tiempo, al contrario que en su caso. Las visiones de Lucas, su miedo a actuar, y los repetidos fracasos de la Resistencia en exponer a RIO le hacen cuestionarse su salud mental y merman su confianza. Lucas confiesa las visiones a Ana pero esta lo tranquiliza y le dice que lo mantenga en secreto mientras intenta descubrir qué le pasa (informa en secreto a los Hombres de negro). Durante una misión de estallido, Lucas es capturado por {W:0:RIO}.
              
-             # 2
+             RIO experimenta con Lucas y su hipersensibilidad a las nanomáquinas, mientras este intenta mantener en secreto sus visiones. Estas últimas van a más: Lucas comienza a interactuar con personas en sus visiones que lo convencen (**¿pe. materializando cosas con las nanomáquinas?**) de que el planeta es real y está ocultado por RIO. Las visiones lo llevan, junto a otros sujetos que también sufren las visiones, a abrir una cámara subterránea donde está el portal al otro mundo. Sin embargo, allí Lucas descubre que todo eran alucinaciones provocadas por la Sirena para que destruyera el Mástil que impedía su reproducción.
              
-             Tras una emboscada de RIO, el grupo es rescatado por Ajani, y Lucas es entrenado por la resistencia hasta que es capturado por la corporación durante una misión de liberación.
+             El virus comienza a propagarse, con Ana y los Hombres de negro a la cabeza. RIO, en un intento desesperado por mantener el control, libera una Sirena sintética que enloquece a la gente para convencer a todo el mundo de que la Sirena es un virus maligno que debe ser destruido. Mientras, Jonás, también convencido de que el virus es maligno y que los matará a Lara y a él, suministra en secreto un suero a Lucas que lo hace más resistente a la Sirena y entonces trata de convencerlo también de que debe ser detenida. RIO comunica a la Resistencia que existe un almacén en áfrica con capacidad para lanzar un nuevo Mástil y le pide ayuda para llevarlo a cabo. Necesitan la hipersensibilidad de Lucas a las nanomáquinas para acceder a la cámara, ya que los demás que también la tenían han muerto (**Me parece muy forzado. Quizás mejor que la "inmunidad" de Lucas no le evita detectar a otros asimilados ocultos**) (¿La Sirena los mató para evitar amenazas?) o han sido asimilados. Todos convergen hacia allí.
              
-             - (?) ¿Qué ha estado haciendo Ajani durante toda la primera parte?
-             - (?) ¿Cómo los rescata?
-             - (+) Posibilidad de profundizar en la historia de la Resistencia, RIO y las Burbujas.
-             - (+) Se puede contar el inicio de RIO y la Resistencia aquí (¿Revolución Industrial?).
-             - ¿Posible sobrecarga de información?
-             - (?) Ver cómo mantener el hilo / trama de Lucas investigando / lidiando con sus visiones.
+             En África se produce una guerra entre la Resistencia y RIO y los Hombres de negro. Lucas y los demás consiguen llegar a la cámara, donde se descubre que RIO planeaba acabar con la Resistencia además de liberar el Mástil. Lucas llega hasta
              
-             # 3
              
-             RIO experimenta con él mientras Lucas tiene visiones que lo llevan a abrir una cámara para llegar al planeta X, sólo para descubrir que todo eran alucinaciones provocadas por un virus.
-             
-             - (?) ¿Origen y motivación del virus? ¿Extraterrestre o terrestre? ¿Sintético?
-             - (?) ¿El virus tiene conciencia de sí mismo?
-             - (?) ¿Por qué Lucas es la clave de su liberación?
-             - (?) **¿Qué puede tener Lucas tan importante para que RIO no lo mate ya directamente?**
-             - ... quizás el virus hace que no lo maten. ¿Por qué?
-             - (?) El virus puede haber surgido en la Tierra ante los avances en medicina "física".
-             - Puede tratarse del virus que funcionaba en dos fases: el pólen hace a los seres vivos entrar en "modo receptivo" y las ondas sonoras los controlan. La propagación del virus despierta a los "agentes durmientes" => Si tiene un origen vírico tengo que ver cómo integrar las flores de Sirena y/o el tema de las nanomáquinas.
-             - Relacionar virus con *Burbujas* y nanomáquinas.
              
              # 4
              
@@ -52,6 +36,21 @@ Page:        # 1
              
              ## Misterios a resolver:
              
+             - (?) ¿Qué ha estado haciendo Ajani durante toda la primera parte?
+             - (?) ¿Cómo los rescata?
+             - (+) Posibilidad de profundizar en la historia de la Resistencia, RIO y las Burbujas.
+             - (+) Se puede contar el inicio de RIO y la Resistencia aquí (¿Revolución Industrial?).
+             - ¿Posible sobrecarga de información?
+             - (?) Ver cómo mantener el hilo / trama de Lucas investigando / lidiando con sus visiones.
+             -
+             - (?) ¿Origen y motivación del virus? ¿Extraterrestre o terrestre? ¿Sintético?
+             - (?) ¿El virus tiene conciencia de sí mismo?
+             - (?) ¿Por qué Lucas es la clave de su liberación?
+             - (?) **¿Qué puede tener Lucas tan importante para que RIO no lo mate ya directamente?**
+             - ... quizás el virus hace que no lo maten. ¿Por qué?
+             - (?) El virus puede haber surgido en la Tierra ante los avances en medicina "física".
+             - Puede tratarse del virus que funcionaba en dos fases: el pólen hace a los seres vivos entrar en "modo receptivo" y las ondas sonoras los controlan. La propagación del virus despierta a los "agentes durmientes" => Si tiene un origen vírico tengo que ver cómo integrar las flores de Sirena y/o el tema de las nanomáquinas.
+             - Relacionar virus con *Burbujas* y nanomáquinas.
              - **Sensibilidad de Lucas a las nanomáquinas**
              - 	¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
              - **Verdadera motivación y alineación de cada personaje (al menos de los principales)**
