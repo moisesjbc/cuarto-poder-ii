@@ -6,6 +6,26 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Extender resumen a 5 párrafos",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar página de descripción de cada personaje principal",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar página de descripción de cada personaje secundario",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Filtrar personajes",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Análisis semana / planificación (DESC)",
           "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo -> Nope, al final entre que es un proceso creativo y que no puedo dedicar mucho tiempo al día por A o por B, no puedo asegurar un ritmo constante de cumplir objetivos aunque sean muy pequeños.\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
           "color": "FCE4D4"
@@ -110,13 +130,7 @@
     },
     {
       "name": "On going",
-      "cards": [
-        {
-          "name": "Añadir find and replace a Manuskript (Kanban separado)",
-          "details": "",
-          "color": "FCC7FC"
-        }
-      ],
+      "cards": [],
       "settings": {
         "limit": 2
       }
@@ -124,6 +138,21 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Repasar hojas de resumen de cada personaje principal",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar y validar resúmenes de una y de cinco frases",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Añadir global search a Manuskript (Kanban separado)",
+          "details": "",
+          "color": "FCC7FC"
+        },
         {
           "name": "Aclarar funcionamiento del virus. ¿Cómo se eligen e interaccionan las Sirenas y los Marineros?",
           "details": "",
