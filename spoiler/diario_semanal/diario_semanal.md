@@ -376,3 +376,9 @@ Sobre lo de estar "a puntito de terminar la **funcionalidad de búsquedas global
 **He repasado y refinado los resúmenes de una frase y de un párrafo del libro, así como las hojas resumen de cada personaje principal y secundario**.
 
 **Actualmente estoy dándole vueltas al paso sobre extender el resumen de un párrafo a cinco párrafos**. La cosa está cogiendo forma y voy teniendo una historia que me gustaría contar, aunque para variar, voy por detrás de lo que había planificado inicialmente ^^U.
+
+## Semana 49
+
+¡Vacaciones!
+
+Aprochando las horas de viaje y los ratos muertos en el destino **he leido gran parte del libro sobre el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/)**. Esta semana planeo acabarlo y seguir los pasos (otra vez).
