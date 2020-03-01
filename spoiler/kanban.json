@@ -6,12 +6,22 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Extender resumen a 5 párrafos",
+          "name": "Terminar libro Snowflake",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Refinar página de descripción de cada personaje principal",
+          "name": "Integrar resumen Snowflake",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "1. Refinar resumen de una frase",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "2. Refinar resumen de un párrafo",
           "details": "",
           "color": "FAFCD2"
         },
@@ -26,9 +36,9 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo -> Nope, al final entre que es un proceso creativo y que no puedo dedicar mucho tiempo al día por A o por B, no puedo asegurar un ritmo constante de cumplir objetivos aunque sean muy pequeños.\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
+          "name": "Limpiar resúmenes de \"misterios\". Integrar estos en el resumeno en otro lugar.",
+          "details": "",
+          "color": "C1F7C2"
         },
         {
           "name": "Aclarar funcionamiento del Mástil",
@@ -130,7 +140,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo -> Nope, al final entre que es un proceso creativo y que no puedo dedicar mucho tiempo al día por A o por B, no puedo asegurar un ritmo constante de cumplir objetivos aunque sean muy pequeños.\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        }
+      ],
       "settings": {
         "limit": 2
       }
@@ -138,6 +154,16 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Refinar página de descripción de cada personaje principal",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Extender resumen a 5 párrafos",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Repasar hojas de resumen de cada personaje principal",
           "details": "",
