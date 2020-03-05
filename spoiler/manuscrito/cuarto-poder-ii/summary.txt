@@ -1,9 +1,19 @@
-Sentence:    Un ex-reportero lucha para exponer y destruir a la corporación RIO.
-Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia hasta que es capturado por la corporación durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo llevan a escapar y abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un ser alienígena. El "virus" asegura que su propósito es llevar el progreso a todas las especies que encuentra y comienza a propagarse, con Ana, Ajani y el resto de "Hombres de Negro" a la cabeza. Varios grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
+Sentence:    Suspense distópico en el que un ex-reportero lucha para exponer y destruir a una corporación de medios de comunicación.
+Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia hasta que es capturado por Elizabeth durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo ayudan a escapar y lo llevan a abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un ser alienígena. El "virus" comienza a propagarse, mientras Lucas investiga sus intenciones, hasta que múltiples bases rebeldes son neutralizadas ya que RIO puede localizar a los rebeldes gracias a la mente colmena. Varios  grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
+             
              
              Ideas:
+             - Segunda frase:
+             -> **¿cómo escapa de la emboscada del primer capítulo?**		- Jonás y guantes + túnel y Ajani.
+             - Propagación del virus: se propaga "con Ana, Ajani y el resto de "Hombres de Negro" a la cabeza"
+             - Jonás le suministra en secreto algo que lo hace más resistente, por eso Lucas no es tan sugestionable como antes. **¿No se entera la Sirena de esto? O es que ya no se le puede aparecer y se intenta comunicar con él a través de otros asimilados**
+             - O simplemente el virus ha empezado a propagarse y aún no tiene control suficiente.
+             - ¿Noemi se salva a duras penas cuando las bases rebeldes son neutralizadas (pero Lucas tarda en saber de ella -> ¡suspense!)?
+             - RIO felicita a Lucas por hacerle ver la utilidad de la mente colmena, ya que gracias a ella puede localizar a los rebeldes
+             - ¿Lo captura Elizabeth?
              - **Revisar**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
              - ¿Qué consigue Lucas en la cámara para ayudar al virus y qué le falta para que todavía resulte crítico para su propagación final? ¿Libera un mástil pero quedan otros? ¿Libera temporalmente el único mástil pero RIO activa la Burbuja Gran Canaria para que se piense que el virus es maligno?
+             - ¿para que Lucas liberara su influencia en Europa? ¿Otros mástiles activos?.
              - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
              - Lucas es curado "en secreto" y finje ante Ajani (¿pero puede fingir ante el virus?).
              - ¿{W:0:RIO} no tendría un plan de emergencia (pe. bomba) por si alguien accedía a la cámara?
