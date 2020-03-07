@@ -1,16 +1,17 @@
 Name:                Ana
 ID:                  1
 Importance:          1
-Motivation:          Lograr una humanidad unida que avance hacia los mismos objetivos comunes. Se respetan las libertades individuales mientras estos no choquen con los globales.
-Goal:                Instaurar un sistema que permita a la humanidad progresar como especie. Purgar a {W:0:RIO} y usar su poder para influir en el progreso de la humanidad.
-Conflict:            ¿Usar o no el virus Sirena con los peligros que ello conlleva? (¿El fin justifica los medios?). 
+Motivation:          Lograr una humanidad unida que avance hacia los mismos objetivos comunes, con la verdad como bandera.
+Goal:                - Exponer y destruir a {W:0:RIO}.
+                     - (Más adelante) Ayudar a la {C:6:Gran Sirena (nombre temporal)}.
+Conflict:            Ana se plantea si el fin justifica los medios. En primer lugar se lo plantea con respecto a RIO: ¿destruir RIO, o usurpar el control y durante la "transición" dirigir a la humanidad con mentiras bien intencionadas? Más adelante, con respecto a la Sirena, se debate entre liberarla o no con los peligros que ello conlleva.
                      
                      **¿Su amistad con Lucas también puede ser motivo de conflicto?** Técnicamente no aportaría mucho al "Bien Común".
-Epiphany:            Ana se da cuenta de que el progreso para la especie justifica con creces los peligros y acepta a la Sirena.
+Epiphany:            Ana se da cuenta de que el progreso para la especie justifica con creces las mentiras iniciales y los peligros y se decide a aceptar a la Sirena.
                      
                      - "50 años con un propósito son mejores que 100 años sin él".
-Phrase Summary:      Agente secreto de los {W:6:Hombres de negro} que trabaja con la Resistencia para purgar en secreto a RIO.
-Paragraph Summary:   Ana captó la atención de los  {W:6:Hombres de negro} mientras estudiaba Periodismo y estos la captaron. La organización facilitó su infiltración en la Resistencia como método de controlar los movimientos de esta y al mismo tiempo purgar RIO desde fuera.
+Phrase Summary:      Agente de la Resistencia que se infiltra en RIO para destruirla desde dentro.
+Paragraph Summary:   Ana es una joven periodista que fue captada en secreto por la Resistencia. Esta última la infiltró en RIO hace años para intentar destruirla desde dentro, pero durante el {P:2:Asalto al AT de Gran Canaria}, Ana revienta su coartada, convencida de poder acabar con RIO entonces. Desde entonces lucha directamente contra {W:0:RIO}, estallando Burbujas y recopilando pruebas contra la corporación.
 Full Summary:        # Vida anterior
                      
                      Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Canaria.
@@ -28,12 +29,14 @@ Full Summary:        # Vida anterior
                      
                      ## Unión a los Hombres de Negro
                      
-                     Ana finalizó la carrera en 2018 (22 años), y comenzó a trabajar en diversos medios locales. Su 
+                     **BORRAR, ya no**
+                     
+                     Ana finalizó la carrera en 2018 (22 años), y comenzó a trabajar en diversos medios locales. Su
                      
                      Mientras cursaba la carrera, su activismo captó la atención de los {W:6:Hombres de negro}, quienes la captaron en secreto en 2016
                      
                      
-                      (20 años).
+                     (20 años).
                      
                      2020
                      
@@ -71,6 +74,8 @@ Notes:               **Primeros capítulos de la primera parte**
                      - Visiblemente afectada por la muerte de Lucas. Jura venganza contra Elizabeth.
                      - Pierde su coartada durante el {P:2:Asalto al AT de Gran Canaria}.
                      - Se guarda las balas que recibe como recuerdo.
+                     
+                     - Impulsiva.
                      
                      **Final de la primera parte**
                      - Al final de la primera parte viste una camiseta negra de un grupo de rock y unos pantalones vaqueros de color azul fuerte.
