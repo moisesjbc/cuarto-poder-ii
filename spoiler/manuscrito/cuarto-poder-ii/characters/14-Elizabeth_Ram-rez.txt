@@ -1,11 +1,11 @@
 Name:                Elizabeth Ramírez
 ID:                  14
 Importance:          1
-Motivation:          "La humanidad está condenada desde hace mucho. ¿De verdad importa si simplemente quiero ser de las últimas piezas en caer?"
+Motivation:          Ambición por el poder y el progreso personal a toda costa.
                      
-                     Ambición por el poder y el progreso personal a toda costa.
+                     "La humanidad está condenada desde hace mucho. ¿De verdad importa si simplemente quiero ser de las últimas piezas en caer?"
 Goal:                - Asegurarse una posición de poder dentro de {W:0:RIO}.
-                     - Colaborar en la destrucción de la {W:1:Resistencia} como forma de terminar de ganarse la confianza de la cúpula de {W:0:RIO} y allanar su camino hasta la cima.
+                     - Destruir a la {W:1:Resistencia} como forma de terminar de ganarse la confianza de la cúpula de {W:0:RIO} y allanar su camino hasta la cima.
 Conflict:            ¿Esperar a ganarse el puesto en la cúpula o matar / traicionar para conseguirlo?
                      
                      - "Se puede construir un trono con bayonetas, pero no te puedes sentar en él por mucho tiempo"
