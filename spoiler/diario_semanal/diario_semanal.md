@@ -347,38 +347,48 @@ Pues ya es oficial. El 2019 ha sido un año de "preproducción" :-P
 
 **Me he planteado cerrar un conjunto mínimo de la funcionalidad y enviar el Pull Request para que lo vayan valorando cuanto antes** A ver si esta semana puedo tenerlo.
 
-## Semana 43
+## Semana 43 (06/01/2020 - 12/01/2020)
 
 **Continuo trabajando en añadir la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. Al final no he conseguido terminar el Pull Request durante la semana, pero me he quedado muy cerca. A ver la semana que viene.
 
-## Semana 44
+## Semana 44 (03/01/2020 - 19/01/2020)
 
 **Continuo trabajando en añadir la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. 
 
 El miércoles subí a Github lo que tengo hecho de la funcionalidad y [@gedakc](https://github.com/gedakc) me ha respondido que por el momento está ocupado para mirarlo. Pierdo esa parte de feedback temprano... pero bueno. En el lado positivo, he avanzado bastante y veo cerca el final :-)
 
-## Semana 45
+## Semana 45 (20/01/2020 - 26/01/2020)
 
 **Estoy a puntito de terminar la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. Espero poder volver al libro a comienzos de Febrero.
 
-## Semana 46
+## Semana 46 (27/01/2020 - 02/02/2020)
 
 Sobre lo de estar "a puntito de terminar la **funcionalidad de búsquedas globales** al software [Manuskript](https://www.theologeek.ch/manuskript/)... **Debería poder terminarlo esta semana que entra y volver al libro la siguiente.**
 
-## Semana 47
+## Semana 47 (03/01/2020 - 09/02/2020)
 
 ¡Al fin! **He completado** (o eso creo) **la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)** y la he dejado para que la valoren: <https://github.com/olivierkes/manuskript/pull/717>.
 
 **¡Hora de retomar el libro!**
 
-## Semana 48
+## Semana 48 (10/01/2020 - 16/02/2020)
 
 **He repasado y refinado los resúmenes de una frase y de un párrafo del libro, así como las hojas resumen de cada personaje principal y secundario**.
 
 **Actualmente estoy dándole vueltas al paso sobre extender el resumen de un párrafo a cinco párrafos**. La cosa está cogiendo forma y voy teniendo una historia que me gustaría contar, aunque para variar, voy por detrás de lo que había planificado inicialmente ^^U.
 
-## Semana 49
+## Semana 49 (17/01/2020 - 23/02/2020)
+
+**(Añadido el 08/03/2020)** Parece que esta semana se me coló y no reporté nada. De todas maneras no hice nada en estos días, ya que estaba ocupado preparando (¡y empezando!) mis vacaciones de la semana siguiente.
+
+## Semana 50 (24/02/2020 - 01/03/2020)
 
 ¡Vacaciones!
 
 Aprochando las horas de viaje y los ratos muertos en el destino **he leido gran parte del libro sobre el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/)**. Esta semana planeo acabarlo y seguir los pasos (otra vez).
+
+## Semana 51 (02/03/2020 - 08/03/2020)
+
+**He terminado de leerme el libro sobre el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/) y he repasado los primeros pasos**. En concreto he refinado el resumen de una frase y el de un párrafo.
+
+**También he planificado someramente el mes de Marzo con el objetivo de concluir los pasos del 1 al 9 del Snowflake method**. ¡Veamos si lo cumplo!
