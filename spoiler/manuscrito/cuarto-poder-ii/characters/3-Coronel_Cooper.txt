@@ -4,7 +4,7 @@ Importance:          1
 Motivation:          Justicia y disciplina.
 Goal:                - Limpiar el nombre de Inglaterra.
                      - Exponer y destruir a {W:0:RIO}.
-Conflict:            Cooper siente una gran falta de confianza en su liderazgo tras el fracaso del {P:2:Asalto al AT de Gran Canaria}. Se debate sobre si seguir actuando públicamente como miembro del ejército inglés o actuar desde la sombra para no afectar más a la imagen de Inglaterra.
+Conflict:            Cooper siente una gran falta de confianza en su liderazgo tras el fracaso del {P:2:Asalto al AT de Gran Canaria}. Se debate sobre si seguir actuando públicamente como miembro del ejército inglés o actuar desde la sombra para no afectar más a la imagen de su país.
 Epiphany:            Confianza renovada en que puede dirigir misiones y ser decisivo en la destrucción de {W:0:RIO}.
 Phrase Summary:      Coronel del ejército de Inglaterra que lidera el {P:2:Asalto al AT de Gran Canaria}.
 Paragraph Summary:   Cooper es un coronel condecorado del ejército de Inglaterra. Estuvo presente durante el {P:0:Incidente de Inglaterra}, en el que conoció a {C:0:Lucas} y vio de lo que era capaz {W:0:RIO}. Lideró el {P:2:Asalto al AT de Gran Canaria} por su cuenta y desapareció, presumiblemente capturado por la corporación.

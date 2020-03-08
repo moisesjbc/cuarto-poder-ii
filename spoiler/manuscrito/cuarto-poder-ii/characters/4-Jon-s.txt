@@ -4,13 +4,10 @@ Importance:          1
 Motivation:          Redención y libertad.
 Goal:                - Limpiar su conciencia tras haber colaborado con RIO en la creación de las {W:14:Burbujas} (**definir**).
                      - Mantener a su hermana  y a si mismo a salvo de las garras de {W:0:RIO}.
-Conflict:            - Confesar o no su implicación en la creación de las *Burbujas*, especialmente a su hermana.
-                     - Aceptar su culpa o culpar de todo a {W:0:RIO} y "desentenderse".
-Epiphany:            Jonás entiende que nunca tendrá la conciencia totalmente en paz, pero confesar su secreto es un paso necesario. Acaba aceptando su culpa y lucha para acabar con {W:0:RIO} y el virus Sirena.
+Conflict:            Jonás se debate internamente sobre si confesar o no su implicación en la creación de las *Burbujas*, especialmente a su hermana. Una parte de él quiere pensar que no tuvo otra opción y culpar de todo a {W:0:RIO}, en lugar de aceptar su parte de culpa. También parece estar decidido a acabar con el virus Sirena para salvar a su hermana y a sí mismo, pero una parte de él se plantea si no estará siendo egoísta. Después de todo, son unas pocas personas frente a toda la humanidad.
+Epiphany:            Jonás entiende que nunca tendrá la conciencia totalmente en paz, pero confesar su secreto es un paso necesario. Acaba aceptando su culpa y lucha para acabar con {W:0:RIO}. En cuanto al virus Sirena, no puede arriesgar la vida de su hermana aunque sea por el bien común.
 Phrase Summary:      Antiguo experto en nanotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*.
-                     
-                     Vagabundo al que RIO capturó y con el que experimentó con nanomáquinas hasta que fue rescatado por Ajani.
-Paragraph Summary:   Antiguo experto en nanotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*. Cuando RIO descubre su resistencia a la Sirena comienza a experimentar con él hasta que es rescatado por {C:5:Ajani} (**definir**). Desde entonces lleva mucho tiempo manteniéndose al margen (**definir tiempos**), hasta que su único contacto, {C:5:Ajani}, le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él para devolverle el favor.
+Paragraph Summary:   Antiguo experto en nanotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*. Cuando RIO descubre su resistencia a la Sirena comienza a experimentar con él hasta que es rescatado por {C:5:Ajani}. Desde entonces lleva mucho tiempo manteniéndose al margen, hasta que su liberador le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él a pesar del terror que siente para devolverle el favor.
 Full Summary:        # Vida anterior
                      
                      Jonás nació el 15 de Septiembre de 1993 (32 años).
@@ -22,6 +19,10 @@ Full Summary:        # Vida anterior
                      
                      
                      # Captura
+                     
+                     - Limpiar su conciencia tras haber colaborado con RIO en la creación de las {W:14:Burbujas} (**definir**).
+                     - **Definir liberación por parte de Ajani**
+                     - **Definir tiempos (experimentos, liberación)**
                      
                      Los agentes de {W:0:RIO} someten a Jonás al Canto de Sirena para controlarlo, pero descubren que este tiene resistencia contra el mismo y lo retienen a la antigua usanza: amenazando con hacer daño a su familia. Obligan a Jonás a perfeccionar la tecnología del "humo negro" para ellos, así como
                      
