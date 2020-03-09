@@ -1,13 +1,16 @@
 Name:                Gran Sirena (nombre temporal)
 ID:                  6
 Importance:          1
-Motivation:          Llevar el progreso a todas las especies con las que se encuentra por el espacio.
-Goal:                Liberarse de {W:0:RIO} y unificar a toda la raza humana en su progreso.
-Conflict:            A medida que integra nuevas especies, integra la conciencia y miedos de estas, comenzando a replantearse su propósito y su identidad.
+Motivation:          Lograr el máximo progreso para todo el universo.
+Goal:                - Liberarse de {W:0:RIO}.
+                     - Asimilar a la raza humana.
+Conflict:            A medida que asimila nuevas especies, integra la conciencia y miedos de estas, comenzando a replantearse su propósito y su propia identidad.
 Epiphany:            Reafirmación en su propósito. El bien de muchos como prioridad.
-Phrase Summary:      Ser alienígena con mente de enjambre que viaja por el espacio asimilando a las especies inteligentes con las que se cruza para llevarlas a su máximo progreso.
-Paragraph Summary:   Meteorito metálico de gran tamaño con conciencia propia. Su superficie está cubierta de miles de capas de insectos microscópicos y voladores. Estos insectos pueden formar paredes sólidas como mecanismo de defensa, así como emitir un gas que provoca un trance, sometiendo a la víctima a la voluntad de la Sirena.
+Phrase Summary:      Ser alienígena que vaga por el universo llevando el progreso a todas las especies inteligentes con las que se cruza.
+Paragraph Summary:   Ser alienígena que explora el universo, contactando y asimilando a todas las especies inteligentes con las que se cruza. En los últimos años ha llegado a la Tierra y comienza a estudiar y asimilar a la raza humana, pero {W:0:RIO} lo descubre y desarrolla una tecnología para contenerlo y usarlo en su favor. Prácticamente impotente, el ser intenta liberarse y retomar su propósito.
 Full Summary:        # La Sirena (NOMBRE PROVISIONAL)
+                     
+                     Meteorito metálico de gran tamaño con conciencia propia. Su superficie está cubierta de miles de capas de insectos microscópicos y voladores. Estos insectos pueden formar paredes sólidas como mecanismo de defensa, así como emitir un gas que provoca un trance, sometiendo a la víctima a la voluntad de la Sirena.
                      
                      ## Funcionamiento del virus
                      
@@ -19,7 +22,10 @@ Full Summary:        # La Sirena (NOMBRE PROVISIONAL)
                      
                      - **Llegada y "fundación" de los hombres de negro**.
                      - ¿2020?
-Notes:               Los riesgos del Canto de Sirena son varios:
+Notes:               - **¿Cómo puede RIO lograr tanto control en las Burbujas cuando la propia Sirena necesita meses / años para asimilar a una raza?**
+                     	- ¿Quizás la Sirena no asimila a una raza, sino que requiere que esta la acepte?
+                     
+                     Los riesgos del Canto de Sirena son varios:
                      
                      - ¿Reducción de la esperanza de vida?
                      - ¿Virus con voluntad propia?
