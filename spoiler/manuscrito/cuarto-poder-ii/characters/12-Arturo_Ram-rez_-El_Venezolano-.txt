@@ -11,7 +11,7 @@ Notes:               - Cuando se presenta a {C:0:Lucas}, este le ve "unos ojos q
                      - Prefiere que lo llamen "El Venezolano".
                      - No le importa seguir con la camisa de fuerza puesta (c17).
                      - **¿Cómo sobrevive tanto tiempo custodiado por {W:0:RIO}?** Se me ocurre que quizás fingió el malestar de Lucas **y por eso experimentaban con él (*)**, pero no es creíble mantenerlo tanto tiempo ni frente a científicos.
-                     	- (*) **O a lo mejor experimentan con todos / con él por X**
+                     - (*) **O a lo mejor experimentan con todos / con él por X**
 Color:               #b09d80
 Complexión:          Alto y delgado.
 Ojos:                "Destilan locura y cordura a partes iguales"
