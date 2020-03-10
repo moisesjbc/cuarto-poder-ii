@@ -1,7 +1,12 @@
 Name:                María
 ID:                  24
 Importance:          0
-Full Summary:        Antes del {P:1:Estallido de la burbuja de Mario}, es {C:23:Lucía Pérez}.
+Motivation:          Rehacer su vida.
+Goal:                - Aceptar la oferta de la {W:1:Resistencia} de hacer vida en un barrio estatal.
+                     - Desentenderse del conflicto {W:1:Resistencia} - {W:0:RIO}.
+Phrase Summary:      Mujer capturada por RIO y reconvertida en la mujer de Mario (Lucas) durante el {P:1:Estallido de la burbuja de Mario}.
+Paragraph Summary:   Mujer capturada por RIO y reconvertida en la mujer de Mario (Lucas) durante el {P:1:Estallido de la burbuja de Mario}. Tras ser rescatada por la Resistencia sólo quiere aceptar la oferta de esta de tener una nueva vida aunque sea en un barrio estatal y desentenderse de todo. Corta toda comunicación.
+Full Summary:        Antes del {P:1:Estallido de la burbuja de Mario}, es Lucía Pérez, mujer de Mario / Lucas.
                      
                      
                      # Lucía Pérez
