@@ -1,7 +1,0 @@
-Name:                Fernando
-ID:                  16
-Importance:          0
-Full Summary:        Amigo de {C:15:Aitor}. Miembro de la {W:1:Resistencia} que se hace pasar por periodista para ser reclutado por {W:0:RIO}.
-Notes:               - (capítulo 10) "Fernando iba vestido como un vagabundo más. Llevaba una capucha sobre la cabeza y un pañuelo en la cara para resultar tan irreconocible como le fuera posible".
-Color:               #aabeb9
-Personalidad:        Terco
