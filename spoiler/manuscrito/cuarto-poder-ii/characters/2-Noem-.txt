@@ -1,6 +1,13 @@
 Name:                Noemí
 ID:                  2
 Importance:          0
+Motivation:          Venganza y descubrimiento personal.
+Goal:                - Unirse a la {W:1:Resistencia} para vengar la muerte de sus padres.
+                     - Descubrir quién es realmente.
+Conflict:            Pasar por el trauma de una *Burbuja* en plena adolescencia ha acrecentado el sentimiento de Noemí de no saber quién es realmente. ¿Realmente quién es ahora es su yo verdadero? ¿Realmente lo que recuerda de si misma y sobre todo de sus padres es verdad?
+Epiphany:            Noemí decide "trabajar con lo que tiene" y aceptar su personalidad y su historia personal actual *hasta que se demuestre lo contrario*. Por esta razón también se reafirma en su objetivo de querer unirse a la {W:1:Resistencia} cuando le sea posible.
+Phrase Summary:      Hija ficticia de Lucas durante la {P:1:Presentación y estallido de la burbuja de Mario} que resulta ser hija de unos trabajadores de RIO *silenciados* por la corporación.
+Paragraph Summary:   Hija adolescente de unos trabajadores de RIO que fueron asesinados por la corporación al descubrir la verdad sobre el incidente de {P:0:Incidente de Inglaterra}. Ella es capturada y reconvertida en la hija ficticia de Lucas durante la {P:1:Presentación y estallido de la burbuja de Mario}. Posteriormente rescatada por la Resistencia, esta última la oculta por su edad e inestabilidad, a pesar de que Noemí quiere unirse a ellos y luchar.
 Full Summary:        # Padres de Noemí
                      
                      Antiguos trabajadores de {W:0:RIO} que descubrieron la farsa del {P:0:Incidente de Inglaterra} . Interaron desertar a la resistencia pero {W:0:RIO} los mató y dos días después capturaron a {C:2:Noemí}.
