@@ -1,11 +1,17 @@
 Name:                Arturo Ramírez "El Venezolano"
 ID:                  12
 Importance:          0
-Full Summary:        Soldado de la unidad del {C:3:Coronel Cooper}. Es capturado durante el {P:2:Asalto al AT de Gran Canaria} y posteriormente rescatado por Ana (3 meses después, c17).
+Motivation:          Lealtad y proactividad.
+Goal:                - Encontrar al {C:3:Coronel Cooper}.
+                     - Demostrar la inocencia de su país tras el {P:0:Incidente de Inglaterra}.
+Phrase Summary:      Soldado de la unidad del {C:3:Coronel Cooper} que es capturado durante el {P:2:Asalto al AT de Gran Canaria} y posteriormente rescatado por Ana (3 meses después, c17).
+Paragraph Summary:   Soldado de la unidad del {C:3:Coronel Cooper} que es capturado durante el {P:2:Asalto al AT de Gran Canaria} y posteriormente rescatado por Ana (3 meses después, c17). Tras ser rescatado colabora con la {W:1:Resistencia} con el único objetivo de encontrar al {C:3:Coronel Cooper} y ayudarle a demostrar la inocencia de Inglaterra.
 Notes:               - Cuando se presenta a {C:0:Lucas}, este le ve "unos ojos que destilan locura y cordura a partes iguales".
                      - Durante los 3 meses posteriores al {P:2:Asalto al AT de Gran Canaria}, {W:0:RIO} le ha inyectado algo todos los días y le ha hecho caminar una y otra vez de un lado a otro en una habitación del manicomio.
                      - Prefiere que lo llamen "El Venezolano".
                      - No le importa seguir con la camisa de fuerza puesta (c17).
+                     - **¿Cómo sobrevive tanto tiempo custodiado por {W:0:RIO}?** Se me ocurre que quizás fingió el malestar de Lucas **y por eso experimentaban con él (*)**, pero no es creíble mantenerlo tanto tiempo ni frente a científicos.
+                     	- (*) **O a lo mejor experimentan con todos / con él por X**
 Color:               #b09d80
 Complexión:          Alto y delgado.
 Ojos:                "Destilan locura y cordura a partes iguales"
