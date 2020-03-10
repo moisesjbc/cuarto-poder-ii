@@ -1,7 +1,0 @@
-Name:                Cámara
-ID:                  37
-Importance:          0
-Full Summary:        Miembro de la {W:1:Resistencia} que graba el {P:1:Estallido de la burbuja de Mario}, centrándose en Lucas.
-Notes:               - Bromista (bromea con grabar la ceja mal teñida de {C:1:Ana} en el p1,c24).
-                     - **¿Qué sucede con él y con sus pruebas al final?**
-Color:               #bc81d6
