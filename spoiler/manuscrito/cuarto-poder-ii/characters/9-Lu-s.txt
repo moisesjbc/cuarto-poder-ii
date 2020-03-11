@@ -1,9 +1,0 @@
-Name:                Luís
-ID:                  9
-Importance:          0
-Full Summary:        Miembro de la {W:1:Resistencia} que se hace pasar por policía. Lleva a {C:15:Aitor} y {C:16:Fernando} al puerto y recoge a {C:1:Ana} allí, de la que pide un informe después.
-Notes:               - **¿Superior de Ana?**
-Color:               #d1aab1
-Pelo:                Melena corta, rizada y rubia.
-Personalidad:        Fría
-Destreza de conducción:Alta

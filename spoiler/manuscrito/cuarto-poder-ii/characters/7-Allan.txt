@@ -1,6 +1,0 @@
-Name:                Allan
-ID:                  7
-Importance:          0
-Full Summary:        Soldado bajo las órdenes de {C:3:Coronel Cooper} durante el {P:2:Asalto al AT de Gran Canaria}. Conoce a {C:0:Lucas} del {P:0:Incidente de Inglaterra}.
-Notes:               - **¿Habla Español? ¿En qué idioma se comunica con Cooper y/o Lucas?**
-Color:               #87e4ec
