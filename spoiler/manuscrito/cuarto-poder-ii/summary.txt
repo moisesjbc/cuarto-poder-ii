@@ -1,39 +1,22 @@
 Sentence:    Suspense distópico en el que un ex-reportero lucha para exponer y destruir a una corporación de medios de comunicación.
-Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia hasta que es capturado por Elizabeth durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo ayudan a escapar y lo llevan a abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un ser alienígena. El "virus" comienza a propagarse, mientras Lucas investiga sus intenciones, hasta que múltiples bases rebeldes son neutralizadas ya que RIO puede localizar a los rebeldes gracias a la mente colmena. Varios  grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
+Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia hasta que es capturado por Elizabeth durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo ayudan a escapar y lo llevan a abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un ser alienígena. El "virus" comienza a propagarse, mientras Lucas investiga sus intenciones, hasta que múltiples bases rebeldes y de RIO son neutralizadas. Varios  grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
+Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por {W:0:RIO}, pero {C:5:Ajani} interviene y los salva.
              
+             - **¿Todo RIO en peso, o un grupo pequeño (francotiradores, los propios soldados que escaparon de la ciudad y se replegaron, etc)?**
+             	- **¿Por qué atacan al segundo grupo (el de Lucas y no al primero)? ¿Por tiempo de replegarse y preparar la trampa entre un grupo y otro?**
              
-             Ideas:
-             - Segunda frase:
-             -> **¿cómo escapa de la emboscada del primer capítulo?**		- Jonás y guantes + túnel y Ajani.
-             - Propagación del virus: se propaga "con Ana, Ajani y el resto de "Hombres de Negro" a la cabeza"
-             - Cámara: Miembro de la {W:1:Resistencia} que graba el {P:1:Estallido de la burbuja de Mario}, centrándose en Lucas -> Me parece que va a morir al principio y la Resistencia sólo recupera la cámara.
-             - Si acaso mencionar que Allan sigue desaparecido.
-             - Contar el intento de la Resistencia por mostrar las pruebas y a Lucas y cómo RIO lo "desmiente" todo.
-             - Insertar en algún lado que RIO / los hombres de Negro forzaron que Paco se mantuviera en su puesto porque su incompetencia les sirve para X.
-             	- ¿Querían que entraran de lleno en RIO para capturarles dentro?
-             - Jonás le suministra en secreto algo que lo hace más resistente, por eso Lucas no es tan sugestionable como antes. **¿No se entera la Sirena de esto? O es que ya no se le puede aparecer y se intenta comunicar con él a través de otros asimilados**
-             - O simplemente el virus ha empezado a propagarse y aún no tiene control suficiente.
-             - ¿Noemi se salva a duras penas cuando las bases rebeldes son neutralizadas (pero Lucas tarda en saber de ella -> ¡suspense!)?
-             - RIO felicita a Lucas por hacerle ver la utilidad de la mente colmena, ya que gracias a ella puede localizar a los rebeldes
-             - ¿Lo captura Elizabeth?
-             - **Revisar**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
-             - ¿Qué consigue Lucas en la cámara para ayudar al virus y qué le falta para que todavía resulte crítico para su propagación final? ¿Libera un mástil pero quedan otros? ¿Libera temporalmente el único mástil pero RIO activa la Burbuja Gran Canaria para que se piense que el virus es maligno?
-             - ¿para que Lucas liberara su influencia en Europa? ¿Otros mástiles activos?.
-             - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
-             - Lucas es curado "en secreto" y finje ante Ajani (¿pero puede fingir ante el virus?).
-             - ¿{W:0:RIO} no tendría un plan de emergencia (pe. bomba) por si alguien accedía a la cámara?
-             - Cuando Lucas es contagiado puedo cambiar a la perspectiva de otro personaje, o puedo seguir con la perspectiva de Lucas, lidiando con las voces que lo guían.
-Page:        Un ex-reportero se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras intenta abandonar la *Burbuja* en la que fue capturado, el grupo es emboscado por {W:0:RIO}, pero {C:5:Ajani} interviene y los salva.
+             Lucas es entrenado por la Resistencia y comienza a conocer la historia de esta y de RIO. El joven comienza a participar en misiones *estallando Burbujas*, mientras continúa teniendo visiones del planeta X y una mujer misteriosa que no habla. Descubre que otros liberados de las Burbujas han experimentado visiones similares, pero estas desaparecen al poco tiempo, al contrario que en su caso. Las visiones de Lucas, su miedo a actuar, y los repetidos fracasos de la Resistencia en exponer a RIO le hacen cuestionarse, no solo su salud mental, si no el que puedan conseguir derrotar a RIO alguna vez. Lucas confiesa las visiones a Ana pero esta lo tranquiliza y le dice que lo mantenga en secreto mientras intenta descubrir qué le pasa. Durante una misión de estallido, Lucas es capturado por {C:14:Elizabeth Ramírez}.
              
-             Lucas es entrenado por la Resistencia y comienza a saber más sobre la historia de esta y de RIO. El joven comienza a participar en misiones *estallando Burbujas* mientras continúa teniendo visiones del planeta X. Descubre que otros liberados de las Burbujas han experimentado visiones pero estas desaparecen al poco tiempo, al contrario que en su caso. Las visiones de Lucas, su miedo a actuar, y los repetidos fracasos de la Resistencia en exponer a RIO le hacen cuestionarse su salud mental y merman su confianza. Lucas confiesa las visiones a Ana pero esta lo tranquiliza y le dice que lo mantenga en secreto mientras intenta descubrir qué le pasa (informa en secreto a los Hombres de negro). Durante una misión de estallido, Lucas es capturado por {W:0:RIO}.
+             - **Antes planteaba que Ana le instara a mantener en secreto sus visiones mientras informaba en secreto a sus superiores, los hombres de Negro. Si Ana ya no forma parte de ellos, ¿por qué le dice que oculte las visiones?**
+             - **¿El poder de la amistad?**
              
-             RIO experimenta con Lucas y su hipersensibilidad a las nanomáquinas, mientras este intenta mantener en secreto sus visiones. Estas últimas van a más: Lucas comienza a interactuar con personas en sus visiones que lo convencen (**¿pe. materializando cosas con las nanomáquinas?**) de que el planeta es real y está ocultado por RIO. Las visiones lo llevan, junto a otros sujetos que también sufren las visiones, a abrir una cámara subterránea donde está el portal al otro mundo. Sin embargo, allí Lucas descubre que todo eran alucinaciones provocadas por la Sirena para que destruyera el Mástil que impedía su reproducción.
+             RIO experimenta con Lucas y su hipersensibilidad a las nanomáquinas, mientras este intenta mantener en secreto sus visiones. Estas últimas van a más: Lucas comienza a interactuar con personas en sus visiones que lo convencen (**¿pe. materializando cosas con las nanomáquinas?**) de que el planeta es real y que contiene la clave para acabar con {W:0:RIO}. Las visiones lo llevan, junto a otros sujetos que también sufren las visiones, a abrir una cámara subterránea donde está el portal al otro mundo. Sin embargo, allí Lucas descubre que todo eran alucinaciones provocadas por la Sirena para que destruyera el Mástil que impedía su reproducción.
              
-             El virus comienza a propagarse, con Ana y los Hombres de negro a la cabeza. RIO, en un intento desesperado por mantener el control, libera una Sirena sintética que enloquece a la gente para convencer a todo el mundo de que la Sirena es un virus maligno que debe ser destruido. Mientras, Jonás, también convencido de que el virus es maligno y que los matará a Lara y a él, suministra en secreto un suero a Lucas que lo hace más resistente a la Sirena y entonces trata de convencerlo también de que debe ser detenida. RIO comunica a la Resistencia que existe un almacén en áfrica con capacidad para lanzar un nuevo Mástil y le pide ayuda para llevarlo a cabo. Necesitan la capacidad de Lucas para detectar a otros asimilados por lo que este también es requerido. Todos convergen hacia allí.
+             El virus comienza a propagarse mientras Lucas investiga sus intenciones. RIO, en un intento desesperado por mantener el control, libera una Sirena sintética que enloquece a la gente para convencer a todo el mundo de que la Sirena es un virus maligno que debe ser destruido. Mientras, Jonás, también convencido de que el virus es maligno y que los matará a Lara y a él por su mayor resistencia, no desmiente la versión de RIO y también trata de convencer a Lucas de que el virus debe ser detenido. De repente, múltiples bases rebeldes repartidas por todo el mundo, así como bases de RIO (incluido el AT de Gran Canaria por completo) son destruidas. Lara y Noemi desaparecen.
              
-             En África se produce una guerra entre la Resistencia y RIO y los Hombres de negro. Lucas y los demás consiguen llegar a la cámara, donde se descubre que RIO planeaba acabar con la Resistencia además de liberar el Mástil. Lucas lucha por llegar hasta el centro de control mientras se debate entre destruir el Mástil o lanzarlo. Finalmente lo lanza.
+             RIO se comunica con la Resistencia y le informa del plan de la Sirena de acabar con ambas organizaciones ya que son las mayores fuerzas que podrían hacerle frente. La corporación también les informa de que existe una base en África con capacidad para lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Piden ayuda para asegurar la base mientras realizan el lanzamiento, y todos convergen hacia allí. Se produce un enfrentamiento entre la Resistencia y RIO contra los asimilados (tanto "buenos" como "malos"). Lucas **por la razón X** está en posición de destruir el Mástil o lanzarlo. Finalmente lo destruye.
              
-             
+             - **¿Cómo llega Lucas a estar en esa posición de poder? ¿Qué lo termina de convencer?**
              
              # 4
              
@@ -51,6 +34,27 @@ Page:        Un ex-reportero se une a la resistencia que lucha para exponer y de
              
              ## Misterios a resolver:
              
+             Ideas:
+             - Segunda frase:
+             -> **¿cómo escapa de la emboscada del primer capítulo?**		- Jonás y guantes + túnel y Ajani.
+             - Propagación del virus: se propaga "con Ana, Ajani y el resto de "Hombres de Negro" a la cabeza"
+             - Cámara: Miembro de la {W:1:Resistencia} que graba el {P:1:Estallido de la burbuja de Mario}, centrándose en Lucas -> Me parece que va a morir al principio y la Resistencia sólo recupera la cámara.
+             - Si acaso mencionar que Allan sigue desaparecido.
+             - Contar el intento de la Resistencia por mostrar las pruebas y a Lucas y cómo RIO lo "desmiente" todo.
+             - Insertar en algún lado que RIO / los hombres de Negro forzaron que Paco se mantuviera en su puesto porque su incompetencia les sirve para X.
+             - ¿Querían que entraran de lleno en RIO para capturarles dentro?
+             - Jonás le suministra en secreto algo que lo hace más resistente, por eso Lucas no es tan sugestionable como antes. **¿No se entera la Sirena de esto? O es que ya no se le puede aparecer y se intenta comunicar con él a través de otros asimilados**
+             - O simplemente el virus ha empezado a propagarse y aún no tiene control suficiente.
+             - ¿Noemi se salva a duras penas cuando las bases rebeldes son neutralizadas (pero Lucas tarda en saber de ella -> ¡suspense!)?
+             - RIO felicita a Lucas por hacerle ver la utilidad de la mente colmena, ya que gracias a ella puede localizar a los rebeldes
+             - ¿Lo captura Elizabeth?
+             - **Revisar**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
+             - ¿Qué consigue Lucas en la cámara para ayudar al virus y qué le falta para que todavía resulte crítico para su propagación final? ¿Libera un mástil pero quedan otros? ¿Libera temporalmente el único mástil pero RIO activa la Burbuja Gran Canaria para que se piense que el virus es maligno?
+             - ¿para que Lucas liberara su influencia en Europa? ¿Otros mástiles activos?.
+             - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
+             - Lucas es curado "en secreto" y finje ante Ajani (¿pero puede fingir ante el virus?).
+             - ¿{W:0:RIO} no tendría un plan de emergencia (pe. bomba) por si alguien accedía a la cámara?
+             - Cuando Lucas es contagiado puedo cambiar a la perspectiva de otro personaje, o puedo seguir con la perspectiva de Lucas, lidiando con las voces que lo guían.
              - (?) ¿Qué ha estado haciendo Ajani durante toda la primera parte?
              - (?) ¿Cómo los rescata?
              - (+) Posibilidad de profundizar en la historia de la Resistencia, RIO y las Burbujas.
