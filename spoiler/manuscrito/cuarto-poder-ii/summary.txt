@@ -1,22 +1,26 @@
 Sentence:    Suspense distópico en el que un ex-reportero lucha para exponer y destruir a una corporación de medios de comunicación.
 Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia hasta que es capturado por Elizabeth durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo ayudan a escapar y lo llevan a abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un ser alienígena. El "virus" comienza a propagarse, mientras Lucas investiga sus intenciones, hasta que múltiples bases rebeldes y de RIO son neutralizadas. Varios  grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
-Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por {W:0:RIO}, pero {C:5:Ajani} interviene y los salva.
+Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por las fuerzas de {W:0:RIO} que custodiaban la *Burbuja* y se replegaron en la estación, pero {C:5:Ajani} interviene y los salva.
+             
+             Lucas es entrenado por la Resistencia y comienza a conocer la historia de esta y de RIO. El joven comienza a participar en misiones *estallando Burbujas*, mientras continúa teniendo visiones del planeta X y una mujer misteriosa que no habla. Descubre que otros liberados de las Burbujas han experimentado visiones similares, pero estas desaparecen al poco tiempo, al contrario que en su caso. Las visiones de Lucas, su miedo a actuar, y los repetidos fracasos de la Resistencia en exponer a RIO le hacen cuestionarse, no solo su salud mental, si no el que puedan conseguir derrotar a RIO alguna vez. Lucas confiesa las visiones a Ana, pero esta lo tranquiliza y le dice que lo mantenga en secreto mientras intenta descubrir qué le pasa. Durante una misión de estallido, Lucas es capturado por {C:14:Elizabeth Ramírez}.
+             
+             RIO experimenta con Lucas y su hipersensibilidad a las nanomáquinas, mientras este intenta mantener en secreto sus visiones. Estas últimas van a más: Lucas comienza a interactuar con la mujer en sus visiones que lo convence (**¿pe. materializando cosas con las nanomáquinas?**) de que el planeta es real y que contiene la clave para acabar con {W:0:RIO}. Las visiones lo llevan, junto a otros sujetos que también sufren las visiones, a abrir una cámara subterránea donde está el portal al otro mundo. Sin embargo, allí Lucas descubre que todo eran alucinaciones provocadas por la Sirena para que destruyera el Mástil que impedía su reproducción.
+             
+             El virus comienza a propagarse mientras Lucas investiga sus intenciones. RIO, en un intento desesperado por mantener el control, libera una Sirena sintética que enloquece a la gente, para convencer a todo el mundo de que la Sirena es un virus maligno que debe ser destruido. Mientras, Jonás, también convencido de que el virus es maligno y que los matará a Lara y a él por su mayor resistencia, no desmiente la versión de RIO y también trata de convencer a Lucas de que el virus debe ser detenido. Ana empieza a aceptar "el virus como cura para la humanidad" y trata de convencer a Lucas de lo mismo. Sin embargo, múltiples bases rebeldes repartidas por todo el mundo, así como bases de RIO (incluido el AT de Gran Canaria por completo) son destruida. presumiblemente, por la Sirena. {C:27:Lara} y {C:2:Noemí} desaparecen.
+             
+             RIO se comunica con la Resistencia y le informa de que el plan de la Sirena consiste en acabar con ambas organizaciones, ya que son las mayores fuerzas organizadas que podrían hacerle frente. La corporación también les informa de que existe una base en África con capacidad para lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Piden ayuda para asegurar la base mientras realizan el lanzamiento, y todos convergen hacia allí. Se produce un enfrentamiento entre la Resistencia y RIO contra los asimilados (tanto "buenos" como "malos"). Lucas se encuentra de repente con la tesitura de lanzar el Mástil o destruirlo. Finalmente lo destruye.
+             
+             
+             # 1
              
              - **¿Todo RIO en peso, o un grupo pequeño (francotiradores, los propios soldados que escaparon de la ciudad y se replegaron, etc)?**
              	- **¿Por qué atacan al segundo grupo (el de Lucas y no al primero)? ¿Por tiempo de replegarse y preparar la trampa entre un grupo y otro?**
+             - **¿Por qué Ajani interviene ahora?**
              
-             Lucas es entrenado por la Resistencia y comienza a conocer la historia de esta y de RIO. El joven comienza a participar en misiones *estallando Burbujas*, mientras continúa teniendo visiones del planeta X y una mujer misteriosa que no habla. Descubre que otros liberados de las Burbujas han experimentado visiones similares, pero estas desaparecen al poco tiempo, al contrario que en su caso. Las visiones de Lucas, su miedo a actuar, y los repetidos fracasos de la Resistencia en exponer a RIO le hacen cuestionarse, no solo su salud mental, si no el que puedan conseguir derrotar a RIO alguna vez. Lucas confiesa las visiones a Ana pero esta lo tranquiliza y le dice que lo mantenga en secreto mientras intenta descubrir qué le pasa. Durante una misión de estallido, Lucas es capturado por {C:14:Elizabeth Ramírez}.
+             # 2
              
              - **Antes planteaba que Ana le instara a mantener en secreto sus visiones mientras informaba en secreto a sus superiores, los hombres de Negro. Si Ana ya no forma parte de ellos, ¿por qué le dice que oculte las visiones?**
              - **¿El poder de la amistad?**
-             
-             RIO experimenta con Lucas y su hipersensibilidad a las nanomáquinas, mientras este intenta mantener en secreto sus visiones. Estas últimas van a más: Lucas comienza a interactuar con personas en sus visiones que lo convencen (**¿pe. materializando cosas con las nanomáquinas?**) de que el planeta es real y que contiene la clave para acabar con {W:0:RIO}. Las visiones lo llevan, junto a otros sujetos que también sufren las visiones, a abrir una cámara subterránea donde está el portal al otro mundo. Sin embargo, allí Lucas descubre que todo eran alucinaciones provocadas por la Sirena para que destruyera el Mástil que impedía su reproducción.
-             
-             El virus comienza a propagarse mientras Lucas investiga sus intenciones. RIO, en un intento desesperado por mantener el control, libera una Sirena sintética que enloquece a la gente para convencer a todo el mundo de que la Sirena es un virus maligno que debe ser destruido. Mientras, Jonás, también convencido de que el virus es maligno y que los matará a Lara y a él por su mayor resistencia, no desmiente la versión de RIO y también trata de convencer a Lucas de que el virus debe ser detenido. De repente, múltiples bases rebeldes repartidas por todo el mundo, así como bases de RIO (incluido el AT de Gran Canaria por completo) son destruidas. Lara y Noemi desaparecen.
-             
-             RIO se comunica con la Resistencia y le informa del plan de la Sirena de acabar con ambas organizaciones ya que son las mayores fuerzas que podrían hacerle frente. La corporación también les informa de que existe una base en África con capacidad para lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Piden ayuda para asegurar la base mientras realizan el lanzamiento, y todos convergen hacia allí. Se produce un enfrentamiento entre la Resistencia y RIO contra los asimilados (tanto "buenos" como "malos"). Lucas **por la razón X** está en posición de destruir el Mástil o lanzarlo. Finalmente lo destruye.
-             
-             - **¿Cómo llega Lucas a estar en esa posición de poder? ¿Qué lo termina de convencer?**
              
              # 4
              
@@ -27,10 +31,7 @@ Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              
              # 5
              
-             RIO y la Resistencia colaboran para acabar con el virus. La Resistencia descubre cómo acabar con RIO y ejecuta el plan.
-             
-             - **¿Qué descubren que no hayan podido descubrir antes y que pueda acabar con RIO?**
-             - ¿Antídoto? (realmente la Resistencia ya parece tener uno con las notas de xilófono invertidas).
+             - **¿Cómo llega Lucas a estar en esa posición de poder? ¿Qué lo termina de convencer?**
              
              ## Misterios a resolver:
              
