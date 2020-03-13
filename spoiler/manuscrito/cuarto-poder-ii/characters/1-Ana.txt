@@ -16,41 +16,23 @@ Full Summary:        # Vida anterior
                      
                      Ana nació el 3 de Septiembre de 1996 (29 años) en Gran Canaria.
                      
-                     Desde el instituto mostró una personalidad comprometida y activista.
+                     La joven, hija única, creció en un hogar feliz. Sus padres eran activistas y Ana bebió de dicho activismo desde muy pequeña. Como resultado, en el instituto empezó a forjar una personalidad extrovertida, comprometida y activista.
                      
-                     En 2014 (18 años), inició la carrera de Periodismo, donde se hizo amiga de {C:0:Lucas}. En 2018 (22 años) finaliza la carrera y empieza a trabajar en diversos medios locales, rechazando las ofertas para trabajar en RIO ya que sospechaba que no era trigo limpio.
+                     En 2014 (18 años), inició la carrera de Periodismo, donde se hizo amiga de {C:0:Lucas}. En 2018 (22 años) finalizó la carrera y empezó a trabajar en diversos medios locales. La joven rechazaba continuamente las ofertas de trabajo que recibía desde RIO, ya que sospechaba que la corporación no era trigo limpio.
                      
-                     El activismo de Ana y su rechazo a RIO despierta el interés de la {W:1:Resistencia}, quienes empiezan a estudiarla. Finalmente Ana es reclutada en 2020 (24 años) y se convierte rápidamente en un efectivo muy valioso. En 2022, durante una misión de liberación de una *Burbuja*, cruza camino con los *Hombres de Negro*, quienes le muestran "evidencias" de la existencia del planeta X.
+                     El activismo de Ana y su rechazo a RIO despierta el interés de la {W:1:Resistencia}, quienes empiezan a seguirla de cerca. Finalmente Ana es reclutada en 2020 (24 años), y se convierte rápidamente en un efectivo muy valioso.
                      
-                     **
-                     - Entender relación hombres de negro con Sirena, antes y después de la liberación del Mástil.
-                     - ¿Dónde entra aquí Ana? ¿Sabe sobre la Sirena? ¿O también piensa que abrirá un portal al planeta X? (**cambiar ficha resumen en consonancia**)
-                     **
-                     
-                     ## Unión a los Hombres de Negro
-                     
-                     **BORRAR, ya no**
-                     
-                     Ana finalizó la carrera en 2018 (22 años), y comenzó a trabajar en diversos medios locales. Su
-                     
-                     Mientras cursaba la carrera, su activismo captó la atención de los {W:6:Hombres de negro}, quienes la captaron en secreto en 2016
-                     
-                     
-                     (20 años).
-                     
-                     2020
-                     
-                     Estos la infiltraron en la {W:1:Resistencia} y facilitaron en secreto su infiltración en {W:0:RIO} mediante una beca privada que inició en 2018, al terminar la carrera.
+                     La Resistencia le convence para aceptar una de las ofertas de {W:0:RIO} como modo de infiltrarse en la corporación. Ana accede y comienza a trabajar para ellos en 2021 (25 años).
                      
                      # Asalto al AT de Gran Canaria
                      
-                     Durante el {P:2:Asalto al AT de Gran Canaria} está trabajando en {W:0:RIO} y se descubre que es miembro de la {W:1:Resistencia}. Participa activamente ayudando a los ingleses y a Jonás, pero estos son emboscados por RIO y consigue huir.
+                     Durante el {P:2:Asalto al AT de Gran Canaria} se encuentra trabajando en el mismo. La joven revienta su tapadera yarticipa activamente ayudando a los ingleses y a Jonás. Sin embargo, el grupo es emboscado por RIO y Ana consigue huir.
                      
                      # Misiones de rescate y estallido
                      
-                     Tras el Asalto fallido al AT de Gran Canaria, Ana continúa trabajando para la {W:1:Resistencia} como agente de campo, rescatando a cautivos como {C:12:Arturo Ramírez "El Venezolano"} y estallando Burbujas.
+                     Tras el Asalto fallido al AT de Gran Canaria, Ana continúa trabajando para la {W:1:Resistencia} como agente de campo, rescatando a cautivos como {C:12:Arturo Ramírez "El Venezolano"} y *estallando Burbujas*.
                      
-                     Durante la {P:1:Presentación y estallido de la burbuja de Mario}  se rencuentra con Lucas. Es emboscada junto con este y los demás habitantes de la Burbuja por {W:0:RIO} al final de la primera parte.
+                     Durante la {P:1:Presentación y estallido de la burbuja de Mario}, se rencuentra con Lucas. La pareja, así como los otros habitantes de la *burbuja*, son embascados por {W:0:RIO} al final de la primera parte.
 Notes:               **Primeros capítulos de la primera parte**
                      
                      - Lleva un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo.
