@@ -14,7 +14,7 @@ Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              # 1
              
              - **¿Todo RIO en peso, o un grupo pequeño (francotiradores, los propios soldados que escaparon de la ciudad y se replegaron, etc)?**
-             	- **¿Por qué atacan al segundo grupo (el de Lucas y no al primero)? ¿Por tiempo de replegarse y preparar la trampa entre un grupo y otro?**
+             - **¿Por qué atacan al segundo grupo (el de Lucas y no al primero)? ¿Por tiempo de replegarse y preparar la trampa entre un grupo y otro?**
              - **¿Por qué Ajani interviene ahora?**
              
              # 2
@@ -83,6 +83,7 @@ Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              - 	¿Real?
              - **Origen, motivación y usos / funcionamiento de las nanomáquinas y el humo negro (diseño de Jonás)**
              - 	Funcionamiento del guante y las nanomáquinas.
+             - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
              - **Qué experimentos hizo RIO con Jonás**
              - 	Captura y huida de Jonás.
              - 	¿Por qué Lara tiene la misma capacidad o similar?
