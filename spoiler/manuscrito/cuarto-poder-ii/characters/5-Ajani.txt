@@ -8,19 +8,21 @@ Conflict:            Sus ganas de venganza y su ira convierten a Ajani en un luc
 Epiphany:            Acepta la ira como parte de si mismo y consigue enfocarla cuando realmente es útil para él y / o el grupo (mayor autocontrol).
 Phrase Summary:      Mestizo español y nigeriano que perdió a su familia y amigos por culpa de {W:0:RIO} y busca la venganza a cualquier coste.
 Paragraph Summary:   Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO}. Cuando lo descubrieron  Ajani convirtió la ira hacia RIO, junto con la protección de su hermano, en los ejes de su vida. Desde entonces lucha por acabar con RIO por todos los medios posibles.
-Full Summary:        Según {W:0:RIO}: terrorista y criminal de guerra despiadado, buscado en todo el mundo, con incontables saqueos, violaciones y matanzas a sus espaldas. Según conversación de {C:0:Lucas} y {C:3:Coronel Cooper} en la primera parte: 
+Full Summary:        # Vida anterior
                      
-                     """
-                     - "Es el mayor héroe de todos los tiempos y toda la humanidad le debe una bien grande."
-                     - No sé si encabeza el ranking pero, ¡correcto! - confirmó el oficial -. Pues bien, él fue quien te condenó a acompañarnos.
-                     """
+                     Ajani nació el 13 de Agosto de 1985 (40 años) en Nigeria.
                      
-                     - Supuestamente rescató a Jonás de RIO, **¿por qué? ¿cómo casa esto con sus objetivos?**.
-                     - **¿Cómo descubrió que RIO estaba tras el ataque a su campamento?**
+                     Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO} en 1996 (11 años). Los hermanos consiguieron escapar y pasaron semanas enteras vagando por el desierto, aprovechando la oscuridad de la noche para robar alimentos en los campamentos por los que pasaban. Sus jóvenes e inocentes manos no tardaron en mancharse de sangre. Ambos se vieron obligados a matar a soldados que amenazaban con acabar con sus vidas, y muy a su pesar, no tardaron en convertirse en expertos combatientes.
                      
-                     ### Ajani
+                     Durante este tiempo Ajani desarrolló una gran dependencia y sobreprotección con respecto a su hermano menor, atacando con una gran ira asesina a cualquiera que perturbara en lo más mínimo a {C:39:Kasim}.
                      
-                     - La mente colmena ha infectado a Ajani y este cree haber visitado el planeta.
+                     Con el tiempo descubrieron que RIO estuvo tras la muerte de sus seres queridos y juraron vengarse, aunque la sed de venganza consumió por completo a Ajani, no así con Kasim, con la cabeza más fría y que le instaba a controlarse. Los hermanos se ganaron así los apodos de Ajani ("El que gana la lucha") y Kasim ("Controlador de la ira").
+                     
+                     Los hermanos comienzan a atacar las bases de {W:0:RIO} que van descubriendo. La corporación, por su parte, propaga la imagen de Ajani, la cara visible, como la de un terrorista y criminal de guerra despiadado, buscado en todo el mundo, con incontables saqueos, violaciones y matanzas a sus espaldas.
+                     
+                     # Asalto al AT de Gran Canaria
+                     
+                     Ajani no participa directamente en el {P:2:Asalto al AT de Gran Canaria}, pero moviliza a {C:4:Jonás} para ayudar al {C:3:Coronel Cooper} y a la {W:1:Resistencia} durante el mismo. **¿Dónde estaba para no poder / querer llegar?**
 Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}. 
                      - **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
                      - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
