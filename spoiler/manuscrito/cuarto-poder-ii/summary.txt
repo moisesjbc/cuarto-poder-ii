@@ -93,6 +93,7 @@ Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              - Experimentos con Arturo en el manicomio. ¿Consecuencias?
              - Captura de Lara. ¿RIO sabe su parentezco con Jonás?
              - Destino del primer grupo que toma el tren (incluye a María).
+             - En la ficha de Cooper menciono "descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}." **¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
              - ¿Por qué Noemí fue capturada por RIO? -> Por los padres.
              - Origen y motivación de las Burbujas.
              - 	Clave del xilófono programada en la cabeza de los sujetos por Jonás.
@@ -104,3 +105,9 @@ Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
              - 	Consecuencias para el coronel e Inglaterra.
              - Idea: Lucas encuentra a Cooper en una de las Burbujas pero este está condicionado y es que le tiende la trampa.
+             
+             # Destino de Cooper
+             
+             "Cooper es capturado por RIO. La corporación intenta forzarlo a hablar públicamente, acusando a Inglaterra y dando validez al {P:0:Incidente de Inglaterra}, pero Cooper se resiste, incluso al Canto de Sirena. {W:0:RIO} comienza a investigar su resistencia al virus como ya hiciera con {C:4:Jonás} para desarrollar una vacuna / inhibidor que le permita controlarlo en su provecho.
+             
+             Lucas lo encuentra durante su captura en {W:0:RIO} y lo convence para que lo ayude a abrir la cámara, donde el virus engaña a Lucas para matarlo."

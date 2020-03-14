@@ -18,21 +18,7 @@ Full Summary:        # Vida Anterior
                      
                      # Asalto al AT de Gran Canaria
                      
-                     Cooper y sus hombres se pasan los tres años siguientes estudiando los movimientos de {W:0:RIO} y descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria} (**¿cómo? ¿el qué?**). En el verano de 2025 viajan a Gran Canaria y atacan ({P:2:Asalto al AT de Gran Canaria}) (**¿por qué ese AT? ¿por qué ahora?**). Sin embargo, el plan sale mal e intentan huir en barco (**¿sin más? ¿con las manos vacías? ¿Cómo puede Cooper permitir eso?**) (*). Los hombres de Cooper mueren o son capturados.
-                     
-                     (*)
-                     
-                     "
-                     Cuando Cooper avanzó decididamente hacia el vagabundo para detenerlo, una figura se asomó tras una de las esquinas al final del pasillo, a unos metros frente a ellos. Vestía como un enemigo, pero no actuaba como tal. Ni siquiera se inmutó al ver a los militares y a la resistencia. De hecho, daba la sensación de que los había estado esperando durante mucho tiempo.
-                     
-                     - ¡Llegan tarde! - se quejó -. ¡Vamos, o perderemos el barco!
-                     "
-                     
-                     # Después del asalto
-                     
-                     Cooper es capturado por RIO. La corporación intenta forzarlo a hablar públicamente, acusando a Inglaterra y dando validez al {P:0:Incidente de Inglaterra}, pero Cooper se resiste, incluso al Canto de Sirena. {W:0:RIO} comienza a investigar su resistencia al virus para desarrollar una vacuna / inhibidor que le permita controlarlo en su provecho.
-                     
-                     Lucas lo encuentra durante su captura en {W:0:RIO} y lo convence para que lo ayude a abrir la cámara, donde el virus engaña a Lucas para matarlo.
+                     Cooper y sus hombres se pasan los tres años siguientes estudiando los movimientos de {W:0:RIO} y descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}. En el verano de 2025 viajan a Gran Canaria y atacan ({P:2:Asalto al AT de Gran Canaria}). Sin embargo, el plan sale mal e intentan huir en barco. Los hombres de Cooper mueren o son capturados. No se sabe nada más de Cooper.
 Notes:               - **¿Cooper es el apellido? ¿Cuál es el nombre?**.
                      - Vivió el {P:0:Incidente de Inglaterra}. Lanza el ataque a {W:0:RIO} supuestamente por no haber podido encontrar pruebas en todo este tiempo.
                      - Se siente muy culpable de no acordarse de sus hombres rato después de bajar al sótano secreto del {W:3:AT de Gran Canaria}.
