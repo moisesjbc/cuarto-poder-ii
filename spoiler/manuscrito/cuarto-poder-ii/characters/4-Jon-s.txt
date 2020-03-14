@@ -6,44 +6,33 @@ Goal:                - Limpiar su conciencia tras haber colaborado con RIO en la
                      - Mantener a su hermana  y a si mismo a salvo de las garras de {W:0:RIO}.
 Conflict:            Jonás se debate internamente sobre si confesar o no su implicación en la creación de las *Burbujas*, especialmente a su hermana. Una parte de él quiere pensar que no tuvo otra opción y culpar de todo a {W:0:RIO}, en lugar de aceptar su parte de culpa. También parece estar decidido a acabar con el virus Sirena para salvar a su hermana y a sí mismo, pero una parte de él se plantea si no estará siendo egoísta. Después de todo, son unas pocas personas frente a toda la humanidad.
 Epiphany:            Jonás entiende que nunca tendrá la conciencia totalmente en paz, pero confesar su secreto es un paso necesario. Acaba aceptando su culpa y lucha para acabar con {W:0:RIO}. En cuanto al virus Sirena, no puede arriesgar la vida de su hermana aunque sea por el bien común.
-Phrase Summary:      Antiguo experto en nanotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*.
-Paragraph Summary:   Antiguo experto en nanotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*. Cuando RIO descubre su resistencia a la Sirena comienza a experimentar con él hasta que es rescatado por {C:5:Ajani}. Desde entonces lleva mucho tiempo manteniéndose al margen, hasta que su liberador le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él a pesar del terror que siente para devolverle el favor.
+Phrase Summary:      Antiguo experto en biotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*.
+Paragraph Summary:   Antiguo experto en biotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*. Cuando RIO descubre su resistencia a la Sirena comienza a experimentar con él hasta que es rescatado por {C:5:Ajani}. Desde entonces lleva mucho tiempo manteniéndose al margen, hasta que su liberador le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él a pesar del terror que siente para devolverle el favor.
 Full Summary:        # Vida anterior
                      
                      Jonás nació el 15 de Septiembre de 1993 (32 años).
                      
-                     En 2011 **estudió X**, y en 2016 continuó especializándose en nanotecnología. En 2020 Jonás, ya un experto en el tema, desarrolló la tecnología del "humo negro" en la universidad. El joven descubre que su mente era compatible con el control "mente enjambre" del mismo aunque sufriendo mientras lo controlaba.
+                     Desde pequeño fue un chico corriente con cierta facilidad para los estudios. Su relación con sus padres era buena.
                      
-                     {W:0:RIO} se entera del invento y fuerza una situación de necesidad (cierre del departamento sobre Jonás. A continuación le tienta con una oferta de una empresa de I+D que controla en secreto y lo convence para venderles la patente por una gran suma y seguir trabajando en la tecnología. Aunque Jonás sabe de las aplicaciones cada vez más militarizadas de la tecnología, continúa trabajando en ella. RIO lo incluye en un programa de investigación para introducir las nanomáquinas en el cerebro y liberar drogas (Canto de Sirena) al escuchar ciertos estímulos ({W:16:Notas de xilófono}).
+                     En 2012 comenzó a estudiar biotecnología. Acabada la carrera en 2017, entra a trabajar en un equipo de investigación en una empresa de I+D controlada en secreto por {W:0:RIO}. 
                      
+                     En 2018 reciben una colonia del nuevo insecto microscópico ({C:6:Gran Sirena (nombre temporal)}). Jonás y sus compañeros lo estudian durante dos años en los que son infectados sin saberlo. Durante las investigaciones descubren que los insectos parasitan a otros seres vivos y comienzan a controlarlos con el tiempo en su provecho. El equipo hace además dos descubrimientos interesantes: por una parte desarrollan la tecnología del "{W:5:Humo negro}" al imitar el funcionamiento de enjambre de los insectos. El segundo descubrimiento es el de una señal que inhibe la actividad de los insectos (Mástil).
                      
+                     Jonás y su equipo es tentado por RIO y por la Sirena misma para estudiar el efecto del virus en personas. El equipo comienza a seguir esta línea de investigación, sentando el origen de las primeras *Burbujas*, pero Jonás comienza a sufrir jaquecas casi a diario. Durante uno de los experimentos de control, el equipo es afectado por este y RIO descubre que están infectados. Al darse cuenta de que Jonás parece resistirse al virus y que incluso parece tener cierta influencia en él empiezan a investigar con él, amenazando con dañar a Lara, ahora secuestrada, si no coopera. Sospechando que la resistencia a la Sirena pueda ser cosa de familia, {W:0:RIO} infecta a Lara en secreto y la observa.
                      
-                     # Captura
+                     RIO inyecta nanomáquinas en el cerebro de Jonás para monitorizarlo.
                      
-                     - Limpiar su conciencia tras haber colaborado con RIO en la creación de las {W:14:Burbujas} (**definir**).
-                     - **Definir liberación por parte de Ajani**
-                     - **Definir tiempos (experimentos, liberación)**
+                     # Liberación por parte de Ajani
                      
-                     Los agentes de {W:0:RIO} someten a Jonás al Canto de Sirena para controlarlo, pero descubren que este tiene resistencia contra el mismo y lo retienen a la antigua usanza: amenazando con hacer daño a su familia. Obligan a Jonás a perfeccionar la tecnología del "humo negro" para ellos, así como
+                     En 2023 {C:5:Ajani} y {C:39:Kasim} atacan el centro de investigación de RIO donde tienen retenido a Jonás. Ajani en su ansia de sangre está a punto de matarlo por "pertenecer a {W:0:RIO}" a pesar de que Kasim intenta evitarlo. Sin embargo son emboscados y Jonás consigue salvarlos gracias a su control de las nanomáquinas y su capacidad aumentada. Kasim convence a Ajani de dejarlo con vida por su utilidad y escapan. Dejan a Jonás a su suerte siempre que prometa ayudarles cuando lo requieran.
                      
-                     b) Alternativa: Jonás es tentado para trabajar en una empresa puntera secretamente controlada por RIO, donde perfecciona el "humo negro".
-                     c) Jonás está infectado por la Sirena, pero tiene cierta resistencia que le permite controlar sus recursos durante un pequeño intervalo de tiempo.
+                     # Asalto al AT de Gran Canaria
                      
+                     Durante el {P:2:Asalto al AT de Gran Canaria}, Ajani ordena a Jonás infiltrarse en este y ayudar al {C:3:Coronel Cooper} y sus hombres. A pesar de su terror a {W:0:RIO} este accede. Tras el fracaso del asalto, Jonás es de nuevo capturado por {W:0:RIO} y continúan los experimentos con él.
                      
-                     d) Otra alternativa: Jonás descubre el insecto que porta el virus y RIO lo convence para venderles la patente y continuar trabajando en ello.
-                     - **Esto implica que no se trata de nanomáquinas, sino insectos no descubiertos (¿alienígenas?) hasta ahora que portan el virus y la mente enjambre**.
-                     - Con esto puedo decir que simplemente Lara fue contagiada y su resistencia le permite usar las nanomáquinas como su hermano.
+                     # Huida
                      
-                     
-                     - Relacionar lo que tiene él para ser sensible a las nanomáquinas con lo que tiene su hermana.
-                     
-                     - Limpiar su conciencia tras haber colaborado con RIO en la creación de las {W:14:Burbujas} (**definir**).
-                     - "Vagabundo que fue capturado por {W:0:RIO} en el pasado pero consiguió huir gracias a {C:5:Ajani} (**definir**). Desde entonces lleva mucho tiempo manteniéndose al margen (**definir tiempos**), hasta que su único contacto, {C:5:Ajani}, le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él para devolverle el favor."
-                     -
-                     
-                     
-                     
-                     Tiene la capacidad de controlar las {W:2:Nanomáquinas} gracias a unos guantes especiales  que puede manejar (**definir funcionamiento**).
+                     3 meses después del {P:2:Asalto al AT de Gran Canaria}, Jonás es rescatado por la {W:1:Resistencia} y llevado junto a su hermana durante la {P:1:Presentación y estallido de la burbuja de Mario}.
 Notes:               - Tiene sueños en los que se mueve y le sangra la nariz con abundancia.
                      - Se suele despertar mareado / débil.
                      
