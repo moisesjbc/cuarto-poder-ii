@@ -8,6 +8,7 @@ Conflict:            Kasim sufre viendo el extremismo de su hermano, ya que Ajan
 Epiphany:            Kasim se decide a no abandonar a su hermano y a hacer todo lo que pueda para ayudarle a controlar su ira.
 Phrase Summary:      Mestizo español y nigeriano que perdió a su familia y amigos por culpa de {W:0:RIO} y busca llevar a los responsables ante la justicia.
 Paragraph Summary:   Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO}. Cuando lo descubrieron, Kasim se llenó de ira hacia RIO, pero decidió enfocarla a intentar llevar a los responsables ante la justicia. Sin embargo, su hermano pequeño no abandonó el estado de ira y la dirige contra todo el que colabore mínimamente con {W:0:RIO} o que Ajani piense que pone en peligro mínimamente a Kasim. Desde entonces Kasim intenta controlar y curar la ira patológica de su hermano.
+Full Summary:        Ver resumen de {C:5:Ajani}.
 Notes:               - Hermano de {C:5:Ajani}.
                      - Kasim: "Controlador de la ira" (**¿fuente?**)
                      - ¿Cómo se pronuncia el nombre?
