@@ -8,20 +8,21 @@ Conflict:            A medida que asimila nuevas especies, integra la conciencia
 Epiphany:            Reafirmación en su propósito. El bien de muchos como prioridad.
 Phrase Summary:      Ser alienígena que vaga por el universo llevando el progreso a todas las especies inteligentes con las que se cruza.
 Paragraph Summary:   Ser alienígena que explora el universo, contactando y asimilando a todas las especies inteligentes con las que se cruza. En los últimos años ha llegado a la Tierra y comienza a estudiar y asimilar a la raza humana, pero {W:0:RIO} lo descubre y desarrolla una tecnología para contenerlo y usarlo en su favor. Prácticamente impotente, el ser intenta liberarse y retomar su propósito.
-Full Summary:        # La Sirena (NOMBRE PROVISIONAL)
+Full Summary:        # Origen
                      
-                     Meteorito metálico de gran tamaño con conciencia propia. Su superficie está cubierta de miles de capas de insectos microscópicos y voladores. Estos insectos pueden formar paredes sólidas como mecanismo de defensa, así como emitir un gas que provoca un trance, sometiendo a la víctima a la voluntad de la Sirena.
+                     Se trata de un meteorito metálico de gran tamaño con conciencia propia. Su superficie está cubierta de miles de capas de insectos microscópicos y voladores. Estos insectos pueden formar paredes sólidas como mecanismo de defensa, así como emitir un gas que provoca un trance, sometiendo a la víctima a la voluntad de la Sirena.
                      
-                     ## Funcionamiento del virus
+                     La sirena surgió hace miles de años en un planeta muy distante, y desde entonces vaga por el universo en busca de vida inteligente. Una vez localiza un planeta controlado por una raza inteligente, aterriza en él y comienza a parasitar a sus individuos. El ser los estudia durante años y les convence de una manera u otra para que la acepten y sean totalmente asimilados por esta. A medida que asimila a más y más individuos, la Sirena los insta a colaborar para conseguir llevar a la raza a su máximo potencial y progreso.
                      
-                     El meteorito llega al planeta objetivo y se fragmenta en multitud de pequeñas piedras que caen por todo el globo. Al impactar, los meteoritos eclosionan liberando un gas compuesto de multitud de insectos microscópicos que se alojan en el sistema nervioso de las víctimas conscientes.
+                     Cuando considera el objetivo cumplido, se forma un nuevo meteorito y pasa al siguiente planeta.
                      
-                     Los insectos, formando una mente enjambre, comienzan a estudiar a los sujetos y luego a seleccionarlos para convertirlos en Sirenas o Marineros (**¿qué es lo que decide si son unos u otros?**).
+                     # Llegada a la Tierra
                      
-                     Las Sirenas se integran a nivel consciente en la mente enjambre, sirviendo de repetidores / interfaces entre esta y los Marineros.
+                     En 2017 la Sirena llega a la Tierra, donde comienza su ritual de parasitaje y estudio. Sin embargo, no tarda en ser descubierto por {W:0:RIO}, que rápidamente le ve aplicaciones en cuanto a control de la población. Múltiples equipos de investigación por todo el globo y controlados en secreto por la corporación, incluido el de {C:4:Jonás}, reciben colonias del virus para su estudio. Este último equipo es el que da con la clave para frenar la propagación del virus y en 2019 se produce el lanzamiento del *Mástil*: un satélite que orbita la Tierra y que emite una potente señal que evita la propagación del virus.
                      
-                     - **Llegada y "fundación" de los hombres de negro**.
-                     - ¿2020?
+                     # Infección de Lucas
+                     
+                     {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *Burbujas*. En estos lugares se desactiva de manera controlada la influencia del Mástil, al tiempo que {W:0:RIO} inyecta una cepa modificada de la Sirena para controlar a los sujetos. Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue contagiado por esta cepa y debido a su menor resistencia mental este es rápidamente contactado por la {C:6:Gran Sirena (nombre temporal)}. Esta última ve en Lucas un vehículo muy prometedor para conseguir su liberación mediante la destrucción del Mástil.
 Notes:               - **¿Cómo puede RIO lograr tanto control en las Burbujas cuando la propia Sirena necesita meses / años para asimilar a una raza?**
                      - ¿Quizás la Sirena no asimila a una raza, sino que requiere que esta la acepte?
                      
@@ -31,4 +32,12 @@ Notes:               - **¿Cómo puede RIO lograr tanto control en las Burbujas 
                      - ¿Virus con voluntad propia?
                      
                      Su "supervisión" constante causa una muerte prematura a los seres controlados, a los cuáles aprovecha como organismos reproductores de nuevas colonias de insectos. Se pregunta si no habrá maneras mejores.
+                     
+                     ## Funcionamiento del virus
+                     
+                     El meteorito llega al planeta objetivo y se fragmenta en multitud de pequeñas piedras que caen por todo el globo. Al impactar, los meteoritos eclosionan liberando un gas compuesto de multitud de insectos microscópicos que se alojan en el sistema nervioso de las víctimas conscientes.
+                     
+                     Los insectos, formando una mente enjambre, comienzan a estudiar a los sujetos y luego a seleccionarlos para convertirlos en Sirenas o Marineros (**¿qué es lo que decide si son unos u otros?**).
+                     
+                     Las Sirenas se integran a nivel consciente en la mente enjambre, sirviendo de repetidores / interfaces entre esta y los Marineros.
 Color:               #e5d982
