@@ -8,9 +8,22 @@ Conflict:            Pasar por el trauma de una *Burbuja* en plena adolescencia 
 Epiphany:            Noemí decide "trabajar con lo que tiene" y aceptar su personalidad y su historia personal actual *hasta que se demuestre lo contrario*. Por esta razón también se reafirma en su objetivo de querer unirse a la {W:1:Resistencia} cuando le sea posible.
 Phrase Summary:      Hija ficticia de Lucas durante la {P:1:Presentación y estallido de la burbuja de Mario} que resulta ser hija de unos trabajadores de RIO *silenciados* por la corporación.
 Paragraph Summary:   Hija adolescente de unos trabajadores de RIO que fueron asesinados por la corporación al descubrir la verdad sobre el incidente de {P:0:Incidente de Inglaterra}. Ella es capturada y reconvertida en la hija ficticia de Lucas durante la {P:1:Presentación y estallido de la burbuja de Mario}. Posteriormente rescatada por la Resistencia, esta última la oculta por su edad e inestabilidad, a pesar de que Noemí quiere unirse a ellos y luchar.
-Full Summary:        # Padres de Noemí
+Full Summary:        # Vida anterior
                      
-                     Antiguos trabajadores de {W:0:RIO} que descubrieron la farsa del {P:0:Incidente de Inglaterra} . Interaron desertar a la resistencia pero {W:0:RIO} los mató y dos días después capturaron a {C:2:Noemí}.
+                     Noemí nació el 15 de Diciembre de 2011.
+                     
+                     Hija única, Noemí rápidamente se convierte en una chica muy alegre, extrovertida y deportista. Su felicidad se trunca en 2022, cuando sus padres, trabajadores de {W:0:RIO} descubren la farsa del {P:0:Incidente de Inglaterra}. Estos intentan huir y unirse a la Resistencia, pero la corporación los asesina. Noemí consigue huir pero es capturada dos días más tarde.
+                     
+                     RIO introduce a Noemí en el programa de {W:14:Burbujas}, hasta que es rescatada durante la {P:1:Presentación y estallido de la burbuja de Mario} por la {W:1:Resistencia}.
+Notes:               - Llorosa desde que "despierta" de su personalidad de {C:25:Noemí Pérez}.
+                     - Se siente unida a {C:0:Lucas}.
+                     - No quiere salir de la *Burbuja* porque "al menos tenía una familia".
+                     - Sus padres fueron asesinados por RIO cuando intentaron "desertar" a la resistencia. Ella fue capturada 2 días después y "convertida en otra Noemí".
+                     - Le gusta jugar con Lara a “Revuélvele el pelo a tu hermana la coqueta”.
+                     - Correr desde el baño donde se peina hasta la entrada de la casa sin que Noemí despeine a Lara.
+                     - Suele ganar Noemí.
+                     - **¿Por qué fue capturada por RIO?**
+                     - Predilección por Mario.
                      
                      # Noemí Pérez
                      
@@ -21,13 +34,4 @@ Full Summary:        # Padres de Noemí
                      - Pelo: Rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes.
                      - Directa, resolutiva.
                      - Manías: No le gusta estar encerrada.
-Notes:               - Llorosa desde que "despierta" de su personalidad de {C:25:Noemí Pérez}.
-                     - Se siente unida a {C:0:Lucas}.
-                     - No quiere salir de la *Burbuja* porque "al menos tenía una familia".
-                     - Sus padres fueron asesinados por RIO cuando intentaron "desertar" a la resistencia. Ella fue capturada 2 días después y "convertida en otra Noemí".
-                     - Le gusta jugar con Lara a “Revuélvele el pelo a tu hermana la coqueta”.
-                     - Correr desde el baño donde se peina hasta la entrada de la casa sin que Noemí despeine a Lara.
-                     - Suele ganar Noemí.
-                     - **¿Por qué fue capturada por RIO?**
-                     - Predilección por Mario.
 Color:               #f4ddae
