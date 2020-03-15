@@ -6,6 +6,19 @@ Goal:                - Encontrar al {C:3:Coronel Cooper}.
                      - Demostrar la inocencia de su país tras el {P:0:Incidente de Inglaterra}.
 Phrase Summary:      Soldado de la unidad del {C:3:Coronel Cooper} que es capturado durante el {P:2:Asalto al AT de Gran Canaria} y posteriormente rescatado por Ana (3 meses después, c17).
 Paragraph Summary:   Soldado de la unidad del {C:3:Coronel Cooper} que es capturado durante el {P:2:Asalto al AT de Gran Canaria} y posteriormente rescatado por Ana (3 meses después, c17). Tras ser rescatado colabora con la {W:1:Resistencia} con el único objetivo de encontrar al {C:3:Coronel Cooper} y ayudarle a demostrar la inocencia de Inglaterra.
+Full Summary:        # Vida anterior
+                     
+                     Nació el 18 de Noviembre de 1996 (29 años), en el seno de una familia disfuncional.
+                     
+                     De pequeño sintió el rechazo de su familia, que al igual que la del {C:3:Coronel Cooper}, no estaba preparada para tener otro hijo. Arturo desarrolló una fuerte depresión durante el instituto, llegando a tener tendencias suicidas. Empezó a medicarse, pero no confesó a nadie que seguía sintiendo la tentación de suicidarse.
+                     
+                     Cuando terminó el instituto decidió entrar en el ejército. Muy en su interior, una parte de él vio esto como una excusa para arriesgar su vida (suicidio) y un intento de encontrar una familia de la que sentirse parte. Allí entra en la unidad de {C:3:Coronel Cooper}, donde toma a este como un referente paterno y un confidente al conocer el pasado familiar de este. Arturo ha encontrado a su familia, y la protegerá con su vida.
+                     
+                     No duda en unirse a Cooper cuando este planea el ataque al {P:2:Asalto al AT de Gran Canaria}.
+                     
+                     # Asalto al AT de Gran Canaria
+                     
+                     Arturo forma parte de la unidad que asalta el AT de Gran Canaria, donde es capturado. Durante los 3 meses siguientes RIO experimenta con él hasta que rescatado por {C:1:Ana} y la {W:1:Resistencia}.
 Notes:               - Cuando se presenta a {C:0:Lucas}, este le ve "unos ojos que destilan locura y cordura a partes iguales".
                      - Durante los 3 meses posteriores al {P:2:Asalto al AT de Gran Canaria}, {W:0:RIO} le ha inyectado algo todos los días y le ha hecho caminar una y otra vez de un lado a otro en una habitación del manicomio.
                      - Prefiere que lo llamen "El Venezolano".
