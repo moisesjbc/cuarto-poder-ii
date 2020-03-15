@@ -359,7 +359,7 @@ El miércoles subí a Github lo que tengo hecho de la funcionalidad y [@gedakc](
 
 ## Semana 45 (20/01/2020 - 26/01/2020)
 
-**Estoy a puntito de terminar la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. Espero poder volver al libro a comienzos de Febrero.
+**Estoy a puntito de terminar la funcionalidad de búsquedas globales al software [Manuskript](https://www.theologeek.ch/manuskript/)**. Espero poder volver al libro a comos de Febrero.
 
 ## Semana 46 (27/01/2020 - 02/02/2020)
 
@@ -392,3 +392,9 @@ Aprochando las horas de viaje y los ratos muertos en el destino **he leido gran 
 **He terminado de leerme el libro sobre el ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/) y he repasado los primeros pasos**. En concreto he refinado el resumen de una frase y el de un párrafo.
 
 **También he planificado someramente el mes de Marzo con el objetivo de concluir los pasos del 1 al 9 del Snowflake method**. ¡Veamos si lo cumplo!
+
+## Semana 52 (09/03/2020 - 15/03/2020)
+
+Esta semana **he completado hasta el paso 5 (inclusive) del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/)**. Aunque ciertamente he podido avanzar tanto gracias a que ya estos pasos estaban parcialmente completados, estoy contento con haber podido mantener la racha de dedicarle tiempo cada día y cumplir la planificación para esta semana.
+
+**Para la semana que viene tocan los pasos 6 y 7 del método**. ¡A por ello!
