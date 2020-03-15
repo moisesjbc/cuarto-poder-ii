@@ -8,11 +8,16 @@ Conflict:            Lara sufre una crisis de identidad propia de la adolescenci
 Epiphany:            Lara siente que aún tiene toda la vida por delante como para rallarse en plena adolescencia por cambiar el mundo, sobretodo cuando aún tiene que madurar en un mundo cuyo estado es responsabilidad de sus mayores. Querer conservar a su única familia acrecenta este sentimiento.
 Phrase Summary:      Hermana de {C:4:Jonás} reconvertida en Lara Pérez, hija de Mario (Lucas) durante la {P:1:Presentación y estallido de la burbuja de Mario}.
 Paragraph Summary:   Hermana de {C:4:Jonás} reconvertida en Lara Pérez, hija de Mario (Lucas) durante la {P:1:Presentación y estallido de la burbuja de Mario}. Parece sufrir las mismas jaquecas y capacidad mental aumentada de Jonás (resistencia a la {C:6:Gran Sirena (nombre temporal)}), pero su principal preocupación es hacer vida normal junto a su hermano. Ya tendrá tiempo de preocuparse por el mundo cuando crezca (si el mundo no es destruido antes).
-Full Summary:        Hermana de {C:4:Jonás}
+Full Summary:        # Vida anterior
                      
-                     RIO le impone la personalidad {C:26:Lara Pérez} (P1).
+                     Lara nació el 23 de Agosto de 2009 (16 años) y es la hermana menor de {C:4:Jonás}.
                      
-                     # Lara Pérez
+                     Coqueta y asustadiza, desarrolló una fuerte dependencia con su hermano cuando sus padres murieron.
+                     
+                     En 2020 es capturada por RIO para extorsionar a {C:4:Jonás} e introducida en el programa de *Burbujas*. RIO la infecta con el virus Sirena para descubrir si desarrolla resistencia a la misma.
+                     
+                     Es liberada por la {W:1:Resistencia} tras la {P:1:Presentación y estallido de la burbuja de Mario} y se reúne con su hermano.
+Notes:               # Lara Pérez
                      
                      - Hija de Mario y Lucía. Estudiante de instituto. Este es su último año en la ESO.
                      - **¿La ESO sigue existiendo en el futuro, o sólo en la ciudad burbuja?**

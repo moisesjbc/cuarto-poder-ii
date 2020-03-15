@@ -10,7 +10,7 @@ Phrase Summary:      Hija ficticia de Lucas durante la {P:1:Presentación y esta
 Paragraph Summary:   Hija adolescente de unos trabajadores de RIO que fueron asesinados por la corporación al descubrir la verdad sobre el incidente de {P:0:Incidente de Inglaterra}. Ella es capturada y reconvertida en la hija ficticia de Lucas durante la {P:1:Presentación y estallido de la burbuja de Mario}. Posteriormente rescatada por la Resistencia, esta última la oculta por su edad e inestabilidad, a pesar de que Noemí quiere unirse a ellos y luchar.
 Full Summary:        # Vida anterior
                      
-                     Noemí nació el 15 de Diciembre de 2011.
+                     Noemí nació el 15 de Marzo de 2011.
                      
                      Hija única, Noemí rápidamente se convierte en una chica muy alegre, extrovertida y deportista. Su felicidad se trunca en 2022, cuando sus padres, trabajadores de {W:0:RIO} descubren la farsa del {P:0:Incidente de Inglaterra}. Estos intentan huir y unirse a la Resistencia, pero la corporación los asesina. Noemí consigue huir pero es capturada dos días más tarde.
                      
