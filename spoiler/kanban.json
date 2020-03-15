@@ -6,47 +6,12 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "3.3. Repasar ficha de Cooper y Ajani",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "3.2. Repasar ficha de Gran Sirena y Jonás",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "3.4. Repasar / filtrar resto de fichas personajes (minor)",
-          "details": "- Arturo\n- Fernando\n- Noemí\n- María\n- Lara\n- Iván\n- Cámara\n- Kasim\n- Allan\n- Paco\n- Luis",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "¿Introducir algún mandamás de RIO, o dejarlo como un conjunto de \"accionistas\"?",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Extender resumen a 5 párrafos",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "[Split] Pasos 5 (sinopsis de personajes)",
-          "details": "",
-          "color": "FCC7FC"
-        },
-        {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo -> Nope, al final entre que es un proceso creativo y que no puedo dedicar mucho tiempo al día por A o por B, no puedo asegurar un ritmo constante de cumplir objetivos aunque sean muy pequeños.\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
-        },
-        {
           "name": "(Hito) 15 de Marzo",
           "details": "",
           "color": "FCE4D4"
         },
         {
-          "name": "[Split] Pasos 6 (sresumen de 5 páginas) y 7 (Biblias de personajes)",
+          "name": "[Split] Pasos 6 (sresumen de 5 páginas) y 7 (Biblias de personajes. LIMPIAR NOTAS)",
           "details": "",
           "color": "FCC7FC"
         },
@@ -180,7 +145,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo -> Nope, al final entre que es un proceso creativo y que no puedo dedicar mucho tiempo al día por A o por B, no puedo asegurar un ritmo constante de cumplir objetivos aunque sean muy pequeños.\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        }
+      ],
       "settings": {
         "limit": 2
       }
@@ -188,6 +159,46 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "5.3. Sinopsis de personajes (3/3)",
+          "details": "- Arturo Ramírez\n- Noemí\n- María\n- Lara\n- Kasim",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "5.2. Sinopsis de personajes (2/3)",
+          "details": "- Coronel Cooper\n- Jonás\n- Ajani\n- Gran Sirena",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "5.1. Sinopsis de personajes (1/3)",
+          "details": "- Lucas\n- Ana\n- Elizabeth",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "4. Extender resumen a 5 párrafos",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "3.4. Repasar / filtrar resto de fichas de personajes minor (2/2)",
+          "details": "- Kasim\n- Allan\n- Paco\n- Luis",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "3.4. Repasar / filtrar resto de fichas personajes minor (1/2)",
+          "details": "- Arturo\n- Fernando\n- Noemí\n- María\n- Lara\n- Iván\n- Cámara",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "3.2. Repasar ficha de Gran Sirena y Jonás",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "3.3. Repasar ficha de Cooper y Ajani",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "3.1. Repasar fichas de Lucas, Ana, Elizabeth",
           "details": "",
