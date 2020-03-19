@@ -33,103 +33,74 @@ Full Summary:        # Vida anterior
                      Tras el Asalto fallido al AT de Gran Canaria, Ana continúa trabajando para la {W:1:Resistencia} como agente de campo, rescatando a cautivos como {C:12:Arturo Ramírez "El Venezolano"} y *estallando Burbujas*.
                      
                      Durante la {P:1:Presentación y estallido de la burbuja de Mario}, se rencuentra con Lucas. La pareja, así como los otros habitantes de la *burbuja*, son embascados por {W:0:RIO} al final de la primera parte.
-Notes:               **Primeros capítulos de la primera parte**
+Notes:               # Plano físico
                      
-                     - Lleva un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo.
-                     - **¿Qué sucede con él?**
-                     - A ojos de {C:0:Lucas}, trabaja lo justo y necesario para que el jefe piense que está trabajando siempre.
-                     - Siempre intenta sonsacarle a Lucas lo del hecho del {P:0:Incidente de Inglaterra}.
-                     - **¿Qué sabe exactamente? Más adelante le dice a {C:0:Lucas} que lo sabe**
-                     - Todos los días se queda 5 minutos más tarde en el trabajo.
-                     - **¿Por qué?**
-                     - En los primeros momentos de encontrarse con Cooper y los demás soldados, Ana está visiblemente conmocionada.
-                     - **Demasiado, según Lucas. ¿Por qué?**
-                     - **¿Cuál es su trabajo ficticio en {W:0:RIO}?**
-                     
-                     - En el capítulo 3 aparece vestida como miembro de la Resistencia.
-                     
-                     - Según ella es un miembro de la resistencia que se infiltró en RIO.
-                     - **La resistencia está informada del ataque al AT de Gran Canaria. ¿Por qué no informan a Ana?**
-                     - **Repasar razón dada en el capítulo 15 de la primera parte**
-                     - Ana se sorprende cuando Jonás habla de miembros de la Resistencia infiltrados que lo están ayudando.
-                     - Desprecia enormemente a los agentes de RIO, bromeando con la muerte de los mismos.
-                     - Visiblemente afectada por la muerte de Lucas. Jura venganza contra Elizabeth.
-                     - Pierde su coartada durante el {P:2:Asalto al AT de Gran Canaria}.
-                     - Se guarda las balas que recibe como recuerdo.
-                     
-                     - Impulsiva.
-                     
-                     **Final de la primera parte**
-                     - Al final de la primera parte viste una camiseta negra de un grupo de rock y unos pantalones vaqueros de color azul fuerte.
-                     - Pelo teñido de moreno.
-                     - Pistola en el pantalón, oculta bajo la camiseta.
-                     
-                     
-                     # Plano físico
-                     
-                     - **Nombre**: 
-                     - **Pelo**:
-                     - **Bello facial**: 
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**: 
-                     - **Altura**: 
-                     - **Peso**: 
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     - 
+                     - **Nombre**: Ana
+                     - **Pelo**: ondulado y pelirrojo anaranjado. Casi roza sus hombros.
+                     - **Bello facial**: pecosa.
+                     - **Ojos**: grandes ojos azules.
+                     - **Nacimiento**: 3 de septiembre de 1996
+                     - **Edad**: 29 años
+                     - **Complexión**: delgada y musculosa. Pecho abundante.
+                     - **Altura**: 1.83
+                     - **Peso**: 76 kilos
+                     - **Etnia**: caucásica.
+                     - **Vestimenta**: prefiere vaqueros y camisetas temáticas (pe. grupos de rock). Cuando trabaja lleva el {W:9:Uniforme de la resistencia}.
+                     - **Cómo se siente con su aspecto**: muy a gusto. Se mantiene activa a diario para mantenerlo.
+                     - **Enfermedades**: ninguna conocida.
+                     - **Libro / película favoritos**: los juegos del hambre.
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: jovial y divertida. Fría con los enemigos mientras actúa como parte de la Resistencia
+                     - **Cómo actúa frente al deseo**: se da un capricho de vez en cuando pero prima el auto-control.
+                     - **Cómo actúa frente al miedo**: respira profundamente y lo enfrenta.
+                     - **Cómo actúa frente al odio**: lo gestiona adecuadamente para abatir a sus enemigos.
+                     - **Cómo actúa frente a la vergüenza**: intenta abrazarla y que no la limite, aunque a veces falla.
+                     - **Cómo actúa frente a la culpa**: actúa para restaurar el daño.
+                     - **Cómo actúa frente al perdón**: no es algo que otorgue a la ligera. Salvo con Lucas, no lo contempla con los que apoyan o colaboran con {W:0:RIO}.
+                     - **Mayor miedo**: vivir en un mundo controlado por RIO.
+                     - **Mayor esperanza**: una humanidad libre de RIO y unida en sus propósitos.
+                     - **Peor recuerdo de la infancia**: amigo muerto por sobredosis.
+                     - **Mejor recuerdo de la infancia**: pasar el día en el campo con sus amigos.
+                     - **Virtudes**: valiente (no le gusta esconderse, pero lo hace si así puede proteger a los suyos) y proactiva.
+                     - **Defectos**: impulsiva, intolerante.
+                     - **Cómo se ve**: como una persona proactiva y activa.
+                     - **Cómo lo ven otros personajes**: como una agente fundamental de la Resistencia.
+                     - **Tics / manias**: odia a los conejitos (lleva un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo). Se guarda las balas que recibe como recuerdo.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Clase social, trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - **Sentido del humor**: divertida, capaz de bromear en medio de un tiroteo.
+                     - **Religión**: ateísmo.
+                     - **Orientación política**: izquierdas.
+                     - **Contenido de la cartera / bolso**: cartera mínima y ordenada.
+                     - **Hobbies**: salir a correr y hacer ejercicio en la naturaleza.
+                     - **Relación con la familia**: buena, distante.
+                     - **Trabajo**: periodismo.
+                     - **Nivel educativo**: grado universitario.
+                     - **Experiencia laboral**: 3 años en diversos medios locales, 4 en RIO.
+                     - **Impronta de su lugar de origen**: actividad al aire libre.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: ninguna.
+                     - **Casa**: piso modesto y juvenil en el barrio del {W:3:AT de Gran Canaria}.
+                     - **Educación**: respetuosa.
+                     - **Amigos**: {C:0:Lucas}, otros compañeros de la {W:1:Resistencia}.
+                     - **Enemigos**: {C:14:Elizabeth Ramírez}, agentes de {W:0:RIO}.
                      
                      
                      # Otros
+                     
+                     ## Primeros capítulos de la primera parte
+                     
+                     - A ojos de {C:0:Lucas}, trabaja lo justo y necesario para que el jefe piense que está trabajando siempre.
+                     - Siempre intenta sonsacarle a Lucas lo del hecho del {P:0:Incidente de Inglaterra}.
+                     	- **¿Qué sabe exactamente? Más adelante le dice a {C:0:Lucas} que lo sabe**
+                     - Todos los días se queda 5 minutos más tarde en el trabajo.
+                     	- **¿Por qué?**
+                     
+                     ## Final de la primera parte
+                     
+                     - Al final de la primera parte viste una camiseta negra de un grupo de rock y unos pantalones vaqueros de color azul fuerte.
+                     - Pelo teñido de moreno.
+                     - Pistola en el pantalón, oculta bajo la camiseta.
 Color:               #feb982
-Edad:                29 años
-Complexión:          Alta y delgada
-Color de piel:       Blanco
-Pelo:                Ondulado y pelirrojo anaranjado. Casi roza sus hombros.
-Cara:                Pecosa
-Pecho:               Abundante
-Personalidad:        Jovial y divertida. Fría con los enemigos mientras actúa como parte de la Resistencia
-Valentía:            No le gusta esconderse, pero lo hace si así puede proteguer a los suyos
-Manía (I):           Odia a los conejitos
-Manía (II):          Se guarda las balas que recibe como recuerdo
