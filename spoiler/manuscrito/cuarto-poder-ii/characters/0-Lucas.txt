@@ -68,4 +68,61 @@ Notes:               # Info básica
                      # Otros
                      
                      - En el descenso al sótano secreto del {W:3:AT de Gran Canaria} siente mareos y ganas de vomitar al usar el "ascensor B".
+                     
+                     
+                     # Plano físico
+                     
+                     - **Nombre**: 
+                     - **Pelo**:
+                     - **Ojos**:
+                     - **Edad**:
+                     - **Nacimiento**: 
+                     - **Altura**: 
+                     - **Peso**: 
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Cómo percibe el exterior**:
+                     - **Vida sexual**:
+                     - **Cómo le afecta su raza**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     - 
+                     
+                     # Plano psicológico
+                     
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Cómo lidia con sentimientos y emociones**: 
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Clase social, trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
 Color:               #fcaf3e
