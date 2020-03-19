@@ -55,7 +55,7 @@ Notes:               # Plano físico
                      - **Ojos**: Marrones
                      - **Nacimiento**: 15 de junio de 1995
                      - **Edad**: 30 años
-                     - **Complexión**: delgado. 
+                     - **Complexión**: delgado.
                      - **Altura**: 1.75 metros
                      - **Peso**: 70 kilos
                      - **Etnia**: caucásico

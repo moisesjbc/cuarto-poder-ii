@@ -34,15 +34,15 @@ Full Summary:        # Vida anterior
 Notes:               # Plano físico
                      
                      - **Nombre**:
-                     - **Pelo**: 
-                     - **Bello facial**: 
+                     - **Pelo**:
+                     - **Bello facial**:
                      - **Ojos**:
                      - **Nacimiento**:
                      - **Edad**:
                      - **Complexión**:
-                     - **Altura**: 
-                     - **Peso**: 
-                     - **Etnia**: 
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
                      - **Vestimenta**:
                      - **Cómo se siente con su aspecto**:
                      - **Enfermedades**:
@@ -50,7 +50,7 @@ Notes:               # Plano físico
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**: 
+                     - **Tipo de personalidad**:
                      - **Cómo actúa frente al deseo**:
                      - **Cómo actúa frente al miedo**:
                      - **Cómo actúa frente al odio**:
@@ -61,7 +61,7 @@ Notes:               # Plano físico
                      - **Mayor esperanza**:
                      - **Peor recuerdo de la infancia**:
                      - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**: 
+                     - **Virtudes**:
                      - **Defectos**:
                      - **Cómo se ve**:
                      - **Cómo lo ven otros personajes**:
@@ -96,15 +96,15 @@ Notes:               # Plano físico
                      # Plano físico
                      
                      - **Nombre**:
-                     - **Pelo**: 
-                     - **Bello facial**: 
+                     - **Pelo**:
+                     - **Bello facial**:
                      - **Ojos**:
                      - **Nacimiento**:
                      - **Edad**:
                      - **Complexión**:
-                     - **Altura**: 
-                     - **Peso**: 
-                     - **Etnia**: 
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
                      - **Vestimenta**:
                      - **Cómo se siente con su aspecto**:
                      - **Enfermedades**:
@@ -112,7 +112,7 @@ Notes:               # Plano físico
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**: 
+                     - **Tipo de personalidad**:
                      - **Cómo actúa frente al deseo**:
                      - **Cómo actúa frente al miedo**:
                      - **Cómo actúa frente al odio**:
@@ -123,7 +123,7 @@ Notes:               # Plano físico
                      - **Mayor esperanza**:
                      - **Peor recuerdo de la infancia**:
                      - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**: 
+                     - **Virtudes**:
                      - **Defectos**:
                      - **Cómo se ve**:
                      - **Cómo lo ven otros personajes**:
