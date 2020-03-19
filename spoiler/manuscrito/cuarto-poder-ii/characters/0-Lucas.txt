@@ -47,82 +47,65 @@ Full Summary:        # Vida anterior
                      A finales de la primera parte, Lucas recibe un golpe en la cabeza y experimenta lo siguiente:
                      
                      *De repente, una luz verdosa lo embargó, sacándolo de la oscuridad. Sintió la hierba acariciar sus pies desnudos mientras permanecía de pie frente a un océano cuyo color azul verdoso teñía el cielo. Lucas alzó la vista y alcanzó a ver un cielo dominado por dos lunas gigantes, una dorada y la otra plateada. Escuchó su propia voz preguntar "¿Dónde estoy?" antes de perder la conciencia por completo.*
-Notes:               # Info básica
+Notes:               # Plano físico
                      
-                     - 30 años
+                     - **Nombre**:  Lucas
+                     - **Pelo**: Corto, castaño
+                     - - **Bello facial**: Bigote y barba cortos.
+                     - **Ojos**: Marrones
+                     - **Nacimiento**: 15 de junio de 1995
+                     - **Edad**: 30 años
+                     - **Complexión**: delgado. 
+                     - **Altura**: 1.75 metros
+                     - **Peso**: 70 kilos
+                     - **Etnia**: caucásico
+                     - **Vestimenta**: prefiere vaqueros y camiseta de colores neutros. Durante la historia usará el {W:9:Uniforme de la resistencia}.
+                     - **Cómo se siente con su aspecto**: bien, aunque le gustaría ganar en fuerza y agilidad.
+                     - **Enfermedades**: Lucas es un poco neurótico.
+                     - **Libro / película favoritos**: Regreso al futuro.
                      
-                     # Físico
+                     # Plano psicológico
                      
-                     - Cuerpo: Moreno, alto y de complexión media
-                     - Pelo: Castaño, corto
-                     - Ojos: marrones
-                     - Bello facial: Bigote y barba cortos.
+                     - **Tipo de personalidad**: seria y pesimista.
+                     - **Cómo actúa frente al deseo**: suele controlar o incluso refrenar sus impulsos.
+                     - **Cómo actúa frente al miedo**: el miedo puede llegar a bloquearlo y hacerlo actuar sin pensar, aunque no llego a paralizarlo.
+                     - **Cómo actúa frente al odio**: no llega a sentir odio como tal, instalándose en la apatía.
+                     - **Cómo actúa frente a la vergüenza**: la odia y evita cualquier situación que la pueda provocar.
+                     - **Cómo actúa frente a la culpa**: la odia y evita cualquier situación que la pueda provocar.
+                     - **Cómo actúa frente al perdón**: no es algo que otorgue fácilmente.
+                     - **Mayor miedo**: morir sintiendo que no luchó para cambiar la situación.
+                     - **Mayor esperanza**: Lucas ha luchado por lo que creía y puede vivir con la conciencia tranquila.
+                     - **Peor recuerdo de la infancia**: un amigo estaba recibiendo una paliza de unos pandilleros y Lucas huyó. Su amigo jamás volvió a hablarle.
+                     - **Mejor recuerdo de la infancia**: su primer beso.
+                     - **Virtudes**: lealtad, detallismo.
+                     - **Defectos**: cobardía, inacción.
+                     - **Cómo se ve**: Lucas no tiene mucha confianza en si mismo. Su mala imagen de si mismo está centrada en su inacción y cobardía ante las injusticias que ocurre a su alrededor.
+                     - **Cómo lo ven otros personajes**: los demás perciben la inacción y apatía de Lucas, lo cuál despierta su desconfianza cuando llega el momento de ponerse en sus manos.
+                     - **Tics / manias**: rascarse, sobretodo cuando está nervioso.
                      
-                     # Personalidad
+                     # Plano social
                      
-                     - Serio, pesimista (comienzo del C1 de la primera parte).
-                     - Poco acostumbrado a conflictos. Teme disparar aunque sea a enemigos.
-                     - Pésima puntería.
-                     - Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
+                     - **Sentido del humor**: tiene un poco con sus más allegados pero generalmente es bastante serio.
+                     - **Religión**: ateísmo.
+                     - **Orientación política**: izquierdas.
+                     - **Contenido de la cartera / bolso**: lo mínimo necesario. Suele mantenerla ordenada.
+                     - **Hobbies**: pasear y leer.
+                     - **Relación con la familia**: buena.
+                     - **Trabajo**: periodista.
+                     - **Nivel educativo**: grado universitario.
+                     - **Experiencia laboral**: 3 años en un periódico local ya desaparecido. 5 años en RIO (2 como reportero, 3 como "seleccionador" de noticias).
+                     - **Impronta de su lugar de origen**: tranquilidad.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: ninguna.
+                     - **Casa**: piso modesto en el barrio del {W:3:AT de Gran Canaria}.
+                     - **Educación**: educado y respetuoso.
+                     - **Amigos**: {C:1:Ana}.
+                     - **Enemigos**: mayor parte de sus compañeros en RIO lo desprecian por los "mimos" de {W:0:RIO}.
+                     
                      
                      # Otros
                      
                      - En el descenso al sótano secreto del {W:3:AT de Gran Canaria} siente mareos y ganas de vomitar al usar el "ascensor B".
-                     
-                     
-                     # Plano físico
-                     
-                     - **Nombre**: 
-                     - **Pelo**:
-                     - **Ojos**:
-                     - **Edad**:
-                     - **Nacimiento**: 
-                     - **Altura**: 
-                     - **Peso**: 
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Cómo percibe el exterior**:
-                     - **Vida sexual**:
-                     - **Cómo le afecta su raza**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     - 
-                     
-                     # Plano psicológico
-                     
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Cómo lidia con sentimientos y emociones**: 
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Clase social, trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - Poco acostumbrado a conflictos. Teme disparar aunque sea a enemigos.
+                     - Pésima puntería.
+                     - Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
 Color:               #fcaf3e

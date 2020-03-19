@@ -63,6 +63,65 @@ Notes:               **Primeros capítulos de la primera parte**
                      - Al final de la primera parte viste una camiseta negra de un grupo de rock y unos pantalones vaqueros de color azul fuerte.
                      - Pelo teñido de moreno.
                      - Pistola en el pantalón, oculta bajo la camiseta.
+                     
+                     
+                     # Plano físico
+                     
+                     - **Nombre**: 
+                     - **Pelo**:
+                     - **Bello facial**: 
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**: 
+                     - **Altura**: 
+                     - **Peso**: 
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     - 
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Clase social, trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
 Color:               #feb982
 Edad:                29 años
 Complexión:          Alta y delgada
