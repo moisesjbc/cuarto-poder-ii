@@ -37,7 +37,7 @@ Notes:               # Plano físico
                      
                      - **Nombre**: Ana
                      - **Pelo**: ondulado y pelirrojo anaranjado. Casi roza sus hombros.
-                     - **Bello facial**: pecosa.
+                     - **Bello facial / cara**: pecosa.
                      - **Ojos**: grandes ojos azules.
                      - **Nacimiento**: 3 de septiembre de 1996
                      - **Edad**: 29 años

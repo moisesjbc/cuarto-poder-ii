@@ -32,10 +32,10 @@ Full:        # Inicio
              ## A resolver
              
              - **¿Por qué atacan al segundo grupo (el de Lucas y no al primero)? ¿Por tiempo de replegarse y preparar la trampa entre un grupo y otro?**
-             	- Destino del primer grupo que toma el tren (incluye a María).
+             - Destino del primer grupo que toma el tren (incluye a María).
              - **¿Por qué Ajani interviene ahora?**
-             	- **¿Qué ha estado haciendo Ajani durante toda la primera parte?**
-             	- **¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?**
+             - **¿Qué ha estado haciendo Ajani durante toda la primera parte?**
+             - **¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?**
              - (?) **¿Qué puede tener Lucas tan importante para que RIO no lo mate ya directamente?**
              - Experimentos con Arturo en el manicomio. ¿Consecuencias?
              - En la ficha de Cooper menciono "descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}." **¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
@@ -60,7 +60,7 @@ Full:        # Inicio
              
              - ¿Qué pasó con Allan? Si acaso mencionar que sigue desaparecido.
              - Insertar en algún lado que RIO / los hombres de Negro forzaron que Paco se mantuviera en su puesto porque su incompetencia les sirve para X.
-             	- ¿Querían que entraran de lleno en el subsuelo del {W:3:AT de Gran Canaria} para capturarles dentro?
+             - ¿Querían que entraran de lleno en el subsuelo del {W:3:AT de Gran Canaria} para capturarles dentro?
              - ¿Qué consigue Lucas en la cámara para ayudar al virus y qué le falta para que todavía resulte crítico para su propagación final? ¿Libera un mástil pero quedan otros? ¿Libera temporalmente el único mástil pero RIO activa la Burbuja Gran Canaria para que se piense que el virus es maligno?
              - Otra idea: los Burbujas sí mantienen las visibles del planeta X y planean localizar el portal.
              - ¿{W:0:RIO} no tendría un plan de emergencia (pe. bomba) por si alguien accedía a la cámara?

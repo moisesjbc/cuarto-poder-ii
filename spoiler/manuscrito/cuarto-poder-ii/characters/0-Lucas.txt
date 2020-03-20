@@ -51,7 +51,7 @@ Notes:               # Plano físico
                      
                      - **Nombre**:  Lucas
                      - **Pelo**: Corto, castaño
-                     - - **Bello facial**: Bigote y barba cortos.
+                     - - **Bello facial / cara**: Bigote y barba cortos.
                      - **Ojos**: Marrones
                      - **Nacimiento**: 15 de junio de 1995
                      - **Edad**: 30 años

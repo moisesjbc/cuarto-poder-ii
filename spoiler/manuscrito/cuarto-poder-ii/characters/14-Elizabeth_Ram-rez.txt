@@ -33,128 +33,60 @@ Full Summary:        # Vida anterior
                      Elizabeth queda en entredicho ante sus superiores tras el {P:2:Asalto al AT de Gran Canaria}. Decidida a recuperar su imagen y la confianza de sus superiores, necesaria para su camino a la cumbre, emprende una cruzada para capturar a todos los responsables y participantes del asalto.
 Notes:               # Plano físico
                      
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     - **Nombre**: Elizabeth Ramírez
+                     - **Pelo**: larga cabellera ondulada y castaña
+                     - **Bello facial / cara**: nariz fina. Labios carnosos y finos.
+                     - **Ojos**: Almendrados y marrones
+                     - **Nacimiento**: 16 de Octubre de 1991
+                     - **Edad**: 34 años
+                     - **Complexión**: atlética. Pecho generoso. Piernas largas.
+                     - **Altura**: 1.79 metros
+                     - **Peso**: 70 kilos
+                     - **Etnia**: caucásica
+                     - **Vestimenta**: RIO
+                     - **Cómo se siente con su aspecto**: confía plenamente en su aspecto y sus habilidades
+                     - **Enfermedades**: ninguna
+                     - **Libro / película favoritos**: Scarface
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: fría y directa, ambiciosa.
+                     - **Cómo actúa frente al deseo**: lo deja fluir cuando no afecta a su ambición.
+                     - **Cómo actúa frente al miedo**: lo ataca de frente.
+                     - **Cómo actúa frente al odio**: lo evita para no cegarse.
+                     - **Cómo actúa frente a la vergüenza**: adoptando una actitud amenazante / dominante.
+                     - **Cómo actúa frente a la culpa**: rara vez siente culpa en su ambición.
+                     - **Cómo actúa frente al perdón**: rara vez siente que tiene que disculparse, pero cuando se da el caso intenta corregir el agravio.
+                     - **Mayor miedo**: volver al pozo del que surgió.
+                     - **Mayor esperanza**: hacerse un hueco en la cúpula de {W:0:RIO}.
+                     - **Peor recuerdo de la infancia**: tener que robar para poder comer.
+                     - **Mejor recuerdo de la infancia**: cuando empezó a forjarse un futuro.
+                     - **Virtudes**: consigue sus objetivos. Ambición.
+                     - **Defectos**: su propia ambición puede llegar a cegarla.
+                     - **Cómo se ve**: como una mujer hecha a si misma en su camino a la cumbre.
+                     - **Cómo lo ven otros personajes**: peligrosa y letal.
+                     - **Tics / manias**: siempre lleva algo de comida encima.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - **Sentido del humor**: normalmente es seria. Al humor recurre cuando quiere burlarse de un enemigo.
+                     - **Religión**: ateísmo.
+                     - **Orientación política**: derechas.
+                     - **Contenido de la cartera / bolso**: cartera con el contenido mínimo; identificación y dinero.
+                     - **Hobbies**: entrenar.
+                     - **Relación con la familia**: mala. Ha roto todos los lazos.
+                     - **Trabajo**: de cara al público, reportera de RIO. Realmente agente de {W:0:RIO}.
+                     - **Nivel educativo**: grado en periodismo.
+                     - **Experiencia laboral**: 7 años en diversos puestos de bajo nivel. 11 años en {W:0:RIO}.
+                     - **Impronta de su lugar de origen**: ambición.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: ninguna.
+                     - **Casa**:piso semi-lujoso en el barrio del {W:3:AT de Gran Canaria}.
+                     - **Educación**: muestra respeto a sus superiores y compañeros, aunque los ve como competencia.
+                     - **Amigos**: no conocidos.
+                     - **Enemigos**: la Resistencia y cualquiera que se interponga en su camino a la cima.
                      
                      
                      # Otros
                      
-                     - **Tener en cuenta lo de que fue compañera de {C:15:Aitor} si la quiero hacer nativa del planeta X**.
                      - La {W:1:Resistencia} la considera muy peligrosa.
-                     
-                     ---
-                     
-                     # Plano físico
-                     
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     
-                     # Plano psicológico
-                     
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
 Color:               #9dc7ab
-Pecho:               Generoso
-Vestimenta:          (c6) Traje rojo ceñido
-Piernas:             Largas
-Ojos:                Almendrados y marrones
-Nariz:               Fina
-Pelo:                Larga cabellera ondulada y castaña
-Labios:              Carnosos y finos
-Personalidad:        Pícara (fachada) / fría y directa (agente)
