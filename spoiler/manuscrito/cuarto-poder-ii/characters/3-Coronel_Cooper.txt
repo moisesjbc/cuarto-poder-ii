@@ -10,7 +10,7 @@ Phrase Summary:      Coronel del ejército de Inglaterra que lidera el {P:2:Asal
 Paragraph Summary:   Cooper es un coronel condecorado del ejército de Inglaterra. Estuvo presente durante el {P:0:Incidente de Inglaterra}, en el que conoció a {C:0:Lucas} y vio de lo que era capaz {W:0:RIO}. Lideró el {P:2:Asalto al AT de Gran Canaria} por su cuenta y desapareció, presumiblemente capturado por la corporación.
 Full Summary:        # Vida Anterior
                      
-                     Jaxon Cooper nació en Inglaterra en 1978 (47 años) junto con su hermano gemelo Oliver.
+                     Jaxon Cooper nació en Inglaterra el 28 de Febrero de 1978 (47 años) junto con su hermano gemelo Oliver.
                      
                      Los padres de Cooper no estaban preparados para la responsabilidad de ser padres y apenas pudieron hacerse cargos de ellos. Cuando su hermano Oliver cayó en las drogas y murió durante un ajuste de cuentas, Cooper culpó a la falta de disciplina de sus padres y se marchó de casa, uniéndose al ejército. Cooper consagró su vida al ejército, donde escaló posiciones haciendo gala de una disciplina férrea hasta que se convirtió en un coronel condecorado.
                      
@@ -21,126 +21,63 @@ Full Summary:        # Vida Anterior
                      Cooper y sus hombres se pasan los tres años siguientes estudiando los movimientos de {W:0:RIO} y descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}. En el verano de 2025 viajan a Gran Canaria y atacan ({P:2:Asalto al AT de Gran Canaria}). Sin embargo, el plan sale mal e intentan huir en barco. Los hombres de Cooper mueren o son capturados. No se sabe nada más de Cooper.
 Notes:               # Plano físico
                      
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     - **Nombre**: Jaxon Cooper
+                     - **Pelo**: Blanco e incipiente
+                     - **Bello facial / cara**: sin bello facial.
+                     - **Ojos**: Azules
+                     - **Nacimiento**: 28 de Febrero de 1978.
+                     - **Edad**: 47 años.
+                     - **Complexión**: atlética. Excelente condición física.
+                     - **Altura**: 1.80
+                     - **Peso**: 80 kilos
+                     - **Etnia**: caucásico
+                     - **Vestimenta**: uniforme militar
+                     - **Cómo se siente con su aspecto**: ve su cuerpo como una herramienta para servir a su patria.
+                     - **Enfermedades**: no conocidas.
+                     - **Libro / película favoritos**: Armagedon.
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: seria y disciplinada.
+                     - **Cómo actúa frente al deseo**: lucha para evitar que lo domine.
+                     - **Cómo actúa frente al miedo**: lucha contra él.
+                     - **Cómo actúa frente al odio**: no lo admite.
+                     - **Cómo actúa frente a la vergüenza**: le afecta profundamente pero no tarda mucho en recomponerse.
+                     - **Cómo actúa frente a la culpa**: le afecta profundamente pero no tarda mucho en recomponerse.
+                     - **Cómo actúa frente al perdón**: no le cuesta perdonar si percibe arrepentimiento en la otra persona.
+                     - **Mayor miedo**: fallar a su patria y a si mismo.
+                     - **Mayor esperanza**: demostrar la inocencia de su país.
+                     - **Peor recuerdo de la infancia**: la muerte de su hermano gemelo.
+                     - **Mejor recuerdo de la infancia**: abandonar su hogar.
+                     - **Virtudes**: tiene una disciplina muy fuerte y se preocupa por los suyos.
+                     - **Defectos**: intolerante con otras formas de hacer las cosas.
+                     - **Cómo se ve**: como un soldado dispuesto a darlo todo por los suyos.
+                     - **Cómo lo ven otros personajes**: como un soldado algo estricto pero eficaz.
+                     - **Tics / manias**: apretar el puño.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - **Sentido del humor**: serio, rara vez bromea.
+                     - **Religión**: ateísmo.
+                     - **Orientación política**: derechas.
+                     - **Contenido de la cartera / bolso**: mínimo.
+                     - **Hobbies**: pintar miniaturas y maquetas.
+                     - **Relación con la familia**: mala. Ha cortado todos los lazos.
+                     - **Trabajo**: Coronel del ejército inglés.
+                     - **Nivel educativo**: Secundaria.
+                     - **Experiencia laboral**: 30 años en el ejército.
+                     - **Impronta de su lugar de origen**: disciplina.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: su unidad.
+                     - **Casa**: casa terrera grande a las afueras de Londres.
+                     - **Educación**: respetuoso.
+                     - **Amigos**: su unidad, principalmente {C:12:Arturo Ramírez "El Venezolano"}.
+                     - **Enemigos**: {W:0:RIO}.
                      
                      
                      # Otros
                      
-                     - **¿Cooper es el apellido? ¿Cuál es el nombre?**.
                      - Vivió el {P:0:Incidente de Inglaterra}. Lanza el ataque a {W:0:RIO} supuestamente por no haber podido encontrar pruebas en todo este tiempo.
                      - Se siente muy culpable de no acordarse de sus hombres rato después de bajar al sótano secreto del {W:3:AT de Gran Canaria}.
-                     
-                     ===
-                     
-                     # Plano físico
-                     
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     
-                     # Plano psicológico
-                     
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
 Color:               #8298e8
-Edad:                Entrado en años (¿edad exacta?)
-Pelo:                Blanco e incipiente
-Ojos:                Azules
 Complexión:          Excelente condición física
 Idiomas:             Inglés (nativo), Español (C1)
