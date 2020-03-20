@@ -23,7 +23,64 @@ Full Summary:        # Vida anterior
                      # Asalto al AT de Gran Canaria
                      
                      Ajani no participa directamente en el {P:2:Asalto al AT de Gran Canaria}, pero moviliza a {C:4:Jonás} para ayudar al {C:3:Coronel Cooper} y a la {W:1:Resistencia} durante el mismo. **¿Dónde estaba para no poder / querer llegar?**
-Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}. 
+Notes:               # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
+                     
+                     - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}. 
                      - **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
                      - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
                      - "La gente me considera un héroe, pero simplemente se trata de una casualidad. Sólo deseo matar a aquellos que les hace daño".
@@ -49,4 +106,63 @@ Notes:               - En un email a {C:3:Coronel Cooper} lamenta no poder acomp
                      Información del relato "El héroe":
                      ---
                      "Se trataba de un hombre conocido como Ajani, aunque nadie sabe su verdadero nombre. Él es un icono, una leyenda entre los miembros de la resistencia. Al igual que los grandes mitos griegos, se contaban muchas versiones de su historia. La más extendida, sin embargo, era la de un joven y su hermano, Kasim. Su padre era un español voluntario en Nigeria, África. Allí conoció a la que sería la madre de los hermanos y formó una familia. La felicidad sin embargo, no duró mucho, pues el campamento dónde vivían quedó sumido en una guerra entre dos fracciones extremistas locales. Los padres de Ajani y Kasim murieron, pero ellos consiguieron escapar. Pasaban semanas enteras vagando por el desierto, aprovechando la oscuridad de la noche para robar alimentos en los campamentos por los que pasaban. Sus jóvenes e inocentes manos no tardaron en mancharse de sangre. Ambos se vieron obligados a matar a soldados que amenazaban con acabar con sus vidas, y muy a su pesar, no tardaron en convertirse en expertos combatientes. A pesar de las múltiples versiones sobre su historia, ninguna sabe llenar el vacío de por qué un día los hermanos se separaron y ya no se volvió a saber nada del hermano de Ajani, sin embargo, Ajani fue cobrando cada día más presencia. Había decidido que no podía cambiar el pasado, se había convertido en un soldado, pero no se convertiría en un asesino. Decidió así seguir luchando, uniéndose al bando cuyos ideales compartiera, y actualmente ese bando era el de los rebeldes."
+                     
+                     ===
+                     
+                     # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
 Color:               #81e3a7

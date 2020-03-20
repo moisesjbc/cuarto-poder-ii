@@ -35,84 +35,77 @@ Full Summary:        # Vida anterior
                      3 meses después del {P:2:Asalto al AT de Gran Canaria}, Jonás es rescatado por la {W:1:Resistencia} y llevado junto a su hermana durante la {P:1:Presentación y estallido de la burbuja de Mario}.
 Notes:               # Plano físico
                      
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     - **Nombre**: Jonás
+                     - **Pelo**: Lacio, negro oscuro y generoso
+                     - **Bello facial / cara**: sin bello facial.
+                     - **Ojos**: marrones.
+                     - **Nacimiento**: 15 de Septiembre de 1993
+                     - **Edad**: 32 años.
+                     - **Complexión**: media.
+                     - **Altura**: 1.68.
+                     - **Peso**: 65 kilos
+                     - **Etnia**: caucásico
+                     - **Vestimenta**: vaqueros y camisetas neutros.
+                     - **Cómo se siente con su aspecto**: le da igual.
+                     - **Enfermedades**: ninguna.
+                     - **Libro / película favoritos**: Terminator 2.
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: pesimista, solitario.
+                     - **Cómo actúa frente al deseo**: no se lo permite.
+                     - **Cómo actúa frente al miedo**: si puede huye.
+                     - **Cómo actúa frente al odio**: evita a la persona que odia.
+                     - **Cómo actúa frente a la vergüenza**: se encierra en si mismo.
+                     - **Cómo actúa frente a la culpa**: intenta disculparse, aunque no se le da muy bien.
+                     - **Cómo actúa frente al perdón**: perdona a medias.
+                     - **Mayor miedo**: perder a su hermana.
+                     - **Mayor esperanza**: escapar de {W:0:RIO}.
+                     - **Peor recuerdo de la infancia**: cuando lo pillaron robando un juguete en una tienda.
+                     - **Mejor recuerdo de la infancia**: cuando ganó una competición de atletismo en el colegio.
+                     - **Virtudes**: inteligente y resolutivo.
+                     - **Defectos**: poco comprometido, evasivo.
+                     - **Cómo se ve**: como alguien muy arrepentido por su colaboración con {W:0:RIO} y sin la fuerza necesaria para reparar el daño hecho y hacerle frente a RIO.
+                     - **Cómo lo ven otros personajes**: alguien solitario y al que cuesta entenderle.
+                     - **Tics / manias**: apretar los dientes esperando que en cualquier momento le de otra jaqueca.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - **Sentido del humor**: no mucho. Lo domina el miedo a RIO.
+                     - **Religión**: ateo.
+                     - **Orientación política**: izquierdas.
+                     - **Contenido de la cartera / bolso**: mochila con víveres, un portátil y planos de RIO (**¿qué ocurre con ella?**).
+                     - **Hobbies**: pasear.
+                     - **Relación con la familia**: adora a su hermana.
+                     - **Trabajo**: ninguno.
+                     - **Nivel educativo**: grado en biología.
+                     - **Experiencia laboral**: 4 / 5 años como biólogo experto en virus.
+                     - **Impronta de su lugar de origen**: inteligencia.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: ninguna.
+                     - **Casa**: zulo en el sótano de una fábrica abandonada.
+                     - **Educación**: respetuoso.
+                     - **Amigos**: no conocidos.
+                     - **Enemigos**: RIO.
                      
                      
                      # Otros
                      
                      - Tiene sueños en los que se mueve y le sangra la nariz con abundancia.
-                     - Se suele despertar mareado / débil.
+                     	- Se suele despertar mareado / débil.
                      
-                     **Principios de la primera parte**
-                     - Vive en un zulo en el que va acumulando víveres.
-                     - **¿De dónde los saca?**
-                     - Lleva una mochila con un portátil y planos propiedad de la corporación RIO.
+                     ## Primera parte
+                     
                      - Aparentemente los memoriza con sólo echar un rápido vistazo a cada uno, aunque le provoca fuertes dolores de cabeza y sangrado nasal (**Explicar esto**).
                      - **¿Qué ocurre con la mochila y su contenido?**
                      
                      - Al infiltrarse en el AT de Gran Canaria viste una gabardina gris desecha.
                      - Cuando es descubierto en el sótano del AT de Gran Canaria, su voz se quiebra y dice "No quiero volver, ¡no! ¡no! ¡no quiero!".
-                     - **¿A dónde? ¿Por qué?**
-                     
-                     - Diseñó la tecnología del {W:5:Humo negro}.
-                     - **¿Lo hizo sólo? ¿Lo hizo antes o después de ser capturado por {W:0:RIO}?**
                      - Conoce al líder del "pelotón de fusilamiento" que sorprende al grupo cuando baja al sótano del AT de Gran Canaria.
                      - No duda en aconsejar matar a Ricardo.
                      
                      - Un hilillo de sangre brota de su nariz y Jonás muestra una expresión de dolor mientras controla el {W:5:Humo negro}.
                      
                      - (Según Ana) Se tira al agua en el puerto intentando escapar desesperadamente, **maldiciendo a {C:5:Ajani}** y jurando que no volverá a ser capturado **otra vez** por RIO.
-                     - **¿Pasó alguna vez por una *Burbuja*?**
                      
                      - Fue capturado tras el ataque al AT de Gran Canaria y estaba retenido en el mismo "manicomio" que Arturo.
                      - Tiene nanomáquinas en la cabeza, que le hacen "escuchar ruido, interferencias, a todas horas".
@@ -130,72 +123,7 @@ Notes:               # Plano físico
                      - No se siente muy cómodo con gente alrededor.
                      - Maldice cuando Lara le cuenta cómo le sangró la nariz en clase de matemáticas.
                      
-                     (*) **¿Jonás le cuenta algo más de las nanomáquinas o sobre Lara y él?**
-                     
                      - **¿Jonás tendrá alguna evolución con las nanomáquinas?** En el documento de curiosidades de la primera parte referencio dos vías:
-                     - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
-                     - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
-                     
-                     
-                     ===
-                     
-                     # Plano físico
-                     
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     
-                     # Plano psicológico
-                     
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
+                     	- Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
+                     	- Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
 Color:               #a1edec
-Pelo (principio P1): Lacio, negro oscuro, reseco y mustio, pero generoso
-Pelo (principio de P2):Cuidado
-Edad:                35 años
