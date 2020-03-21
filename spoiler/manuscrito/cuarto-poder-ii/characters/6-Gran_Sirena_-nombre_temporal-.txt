@@ -10,8 +10,6 @@ Phrase Summary:      Ser alienígena que vaga por el universo llevando el progre
 Paragraph Summary:   Ser alienígena que explora el universo, contactando y asimilando a todas las especies inteligentes con las que se cruza. En los últimos años ha llegado a la Tierra y comienza a estudiar y asimilar a la raza humana, pero {W:0:RIO} lo descubre y desarrolla una tecnología para contenerlo y usarlo en su favor. Prácticamente impotente, el ser intenta liberarse y retomar su propósito.
 Full Summary:        # Origen
                      
-                     Se trata de un meteorito metálico de gran tamaño con conciencia propia. Su superficie está cubierta de miles de capas de insectos microscópicos y voladores. Estos insectos pueden formar paredes sólidas como mecanismo de defensa, así como emitir un gas que provoca un trance, sometiendo a la víctima a la voluntad de la Sirena.
-                     
                      La sirena surgió hace miles de años en un planeta muy distante, y desde entonces vaga por el universo en busca de vida inteligente. Una vez localiza un planeta controlado por una raza inteligente, aterriza en él y comienza a parasitar a sus individuos. El ser los estudia durante años y les convence de una manera u otra para que la acepten y sean totalmente asimilados por esta. A medida que asimila a más y más individuos, la Sirena los insta a colaborar para conseguir llevar a la raza a su máximo potencial y progreso.
                      
                      Cuando considera el objetivo cumplido, se forma un nuevo meteorito y pasa al siguiente planeta.
@@ -23,63 +21,48 @@ Full Summary:        # Origen
                      # Infección de Lucas
                      
                      {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *Burbujas*. En estos lugares se desactiva de manera controlada la influencia del Mástil, al tiempo que {W:0:RIO} inyecta una cepa modificada de la Sirena para controlar a los sujetos. Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue contagiado por esta cepa y debido a su menor resistencia mental este es rápidamente contactado por la {C:6:Gran Sirena (nombre temporal)}. Esta última ve en Lucas un vehículo muy prometedor para conseguir su liberación mediante la destrucción del Mástil.
-Notes:               # Plano físico
+Notes:               # Forma física
                      
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos y voladores que forman una mente colmena y que pueden formar paredes sólidas como mecanismo de defensa.
+                     
+                     # Modo de funcionamiento
+                     
+                     ## 1. Fase de colonización
+                     
+                     Los insectos emiten un gas que provoca un trance a los seres vivos contactados. Mientras el anfitrión se encuentra en este estado, los insectos entran en él y colonizan su cerebro. Los insectos empiezan a alimentarse de la energía del cerebro anfitrión mientras se reproducen y analizan el cerebro del ser vivo. Una pequeña parte de la colonia abandona el anfitrión y busca una nuevo, propagándose poco a poco a toda la especie.
+                     
+                     ## 2. Fase de estudio
+                     
+                     Durante meses o incluso años, los insectos generan un conocimiento compartido en tiempo real entre todas las colonias de insectos de la mente colmena. De esta manera la Sirena va obteniendo conocimientos de la especie hasta que puede comunicarse con esta de múltiples maneras (visiones, comunicándose directamente, etc).
+                     
+                     ## 3. Fase de negociación
+                     
+                     La Sirena va influyendo a los seres vivos colonizados, intentando convencerles de que se integren en esta mente colmena (sean asimilados). La Sirena rara vez engaña; incluso indican que la esperanza de vida se reduce debido a esta integración. 
+                     
+                     Se produce una simbiosis con los seres vivos colonizados. Estos mantienen su conciencia individual pero sienten la necesidad de contribuir al ser global, con el que se identifican.
+                     
+                     ## 4. Fase de partida
+                     
+                     Una vez la vasta mayoría de una raza ha sido asimilada, una nueva generación de insectos forman un nuevo meteorito y parten en busca de la siguiente especie.
+                     
+                     # Funcionamiento del Mástil ¿qué puede hacer y qué no la Sirena?
+                     
+                     El mástil evita que los insectos de la SIrena puedan moverse o comunicarse fuera de un anfitrión (evita la propagación y su omnipresencia). Dentro de un mismo anfitrión aún puede seguir estudiando y formando nuevas colonias.
+                     
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     La Sirena integra millones de seres de diversos mundos. Aunque siente las miles de sensaciones y sentimientos de sus asimilados, esto no afecta a su capacidad de pensamiento y decisión.
+                     
+                     Su mayor virtud es su compromiso con su objetivo. Su mayor defecto es su falta de empatía propia.
+                     
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     Desea librarse de RIO como su captora y principal oposición.
                      
                      
                      # Otros
-                     
                      
                      - **¿Cómo puede RIO lograr tanto control en las Burbujas cuando la propia Sirena necesita meses / años para asimilar a una raza?**
                      - ¿Quizás la Sirena no asimila a una raza, sino que requiere que esta la acepte?
@@ -90,71 +73,4 @@ Notes:               # Plano físico
                      - ¿Virus con voluntad propia?
                      
                      Su "supervisión" constante causa una muerte prematura a los seres controlados, a los cuáles aprovecha como organismos reproductores de nuevas colonias de insectos. Se pregunta si no habrá maneras mejores.
-                     
-                     ## Funcionamiento del virus
-                     
-                     El meteorito llega al planeta objetivo y se fragmenta en multitud de pequeñas piedras que caen por todo el globo. Al impactar, los meteoritos eclosionan liberando un gas compuesto de multitud de insectos microscópicos que se alojan en el sistema nervioso de las víctimas conscientes.
-                     
-                     Los insectos, formando una mente enjambre, comienzan a estudiar a los sujetos y luego a seleccionarlos para convertirlos en Sirenas o Marineros (**¿qué es lo que decide si son unos u otros?**).
-                     
-                     Las Sirenas se integran a nivel consciente en la mente enjambre, sirviendo de repetidores / interfaces entre esta y los Marineros.
-                     
-                     ===
-                     
-                     # Plano físico
-                     
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     
-                     # Plano psicológico
-                     
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
 Color:               #e5d982

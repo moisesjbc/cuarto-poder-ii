@@ -19,12 +19,130 @@ Full Summary:        # Vida anterior
                      # Asalto al AT de Gran Canaria
                      
                      Arturo forma parte de la unidad que asalta el AT de Gran Canaria, donde es capturado. Durante los 3 meses siguientes RIO experimenta con él hasta que rescatado por {C:1:Ana} y la {W:1:Resistencia}.
-Notes:               - Cuando se presenta a {C:0:Lucas}, este le ve "unos ojos que destilan locura y cordura a partes iguales".
+Notes:               # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
+                     
+                     - Cuando se presenta a {C:0:Lucas}, este le ve "unos ojos que destilan locura y cordura a partes iguales".
                      - Durante los 3 meses posteriores al {P:2:Asalto al AT de Gran Canaria}, {W:0:RIO} le ha inyectado algo todos los días y le ha hecho caminar una y otra vez de un lado a otro en una habitación del manicomio.
                      - Prefiere que lo llamen "El Venezolano".
                      - No le importa seguir con la camisa de fuerza puesta (c17).
                      - **¿Cómo sobrevive tanto tiempo custodiado por {W:0:RIO}?** Se me ocurre que quizás fingió el malestar de Lucas **y por eso experimentaban con él (*)**, pero no es creíble mantenerlo tanto tiempo ni frente a científicos.
                      - (*) **O a lo mejor experimentan con todos / con él por X**
+                     
+                     
+                     
+                     ===
+                     
+                     # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
 Color:               #b09d80
 Complexión:          Alto y delgado.
 Ojos:                "Destilan locura y cordura a partes iguales"
