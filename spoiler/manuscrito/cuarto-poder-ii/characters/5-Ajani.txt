@@ -25,144 +25,70 @@ Full Summary:        # Vida anterior
                      Ajani no participa directamente en el {P:2:Asalto al AT de Gran Canaria}, pero moviliza a {C:4:Jonás} para ayudar al {C:3:Coronel Cooper} y a la {W:1:Resistencia} durante el mismo. **¿Dónde estaba para no poder / querer llegar?**
 Notes:               # Plano físico
                      
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     - **Nombre**: Ajani ("El que gana la lucha").
+                     - **Pelo**: muy corto, rizado y negro.
+                     - **Bello facial / cara**: barba corta, rizada y negra.
+                     - **Ojos**: azules.
+                     - **Nacimiento**:  13 de Agosto de 1985
+                     - **Edad**: 40 años.
+                     - **Complexión**: atlética.
+                     - **Altura**: 1.80
+                     - **Peso**: 80 kilos
+                     - **Etnia**: africana.
+                     - **Vestimenta**: ropa militar de camuflaje. Lleva una prenda de ropa enrollada alrededor de la pierna (**confirmar con relato**).
+                     - **Cómo se siente con su aspecto**: está a la vez orgulloso y apenado de estar tan entrenado para la muerte.
+                     - **Enfermedades**: ninguna.
+                     - **Libro / película favoritos**: Casablanca (?)
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: irascible, sobreprotector, serio.
+                     - **Cómo actúa frente al deseo**: no se lo permite.
+                     - **Cómo actúa frente al miedo**: apenas lo siente. Cuando lo hace, lo enfrenta.
+                     - **Cómo actúa frente al odio**: se deja dominar por él, lo cuál aterroriza a sus enemigos, pero puede poner en peligro la misión y a los que van con él.
+                     - **Cómo actúa frente a la vergüenza**: la reprime.
+                     - **Cómo actúa frente a la culpa**: la reprime.
+                     - **Cómo actúa frente al perdón**: incapaz de perdonar.
+                     - **Mayor miedo**: perder a su hermano {C:39:Kasim}.
+                     - **Mayor esperanza**: acabar con {W:0:RIO}.
+                     - **Peor recuerdo de la infancia**: la muerte de sus seres queridos en el ataque a su campamento.
+                     - **Mejor recuerdo de la infancia**: escapar del ataque a su campamento junto con su hermano.
+                     - **Virtudes**: luchador formidable e incansable. Inteligente.
+                     - **Defectos**: su ira incontrolable lo va destruyendo por dentro y puede ser peligrosa para sus propios aliados.
+                     - **Cómo se ve**: como un asesino de guante blanco con una obsesión contra {W:0:RIO}.
+                     - **Cómo lo ven otros personajes**: como un héroe en la lucha contra la injusticia.
+                     - **Tics / manias**: golpear cosas.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - **Sentido del humor**: muy serio.
+                     - **Religión**: ateísmo.
+                     - **Orientación política**: derechas.
+                     - **Hobbies**: entrenar.
+                     - **Relación con la familia**: obsesión y sobreprotección con respecto a su hermano {C:39:Kasim}.
+                     - **Trabajo**: no tiene. Viaja por el mundo con su hermano luchando contra {W:0:RIO}.
+                     - **Nivel educativo**: primaria sin acabar. Se forma por su cuenta en mecánica, armas, etc.
+                     - **Experiencia laboral**: ninguna.
+                     - **Impronta de su lugar de origen**: ira.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: su hermano es su universo.
+                     - **Casa**: nómada, suele tirar de tiendas, pisos y casas abandonadas.
+                     - **Educación**: respeto.
+                     - **Amigos**: {C:39:Kasim}, ve a la {W:1:Resistencia} como aliados aunque trabaje sólo principalmente.
+                     - **Enemigos**: {W:0:RIO}.
                      
                      
                      # Otros
                      
-                     - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}. 
-                     - **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
-                     - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
+                     - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}.
+                     	- **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
                      - "La gente me considera un héroe, pero simplemente se trata de una casualidad. Sólo deseo matar a aquellos que les hace daño".
                      - En el mismo email al {C:3:Coronel Cooper} le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
                      - ¿Cómo se pronuncia el nombre?
-                     - **¿Motivación?**
-                     
                      - Según Luis (capítulo 15): no ha dado señales de vida después del {P:2:Asalto al AT de Gran Canaria}.
-                     
-                     - **Recordar significado del nombre**.
-                     - **Desarrollar historia de él y su hermano Karim (comprobar y verificar significado del nombre)**.
-                     - ¿Refugiados en país africano X?
                      - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
                      - ¿Leyenda del torniquete y la guerra definitiva?
-                     - ¿Creo el personaje de la francotiradora?
                      
-                     - En la lucha, dice "No soy más que un producto de la Cadena. Un peón que se ha vuelto en contra de ellos." (**¿por qué?**).
-                     - Ajani: "El que gana la lucha" (**¿fuente?**).
+                     ## Información del relato "El héroe":
                      
-                     - Propuesta: Ajani y Kasim descubren que RIO está detrás del ataque al campamento en el que murieron sus padres y de otras situaciones en las que se aprovecharon de su habilidad.
-                     - De ahí que se considere un peón de la Cadena que se ha revelado contra ellos ({P:6:Lucha por el almacén}).
-                     
-                     Información del relato "El héroe":
-                     ---
                      "Se trataba de un hombre conocido como Ajani, aunque nadie sabe su verdadero nombre. Él es un icono, una leyenda entre los miembros de la resistencia. Al igual que los grandes mitos griegos, se contaban muchas versiones de su historia. La más extendida, sin embargo, era la de un joven y su hermano, Kasim. Su padre era un español voluntario en Nigeria, África. Allí conoció a la que sería la madre de los hermanos y formó una familia. La felicidad sin embargo, no duró mucho, pues el campamento dónde vivían quedó sumido en una guerra entre dos fracciones extremistas locales. Los padres de Ajani y Kasim murieron, pero ellos consiguieron escapar. Pasaban semanas enteras vagando por el desierto, aprovechando la oscuridad de la noche para robar alimentos en los campamentos por los que pasaban. Sus jóvenes e inocentes manos no tardaron en mancharse de sangre. Ambos se vieron obligados a matar a soldados que amenazaban con acabar con sus vidas, y muy a su pesar, no tardaron en convertirse en expertos combatientes. A pesar de las múltiples versiones sobre su historia, ninguna sabe llenar el vacío de por qué un día los hermanos se separaron y ya no se volvió a saber nada del hermano de Ajani, sin embargo, Ajani fue cobrando cada día más presencia. Había decidido que no podía cambiar el pasado, se había convertido en un soldado, pero no se convertiría en un asesino. Decidió así seguir luchando, uniéndose al bando cuyos ideales compartiera, y actualmente ese bando era el de los rebeldes."
-                     
-                     ===
-                     
-                     # Plano físico
-                     
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     
-                     # Plano psicológico
-                     
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
 Color:               #81e3a7

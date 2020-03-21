@@ -91,7 +91,7 @@ Notes:               # Plano físico
                      # Otros
                      
                      - Tiene sueños en los que se mueve y le sangra la nariz con abundancia.
-                     	- Se suele despertar mareado / débil.
+                     - Se suele despertar mareado / débil.
                      
                      ## Primera parte
                      
@@ -124,6 +124,6 @@ Notes:               # Plano físico
                      - Maldice cuando Lara le cuenta cómo le sangró la nariz en clase de matemáticas.
                      
                      - **¿Jonás tendrá alguna evolución con las nanomáquinas?** En el documento de curiosidades de la primera parte referencio dos vías:
-                     	- Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
-                     	- Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
+                     - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
+                     - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
 Color:               #a1edec

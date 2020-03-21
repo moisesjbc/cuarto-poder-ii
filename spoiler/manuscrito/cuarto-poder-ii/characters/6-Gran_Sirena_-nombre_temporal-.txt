@@ -23,7 +23,65 @@ Full Summary:        # Origen
                      # Infección de Lucas
                      
                      {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *Burbujas*. En estos lugares se desactiva de manera controlada la influencia del Mástil, al tiempo que {W:0:RIO} inyecta una cepa modificada de la Sirena para controlar a los sujetos. Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue contagiado por esta cepa y debido a su menor resistencia mental este es rápidamente contactado por la {C:6:Gran Sirena (nombre temporal)}. Esta última ve en Lucas un vehículo muy prometedor para conseguir su liberación mediante la destrucción del Mástil.
-Notes:               - **¿Cómo puede RIO lograr tanto control en las Burbujas cuando la propia Sirena necesita meses / años para asimilar a una raza?**
+Notes:               # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
+                     
+                     
+                     - **¿Cómo puede RIO lograr tanto control en las Burbujas cuando la propia Sirena necesita meses / años para asimilar a una raza?**
                      - ¿Quizás la Sirena no asimila a una raza, sino que requiere que esta la acepte?
                      
                      Los riesgos del Canto de Sirena son varios:
@@ -40,4 +98,63 @@ Notes:               - **¿Cómo puede RIO lograr tanto control en las Burbujas 
                      Los insectos, formando una mente enjambre, comienzan a estudiar a los sujetos y luego a seleccionarlos para convertirlos en Sirenas o Marineros (**¿qué es lo que decide si son unos u otros?**).
                      
                      Las Sirenas se integran a nivel consciente en la mente enjambre, sirviendo de repetidores / interfaces entre esta y los Marineros.
+                     
+                     ===
+                     
+                     # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
 Color:               #e5d982

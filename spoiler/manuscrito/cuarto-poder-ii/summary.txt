@@ -35,6 +35,7 @@ Full:        # Inicio
              - Destino del primer grupo que toma el tren (incluye a María).
              - **¿Por qué Ajani interviene ahora?**
              - **¿Qué ha estado haciendo Ajani durante toda la primera parte?**
+             	- Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
              - **¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?**
              - (?) **¿Qué puede tener Lucas tan importante para que RIO no lo mate ya directamente?**
              - Experimentos con Arturo en el manicomio. ¿Consecuencias?
