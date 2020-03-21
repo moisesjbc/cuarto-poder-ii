@@ -15,7 +15,64 @@ Full Summary:        # Vida anterior
                      Hija única, Noemí rápidamente se convierte en una chica muy alegre, extrovertida y deportista. Su felicidad se trunca en 2022, cuando sus padres, trabajadores de {W:0:RIO} descubren la farsa del {P:0:Incidente de Inglaterra}. Estos intentan huir y unirse a la Resistencia, pero la corporación los asesina. Noemí consigue huir pero es capturada dos días más tarde.
                      
                      RIO introduce a Noemí en el programa de {W:14:Burbujas}, hasta que es rescatada durante la {P:1:Presentación y estallido de la burbuja de Mario} por la {W:1:Resistencia}.
-Notes:               - Llorosa desde que "despierta" de su personalidad de {C:25:Noemí Pérez}.
+Notes:               # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
+                     
+                     - Llorosa desde que "despierta" de su personalidad de {C:25:Noemí Pérez}.
                      - Se siente unida a {C:0:Lucas}.
                      - No quiere salir de la *Burbuja* porque "al menos tenía una familia".
                      - Sus padres fueron asesinados por RIO cuando intentaron "desertar" a la resistencia. Ella fue capturada 2 días después y "convertida en otra Noemí".
@@ -34,4 +91,63 @@ Notes:               - Llorosa desde que "despierta" de su personalidad de {C:25
                      - Pelo: Rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes.
                      - Directa, resolutiva.
                      - Manías: No le gusta estar encerrada.
+                     
+                     ===
+                     
+                     # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Contenido de la cartera / bolso**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
 Color:               #f4ddae

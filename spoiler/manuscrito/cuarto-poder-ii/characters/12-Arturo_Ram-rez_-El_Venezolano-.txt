@@ -8,7 +8,7 @@ Phrase Summary:      Soldado de la unidad del {C:3:Coronel Cooper} que es captur
 Paragraph Summary:   Soldado de la unidad del {C:3:Coronel Cooper} que es capturado durante el {P:2:Asalto al AT de Gran Canaria} y posteriormente rescatado por Ana (3 meses después, c17). Tras ser rescatado colabora con la {W:1:Resistencia} con el único objetivo de encontrar al {C:3:Coronel Cooper} y ayudarle a demostrar la inocencia de Inglaterra.
 Full Summary:        # Vida anterior
                      
-                     Nació el 18 de Noviembre de 1996 (29 años), en el seno de una familia disfuncional.
+                     Nació el 18 de Septiembre de 1996 (29 años), en el seno de una familia disfuncional.
                      
                      De pequeño sintió el rechazo de su familia, que al igual que la del {C:3:Coronel Cooper}, no estaba preparada para tener otro hijo. Arturo desarrolló una fuerte depresión durante el instituto, llegando a tener tendencias suicidas. Empezó a medicarse, pero no confesó a nadie que seguía sintiendo la tentación de suicidarse.
                      
@@ -21,129 +21,64 @@ Full Summary:        # Vida anterior
                      Arturo forma parte de la unidad que asalta el AT de Gran Canaria, donde es capturado. Durante los 3 meses siguientes RIO experimenta con él hasta que rescatado por {C:1:Ana} y la {W:1:Resistencia}.
 Notes:               # Plano físico
                      
-                     - **Nombre**:
-                     - **Pelo**:
+                     - **Nombre**: Arturo Ramírez "El Venezolano".
+                     - **Pelo**: pelo por los hombros, lacio y negro.
                      - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     - **Ojos**: Azules. "Destilan locura y cordura a partes iguales"
+                     - **Nacimiento**: 18 de Septiembre de 1996
+                     - **Edad**: 29 años
+                     - **Complexión**: Delgado, fitness.
+                     - **Altura**: 1.85 metros
+                     - **Peso**: 70 kilos
+                     - **Etnia**: latina.
+                     - **Vestimenta**: uniforme militar.
+                     - **Cómo se siente con su aspecto**: bien, tampoco le da muchas vueltas.
+                     - **Enfermedades**: ninguna.
+                     - **Libro / película favoritos**: Titanic.
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: depresivo, suicida.
+                     - **Cómo actúa frente al deseo**: para él el deseo es su deseo reprimido de morir.
+                     - **Cómo actúa frente al miedo**: lo abraza para ponerse en riesgo.
+                     - **Cómo actúa frente al odio**: no suele sentirlo.
+                     - **Cómo actúa frente a la vergüenza**: le da igual.
+                     - **Cómo actúa frente a la culpa**: no se lo perdona si alguien cercano sufre en vez de él.
+                     - **Cómo actúa frente al perdón**: le cuesta perdonar.
+                     - **Mayor miedo**: perder a un ser querido como pueda ser {C:3:Coronel Cooper} o un miembro de su unidad.
+                     - **Mayor esperanza**: morir sin poner en peligro a nadie.
+                     - **Peor recuerdo de la infancia**: cuando sus padres le pegaban.
+                     - **Mejor recuerdo de la infancia**: cuando empezó a distanciarse de estos.
+                     - **Virtudes**: lealtad y proactividad.
+                     - **Defectos**: suicida, arriesgado.
+                     - **Cómo se ve**: como alguien que lo mejor que puede ofrecer es su muerte para proteger a los suyos y "liberarse".
+                     - **Cómo lo ven otros personajes**: como un suicida con cierto grado de locura.
+                     - **Tics / manias**: autolesionarse / arriesgar la vida.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - **Sentido del humor**: tira de humor negro.
+                     - **Religión**: ateísmo.
+                     - **Orientación política**: izquierdas.
+                     - **Hobbies**: entrenar.
+                     - **Relación con la familia**: mala. Cortó todos los lazos y su familia es su unidad.
+                     - **Trabajo**: Soldado inglés.
+                     - **Nivel educativo**: Instituto.
+                     - **Experiencia laboral**: 13 años en el ejército.
+                     - **Impronta de su lugar de origen**: depresión.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: su unidad.
+                     - **Casa**: tienda de campaña.
+                     - **Educación**: respetuoso aunque a veces se toma mucha confianza.
+                     - **Amigos**: su unidad.
+                     - **Enemigos**: {W:0:RIO}.
                      
                      
                      # Otros
                      
-                     - Cuando se presenta a {C:0:Lucas}, este le ve "unos ojos que destilan locura y cordura a partes iguales".
                      - Durante los 3 meses posteriores al {P:2:Asalto al AT de Gran Canaria}, {W:0:RIO} le ha inyectado algo todos los días y le ha hecho caminar una y otra vez de un lado a otro en una habitación del manicomio.
-                     - Prefiere que lo llamen "El Venezolano".
                      - No le importa seguir con la camisa de fuerza puesta (c17).
                      - **¿Cómo sobrevive tanto tiempo custodiado por {W:0:RIO}?** Se me ocurre que quizás fingió el malestar de Lucas **y por eso experimentaban con él (*)**, pero no es creíble mantenerlo tanto tiempo ni frente a científicos.
                      - (*) **O a lo mejor experimentan con todos / con él por X**
-                     
-                     
-                     
-                     ===
-                     
-                     # Plano físico
-                     
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     
-                     # Plano psicológico
-                     
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
+                     -
 Color:               #b09d80
-Complexión:          Alto y delgado.
-Ojos:                "Destilan locura y cordura a partes iguales"
 Personalidad:        Suicida / arriesgado: tiene fama de querer ir en cabeza e ignorar el peligro.
