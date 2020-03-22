@@ -33,6 +33,7 @@ Full:        # Inicio
              
              - **¿Por qué atacan al segundo grupo (el de Lucas y no al primero)? ¿Por tiempo de replegarse y preparar la trampa entre un grupo y otro?**
              - Destino del primer grupo que toma el tren (incluye a María).
+             - Cuando Lucas envidia por lo bajo a {C:24:María}, {C:1:Ana} lo lleva aparte y le dice que si va a entrar en la {W:1:Resistencia} debe hacerlo convencido, puesto que sus compañeros dependerán de él. Lucas recuerda cuando huyó de una paliza a su amigo (o no).
              - **¿Por qué Ajani interviene ahora?**
              - **¿Qué ha estado haciendo Ajani durante toda la primera parte?**
              - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
