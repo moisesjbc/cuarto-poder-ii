@@ -19,57 +19,56 @@ Full Summary:        # Vida anterior
                      Es liberada por la {W:1:Resistencia} tras la {P:1:Presentación y estallido de la burbuja de Mario} y se reúne con su hermano.
 Notes:               # Plano físico
                      
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     - **Nombre**: Lara.
+                     - **Pelo**: Larga cabellera castaña, que le llega hasta media espalda. Muy cuidada.
+                     - **Bello facial / cara**: Nada.
+                     - **Ojos**: verdes.
+                     - **Nacimiento**: 23 de Agosto de 2009
+                     - **Edad**:16 años
+                     - **Complexión**: alta y delgada
+                     - **Altura**: 1.60 metros.
+                     - **Peso**: 55 kilos.
+                     - **Etnia**: caucásica.
+                     - **Vestimenta**: pantalones vaqueros y camiseta.
+                     - **Cómo se siente con su aspecto**: suele cuidar su aspecto demasiado, pero siempre encuentra algún defecto que corregir.
+                     - **Enfermedades**: ninguna.
+                     - **Libro / película favoritos**: Toy Story.
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: coqueta y asustadiza.
+                     - **Cómo actúa frente al deseo**: le da vergüenza.
+                     - **Cómo actúa frente al miedo**: de primeras la paraliza hasta que alguien le obliga a reaccionar.
+                     - **Cómo actúa frente al odio**: no es algo que haya sentido con fuerza por ahora.
+                     - **Cómo actúa frente a la vergüenza**: se sonroja y la embarga.
+                     - **Cómo actúa frente a la culpa**: intenta disculparse con gran timidez.
+                     - **Cómo actúa frente al perdón**: perdona aunque no sea cierto para evitar el conflicto
+                     - **Mayor miedo**: perder a su hermano {C:4:Jonás}.
+                     - **Mayor esperanza**: recuperar su vida y a su hermano. Ser más despreocupada y natural.
+                     - **Peor recuerdo de la infancia**: ser separada de su hermano.
+                     - **Mejor recuerdo de la infancia**: rencontrarse con él.
+                     - **Virtudes**: tranquila, risueña.
+                     - **Defectos**: asustadiza.
+                     - **Cómo se ve**: como una chica normal de su edad un tanto coqueta.
+                     - **Cómo lo ven otros personajes**: como una chica coqueta.
+                     - **Tics / manias**: arreglarse el pelo.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - **Sentido del humor**: de risa fácil.
+                     - **Religión**: ateísmo
+                     - **Orientación política**: NS / NC.
+                     - **Hobbies**: retocarse, charlar.
+                     - **Relación con la familia**: quiere recuperar el tiempo perdido con Jonás.
+                     - **Trabajo**: ninguno.
+                     - **Nivel educativo**: secundaria (casi completa).
+                     - **Experiencia laboral**: ninguna.
+                     - **Impronta de su lugar de origen**: asustadiza.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: ninguna.
+                     - **Casa**: vivía en un piso de un barrio empresarial junto con su hermano.
+                     - **Educación**: respetuosa, casi temerosa.
+                     - **Amigos**: {C:4:Jonás}, {C:0:Lucas}
+                     - **Enemigos**: {W:0:RIO}.
                      
                      
                      # Otros
@@ -89,69 +88,4 @@ Notes:               # Plano físico
                      - (c18) "Cada vez que miraba hacia la pizarra llena de fórmulas, sentía como una nube nublaba su cabeza, como si le costara pensar con claridad"
                      - De repente responde en voz baja la solución, de manera involuntaria.
                      - ¿Qué es lo que tiene para que le sangre la nariz igual que a {C:4:Jonás} (¿interacción con las nanomáquinas?)?
-                     - **¿Por qué fue capturada por {W:0:RIO}?**
-                     - 16 años
-                     - Pecho generoso
-                     - Larga cabellera castaña, que le llega hasta media espalda. Muy cuidada.
-                     - Coqueta. Asustadiza con lo que no puede controlar. Se ríe con cualquier cosa
-                     
-                     
-                     ===
-                     
-                     # Plano físico
-                     
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     
-                     # Plano psicológico
-                     
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
 Color:               #cafaee

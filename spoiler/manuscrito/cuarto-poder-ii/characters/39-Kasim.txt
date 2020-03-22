@@ -13,7 +13,63 @@ Full Summary:        # Vida anterior
                      Kasim nació el 15 de Febrero de 1989 (36 años) en Nigeria.
                      
                      Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO} en 1996 (7 años). Al igual que su hermano, no tardó en convertirse en un experto en supervivencia y combate. No obstante, Kasim ha conseguido cultivar un gran autocontrol durante los años, controlando su ira y manteniendo cierta lejanía del campo de batalla (en parte impuesta por su hermano mayor) salvo cuando es totalmente necesario. Por esta razón Ajani es mucho más "famoso" que él, si bien Kasim también goza de una gran influencia.
-Notes:               - Hermano de {C:5:Ajani}.
+Notes:               # Plano físico
+                     
+                     - **Nombre**:
+                     - **Pelo**:
+                     - **Bello facial / cara**:
+                     - **Ojos**:
+                     - **Nacimiento**:
+                     - **Edad**:
+                     - **Complexión**:
+                     - **Altura**:
+                     - **Peso**:
+                     - **Etnia**:
+                     - **Vestimenta**:
+                     - **Cómo se siente con su aspecto**:
+                     - **Enfermedades**:
+                     - **Libro / película favoritos**:
+                     
+                     # Plano psicológico
+                     
+                     - **Tipo de personalidad**:
+                     - **Cómo actúa frente al deseo**:
+                     - **Cómo actúa frente al miedo**:
+                     - **Cómo actúa frente al odio**:
+                     - **Cómo actúa frente a la vergüenza**:
+                     - **Cómo actúa frente a la culpa**:
+                     - **Cómo actúa frente al perdón**:
+                     - **Mayor miedo**:
+                     - **Mayor esperanza**:
+                     - **Peor recuerdo de la infancia**:
+                     - **Mejor recuerdo de la infancia**:
+                     - **Virtudes**:
+                     - **Defectos**:
+                     - **Cómo se ve**:
+                     - **Cómo lo ven otros personajes**:
+                     - **Tics / manias**:
+                     
+                     # Plano social
+                     
+                     - **Sentido del humor**:
+                     - **Religión**:
+                     - **Orientación política**:
+                     - **Hobbies**:
+                     - **Relación con la familia**:
+                     - **Trabajo**:
+                     - **Nivel educativo**:
+                     - **Experiencia laboral**:
+                     - **Impronta de su lugar de origen**:
+                     - **Tribu (equipo, hermandad, partido político, etc)**:
+                     - **Casa**:
+                     - **Educación**:
+                     - **Amigos**:
+                     - **Enemigos**:
+                     
+                     
+                     # Otros
+                     
+                     - Hermano de {C:5:Ajani}.
                      - Kasim: "Controlador de la ira" (**¿fuente?**)
                      - ¿Cómo se pronuncia el nombre?
 Color:               #9d9199
