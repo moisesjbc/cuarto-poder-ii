@@ -17,57 +17,56 @@ Full Summary:        # Vida anterior
                      RIO introduce a Noemí en el programa de {W:14:Burbujas}, hasta que es rescatada durante la {P:1:Presentación y estallido de la burbuja de Mario} por la {W:1:Resistencia}.
 Notes:               # Plano físico
                      
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     - **Nombre**: Noemí
+                     - **Pelo**: Rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes
+                     - **Bello facial / cara**: redondeada.
+                     - **Ojos**: marrones.
+                     - **Nacimiento**:15 de Marzo de 2011
+                     - **Edad**: 14 años.
+                     - **Complexión**: atlética
+                     - **Altura**: 1.55 metros
+                     - **Peso**: 47 kilos
+                     - **Etnia**: caucásica
+                     - **Vestimenta**: pantalones vaqueros y camiseta.
+                     - **Cómo se siente con su aspecto**: no le preocupa tanto su aspecto como su movilidad. Orgullosa de ser un "culo inquieto".
+                     - **Enfermedades**: ninguna.
+                     - **Libro / película favoritos**: El Rey León.
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: directa y resolutiva.
+                     - **Cómo actúa frente al deseo**: intenta disfrutar de las cosas pequeñas.
+                     - **Cómo actúa frente al miedo**: evalúa la situación y decide si huir o luchar.
+                     - **Cómo actúa frente al odio**: ataca si puede.
+                     - **Cómo actúa frente a la vergüenza**: la ve como un lastre que le impide probar cosas nuevas.
+                     - **Cómo actúa frente a la culpa**: le cuesta pedir perdón.
+                     - **Cómo actúa frente al perdón**: le cuesta perdonar aunque lo intenta.
+                     - **Mayor miedo**: que la muerte de sus padres haya sido en vano.
+                     - **Mayor esperanza**: acabar con {W:0:RIO}.
+                     - **Peor recuerdo de la infancia**: la muerte de sus padres.
+                     - **Mejor recuerdo de la infancia**: jugar con sus padres.
+                     - **Virtudes**: directa y resolutiva. Ágil.
+                     - **Defectos**: impulsiva y un poco cabezona.
+                     - **Cómo se ve**: como una chica activa y alegre en un mundo cruel.
+                     - **Cómo lo ven otros personajes**: jovial y alegre.
+                     - **Tics / manias**: no le gustan los espacios cerrados.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
+                     - **Sentido del humor**: alegre y bromista.
+                     - **Religión**: ateísmo.
+                     - **Orientación política**: NS/NC.
+                     - **Hobbies**: correr y jugar.
+                     - **Relación con la familia**: huérfana.
+                     - **Trabajo**: ninguno.
+                     - **Nivel educativo**: media secundaria.
+                     - **Experiencia laboral**: ninguna.
+                     - **Impronta de su lugar de origen**: luchadora.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: ninguna.
+                     - **Casa**: vivía en una pequeña casa terrera con sus padres.
+                     - **Educación**: respetuosa.
+                     - **Amigos**: {C:0:Lucas}, {C:27:Lara}.
+                     - **Enemigos**: {W:0:RIO}.
                      
                      
                      # Otros
@@ -77,77 +76,5 @@ Notes:               # Plano físico
                      - No quiere salir de la *Burbuja* porque "al menos tenía una familia".
                      - Sus padres fueron asesinados por RIO cuando intentaron "desertar" a la resistencia. Ella fue capturada 2 días después y "convertida en otra Noemí".
                      - Le gusta jugar con Lara a “Revuélvele el pelo a tu hermana la coqueta”.
-                     - Correr desde el baño donde se peina hasta la entrada de la casa sin que Noemí despeine a Lara.
-                     - Suele ganar Noemí.
-                     - **¿Por qué fue capturada por RIO?**
-                     - Predilección por Mario.
-                     
-                     # Noemí Pérez
-                     
-                     - Hija de {C:22:Mario Pérez} y {C:21:Lucía}. Estudiante de instituto.
-                     
-                     - 14 años.
-                     - Despreocupada (pelo desastrozo), ágil, activa.
-                     - Pelo: Rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes.
-                     - Directa, resolutiva.
-                     - Manías: No le gusta estar encerrada.
-                     
-                     ===
-                     
-                     # Plano físico
-                     
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
-                     
-                     # Plano psicológico
-                     
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
-                     
-                     # Plano social
-                     
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Contenido de la cartera / bolso**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
+                     -
 Color:               #f4ddae
