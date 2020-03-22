@@ -398,3 +398,7 @@ Aprochando las horas de viaje y los ratos muertos en el destino **he leido gran 
 Esta semana **he completado hasta el paso 5 (inclusive) del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/)**. Aunque ciertamente he podido avanzar tanto gracias a que ya estos pasos estaban parcialmente completados, estoy contento con haber podido mantener la racha de dedicarle tiempo cada día y cumplir la planificación para esta semana.
 
 **Para la semana que viene tocan los pasos 6 y 7 del método**. ¡A por ello!
+
+## Semana 53 (16/023/2020 - 22/03/2020)
+
+**Hoy espero completar el paso 7 (biblias de personajes) del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/). Del paso 6 (resumen completo) he completado una primera versión, pero no me terminan de convencer el segundo y tercer cuarto del libro**. El refinamiento de este resumen lo dejaré para la semana que viene junto con los pasos 8 y 9 (listado de escenas), ¡ya va quedando menos!.
