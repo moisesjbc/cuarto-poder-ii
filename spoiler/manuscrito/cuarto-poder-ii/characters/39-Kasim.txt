@@ -15,61 +15,54 @@ Full Summary:        # Vida anterior
                      Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO} en 1996 (7 años). Al igual que su hermano, no tardó en convertirse en un experto en supervivencia y combate. No obstante, Kasim ha conseguido cultivar un gran autocontrol durante los años, controlando su ira y manteniendo cierta lejanía del campo de batalla (en parte impuesta por su hermano mayor) salvo cuando es totalmente necesario. Por esta razón Ajani es mucho más "famoso" que él, si bien Kasim también goza de una gran influencia.
 Notes:               # Plano físico
                      
-                     - **Nombre**:
-                     - **Pelo**:
-                     - **Bello facial / cara**:
-                     - **Ojos**:
-                     - **Nacimiento**:
-                     - **Edad**:
-                     - **Complexión**:
-                     - **Altura**:
-                     - **Peso**:
-                     - **Etnia**:
-                     - **Vestimenta**:
-                     - **Cómo se siente con su aspecto**:
-                     - **Enfermedades**:
-                     - **Libro / película favoritos**:
+                     - **Nombre**: Kasim ("Controlador de ira").
+                     - **Pelo**: rapado.
+                     - **Bello facial / cara**: ninguno.
+                     - **Ojos**: marrones.
+                     - **Nacimiento**: 15 de Febrero de 1989
+                     - **Edad**: 36 años
+                     - **Complexión**: fuerte
+                     - **Altura**: 1.80
+                     - **Peso**: 85 kilos.
+                     - **Etnia**: africana.
+                     - **Vestimenta**: militar de camuflaje.
+                     - **Cómo se siente con su aspecto**: no le importa.
+                     - **Enfermedades**: ninguna.
+                     - **Libro / película favoritos**: El Señor de los Anillos.
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**:
-                     - **Cómo actúa frente al deseo**:
-                     - **Cómo actúa frente al miedo**:
-                     - **Cómo actúa frente al odio**:
-                     - **Cómo actúa frente a la vergüenza**:
-                     - **Cómo actúa frente a la culpa**:
-                     - **Cómo actúa frente al perdón**:
-                     - **Mayor miedo**:
-                     - **Mayor esperanza**:
-                     - **Peor recuerdo de la infancia**:
-                     - **Mejor recuerdo de la infancia**:
-                     - **Virtudes**:
-                     - **Defectos**:
-                     - **Cómo se ve**:
-                     - **Cómo lo ven otros personajes**:
-                     - **Tics / manias**:
+                     - **Tipo de personalidad**: sosegado, calculador.
+                     - **Cómo actúa frente al deseo**: lo sopesa y sólo se lo permite cuando es seguro.
+                     - **Cómo actúa frente al miedo**: lo enfrenta.
+                     - **Cómo actúa frente al odio**: lo analiza y no lo deja controlarlo.
+                     - **Cómo actúa frente a la vergüenza**: analiza la situación y decide evitar la causa la próxima vez.
+                     - **Cómo actúa frente a la culpa**: pide perdón.
+                     - **Cómo actúa frente al perdón**: lo proporciona siempre que considere a la otra persona merecedora.
+                     - **Mayor miedo**: perder a su hermano.
+                     - **Mayor esperanza**: derrotar a {W:0:RIO}.
+                     - **Peor recuerdo de la infancia**: perder a su familia y seres queridos.
+                     - **Mejor recuerdo de la infancia**: jugar con su hermano en el poblado.
+                     - **Virtudes**: tranquilo, inteligente.
+                     - **Defectos**: a veces analiza tanto las situaciones que no llega a actuar.
+                     - **Cómo se ve**: como una persona tranquila y que cuida de su hermano.
+                     - **Cómo lo ven otros personajes**: como un guerrero a la sombra de su hermano pero que complementa perfectamente a este.
+                     - **Tics / manias**: rascarse la cabeza.
                      
                      # Plano social
                      
-                     - **Sentido del humor**:
-                     - **Religión**:
-                     - **Orientación política**:
-                     - **Hobbies**:
-                     - **Relación con la familia**:
-                     - **Trabajo**:
-                     - **Nivel educativo**:
-                     - **Experiencia laboral**:
-                     - **Impronta de su lugar de origen**:
-                     - **Tribu (equipo, hermandad, partido político, etc)**:
-                     - **Casa**:
-                     - **Educación**:
-                     - **Amigos**:
-                     - **Enemigos**:
-                     
-                     
-                     # Otros
-                     
-                     - Hermano de {C:5:Ajani}.
-                     - Kasim: "Controlador de la ira" (**¿fuente?**)
-                     - ¿Cómo se pronuncia el nombre?
+                     - **Sentido del humor**: le gusta reírse, aunque no suele provocar la risa él mismo.
+                     - **Religión**: ateísmo.
+                     - **Orientación política**: izquierdas.
+                     - **Hobbies**: meditar y pasear.
+                     - **Relación con la familia**: húerfano. Quiere mucho a su hermano Ajani{C:5:Ajani}
+                     - **Trabajo**: ninguno, viaja por el mundo con su hermano atacando a {W:0:RIO}.
+                     - **Nivel educativo**: primaria, aunque se forma por su cuenta, al igual que {C:5:Ajani}.
+                     - **Experiencia laboral**: ninguna.
+                     - **Impronta de su lugar de origen**: auto-control.
+                     - **Tribu (equipo, hermandad, partido político, etc)**: su hermano.
+                     - **Casa**: nómada, suele tirar de tiendas, pisos y casas abandonadas.
+                     - **Educación**: respeto.
+                     - **Amigos**: {C:5:Ajani}, simpatiza con la {W:1:Resistencia}.
+                     - **Enemigos**: {W:0:RIO}.
 Color:               #9d9199
