@@ -6,19 +6,14 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "(Hito) 15 de Marzo",
-          "details": "",
-          "color": "FCE4D4"
+          "name": "7.4. Realizar biblias de personajes (IV)",
+          "details": "** LIMPIAR NOTAS **\n\n- Noemí\n- Lara\n- Kasim",
+          "color": "FAFCD2"
         },
         {
-          "name": "[Split] Pasos 6 (sresumen de 5 páginas) y 7 (Biblias de personajes. LIMPIAR NOTAS)",
+          "name": "6.2. Repasar resumen completo",
           "details": "",
-          "color": "FCC7FC"
-        },
-        {
-          "name": "(Hito) 22 de Marzo",
-          "details": "",
-          "color": "FCE4D4"
+          "color": "FAFCD2"
         },
         {
           "name": "[Split] Realizar pasos 8 y 9 de Snowflake",
@@ -159,6 +154,36 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "7.3. Realizar biblias de personajes (III)",
+          "details": "** LIMPIAR NOTAS **\n\n- Ajani\n- Gran Sirena\n- Arturo",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "7.2. Realizar biblias de personajes (II)",
+          "details": "** LIMPIAR NOTAS **\n\n- Elizabeth Ramidez\n- Coronel Cooper\n- Jonás",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "6.2. Realizar resumen completo (4ª página) y repasar",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "7.1. Realizar biblias de personajes (I)",
+          "details": "** LIMPIAR NOTAS **\n\n- Lucas\n- Ana",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "6.2. Realizar resumen completo (3ª página)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "6.1. Realizar resumen completo (2 primeras páginas)",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "5.3. Sinopsis de personajes (3/3)",
           "details": "- Arturo Ramírez\n- Noemí\n- María\n- Lara\n- Kasim",
