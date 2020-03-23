@@ -11,11 +11,22 @@ Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              RIO se comunica con la Resistencia y le informa de que el plan de la Sirena consiste en acabar con ambas organizaciones, ya que son las mayores fuerzas organizadas que podrían hacerle frente. La corporación también les informa de que existe una base en África con capacidad para lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Piden ayuda para asegurar la base mientras realizan el lanzamiento, y todos convergen hacia allí. Se produce un enfrentamiento entre la Resistencia y RIO contra los asimilados (tanto "buenos" como "malos"). Lucas se encuentra de repente con la tesitura de lanzar el Mástil o destruirlo. Finalmente lo destruye.
 Full:        # Inicio
              
-             Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por las fuerzas de {W:0:RIO} que custodiaban la *Burbuja* y se replegaron en la estación. El grupo consigue resistir gracias a las nanomáquinas de Jonás hasta que {C:5:Ajani} interviene y los salva.
+             Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por las fuerzas de {W:0:RIO} que tras capturar al primer grupo viajaron a la *Burbuja* para capturar al segundo.
+             
+             a) Deshacen bombas adormecedoras y se hacen los dormidos hasta que pueden abatir a los de RIO.
+             b) Son reacondicionados y devueltos a la *Burbuja* salvo los de la Resistencia que se camuflan entre ellos.
+             c) Son reacondicionados y están volviendo a la *Burbuja* hasta que Jonás **de alguna manera** los vuelve agresivos contra los de RIO mientras los de la resistencia los abate.
+             d) Túnel hasta los vehículos (**¿y no están vigilados?**).
+             e) Jonás mata a los pocos de RIO que se replegaron para contener únicamente al segundo grupo.
+             f) 
+             
+             El grupo consigue excavar un túnel a la *Burbuja* gracias a las nanomáquinas de Jonás y se repliegan allí.
+             
+             El grupo consigue resistir gracias a las nanomáquinas de Jonás y repeler el ataque. La unidad viaja en el tren, con Ana comunicándose continuamente con los miembros de la Resistencia en el destino para confirmar que RIO no les tiende una emboscada. 
              
              ## A resolver
              
-             - Cámara: Miembro de la {W:1:Resistencia} que graba el {P:1:Estallido de la burbuja de Mario}, centrándose en Lucas -> Me parece que va a morir al principio y la Resistencia sólo recupera la cámara.
+             - Cámara: Miembro de la {W:1:Resistencia} que graba el {P:1:Estallido de la burbuja de Mario}, centrándose en Lucas -> Me parece que va a morir al principio y la Resistencia sólo recupera la cámara. O llegan todos pero no se le ve más el pelo.
              
              # Primer acto
              
@@ -23,7 +34,7 @@ Full:        # Inicio
              
              Lucas y los otros rescatados de la *Burbuja* son marcados con un tatuaje de dos burbujas en la muñeca, y reciben el rechazo de otros miembros de la Resistencia, que desconfían de ellos. Los recién llegados comienzan su entrenamiento o integración en la Resistencia, según las capacidades de cada uno. Noemí, Lara y otros menores reciben una suerte de educación de Primaria o Secundaria, ya que la Resistencia se "niega a reclutar niños". Esto molesta a Noemí, ya que quiere luchar contra RIO.
              
-             Durante las siguientes semanas, {C:1:Ana} parte a misiones y vuelve cada X días a descansar, mientras Lucas continúa su entrenamiento. El joven sigue teniendo visiones del planeta X cada vez más vividas. Lucas acaba confesando las visiones a Ana y esta le pide mantener el silencio para que no sea tachado de loco mientras ella investiga. La joven anima a Lucas a hablar con otros liberados de las *Burbujas*. Estos le cuentan que han experimentado visiones similares, pero estas desaparecen al poco tiempo, al contrario que en su caso.
+             Durante las siguientes semanas, {C:1:Ana} parte a misiones y vuelve cada X días a descansar, mientras Lucas continúa su entrenamiento. El joven sigue teniendo visiones del planeta X cada vez más vividas y lo termina comentando con otros liberados de las *Burbujas*. Estos le cuentan que han experimentado visiones similares, pero estas desaparecen al poco tiempo, al contrario que en su caso.
              
              Lucas y otros liberados de las Burbujas también participan en vídeos retransmitidos por Internet para exponer a {W:0:RIO}, pero esta rápidamente los desacredita. Lucas sufre una gran desmotivación y Ana trata de animarlo. Esta le enseña un documento de la "biblioteca": un diario del fundador de la Resistencia hablando del {P:7:Nacimiento de RIO y la Resistencia}. La joven le anima a luchar como hizo este.
              
