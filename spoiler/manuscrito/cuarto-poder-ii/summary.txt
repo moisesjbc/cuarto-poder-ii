@@ -11,26 +11,18 @@ Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              RIO se comunica con la Resistencia y le informa de que el plan de la Sirena consiste en acabar con ambas organizaciones, ya que son las mayores fuerzas organizadas que podrían hacerle frente. La corporación también les informa de que existe una base en África con capacidad para lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Piden ayuda para asegurar la base mientras realizan el lanzamiento, y todos convergen hacia allí. Se produce un enfrentamiento entre la Resistencia y RIO contra los asimilados (tanto "buenos" como "malos"). Lucas se encuentra de repente con la tesitura de lanzar el Mástil o destruirlo. Finalmente lo destruye.
 Full:        # Inicio
              
-             Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por las fuerzas de {W:0:RIO} que tras capturar al primer grupo viajaron a la *Burbuja* para capturar al segundo.
+             Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
              
-             a) Deshacen bombas adormecedoras y se hacen los dormidos hasta que pueden abatir a los de RIO.
-             b) Son reacondicionados y devueltos a la *Burbuja* salvo los de la Resistencia que se camuflan entre ellos.
-             c) Son reacondicionados y están volviendo a la *Burbuja* hasta que Jonás **de alguna manera** los vuelve agresivos contra los de RIO mientras los de la resistencia los abate.
-             d) Túnel hasta los vehículos (**¿y no están vigilados?**).
-             e) Jonás mata a los pocos de RIO que se replegaron para contener únicamente al segundo grupo.
-             f) 
-             
-             El grupo consigue excavar un túnel a la *Burbuja* gracias a las nanomáquinas de Jonás y se repliegan allí.
-             
-             El grupo consigue resistir gracias a las nanomáquinas de Jonás y repeler el ataque. La unidad viaja en el tren, con Ana comunicándose continuamente con los miembros de la Resistencia en el destino para confirmar que RIO no les tiende una emboscada. 
+             Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por fuerzas de {W:0:RIO}. Estos han activado la trampa de la estación, haciéndolos caer en un "foso" y lanzan granadas con un potente somnífero. El grupo es reducido, pero cuando despierta, los de RIO han sido sorprendidos por un grupo de refuerzo de la Resistencia, avisado por el primer grupo antes de ser capturado.
              
              ## A resolver
              
+             - Los de la Resistencia pueden haber llegado en el tren y haber pillado a los de RIO por sorpresa ya que no pensaban sacar a los capturados hasta que el tren pasara.
              - Cámara: Miembro de la {W:1:Resistencia} que graba el {P:1:Estallido de la burbuja de Mario}, centrándose en Lucas -> Me parece que va a morir al principio y la Resistencia sólo recupera la cámara. O llegan todos pero no se le ve más el pelo.
              
              # Primer acto
              
-             El grupo es transportado a salvo hasta una de las bases de entrenamiento de la Resistencia, en un pueblo de X (**Pensínsula, buscar un sitio recóndito al que llegue el tren**). Allí {C:0:Lucas} pregunta por el primer grupo y especialmente {C:24:María}, pero le dicen que esta pidió ser trasladada y no saber nada de ellos. Lucas la envidia en secreto.
+             El grupo es transportado a salvo hasta una de las bases de entrenamiento de la Resistencia, en un pueblo de X (**Pensínsula, buscar un sitio recóndito al que llegue el tren / los de la Resistencia**).
              
              Lucas y los otros rescatados de la *Burbuja* son marcados con un tatuaje de dos burbujas en la muñeca, y reciben el rechazo de otros miembros de la Resistencia, que desconfían de ellos. Los recién llegados comienzan su entrenamiento o integración en la Resistencia, según las capacidades de cada uno. Noemí, Lara y otros menores reciben una suerte de educación de Primaria o Secundaria, ya que la Resistencia se "niega a reclutar niños". Esto molesta a Noemí, ya que quiere luchar contra RIO.
              
@@ -38,18 +30,11 @@ Full:        # Inicio
              
              Lucas y otros liberados de las Burbujas también participan en vídeos retransmitidos por Internet para exponer a {W:0:RIO}, pero esta rápidamente los desacredita. Lucas sufre una gran desmotivación y Ana trata de animarlo. Esta le enseña un documento de la "biblioteca": un diario del fundador de la Resistencia hablando del {P:7:Nacimiento de RIO y la Resistencia}. La joven le anima a luchar como hizo este.
              
-             Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a su primera misión de estallido de una *Burbuja*. Allí las visiones de Lucas se intensifican y otros reclutas parecen sufrirlas también. El grupo llega hasta el centro de control de la *Burbuja*, pero entonces son emboscados por {C:14:Elizabeth Ramírez}. Esta y sus soldados ponen a prueba a los efectivos de la resistencia, haciéndoles caminar de un lado a otro de la habitación. Elizabeth los va ejecutando a sangre fría hasta llegar a Lucas. Este sufre intensos mareos al caminar y Elizabeth lo captura, mostrando su desaprobación por la orden de mantenerlo con vida, ya que ella lo mataría para evitar riesgos.
+             Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a su primera misión de estallido de una *Burbuja*. El grupo llega hasta el centro de control de la *Burbuja*, pero entonces son emboscados por {C:14:Elizabeth Ramírez}. Esta y sus soldados ponen a prueba a los efectivos de la resistencia, haciéndoles caminar de un lado a otro de la habitación. Elizabeth los va ejecutando a sangre fría hasta llegar a Lucas. Este sufre intensos mareos al caminar y Elizabeth lo captura, mostrando su desaprobación por la orden de mantenerlo con vida, ya que ella lo mataría para evitar riesgos.
              
              ## A resolver
              
-             - **¿Por qué atacan al segundo grupo (el de Lucas y no al primero)? ¿Por tiempo de replegarse y preparar la trampa entre un grupo y otro?**
-             - Destino del primer grupo que toma el tren (incluye a María).
-             - Cuando Lucas envidia por lo bajo a {C:24:María}, {C:1:Ana} lo lleva aparte y le dice que si va a entrar en la {W:1:Resistencia} debe hacerlo convencido, puesto que sus compañeros dependerán de él. Lucas recuerda cuando huyó de una paliza a su amigo (o no).
-             - **¿Por qué Ajani interviene ahora?**
-             - **¿Qué ha estado haciendo Ajani durante toda la primera parte?**
-             - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
-             - **¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?**
-             - (?) **¿Qué puede tener Lucas tan importante para que RIO no lo mate ya directamente?**
+             - {C:1:Ana}, viendo cómo Lucas no está tan seguro de pertenecer a la Resistencia, lo lleva aparte y le dice que si va a entrar en la {W:1:Resistencia} debe hacerlo convencido, puesto que sus compañeros dependerán de él. Lucas recuerda cuando huyó de una paliza a su amigo (o no).
              - Experimentos con Arturo en el manicomio. ¿Consecuencias?
              - En la ficha de Cooper menciono "descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}." **¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
              - Asalto al AT de Gran Canaria.
@@ -57,9 +42,14 @@ Full:        # Inicio
              - 	Consecuencias para el coronel e Inglaterra.
              - Indicar que Lucas (¿y quién más?) usará el uniforme de la resistencia (¿tienen recursos para tener uniforme?).
              
+             - **¿Qué ha estado haciendo Ajani durante toda la primera parte?**
+             - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
+             - **¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?**
+             - (?) **¿Qué puede tener Lucas tan importante para que RIO no lo mate ya directamente?**
+             
              # Segundo acto
              
-             Elizabeth y sus hombres escoltan a Lucas hasta uno de sus centros de experimentación camuflados de psiquiátrico. Allí Lucas es aislado en una celda videoviligada donde permanece la mayor parte del tiempo. Durante el día es llevado cada X horas a una sala donde lo hacen caminar de lado a lado en una habitación, probando versiones y más versiones de unas nanomáquinas en el suelo. Los científicos van iterando poco a poco sobre aquellas que le provocan menos mareos. Durante las pruebas Lucas es vigilado constantemente por Elizabeth. Esta última está visiblemente molesta "por tener que hacer niñera".
+             Elizabeth y sus hombres escoltan a Lucas hasta uno de sus centros de experimentación camuflados de psiquiátrico. Allí Lucas es aislado en una celda videoviligada donde permanece la mayor parte del tiempo. Durante el día es llevado cada X horas a una sala donde lo hacen caminar de lado a lado en una habitación, probando versiones y más versiones de unas nanomáquinas en el suelo. Los científicos van iterando poco a poco sobre aquellas que le provocan menos mareos. Durante las pruebas Lucas es vigilado constantemente por Elizabeth. Esta última está visiblemente molesta "por tener que hacer de niñera".
              
              Durante el tiempo que pasa en su celda Lucas sigue experimentando sus visiones, las cuales intenta mantener en secreto. Estas no son tan nítidas como antes, pero Lucas identifica lo que parece ser un portal que conecta con la Tierra y ve unas coordenadas que acaba memorizando.
              
