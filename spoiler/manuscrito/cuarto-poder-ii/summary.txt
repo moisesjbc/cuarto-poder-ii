@@ -31,25 +31,6 @@ Full:        # Inicio
              Lucas y otros liberados de las Burbujas también participan en vídeos retransmitidos por Internet para exponer a {W:0:RIO}, pero esta rápidamente los desacredita y tacha a Lucas de terrorista. El joven sufre una gran desmotivación y Ana trata de animarlo. Esta le enseña un documento de la intranet de la Resistencia: un diario del fundador de la Resistencia hablando del {P:7:Nacimiento de RIO y la Resistencia}. La joven le anima a luchar como hizo este.
              
              Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a su primera misión de estallido de una *Burbuja*. El grupo llega hasta el centro de control de la misma, pero entonces son emboscados por {C:14:Elizabeth Ramírez}. Esta y sus soldados ponen a prueba a los efectivos de la resistencia, haciéndoles caminar de un lado a otro de la habitación. Elizabeth los va ejecutando a sangre fría hasta llegar a Lucas. Este sufre intensos mareos al caminar y Elizabeth lo captura. La agente de RIO muestra su desaprobación por la orden de mantenerlo con vida, ya que ella lo mataría para evitar riesgos.
-             -> **¿Por qué no matar a Lucas directamente? En la primera parte digo**: "En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor -. Es bastante valioso para nosotros, pero por suerte no es único."
-             -> **Pensar qué hago con las *Burbujas con respecto a la Gran Sirena. ¿Se intensifican las visiones de Lucas? ¿Puede contagiar a otros? ¿Por qué la Resistencia no es afectada por el control en las Burbujas? ¿Qué ocurre al tocar las {W:16:Notas de xilófono} exactamente? ¿Se elimina todo control de la Sirena? ¿Sólo la cepa de RIO? ¿La cepa de RIO qué tiene de especial / control con respecto a la cepa original?**
-             
-             - "El mástil evita que los insectos de la SIrena puedan moverse o comunicarse fuera de un anfitrión (evita la propagación y su omnipresencia). Dentro de un mismo anfitrión aún puede seguir estudiando y formando nuevas colonias."
-             - 
-             - a) **¿Qué hacen en las *Burbujas* para someter a la gente al control de RIO? ¿Les inyectan insectos de la Sirena en sí? ¿Otra cosa inspirada en ella? ¿Cómo mantienen el control**
-             	a) Inyectan a la Sirena en sí y activan el campo que permite a los insectos comunicarse entre sí pero sin moverse por el aire (propagación). La señal de comunicarse es "intervenida" por RIO que usan la suya propia para modificar los objetivos.
-             - La Sirena inyectada en ellos incluye los recuerdos de esta que los influyen para que la busquen en X o Y. RIO mueve el meteorito continuamente.
-             - b) **¿Qué ocurre cuando suenan las {W:16:Notas de xilófono} de comienzo? ¿Y las de final?**
-             
-             """
-             - Por cierto... - Iván pareció recordar algo -. ¿Por qué un xilófono?
-             - No tengo ni idea - Jonás sabía a qué se refería Iván -. Me obligaron a que les programara esa clave a los sujetos y así lo hice.
-             - ¿Que les “programaras”?
-             
-             Jonás se dió un toque con el dedo índice en la cabeza.
-             """
-             
-             - c) **¿Por qué la visión de Lucas? Se puede inspirar en sus ganas de evadirse, pero ¿qué tiene de especial para con las nanomáquinas y la Sirena? ¿Cómo puede la Sirena influir a Lucas pero a otros no?**
              
              ## Notas
              
@@ -77,7 +58,7 @@ Full:        # Inicio
              
              En un intento desesperado Lucas lleva a cabo su huida y es ayudado por otros miembros de la Resistencia. Viajan hasta el centro de control y Lucas consigue desactivar el satélite, pero entonces se da cuenta de que los miembros de la Resistencia que lo acompañaban eran otros capturados del falso psiquiátrico y el satélite desactivado era el que permitía la comunicación de la Gran Sirena.
              
-             - 
+             -
              
              ## A resolver
              

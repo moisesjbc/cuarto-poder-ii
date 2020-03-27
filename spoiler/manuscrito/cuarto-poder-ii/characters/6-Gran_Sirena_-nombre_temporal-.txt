@@ -73,4 +73,39 @@ Notes:               # Forma física
                      - ¿Virus con voluntad propia?
                      
                      Su "supervisión" constante causa una muerte prematura a los seres controlados, a los cuáles aprovecha como organismos reproductores de nuevas colonias de insectos. Se pregunta si no habrá maneras mejores.
+                     
+                     
+                     -> **¿Por qué no matar a Lucas directamente? En la primera parte digo**: "En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor -. Es bastante valioso para nosotros, **pero por suerte no es único.**"
+                     -> **Pensar qué hago con las *Burbujas con respecto a la Gran Sirena. ¿Se intensifican las visiones de Lucas? ¿Puede contagiar a otros? ¿Por qué la Resistencia no es afectada por el control en las Burbujas? ¿Qué ocurre al tocar las {W:16:Notas de xilófono} exactamente? ¿Se elimina todo control de la Sirena? ¿Sólo la cepa de RIO? ¿La cepa de RIO qué tiene de especial / control con respecto a la cepa original?**
+                     
+                     - "El mástil evita que los insectos de la SIrena puedan moverse o comunicarse fuera de un anfitrión (evita la propagación y su omnipresencia). Dentro de un mismo anfitrión aún puede seguir estudiando y formando nuevas colonias."
+                     
+                     
+                     
+                     - a) **¿Qué hacen en las *Burbujas* para someter a la gente al control de RIO? ¿Les inyectan insectos de la Sirena en sí? ¿Otra cosa inspirada en ella? ¿Cómo mantienen el control**
+                     a) Inyectan a la Sirena en sí y activan el campo que permite a los insectos comunicarse entre sí pero sin moverse por el aire (propagación). La señal de comunicarse es "intervenida" por RIO que usan la suya propia para modificar los objetivos.
+                     - La Sirena inyectada en ellos incluye los recuerdos de esta que los influyen para que la busquen en X o Y. RIO mueve el meteorito continuamente.
+                     
+                     En las *Burbujas* ...:
+                     
+                     1. Se inyecta una colonia estéril dentro de los sujetos. Al no poder reproducirse, no se producen nuevas generaciones que abandonen al anfitrión y por tanto no es contagioso.
+                     2. Cada colonia es un clon de una colonia que ya contiene la "personalidad asimilada de alguien" (probetas con "Mario", probetas con "Noemí", etc).
+                     3. En la *Burbuja* se mantiene un estado de consciencia más débil para que los sujetos no rechacen a las colonias con sus nuevas personalidades.
+                     3. Con las {W:16:Notas de xilófono} de inicio se estimula un objetivo dentro de la mente colectiva. Los huéspedes colaboran hasta conseguir el objetivo.
+                     4. Con las {W:16:Notas de xilófono} de final señaliza el final del campo de conciencia más débil y el Mástil global las mantiene a raya.
+                     
+                     
+                     **Suenan tres notas agudas y largas de xilófono, seguida de una grave y corta**. Los habitantes del pueblo comienzan a desmayarse, incluida la familia Pérez. Todos sienten un súbito dolor de cabeza que dura unos segundos. Tras ello, Mario se siente "diferente". Lucas reconoce en la mujer pelirroja a Ana antes de desmayarse.
+                     
+                     - b) **¿Qué ocurre cuando suenan las {W:16:Notas de xilófono} de comienzo? ¿Y las de final?**
+                     
+                     """
+                     - Por cierto... - Iván pareció recordar algo -. ¿Por qué un xilófono?
+                     - No tengo ni idea - Jonás sabía a qué se refería Iván -. Me obligaron a que les programara esa clave a los sujetos y así lo hice.
+                     - ¿Que les “programaras”?
+                     
+                     Jonás se dió un toque con el dedo índice en la cabeza.
+                     """
+                     
+                     - c) **¿Por qué la visión de Lucas? Se puede inspirar en sus ganas de evadirse, pero ¿qué tiene de especial para con las nanomáquinas y la Sirena? ¿Cómo puede la Sirena influir a Lucas pero a otros no?**
 Color:               #e5d982
