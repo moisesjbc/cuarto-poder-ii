@@ -6,19 +6,44 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "7.4. Realizar biblias de personajes (IV)",
-          "details": "** LIMPIAR NOTAS **\n\n- Noemí\n- Lara\n- Kasim",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "6.2. Repasar resumen completo",
+          "name": "Aclarar cómo funcionan las Burbujas y las notas de xilófono",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "[Split] Realizar pasos 8 y 9 de Snowflake",
+          "name": "6.3. Repasar resumen completo (primera mitad)",
           "details": "",
-          "color": "FCC7FC"
+          "color": "FAFCD2"
+        },
+        {
+          "name": "6.4. Repasar resumen completo (segunda mitad)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "8y9.1. Generar lista de escenas (primer acto)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "8y9.2. Generar lista de escenas (segundo acto)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "8y9.3. Generar lista de escenas (tercer acto)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "8y9.4. Generar lista de escenas (cuarto acto)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "8y9.5. Repasar lista de escenas",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "(Hito) 29 de Marzo",
@@ -154,6 +179,11 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "7.4. Realizar biblias de personajes (IV)",
+          "details": "** LIMPIAR NOTAS **\n\n- Noemí\n- Lara\n- Kasim",
+          "color": "FAFCD2"
+        },
         {
           "name": "7.3. Realizar biblias de personajes (III)",
           "details": "** LIMPIAR NOTAS **\n\n- Ajani\n- Gran Sirena\n- Arturo",
