@@ -72,10 +72,13 @@ Notes:               # Forma física
                      - **¿Cómo puede RIO lograr tanto control en las Burbujas cuando la propia Sirena necesita meses / años para asimilar a una raza?**
                      - ¿Quizás la Sirena no asimila a una raza, sino que requiere que esta la acepte?
                      
+                     - **¿Cuál es el plan de la Sirena para con Lucas?**
+                     
                      Los riesgos del Canto de Sirena son varios:
                      
                      - ¿Reducción de la esperanza de vida?
                      - ¿Virus con voluntad propia?
+                     - ToDo: Decidir un nombre de una vez.
                      
                      Su "supervisión" constante causa una muerte prematura a los seres controlados, a los cuáles aprovecha como organismos reproductores de nuevas colonias de insectos. Se pregunta si no habrá maneras mejores.
                      
