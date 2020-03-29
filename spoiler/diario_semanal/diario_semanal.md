@@ -407,7 +407,7 @@ Esta semana **he completado hasta el paso 5 (inclusive) del ["Snowflake method"]
 
 **¡Fracaso estrepitoso!**
 
-**No he conseguido terminar los pasos 8 y 9** del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/) como me había propuesto. **¿La razón principal? No comprender el funcionamiento de las *Burbujas* y la *Sirena* (nombre temporal) en la historia**. Siendo algo crítico de lo que quiero contar, al intentar realizar el resumen completo empecé a chocar con múltiples preguntas del tipo "¿Dónde está la lógica interna de esto? ¿Es así como funcionaría?". Esto a provocado que la primera tarea de las propuestas para esta semana ("6.3. Repasar resumen completo (primera mitad)" se quedara sin completar durante toda la semana.
+**No he conseguido terminar los pasos 8 y 9** del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/) como me había propuesto. **¿La razón principal? No comprender el funcionamiento de las *Burbujas* y la *Sirena* (nombre temporal) en la historia**. Siendo algo crítico de lo que quiero contar, al intentar realizar el resumen completo empecé a chocar con múltiples preguntas del tipo "¿Dónde está la lógica interna de esto? ¿Es así como funcionaría?". Esto ha provocado que la primera tarea de las propuestas para esta semana ("6.3. Repasar resumen completo (primera mitad)" se quedara sin completar durante toda la semana.
 
 Ayer me marqué un nuevo objetivo prioritario: "Aclarar cómo funcionan las Burbujas y las notas de xilófono"... y con él sigo.
 
