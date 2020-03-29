@@ -402,3 +402,13 @@ Esta semana **he completado hasta el paso 5 (inclusive) del ["Snowflake method"]
 ## Semana 53 (16/023/2020 - 22/03/2020)
 
 **Hoy espero completar el paso 7 (biblias de personajes) del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/). Del paso 6 (resumen completo) he completado una primera versión, pero no me terminan de convencer el segundo y tercer cuarto del libro**. El refinamiento de este resumen lo dejaré para la semana que viene junto con los pasos 8 y 9 (listado de escenas), ¡ya va quedando menos!.
+
+## Semana 54 (23/03/2020 - 29/03/2020)
+
+**¡Fracaso estrepitoso!**
+
+**No he conseguido terminar los pasos 8 y 9** del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/) como me había propuesto. **¿La razón principal? No comprender el funcionamiento de las *Burbujas* y la *Sirena* (nombre temporal) en la historia**. Siendo algo crítico de lo que quiero contar, al intentar realizar el resumen completo empecé a chocar con múltiples preguntas del tipo "¿Dónde está la lógica interna de esto? ¿Es así como funcionaría?". Esto a provocado que la primera tarea de las propuestas para esta semana ("6.3. Repasar resumen completo (primera mitad)" se quedara sin completar durante toda la semana.
+
+Ayer me marqué un nuevo objetivo prioritario: "Aclarar cómo funcionan las Burbujas y las notas de xilófono"... y con él sigo.
+
+**Toca planificar la nueva semana siendo más humilde con lo que me propongo**.
