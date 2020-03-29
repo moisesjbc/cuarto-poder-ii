@@ -66,6 +66,9 @@ Notes:               # Forma física
                      
                      # Otros
                      
+                     - La Sirena lo que hace es que las nuevas colonias van conteniendo un conocimiento asimilado cada vez mayor del huésped, facilitando el "abordaje" mas rápido de futuros huéspedes. Cada colonia se impronta de la  personalidad del sujeto y la integra en su "Base de Datos". Usa las experiencias y conocimientos asimilados para influir a otros sujetos. Los de RIO aumentan la intensidad de su interacción, remplazando la influencia por control del huésped.
+                     	- O mejor (puede): la Sirena no puede mantener continuamente a los huéspedes en un estado en el que acepten su influencia, de ahí que necesite la voluntad de estos de ser asimilados. Los de RIO mantienen artificialmente este estado de conciencia más débil, por lo que la Sirena puede mantener su influencia en ellos.
+                     
                      - **¿Cómo puede RIO lograr tanto control en las Burbujas cuando la propia Sirena necesita meses / años para asimilar a una raza?**
                      - ¿Quizás la Sirena no asimila a una raza, sino que requiere que esta la acepte?
                      
