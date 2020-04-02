@@ -10,82 +10,50 @@ Phrase Summary:      Ser alienígena que vaga por el universo llevando el progre
 Paragraph Summary:   Ser alienígena que explora el universo, contactando y asimilando a todas las especies inteligentes con las que se cruza. En los últimos años ha llegado a la Tierra y comienza a estudiar y asimilar a la raza humana, pero {W:0:RIO} lo descubre y desarrolla una tecnología para contenerlo y usarlo en su favor. Prácticamente impotente, el ser intenta liberarse y retomar su propósito.
 Full Summary:        # Origen
                      
-                     La sirena surgió hace cientos de años en un planeta muy distante, y desde entonces vaga por el universo en busca de vida inteligente. Una vez localiza un planeta controlado por una raza inteligente, aterriza en este y comienza a parasitar a sus individuos. El ser los estudia durante años y persuade a cada uno para que la acepte y sea totalmente asimilado por esta. A medida que asimila a más y más individuos, la Sirena los insta a colaborar para conseguir llevar a la raza a su máximo potencial y progreso.
+                     La sirena surgió hace cientos de años en un planeta muy distante, y desde entonces vaga por el universo en busca de vida inteligente. Una vez localiza un planeta habitado por vida inteligente, aterriza en este y comienza a parasitar, estudiar, persuadir y asimilar a sus individuos durante durante años. A medida que asimila a más y más individuos, la Sirena los insta a colaborar para conseguir llevar a la raza a su máximo potencial y progreso.
                      
                      Cuando considera la raza asimilada, se forma un nuevo meteorito y pasa al siguiente planeta.
                      
                      # Llegada a la Tierra
                      
-                     En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y los animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observó el comportamiento extraño de ciertos animales (pe. diferentes especies colaborando). La corporación rápidamente le ve aplicaciones en cuanto a control de la población. Múltiples equipos de investigación por todo el globo y controlados en secreto por la corporación, incluido el de {C:4:Jonás}, reciben colonias del virus para su estudio. Jonás  y su equipo son los que dan con la clave para inhabilitar la acción del virus y en 2021 se despliega el {W:21:Mástil}.
+                     En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observó el comportamiento extraño de ciertos animales (pe. diferentes especies colaborando o algo así -> "¿Quién sabe por qué la gacela se dejó capturar?"). La corporación rápidamente le ve aplicaciones en cuanto a control de la población. Múltiples equipos de investigación por todo el globo y controlados en secreto por la corporación, incluido el de {C:4:Jonás}, reciben colonias del virus para su estudio. Jonás  y su equipo son los que dan con la clave para inhabilitar la acción del virus y en 2021 se despliega el {W:21:Mástil}.
                      
                      # Despliegue del Mástil
                      
-                     La mente colmena de la Sirena queda fragmentada entre todos los seres humanos y el reino animal, con la colonia dentro de cada individuo incapaz de comunicarse y compartir sus avances con las demás. Cada colonia puede, sin embargo, seguir alimentándose y reproduciéndose dentro de un sujeto, aunque sin conciencia propia no intenta contactar con ellos.
+                     La mente colmena de la Sirena queda fragmentada entre todos los seres humanos y el reino animal, con la colonia dentro de cada individuo incapaz de comunicarse con las demás. Cada colonia puede, sin embargo, seguir alimentándose y reproduciéndose dentro de un sujeto, aunque sin capacidad para generar conciencia (**Jonás puede acceder a la "red neuronal" de la Sirena aunque sufre grandes jaquecas por el Mástil**).
                      
                      # Infección de Lucas
                      
-                     {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *{W:14:Burbujas}*. En estos lugares se desactiva de manera controlada la influencia del Mástil, al tiempo que {W:0:RIO} interviene la comunicación de las colonias para controlar a los sujetos. Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue inyectado con la Sirena y debido a su menor resistencia mental este es rápidamente contactado por la {C:6:Gran Sirena (nombre temporal)}. Esta última ve en Lucas un vehículo muy prometedor para conseguir su liberación mediante la destrucción del Mástil.
-                     
-                     
-                     "¿Quién sabe por qué la gacela se dejó capturar?"
-                     
-                     
-                     - "El mástil evita que los insectos de la SIrena puedan moverse o comunicarse fuera de un anfitrión (evita la propagación y su omnipresencia). Dentro de un mismo anfitrión aún puede seguir estudiando y formando nuevas colonias,"
-                     
-                     Burbujas
-                     - "Se les inyecta una colonia estéril de la {C:6:Gran Sirena (nombre temporal)} a los capturados por la corporación. Al no poder reproducirse, la colonia no produce nuevas generaciones que abandonen al anfitrión y contagien a otros individuos. Cada colonia es un clon de una colonia que ya contenía la personalidad asimilada de alguien (probetas con "sujeto 4", "sujeto 5", etc)."
-                     - "RIO también inyecta nanomáquinas en el cerebro de los sujetos. Estas liberan regularmente una neurotoxina de la Sirena que les induce un estado de consciencia más débil que la Sirena interpreta como si aceptaran la asimilación. La corporación mantiene a los sujetos en observación durante un periodo de varias semanas e incluso meses mientras la colonia inoculada toma el control e impronta la nueva personalidad."
-                     - ¿La neutoxina es de la propia Sirena y ella no se da cuenta?
-                     - "Cuando la {W:1:Resistencia} toma el control de la *Burbuja*, esta emite la señal de las {W:16:Notas de xilófono} inversas. Dicha señal inhabilita a las nanomáquinas, haciendo que los sujetos recuperen su conciencia y personalidad originales. Con el tiempo, los sujetos acaban expulsando tanto las nanomáquinas como la colonia inoculada (salvo excepciones. Ver {W:22:Hipersensibilidad a la Sirena})."
-                     
-                     - 1) ¿En qué estado de la asimilación se quedó la Sirena cuando se desplegó el Mástil?
-                     
-                     a) Había infectado a un 70% de la población (por ejemplo) y estaba reproduciéndose dentro de ellos
-                     	- **¿Había empezado a comunicarse con alguien? ¿Cómo la descubrió {W:0:RIO} y la contuvo a tiempo? ¿Cómo la descubrió RIO pero el mundo no?**
-                     
-                     b) Cayó en un sitio remoto (pe. alguna isla) y RIO la contuvo a tiempo.
-                     	- **¿Mucha casualidad?**
-                     	- **¿Si la Sirena es relativamente inteligente por qué no cayó en un sitio con más población y / o se dispersó en una región mayor?**
-                     
-                     La Sirena ya había contagiado a prácticamente todo el mundo y estaba estudiándolos en secreto. RIO la descubrió cuando se observó el comportamiento raro de ciertos animales (pe. diferentes especies colaborando) y consiguió desplegar el Mástil antes.
-                     
-                     - O puede ser que cayera en un sito remoto y RIO lo contuviera a tiempo.
-                     
-                     - **2) ¿Qué puede hacer mientras el mástil está desplegado?**
-                     - **3) ¿Qué puede hacer dentro y fuera de las *Burbujas***
-                     
-                     - **4) ¿Por qué dentro de las *Burbujas* sólo afecta a los sujetos y a nadie más? ¿Por qué RIO no puede usarlo como mecanismo para controlar a los de la Resistencia que entran?**
-                     - **5) ¿Por qué a Lucas puede seguir influyéndole fuera de la Sirena?**
+                     {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *{W:14:Burbujas}*. Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue expuesto a la Sirena. Cuando la *Burbuja* es estallada, todas las colonias de los infectados vuelven a intentar cumplir la última orden recibida por la Sirena original, pero la colonia tiene tan poco poder que no abandona el subconsciente. En un pequeño porcentaje de los seres vivos, sin embargo, la resistencia de estos es tan débil que la colonia puede dar el salto al plano consciente e influir ahí (visiones, etc).
 Notes:               # Forma física
                      
-                     Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos y voladores que forman una mente colmena y que pueden formar paredes sólidas como mecanismo de defensa.
+                     Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos y voladores que forman una mente colmena.
                      
                      # Modo de funcionamiento
                      
                      ## 1. Fase de colonización
                      
-                     Los insectos emiten un gas que provoca un trance a los seres vivos contactados. Mientras el anfitrión se encuentra en este estado, los insectos entran en él y colonizan su cerebro. Los insectos empiezan a alimentarse de la energía del cerebro  anfitrión mientras se reproducen y analizan el cerebro del ser vivo. Una pequeña parte de la colonia abandona el anfitrión y busca una nuevo, propagándose poco a poco a toda la especie.
+                     Los insectos se introducen en los seres alcanzados y colonizan su cerebro. Allí empiezan a alimentarse de la energía cerebral mientras se reproducen y analizan el cerebro del ser vivo. Una pequeña parte de la colonia abandona el anfitrión y busca una nuevo, propagándose poco a poco a toda la especie.
                      
                      ## 2. Fase de estudio
                      
-                     Durante meses o incluso años, los insectos generan un conocimiento compartido en tiempo real entre todas las colonias de insectos de la mente colmena. De esta manera la Sirena va obteniendo conocimientos de la especie hasta que puede comunicarse con esta de múltiples maneras (visiones, comunicándose directamente, etc).
+                     Durante meses o incluso años, la red neuronal formada por los insectos genera un conocimiento compartido en tiempo real entre toda la red. De esta manera la Sirena va obteniendo conocimientos de la especie hasta que puede comunicarse con esta de múltiples maneras (visiones, comunicándose directamente, etc).
                      
                      ## 3. Fase de negociación
                      
-                     La Sirena va influyendo a los seres vivos colonizados, intentando convencerles de que se integren en esta mente colmena (sean asimilados). La Sirena rara vez engaña; incluso indican que la esperanza de vida se reduce debido a esta integración.
+                     La Sirena va influyendo a los seres vivos colonizados empezando por aquellos más pequeños y / o débiles. Intenta convencerles de que se integren en la mente colmena (sean asimilados), ya que la Sirena depende de que la especie no oponga resistencia para mantener el control. La Sirena rara vez engaña; incluso indican que la esperanza de vida se reduce debido a esta integración.
                      
-                     Se produce una simbiosis con los seres vivos colonizados. Estos mantienen su conciencia individual pero sienten la necesidad de contribuir al ser global, con el que se identifican.
+                     Se produce una simbiosis con los seres vivos colonizados. Estos mantienen su conciencia individual pero son influenciados y sienten la necesidad de contribuir al ser global, con el que se identifican.
                      
                      - **La Sirena no llega a controlar al huéped, sino que le influye. Por eso la asimilación debe ser voluntaria**
                      
                      ## 4. Fase de partida
                      
-                     Una vez la vasta mayoría de los individuos del planeta han sido asimilados, una nueva generación de insectos forman un nuevo meteorito y parten en busca de la siguiente especie.
+                     Una vez la vasta mayoría de los individuos del planeta han sido asimilados, una nueva generación de insectos forma un nuevo meteorito y parte en busca del siguiente planeta.
                      
                      # Funcionamiento del Mástil ¿qué puede hacer y qué no la Sirena?
                      
-                     El mástil evita que los insectos de la SIrena puedan moverse o comunicarse fuera de un anfitrión (evita la propagación y su omnipresencia). Dentro de un mismo anfitrión aún puede seguir alimentándose y reproduciéndose.
-                     
+                     El mástil evita que los insectos de la SIrena puedan moverse o comunicarse fuera de un anfitrión, lo que evita su propagación y la generación de conciencia colectiva. Dentro de un mismo anfitrión aún puede seguir alimentándose y reproduciéndose.
                      
                      # Plano psicológico
                      
@@ -97,25 +65,4 @@ Notes:               # Forma física
                      # Plano social
                      
                      Desea librarse de RIO como su captora y principal oposición.
-                     
-                     
-                     # Otros
-                     
-                     - La Sirena lo que hace es que las nuevas colonias van conteniendo un conocimiento asimilado cada vez mayor del huésped, facilitando el "abordaje" mas rápido de futuros huéspedes. Cada colonia se impronta de la  personalidad del sujeto y la integra en su "Base de Datos". Usa las experiencias y conocimientos asimilados para influir a otros sujetos. Los de RIO aumentan la intensidad de su interacción, remplazando la influencia por control del huésped.
-                     - O mejor (puede): la Sirena no puede mantener continuamente a los huéspedes en un estado en el que acepten su influencia, de ahí que necesite la voluntad de estos de ser asimilados. Los de RIO mantienen artificialmente este estado de conciencia más débil, por lo que la Sirena puede mantener su influencia en ellos.
-                     
-                     - **¿Cómo puede RIO lograr tanto control en las Burbujas cuando la propia Sirena necesita meses / años para asimilar a una raza?**
-                     - ¿Quizás la Sirena no asimila a una raza, sino que requiere que esta la acepte?
-                     
-                     - **¿Cuál es el plan de la Sirena para con Lucas?**
-                     
-                     Los riesgos del Canto de Sirena son varios:
-                     
-                     - ¿Reducción de la esperanza de vida?
-                     - ¿Virus con voluntad propia?
-                     - ToDo: Decidir un nombre de una vez.
-                     
-                     Su "supervisión" constante causa una muerte prematura a los seres controlados, a los cuáles aprovecha como organismos reproductores de nuevas colonias de insectos. Se pregunta si no habrá maneras mejores.
-                     
-                     - c) **¿Por qué la visión de Lucas? Se puede inspirar en sus ganas de evadirse, pero ¿qué tiene de especial para con las nanomáquinas y la Sirena? ¿Cómo puede la Sirena influir a Lucas pero a otros no?**
 Color:               #e5d982
