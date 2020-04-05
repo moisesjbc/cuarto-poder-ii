@@ -1,8 +1,78 @@
 Sentence:    Suspense distópico en el que un ex-reportero lucha para exponer y destruir a una corporación de medios de comunicación.
 Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia hasta que es capturado por Elizabeth durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo ayudan a escapar y lo llevan a abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un ser alienígena. El "virus" comienza a propagarse, mientras Lucas investiga sus intenciones, hasta que múltiples bases rebeldes y de RIO son neutralizadas. Varios  grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
              
-             -> **¿Por qué no matar a Lucas directamente? En la primera parte digo**: "En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor -. Es bastante valioso para nosotros, **pero por suerte no es único.**"
+             # Misterios a resolver
+             
+             - ¿Tema de la obra? ¿Conciencia y proactividad para cambiar las cosas?
+             
+             ## Relación de RIO con respecto a Lucas
+             
+             - ¿Dispararán a matar o intentarán capturarlo?
+             - **¿Por qué no matar a Lucas directamente? En la primera parte digo**: "En cuanto a Lucas... - el líder miró hacia aquel montón de carne sudorosa que luchaba por mantenerse consciente, en el fondo del ascensor -. Es bastante valioso para nosotros, **pero por suerte no es único.**"
              - Siempre puede ser un farol.
+             - (*) **Aclarar esto. ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?**
+             
+             ## Visión de Lucas
+             
+             ## Asalto al AT de Gran Canaria
+             
+             - ¿Qué ha pasado con la Resistencia tras el {P:2:Asalto al AT de Gran Canaria}?
+             - ¿Resultados del {P:2:Asalto al AT de Gran Canaria}? ¿Se fueron con las manos vacías?
+             - Consecuencias para Inglaterra.
+             - **(*) ¿Cuál es el plan de Jonás si parece que directamente escapan del AT sin hacer nada?**
+             
+             ## Ajani
+             
+             - ¿Qué estaba haciendo Ajani en la primera parte?
+             - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
+             - - **¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?**
+             
+             ## Burbujas
+             
+             - Origen y motivación de las Burbujas.
+             - 	Clave del xilófono programada en la cabeza de los sujetos por Jonás.
+             - 	Se les menciona como "sistema de entrenamiento" de RIO (varios niveles)
+             - "Pertenece a un estado avanzado del sistema de entrenamiento de RIO"
+                 - **¿Cómo se organizan este sistema y las Burbujas entre sí?**
+             
+             ## Incidente de Inglaterra
+             
+             - Qué pasa en el vídeo original y en el que vio Noemí.
+             
+             ## Personajes
+             
+             - ¿Qué ha ocurrido con Cooper y el resto de su unidad?
+             - Idea: Lucas encuentra a Cooper en una de las Burbujas pero este está condicionado y es que le tiende la trampa.
+             - Indicar el estado de cada personaje a lo largo del libro (**¿y Ajani y Kasim? ¿y Jonás? ¿Y Cooper?**)
+             - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
+             
+             ## Hombres de Negro
+             
+             - ¿Quiénes son? ¿Qué quieren?
+             - Insertar en algún lado que RIO / los hombres de Negro forzaron que Paco se mantuviera en su puesto porque su incompetencia les sirve para X.
+             - ¿Querían que entraran de lleno en el subsuelo del {W:3:AT de Gran Canaria} para capturarles dentro?
+             
+             ## Nanomáquinas
+             
+             - **Sensibilidad de Lucas a las nanomáquinas**
+             - ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
+             - ¿Qué es el "humo negro"?
+             - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
+             - ¿Cualquiera puede usar los nanoguantes? ¿sólo Jonás? ¿alguien más? ¿Jonás conserva alguno?
+             
+             ## La Sirena
+             
+             - **¿Cómo llega Lucas a estar en esa posición de poder? ¿Qué lo termina de convencer?**
+             - **¿Qué poderes tiene la Sirena a lo largo de toda la novela?**
+             - ¿Qué consigue Lucas en la cámara para ayudar al virus y qué le falta para que todavía resulte crítico para su propagación final? ¿Libera un mástil pero quedan otros? ¿Libera temporalmente el único mástil pero RIO activa la Burbuja Gran Canaria para que se piense que el virus es maligno?
+             
+             ## Ideas sueltas
+             
+             - **¿Integro la lucha por el almacén en la historia? ¿En dónde?**
+             - **Revisar**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
+             - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
+             - Cuando Lucas es contagiado puedo cambiar a la perspectiva de otro personaje, o puedo seguir con la perspectiva de Lucas, lidiando con las voces que lo guían.
+             - Indicar que Lucas (¿y quién más?) usará el uniforme de la resistencia (¿tienen recursos para tener uniforme?).
 Page:        Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba. Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por las fuerzas de {W:0:RIO} que custodiaban la *Burbuja* y se replegaron en la estación, pero {C:5:Ajani} interviene y los salva.
              
              Lucas es entrenado por la Resistencia y comienza a conocer la historia de esta y de RIO. El joven comienza a participar en misiones *estallando Burbujas*, mientras continúa teniendo visiones del planeta X y una mujer misteriosa que no habla. Descubre que otros liberados de las Burbujas han experimentado visiones similares, pero estas desaparecen al poco tiempo, al contrario que en su caso. Las visiones de Lucas, su miedo a actuar, y los repetidos fracasos de la Resistencia en exponer a RIO le hacen cuestionarse, no solo su salud mental, si no el que puedan conseguir derrotar a RIO alguna vez. Lucas confiesa las visiones a Ana, pero esta lo tranquiliza y le dice que lo mantenga en secreto mientras intenta descubrir qué le pasa. Durante una misión de estallido, Lucas es capturado por {C:14:Elizabeth Ramírez}.
