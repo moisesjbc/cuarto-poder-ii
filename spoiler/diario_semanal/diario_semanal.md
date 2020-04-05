@@ -412,3 +412,14 @@ Esta semana **he completado hasta el paso 5 (inclusive) del ["Snowflake method"]
 Ayer me marqué un nuevo objetivo prioritario: "Aclarar cómo funcionan las Burbujas y las notas de xilófono"... y con él sigo.
 
 **Toca planificar la nueva semana siendo más humilde con lo que me propongo**.
+
+## Semana 55 (30/03/2020 - 05/04/2020)
+
+**Esta semana he estado "de limpieza" intentando arreglar las bases del argumento**.
+
+Como comenté la semana pasada, la trama tenía fallos estructurales causados por no entender yo los básicos de mi historia como el funcionamiento de las *Burbujas* o la *Sirena*. Esta semana opté por darle un repaso al trío *Sirena* - *Burbujas* - *Mástil" y a partir de ahí refinar el resto de fichas, eliminando información desactualizada o que no casaba entre sí.
+
+Ahora tengo unas fichas de personaje, mundo y trama más concisas y coherentes entre sí. **Esta semana partiré de esta base para intentar cerrar el resumen de la historia que quiero contar**.
+
+Como nota aparte, **esta semana terminé de leerme el libro *The 12 Key Pillars of Novel Construction: Your Blueprint for Building a Strong Story* de C. S. Lakin**... tiene consejos interesantes y me ha dado que pensar, aunque se repetía mucho para mi gusto ^^U
+
