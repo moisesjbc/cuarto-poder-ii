@@ -6,7 +6,7 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Aclarar cómo funcionan las Burbujas y las notas de xilófono",
+          "name": "-> **Puedo conectar con los hombres de Negro -> gente que es sensible a las nanomáquinas como Lucas he intentan \"encontrar el planeta\" (¿cómo tienen todos un mismo objetivo si la Sirena no está orquestándolo?)**",
           "details": "",
           "color": "FAFCD2"
         },
@@ -46,59 +46,19 @@
           "color": "FAFCD2"
         },
         {
-          "name": "(Hito) 29 de Marzo",
-          "details": "",
-          "color": "FCE4D4"
-        },
-        {
-          "name": "Refinar página de descripción de cada personaje secundario",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Filtrar personajes",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Limpiar resúmenes de \"misterios\". Integrar estos en el resumeno en otro lugar.",
+          "name": "Repasar resumen-capítulos.md",
           "details": "",
           "color": "C1F7C2"
         },
         {
-          "name": "Aclarar funcionamiento del Mástil",
+          "name": "Limpiar resúmenes de \"misterios\". Integrar estos en el resumeno en otro lugar.",
           "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar resumen de Jonás",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Rellenar resumen de Ajani",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Aclarar relación de la Gran Sirena con Ajani",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Aclarar relación de la Gran Sirena con Lucas",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Aclarar relación de la Gran Sirena con hombres de negro",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Refinar hoja de la Sirena",
-          "details": "",
-          "color": "FAFCD2"
+          "color": "C1F7C2"
         },
         {
           "name": "Split de rellenar fichas en ficha general / ficha resumen",
@@ -112,6 +72,11 @@
         },
         {
           "name": "Anotar posibles soluciones para 7 misterios en el resumen (II)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Decidir un nombre de una vez",
           "details": "",
           "color": "FAFCD2"
         },
@@ -179,6 +144,46 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Corregir pestaña tramas (pe. eliminar referencias a marineros).",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar resto de fichos relacionadas con la Sirena con la información en la ficha de esta",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Crear cronología general que enlace con las demás",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar ficha de Mástil (¿satélites o antenas?)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar ficha de la Sirena",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Añadir ficha \"sensibilidad de Lucas a la Sirena\"",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar ficha Notas de Xilófono",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar ficha Burbujas",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "7.4. Realizar biblias de personajes (IV)",
           "details": "** LIMPIAR NOTAS **\n\n- Noemí\n- Lara\n- Kasim",
