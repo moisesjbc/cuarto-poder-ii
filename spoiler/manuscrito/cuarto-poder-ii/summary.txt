@@ -1,5 +1,14 @@
 Sentence:    Suspense distópico en el que un ex-reportero lucha para exponer y destruir a una corporación de medios de comunicación.
-Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia hasta que es capturado por Elizabeth durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo ayudan a escapar y lo llevan a abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un ser alienígena. El "virus" comienza a propagarse, mientras Lucas investiga sus intenciones, hasta que múltiples bases rebeldes y de RIO son neutralizadas. Varios  grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
+Paragraph:   0) Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia hasta que es capturado por Elizabeth durante una misión. RIO experimenta con él, mientras Lucas tiene visiones que lo ayudan a escapar y lo llevan a abrir una cámara secreta donde descubre que todo eran alucinaciones provocadas por un ser alienígena. El "virus" comienza a propagarse, mientras Lucas investiga sus intenciones, hasta que múltiples bases rebeldes y de RIO son neutralizadas. Varios  grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
+             
+             (-) Salvo que fuera un farol lo de "En cuanto a Lucas... [...]. Es bastante valioso para nosotros, **pero por suerte no es único.**", no veo por qué capturarían a Lucas en vez de simplemente matarlo.
+             (-) La parte de que lo capturan y experimentan con él **puede** hacerse muy tediosa hasta que consigue escapar.
+             
+             1) Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a la corporación RIO. El joven es entrenado por la resistencia y comienza a estallar *Burbujas* con ellos hasta que son emboscados por RIO y su unidad es masacrada. Lucas es rescatado por los Hombres de Negro (**O estos se hacen pasar por la Resistencia**), quienes le hablan de que tanto RIO y la Resistencia son una farsa y que la respuesta está en el planeta de su visión. Estos ayudan a Lucas a llegar hasta la cámara secreta donde descubre que todo eran alucinaciones provocadas por por el virus. El virus comienza a retomar el control mientras Lucas investiga sus intenciones hasta que múltiples bases rebeldes y de RIO son neutralizadas. Varios  grupos luchan / colaboran para destruir el virus o usarlo en su beneficio hasta que Lucas  decide sobre el destino del mismo.
+             
+             (?) ¿Cómo saben los hombres de Negro sobre la visión de Lucas? ¿Y por qué lo necesitan? -> Quizás todos comparten la {W:22:Hipersensibilidad a la Sirena} de Lucas pero no su sensibilidad a las nanomáquinas.
+             (?) ¿Cómo pueden conseguir los Hombres de negro convencer a Lucas de que la Resistencia y RIO son una farsa? ¿cómo pueden convencerle de que vayan contra ella (y Ana)? -> ¿Quizás se oculta como un grupo de la Resistencia y Ana es uno de ellos?
+             (-) ¿Mucha complejidad añadir la "facción" de los Hombres de negro?
              
              # Misterios a resolver
              
@@ -33,7 +42,7 @@ Paragraph:   Un ex-reportero llamado Lucas se une a la resistencia que lucha par
              - 	Clave del xilófono programada en la cabeza de los sujetos por Jonás.
              - 	Se les menciona como "sistema de entrenamiento" de RIO (varios niveles)
              - "Pertenece a un estado avanzado del sistema de entrenamiento de RIO"
-                 - **¿Cómo se organizan este sistema y las Burbujas entre sí?**
+             - **¿Cómo se organizan este sistema y las Burbujas entre sí?**
              
              ## Incidente de Inglaterra
              
