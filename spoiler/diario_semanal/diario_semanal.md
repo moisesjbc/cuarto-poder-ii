@@ -423,3 +423,10 @@ Ahora tengo unas fichas de personaje, mundo y trama más concisas y coherentes e
 
 Como nota aparte, **esta semana terminé de leerme el libro *The 12 Key Pillars of Novel Construction: Your Blueprint for Building a Strong Story* de C. S. Lakin**... tiene consejos interesantes y me ha dado que pensar, aunque se repetía mucho para mi gusto ^^U
 
+## Semana 56 (06/04/2020 - 12/04/2020)
+
+**Esta semana he planteado varias alternativas para el resumen de un párrafo** (paso 2 del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/) **y he escogido y refinado una de ellas.** A continuación, **extendí el resumen de un párrafo a una página** (paso 4 del "Snowflake method").
+
+**Mi idea para la semana que viene es volver a rehacer el resumen completo** (paso 6) **y a partir de este sacar la lista de escenas** (paso 7 y 8).
+
+Con un poco de suerte, ¡dejaré de repetir los mismos pasos una y otra vez y podré empezar a escribir la novela de una vez!
