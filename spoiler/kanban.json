@@ -6,6 +6,11 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Repasar resumen de una página",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "-> **Puedo conectar con los hombres de Negro -> gente que es sensible a las nanomáquinas como Lucas he intentan \"encontrar el planeta\" (¿cómo tienen todos un mismo objetivo si la Sirena no está orquestándolo?)**",
           "details": "",
           "color": "FAFCD2"
@@ -144,6 +149,36 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Extender resumen a una página",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Desarrollar tercera alternativa de resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Desarrollar segunda alternativa de resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Desarrollar primera alternativa de resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Recopilar misteros principales a resolver en el resumen de un párrafo",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Corregir pestaña tramas (pe. eliminar referencias a marineros).",
           "details": "",
