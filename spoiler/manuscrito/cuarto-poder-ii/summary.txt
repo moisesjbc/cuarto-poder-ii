@@ -13,7 +13,7 @@ Full:        # Inicio
              
              Un ex-reportero llamado Lucas se une a la resistencia que lucha para exponer y destruir a RIO, la corporación de medios de comunicación para la que trabajaba.
              
-             Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por fuerzas de {W:0:RIO}. Estos han activado la trampa de nanomáquinas de la estación, haciéndolos caer en un "foso", y lanzan granadas con un potente somnífero. El grupo es reducido, pero cuando despierta, los de RIO han sido sorprendidos y eliminados por un grupo de refuerzo de la Resistencia. Este último fue avisado por el primer grupo que abandonó la *Burbuja* justo antes de ser capturado por la corporación.
+             Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por fuerzas de {W:0:RIO}. Estos han activado la trampa de nanomáquinas de la estación, haciéndolos caer en un "foso", y lanzan granadas con un potente somnífero. El grupo es reducido, pero cuando despierta, los de RIO han sido sorprendidos y eliminados por un grupo de refuerzo de la Resistencia. Este último fue avisado por el primer grupo que abandonó la *Burbuja*, justo antes de ser capturado por la corporación.
              
              ## Notas
              
@@ -24,13 +24,13 @@ Full:        # Inicio
              
              El grupo es transportado a salvo hasta una de las bases de entrenamiento de la Resistencia.
              
-             Lucas y los otros rescatados de la *Burbuja* son marcados con un tatuaje de dos burbujas en la muñeca, y reciben el rechazo de otros miembros de la Resistencia, que desconfían de ellos. Los recién llegados comienzan su entrenamiento / integración en la Resistencia, según las capacidades de cada uno. {C:2:Noemí}, {C:27:Lara} y otros menores reciben una suerte de educación de Primaria o Secundaria, ya que la Resistencia se "niega a reclutar niños". Esto molesta a Noemí, ya que quiere luchar contra RIO.
+             Lucas y los otros rescatados de la *Burbuja* son marcados con un tatuaje de dos burbujas en la muñeca, y reciben el rechazo de otros miembros de la Resistencia, que desconfían de ellos. Los recién llegados comienzan su entrenamiento e integración en la Resistencia, según las capacidades de cada uno. {C:2:Noemí}, {C:27:Lara} y otros menores reciben una suerte de educación de Primaria o Secundaria, ya que la Resistencia se "niega a reclutar niños". Esto molesta a Noemí, ya que quiere luchar contra RIO.
              
              Durante las siguientes semanas, {C:1:Ana} parte a misiones y vuelve de vez en cuando, mientras Lucas continúa su entrenamiento. El joven sigue teniendo visiones del planeta X cada vez más vividas y lo termina comentando con otros liberados de las *Burbujas*. Estos le cuentan que han experimentado visiones similares, pero que estas desaparecieron al poco tiempo, al contrario que en su caso.
              
              Lucas y otros liberados de las Burbujas también participan en vídeos retransmitidos por Internet para exponer a {W:0:RIO}, pero esta rápidamente los desacredita y tacha a Lucas de terrorista. El joven sufre una gran desmotivación y Ana trata de animarlo. Esta le enseña un documento de la intranet de la Resistencia: un diario del fundador de la Resistencia hablando del nacimiento de RIO y de esta. La joven le anima a luchar como hizo este.
              
-             Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a sus primeras misiones de estallido de *Burbujas*. En una de ellas, cuando el grupo llega hasta el centro de control de la misma, es emboscado por fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras estos intentan escapar.
+             Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a sus primeras misiones de estallido de *Burbujas*. En una de ella el grupo es emboscado por fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras estos intentan escapar.
              
              ## Notas
              
@@ -53,11 +53,11 @@ Full:        # Inicio
              
              Lucas está a punto de morir a manos de las fuerzas de RIO, pero entonces es rescatado por {C:5:Ajani} y {C:39:Kasim}. Los tres huyen.
              
-             El grupo llega hasta las montañas y descansa. Allí Ajani y Kasim le cuentan a Lucas que lo han rescatado por sus visiones del planeta X. La pareja lleva tiempo buscándolo porque cree que contiene la clave para destruir a RIO. Ajani aclara que no piensa cargar con un peso muerto al que proteger, sino que quiere a alguien que pueda desenvolverse en el campo de batalla. Le dice al joven que si está dispuesto a darlo todo por encontrar el planeta. Lucas, aunque dudoso acepta.
+             El grupo llega hasta las montañas y descansa. Allí Ajani y Kasim le cuentan a Lucas que lo han rescatado por sus visiones del planeta X. La pareja lleva tiempo buscándolo porque cree que contiene la clave para destruir a RIO. Ajani aclara que no piensa cargar con un peso muerto al que proteger, sino que quiere a alguien que pueda desenvolverse en el campo de batalla. Le dice al joven que si está dispuesto a darlo todo por encontrar el planeta. Lucas, aunque dudoso, acepta.
              
-             Al día siguiente Lucas despierta solo, sin rastro alguno de sus acompañantes, agua o comida. Lucas entra en modo pánico pero empieza a explorar la zona. El joven pasa penurias para encontrar algo que echarse a la boca, incluyendo buscar refugio y cazar / recolectar cualquier cosa. Al día siguiente vuelven a aparecer los africanos, pero Ajani continúa sometiéndolo a prueba.
+             Al día siguiente Lucas despierta solo, sin rastro alguno de sus acompañantes, agua o comida. Lucas entra en modo pánico, pero empieza a explorar la zona. El joven pasa penurias para encontrar algo que echarse a la boca y buscar refugio. Al día siguiente vuelven a aparecer los africanos, pero Ajani continúa sometiéndolo a prueba.
              
-             Cuando Ajani considera que Lucas está listo lo llevan con ellos para continuar la búsqueda del planeta X. Siguen varias pistas hasta descubrir una base de RIO desde donde controlan unos satélites que parecen estar interfiriendo las comunicaciones con el otro planeta y que podría contener el portal. Ajani y Lucas se infiltran en él y llegan hasta la sala del portal. Cuando consiguen abrirlo descubren que las visiones del planeta eran alucinaciones provocadas por un ser alienígena que sólo puede ver Lucas (**¿o Ajani también?**) para que destruyeran el Mástil que frenaba su proceso de asimilación de la Tierra.
+             Cuando Ajani considera que Lucas está listo, lo llevan con ellos para continuar la búsqueda del planeta X. Siguen varias pistas hasta descubrir una base de RIO desde donde controlan unos satélites que parecen estar interfiriendo las comunicaciones con el otro planeta y que podría contener el portal. Ajani y Lucas se infiltran en él y llegan hasta la sala del portal. Cuando consiguen abrirlo descubren que las visiones del planeta eran alucinaciones provocadas por un ser alienígena que sólo puede ver Lucas (**¿o Ajani también?**) para que destruyeran el Mástil que frenaba su proceso de asimilación de la Tierra.
              
              ## A resolver
              
@@ -84,7 +84,9 @@ Full:        # Inicio
              
              # Tercer acto
              
-             La Sirena da las gracias a Lucas y le insta a huir, ya que aún no puede evitar que los de RIO vayan a por él. Lucas escapa a duras penas y busca refugio. Ana lo localiza y va a su encuentro. Lucas le cuente todo lo sucedido. A su vez Ana le cuenta que en la base rebelde ya están presumiblemente "infectados" debido a los *Burbujas* (**¿pensar otro nombre?**), aunque de momento no han notado raro. Duermen.
+             La Sirena da las gracias a Lucas y Ajani y les insta a huir, ya que aún no tiene poder sobre todos los efectivos de RIO que van a por ellos. La pareja escapa a duras penas y se separan. Ana localiza a Lucas y va a su encuentro. El joven le cuente todo lo sucedido. A su vez Ana le cuenta que en la base rebelde ya están presumiblemente "infectados" debido a los *Burbujas* (**¿pensar otro nombre?**), aunque de momento no han notado raro. Duermen.
+             
+             - **Meter que Ajani quiere quedarse a matar a los de RIO pero Kasim lo calma**
              
              Al día siguiente reciben informes de gente que ha enloquecido en diversos puntos del mundo y han atacado a otras personas. Mientras piensan qué hacer, la Sirena se presenta a Lucas en forma humana. Le cuenta su origen y misión de llevar el progreso, de lo que Lucas duda (aquí puedo meter el tema de la desconfianza innata de la humanidad, etc). Lucas le menciona los informes que ha recibido y la Sirena le indica que no es su obra ni que puede entrar en ellos, lo cual mantiene la perspicacia del joven. Durante la conversación surge el tema de las *Burbujas* y la Sirena le insta a capturar a uno de esos violentos ya que cree saber la manera de descubrirlo.
              
@@ -92,7 +94,7 @@ Full:        # Inicio
              
              Pasan unas horas y la Sirena les dice que ha accedido a los recuerdos y que lo último que recuerda antes de enloquecer es haber entrado en unas facilidades X. Ana pide ayuda a su contacto de la Resistencia para localizar el lugar cuando los habitantes de la Sirena les avisan de que están siendo atacados. Elizabeth y un pequeño ejército de RIO ataca la *Burbuja* mientras Lucas, Ana y los demás intentan defenderla. Ana pide ayuda a la Resistencia por radio.
              
-             Llegan los refuerzos de la Resistencia, incluido el verdadero Ajani, y reducen a los de {W:0:RIO} a duras penas. Cuando la zona es segura llega Jonás y ataca a Lucas, rabioso porque este ha liberado a la Sirena. El vagabundo acaba confesando su anterior puesto de biólogo en {W:0:RIO} y lo peligroso que es la Sirena (pe. daños mentales, reducción de la esperanza de la vida, etc), sobre todo para gente resistente como él y especialmente Lara. Cuando el grupo va a reagruparse y volver a la base se comunica con esta última. La comunicación se interrumpe de repente con una explosión. El grupo viaja allí y descubren la base destruida. Lara y Noemí, entre otros, han desaparecido.
+             Llegan los refuerzos de la Resistencia y reducen a los de {W:0:RIO} a duras penas. Cuando la zona es segura llega Jonás y ataca a Lucas, rabioso porque este ha liberado a la Sirena. El vagabundo acaba confesando su anterior puesto de biotecnólogo en {W:0:RIO} y lo peligroso que es la Sirena (pe. daños mentales, reducción de la esperanza de la vida, etc), sobre todo para gente resistente como él y especialmente Lara. Cuando el grupo va a reagruparse y volver a la base se comunica con esta última. La comunicación se interrumpe de repente con una explosión. El grupo viaja allí y descubren la base destruida. Lara y Noemí, entre otros, han desaparecido.
              
              Elizabeth consigue huir en la confusión, pero la encuentran rápidamente. Esta se encuentra muy confundida y les reproduce una grabación de su comunicador: de su base también ha escuchado una explosión. El grupo se da cuenta de otras muchas bases de la Resistencia y de RIO destruidas.
              
@@ -101,16 +103,19 @@ Full:        # Inicio
              - Otra altenativa: RIO localiza las bases rebeldes gracias a la mente colmena y neutraliza la mayoría. Felicitan a Lucas.
              - ¿Jonás le suministra en secreto algo que lo hace más resistente, por eso Lucas no es tan sugestionable como antes?. **¿No se entera la Sirena de esto? O es que ya no se le puede aparecer y se intenta comunicar con él a través de otros asimilados**
              - O simplemente el virus ha empezado a propagarse y aún no tiene control suficiente.
+             - Bases de RIO destruidas por ellos mismos para contener la "infección".
              
              # Cuarto acto
              
-             RIO se comunica con la Resistencia y trata de convencerla de que el plan de la Sirena consiste en acabar con ambas organizaciones, ya que son las mayores fuerzas organizadas que podrían hacerle frente. Para demostrar su buena voluntad, altos cargos de la Resistencia plantean reunirse con altos cargos de la Resistencia con la condición de que ningún *Burbuja* ni Ajani estén presentes. Les envían pruebas incriminatorias de los crímenes de RIO como "muestra adicional de buena fé". El grupo debate qué hacer durante la noche y al día siguiente aceptan llevar a cabo la reunión, asegurándose de dejar las pruebas a buen recaudo y de manera que sea fácil usarlas en caso de que se trate de una trampa.
+             Lucas se une a un grupo de la Resistencia para buscar a Noemí, Lara y otros supervivientes. La Sirena les ayuda a localizarlas rápidamente. Jonás sigue sin fiarse y recalca la importancia de destruir a la Sirena para no ponerlas en peligro nunca más.
              
-             Mientras se prepara la reunión sin contar con él, Lucas se une a un grupo de la Resistencia para buscar a Noemí, Lara y otros supervivientes. Tras varios días de búsqueda acaban encontrándolas a salvo. Jonás recalca la importancia de destruir a la Sirena para no ponerlas en peligro nunca más.
+             RIO se comunica con la Resistencia y trata de convencerla de que el plan de la Sirena consiste en acabar con ambas organizaciones, ya que son las mayores fuerzas organizadas que podrían hacerle frente. La corporación les pide ayuda para su intento desesperado por lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Para demostrar su buena voluntad, publican pruebas incriminatorias sobre si mismos en los principales medios.
              
-             En las bases rebeldes se produce una llamada de auxilio. No solo se ha llevado a cabo la reunión, en la que el plan consiste en lanzar un nuevo Mástil con capacidad para dañar a la Sirena hasta matarla, sino. Descubren que Lucas lo ha escuchado todo, acabando con el secretismo de la operación: la Sirena ha descubierto el sitio y dirige a sus asimilados hacia allí.
+             Efectivos de la Resistencia viajan hasta el almacén de África. Durante el trayecto la Sirena intenta convencerles de que RIO intenta crear una *Burbuja* global, donde poco importará las pruebas que hayan podido publicar.
              
-             RIO y la Resistencia convergen hacía allí, dejando a Lucas en la base rebelde. y luchan contra los asimilados (tanto "buenos" como "malos"). Lucas escapa de su cautividad (**¿cómo?**) y va hacia allí (**¿por qué? ¿cómo? Quizás se llega a producir el lanzamiento y ve que sólo afecta a los "buenos"?**). Lucas se encuentra de repente con la tesitura de lanzar el Mástil o  destruirlo (**¿Por qué?**). Finalmente lo destruye.
+             Todos convergen en la base y se produce una batalla caótica entre los de RIO, la Resistencia, Ajani y los asimilados, tanto "buenos" como "malos". Lucas consigue abrirse paso hasta el centro de control y se encuentra en la tesitura de 
+             
+             Para demostrar su buena voluntad, altos cargos de la Resistencia plantean reunirse con altos cargos de la Resistencia con la condición de que ningún *Burbuja* ni Ajani estén presentes. Les envían pruebas incriminatorias de los crímenes de RIO como "muestra adicional de buena fé". El grupo debate qué hacer durante la noche y al día siguiente aceptan llevar a cabo la reunión, asegurándose de dejar las pruebas a buen recaudo y de manera que sea fácil usarlas en caso de que se trate de una trampa.  lanzar el Mástil o  destruirlo (**¿Por qué?**). Finalmente lo destruye.
              
              ## A resolver
              
