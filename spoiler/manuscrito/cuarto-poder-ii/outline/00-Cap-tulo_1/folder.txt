@@ -1,6 +1,9 @@
 title:          Capítulo 1
 ID:             1
 type:           folder
+POV:            0
+label:          3
+status:         1
 compile:        2
 
 

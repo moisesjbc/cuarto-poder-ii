@@ -55,8 +55,8 @@ Full:        # Inicio
              - Mencionar incidente de Inglaterra: **- Qué pasa en el vídeo original y en el que vio Noemí.**
              - Indicar que Lucas (¿y quién más?) usará el uniforme de la resistencia (¿tienen recursos para tener uniforme?).
              - ¿Qué ha ocurrido con Cooper y el resto de su unidad?
-             	- Mencionar que lo han encontrado en una *Burbuja* muy lejos. Han aceptado colaborar con la Resistencia.
-             		- ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
+             - Mencionar que lo han encontrado en una *Burbuja* muy lejos. Han aceptado colaborar con la Resistencia.
+             - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
              
              - - **Sensibilidad de Lucas a las nanomáquinas**
              - ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
@@ -78,9 +78,9 @@ Full:        # Inicio
              ## A resolver
              
              - **¿Por qué Ajani no pide ayuda a la resistencia? ¿Por qué Lucas no puede volver con ellos?**
-             	- Ajani no se termina de fiar de la Resistencia como un todo, ya que tiene muchos infiltrados de RIO.
+             - Ajani no se termina de fiar de la Resistencia como un todo, ya que tiene muchos infiltrados de RIO.
              - **¿Cómo saben Ajani y Kasim de las visiones de Lucas?**
-             	- Espían los informes de la Resistencia sobre los *Burbujas* y saben de sus visiones. Han visto que Lucas mantiene las visiones.
+             - Espían los informes de la Resistencia sobre los *Burbujas* y saben de sus visiones. Han visto que Lucas mantiene las visiones.
              - **¿Qué pasa con Ana en este acto?**
              - Meter lo del tabardo de Ajani pegando a Lucas.
              - Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.
@@ -112,7 +112,7 @@ Full:        # Inicio
              ## A resolver
              
              - Otra altenativa: RIO localiza las bases rebeldes gracias a la mente colmena y neutraliza la mayoría.
-             	- Bases de RIO destruidas por ellos mismos para eliminar sospechas y contener la "infección".
+             - Bases de RIO destruidas por ellos mismos para eliminar sospechas y contener la "infección".
              - ¿Jonás le suministra en secreto algo que lo hace más resistente, por eso Lucas no es tan sugestionable como antes?. **¿No se entera la Sirena de esto? O es que ya no se le puede aparecer y se intenta comunicar con él a través de otros asimilados**
              
              
