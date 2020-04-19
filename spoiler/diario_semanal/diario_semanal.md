@@ -427,6 +427,20 @@ Como nota aparte, **esta semana terminé de leerme el libro *The 12 Key Pillars 
 
 **Esta semana he planteado varias alternativas para el resumen de un párrafo** (paso 2 del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/) **y he escogido y refinado una de ellas.** A continuación, **extendí el resumen de un párrafo a una página** (paso 4 del "Snowflake method").
 
-**Mi idea para la semana que viene es volver a rehacer el resumen completo** (paso 6) **y a partir de este sacar la lista de escenas** (paso 7 y 8).
+**Mi idea para la semana que viene es volver a rehacer el resumen completo** (paso 6) **y a partir de este sacar la lista de escenas** (paso 8 y 9).
 
 Con un poco de suerte, ¡dejaré de repetir los mismos pasos una y otra vez y podré empezar a escribir la novela de una vez!
+
+## Semana 57 (13/04/2020 - 19/04/2020)
+
+**Esta semana he completado el paso 6 del ["Snowflake method"](https://www.advancedfictionwriting.com/articles/snowflake-method/) y he comenzado la lista de escenas (pasos 8 y 9)**.
+
+Me ha bastado esbozar las escenas 1 y 2 para darme cuenta de varias cosas:
+
+1. Fui muy optimista pensando que iba a tener la lista de escenas en una semana.
+2. No había interiorizado qué era una escena exactamente (la primera parte la iba escribiendo capítulo a capítulo sin pararme a pensar que estaba englobando una o más escenas en cada uno).
+3. Me ha gustado empezar a escribir algo más cercano al libro final.
+
+**Por estas razones he decidido detenerme con más calma y proponerme resumir un capítulo por día**. Tardaré bastante pero con sólo las dos primeros capítulos me he dado cuenta de interacciones interesantes que quiero plantear entre Lara, Jonás, Lucas, Noemí, ... . En fin, que sarna con gusto no pica.
+
+¡Hasta la próxima semana!
