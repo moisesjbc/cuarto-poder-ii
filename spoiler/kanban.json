@@ -6,6 +6,36 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Resumir escenas 3 y 4",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "[Split] Resto de escenas (de 2 en 2)",
+          "details": "",
+          "color": "FCC7FC"
+        },
+        {
+          "name": "Crear lista de escenas (3/5)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Crear lista de escenas (4/5)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Crear lista de escenas (5/5)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar lista de escenas",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Repasar resumen de una página",
           "details": "",
           "color": "FAFCD2"
@@ -149,6 +179,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Refinar escenas 1 y 2",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar resumen completo",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Crear resumen completo (5/5)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Crear resumen completo (3/5)",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Extender resumen a una página",
           "details": "",
