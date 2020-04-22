@@ -4,7 +4,7 @@ type:           md
 summaryFull:    El grupo es transportado hasta la base de la Resistencia más cercana y descansa.
 POV:            0
 notes:          - ¿Están en África?
-                	- Lucas lo descubre entonces.
+                - Lucas lo descubre entonces.
                 - ¿Usan el tren?
                 - Ana informa a Lucas de que el primer grupo fue capturado. Lucas se lamenta por {C:24:María}.
                 - ¿Lucas tiene alguna visión en sueños?

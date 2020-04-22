@@ -1,6 +1,9 @@
 title:          Capítulo 4
 ID:             19
 type:           folder
+POV:            0
+label:          3
+status:         2
 compile:        2
 
 
