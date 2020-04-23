@@ -1,19 +1,14 @@
 title:          Escena 1
 ID:             20
 type:           md
-summaryFull:    Idea... : ¿Lucas se despierta con las sábanas todas revueltas (intentos de la Sirena de tomar el control?
-notes:          - Puede haber un topo que vuelve o que los fugados mueran por diversas causas.
+summaryFull:    Lucas se despierta y recibe varias quejas por haber estado revolviéndose en sueños, al igual que Jonás. Entre los dos calman a Lara que, como Jonás, ha sangrado durante la noche.
                 
-                Lucas y los otros rescatados de la *Burbuja* son marcados con un tatuaje de dos burbujas en la muñeca, y reciben el rechazo de otros miembros de la Resistencia, que desconfían de ellos. Los recién llegados comienzan su entrenamiento e integración en la Resistencia, según las capacidades de cada uno. {C:2:Noemí}, {C:27:Lara} y otros menores reciben una suerte de educación de Primaria o Secundaria, ya que la Resistencia se "niega a reclutar niños". Esto molesta a Noemí, ya que quiere luchar contra RIO.
+POV:            0
+notes:          - Intentos de la Sirena de sugestionarlo en sueños.
+                - "¡Joder! ¡Menuda noche!"
+                - Jonás se niega a que los vea un médico a Lara o a él.
                 
-                Durante las siguientes semanas, {C:1:Ana} parte a misiones y vuelve de vez en cuando, mientras Lucas continúa su entrenamiento. El joven sigue teniendo visiones del planeta X cada vez más vividas y lo termina comentando con otros liberados de las *Burbujas*. Estos le cuentan que han experimentado visiones similares, pero que estas desaparecieron al poco tiempo, al contrario que en su caso.
-                
-                Lucas y otros liberados de las Burbujas también participan en vídeos retransmitidos por Internet para exponer a {W:0:RIO}, pero esta rápidamente los desacredita y tacha a Lucas de terrorista. El joven sufre una gran desmotivación a causa de esto y Ana trata de animarlo. Esta le enseña un documento de la intranet de la Resistencia: un diario del fundador de la Resistencia hablando del nacimiento de RIO y de esta. La joven le anima a luchar como hizo este.
-                
-                Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a sus primeras misiones de estallido de *Burbujas*. En una de ellas el grupo es emboscado por fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras estos intentan escapar.
-                
-                
-label:          1
+label:          4
 status:         1
 compile:        2
 setGoal:        500
