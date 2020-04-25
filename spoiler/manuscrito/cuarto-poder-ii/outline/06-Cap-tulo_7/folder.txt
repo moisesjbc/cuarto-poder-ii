@@ -1,6 +1,8 @@
 title:          Capítulo 7
 ID:             37
 type:           folder
+label:          3
+status:         1
 compile:        2
 
 
