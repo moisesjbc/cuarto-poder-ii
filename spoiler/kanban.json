@@ -6,14 +6,14 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Resumir escenas 3 y 4",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "[Split] Resto de escenas (de 2 en 2)",
+          "name": "[Split] Resto de capítulos (de 1 en 1)",
           "details": "",
           "color": "FCC7FC"
+        },
+        {
+          "name": "Repasar destino y presencia en las escenas",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "Crear lista de escenas (3/5)",
@@ -131,6 +131,11 @@
           "color": "FAFCD2"
         },
         {
+          "name": "Agradecer al \"Snowflake guy\"",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
           "name": "Repasar código de colores y usarlo.",
           "details": "",
           "color": "989FFA"
@@ -180,7 +185,32 @@
       "name": "Done",
       "cards": [
         {
-          "name": "Refinar escenas 1 y 2",
+          "name": "Esbozar capítulo 7",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 6",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 5",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 4",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 3",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Refinar capítulos 1 y 2",
           "details": "",
           "color": "FAFCD2"
         },
