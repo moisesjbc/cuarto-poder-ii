@@ -444,3 +444,13 @@ Me ha bastado esbozar las escenas 1 y 2 para darme cuenta de varias cosas:
 **Por estas razones he decidido detenerme con más calma y proponerme resumir un capítulo por día**. Tardaré bastante pero con sólo las dos primeros capítulos me he dado cuenta de interacciones interesantes que quiero plantear entre Lara, Jonás, Lucas, Noemí, ... . En fin, que sarna con gusto no pica.
 
 ¡Hasta la próxima semana!
+
+## Semana 58 (20/04/2020 - 26/04/2020)
+
+**Esta semana he logrado esbozar los capítulos (resumen de una línea + notas opcionales) hasta el capítulo 7**.
+
+Pensé que estaba tirando muy por lo bajo cuando me planteé hacerlo a capítulo por día, pero no fue así. En más de una ocasión tuve el temido bloqueo creativo, y esbozar una escena en el día sin descuidar mis otros proyectos personales ya resultaba un logro.
+
+A medida que esbozo las escenas me voy dando cuenta de que puedo lograr tensión sin recurrir a tiroteos y grandes explosiones. Estoy trabajando en las interacciones y conflictos entre los personajes, y espero darle mayor riqueza a esta parte que en la primera parte. También intento hacer malabares para que todos los personajes tengan algo que decir de manera constante, en vez de que un secundario aparezca una vez y desaparezca hasta dentro de N capítulos.
+
+**La planificación para la semana que viene es bastante directa: esbozar otros 6 o 7 capítulos**. ¡A por ello!
