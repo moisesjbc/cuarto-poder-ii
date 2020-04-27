@@ -1,6 +1,12 @@
 title:          Capítulo 10
 ID:             55
 type:           folder
+POV:            0
+notes:          Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a sus primeras misiones de estallido de *Burbujas*. En una de ellas el grupo es emboscado por fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras estos intentan escapar.
+                
+                - Puedo hacer que la base rebelde también sea atacada y pierdan la comunicación para que Lucas "no pueda volver".
+label:          3
+status:         1
 compile:        2
 
 
