@@ -16,6 +16,11 @@
           "color": "FAFCD2"
         },
         {
+          "name": "Repasar misterios en resumen y ver si están planteados / resueltos en sus respectivas escenas o capítulos",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Crear lista de escenas (3/5)",
           "details": "",
           "color": "FAFCD2"
@@ -184,6 +189,41 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Esbozar capítulo 14",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 13",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 12",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 11",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 10",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 9",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 8",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Esbozar capítulo 7",
           "details": "",
