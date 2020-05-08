@@ -9,6 +9,7 @@ notes:          "Allí Ajani y Kasim le cuentan a Lucas que lo han rescatado por
                 - Ajani no se termina de fiar de la Resistencia como un todo, ya que tiene muchos infiltrados de RIO.
                 - **¿Cómo saben Ajani y Kasim de las visiones de Lucas?**
                 - Espían los informes de la Resistencia sobre los *Burbujas* y saben de sus visiones. Han visto que Lucas mantiene las visiones.
+                - **¿Y Ana?**
 label:          4
 status:         1
 compile:        2

@@ -5,6 +5,7 @@ summaryFull:    Lucas convence a los hermanos de que lo dejen ver a Ana y lo lle
 POV:            0
 notes:          - Lucas le pregunta por Noemí.
                 - **¿Lucas le da en secreto las indicaciones de a donde se dirige a Ana?**
+                - Lucas se debate entre dejarle una nota con el destino a Ana en secreto o no para no ponerla en peligro. Finalmente se la cuela pero no lo dejo claro al lector.
 label:          4
 status:         1
 compile:        2

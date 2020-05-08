@@ -1,23 +1,9 @@
 title:          Capítulo 18
 ID:             103
 type:           folder
-notes:          
-                # Segundo acto
-                
-                Cuando Ajani considera que Lucas está listo, lo llevan con ellos para continuar la búsqueda del planeta X. Siguen varias pistas hasta descubrir una base de RIO que controla unos satélites que parecen estar interfiriendo las comunicaciones con el planeta X. Ajani y Lucas se infiltran en él y llegan hasta la sala, activando la destrucción de los satélites. Cuando consiguen abrirlo descubren que las visiones del eran alucinaciones provocadas por un ser alienígena que sólo puede ver Lucas (**¿o Ajani también?**) para que destruyeran el Mástil que frenaba su proceso de asimilación de la Tierra.
-                
-                ## A resolver
-                
-                - **¿Qué pasa con Ana en este acto?**
-                - Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.
-                - Ajani en la carta a Cooper en la primera parte lamentaba no poder ayudarle (REVISAR). Casar esto.
-                - ¿Meter a los Hombres de Negro?
-                - ¿Qué pasó con Allan? Si acaso mencionar que sigue desaparecido.
-                - Insertar en algún lado que RIO / los hombres de Negro forzaron que Paco se mantuviera en su puesto porque su incompetencia les sirve para X.
-                - ¿Querían que entraran de lleno en el subsuelo del {W:3:AT de Gran Canaria} para capturarles dentro?
-                - - **Sensibilidad de Lucas a las nanomáquinas**
-                - 	¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
-                - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
+POV:            0
+label:          3
+status:         1
 compile:        2
 
 
