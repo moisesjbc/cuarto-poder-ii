@@ -1,7 +1,7 @@
 title:          Escena 3
 ID:             106
 type:           md
-summaryFull:    Ajani y Lucas se atrincheran en la sala de control, matando a los guardias y forzando a los científicos presentes a desactivar el sistema. El sistema es desactivado y la Sirena hace acto de aparición. Les da las gracias y los ayuda a escapar.
+summaryFull:    Ajani y Lucas se atrincheran en la sala de control, matando a los guardias y forzando a los científicos presentes a desactivar el sistema. El sistema es desactivado y la Sirena hace acto de aparición y les da las gracias justo antes de que los efectivos de RIO irrumpan en la sala.
 POV:            0
 notes:          - Puedo jugar con alguna confusión en la que Lucas y Ajani se refieren al portal y la otra personaje habla del satélite.
                 - O matan también a los científicos / los mata Lucas pensando que son soldados y a Ajani le da igual.
