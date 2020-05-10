@@ -460,3 +460,9 @@ A medida que esbozo las escenas me voy dando cuenta de que puedo lograr tensión
 **Esta semana he continuado esbozando capítulos (resumen de una línea + notas opcionales) hasta el capítulo 14 inclusive**.
 
 Ya me encuentro a mitad del segundo cuarto del libro y la semana que viene debería pasar al tercero si mantengo el ritmo. A ver qué tal.
+
+## Semana 60 (04/05/2020 - 10/05/2020)
+
+**Completado resumen de capítulos hasta el capítulo 19 inclusive**. Acabo de entrar en el tercer cuarto del libro y queda claro que superaré los 24 capítulos de la primera parte. ¿La superaré también en número de páginas?
+
+¡Hasta la semana que viene!
