@@ -6,6 +6,11 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Esbozar capítulo 20",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "[Split] Resto de capítulos (de 1 en 1)",
           "details": "",
           "color": "FCC7FC"
@@ -51,41 +56,6 @@
           "color": "FAFCD2"
         },
         {
-          "name": "6.3. Repasar resumen completo (primera mitad)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "6.4. Repasar resumen completo (segunda mitad)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "8y9.1. Generar lista de escenas (primer acto)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "8y9.2. Generar lista de escenas (segundo acto)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "8y9.3. Generar lista de escenas (tercer acto)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "8y9.4. Generar lista de escenas (cuarto acto)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "8y9.5. Repasar lista de escenas",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Filtrar personajes",
           "details": "",
           "color": "FAFCD2"
@@ -99,11 +69,6 @@
           "name": "Limpiar resúmenes de \"misterios\". Integrar estos en el resumeno en otro lugar.",
           "details": "",
           "color": "C1F7C2"
-        },
-        {
-          "name": "Split de rellenar fichas en ficha general / ficha resumen",
-          "details": "",
-          "color": "FCC7FC"
         },
         {
           "name": "Anotar posibles soluciones para 7 misterios en el resumen",
@@ -178,7 +143,7 @@
       "cards": [
         {
           "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo -> Nope, al final entre que es un proceso creativo y que no puedo dedicar mucho tiempo al día por A o por B, no puedo asegurar un ritmo constante de cumplir objetivos aunque sean muy pequeños.\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor, aunque estos deben ser lo suficientemente humildes para que no se vayan de tiempo -> Nope, al final entre que es un proceso creativo y que no puedo dedicar mucho tiempo al día por A o por B, no puedo asegurar un ritmo constante de cumplir objetivos aunque sean muy pequeños. -> Sip, si estoy en una semana en la que los objetivos son muy muy humildes.\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
           "color": "FCE4D4"
         }
       ],
@@ -189,6 +154,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Esbozar capítulo 19",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 18",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 17",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 16",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 15",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Esbozar capítulo 14",
           "details": "",
