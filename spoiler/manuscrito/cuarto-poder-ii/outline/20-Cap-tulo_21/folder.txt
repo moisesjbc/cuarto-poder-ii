@@ -1,21 +1,9 @@
 title:          Capítulo 21
 ID:             121
 type:           folder
-notes:          # Tercer acto
-                
-                Lucas y Ana viajan a la ciudad más cercana dónde se ha reportado casos de violentos y en medio del caos consiguen capturar a uno y llevarlo hasta un pueblo cercano. Este resulta ser una *Burbuja* desactivada donde han convergido antiguos ciudadanos de la misma "para construir un pequeño paraíso" usando la señal que los de RIO emitía para controlar la red. Los habitantes ayudan a Ana y Lucas a llevar al cautivo a la plaza y usar las notas de xilófono sobre él. Este parece recuperar la cordura. La Sirena indica a Lucas cómo infectarlo y pide un tiempo para "entrar en él". Ana y Lucas charlan sobre lo ocurrido y Ana se plantea si el virus puede tener realmente buenas intenciones. Durante la conversación ambos muestran más empatía el uno por el otro, casi como si pudieran hablar si palabras y la Sirena les habla de la mente enjambre y la unidad.
-                
-                Pasan unas horas y la Sirena les dice que ha accedido a los recuerdos y que lo último que recuerda antes de enloquecer es haber entrado en unas facilidades X. Ana pide ayuda a su contacto de la Resistencia para localizar el lugar cuando los habitantes de la Sirena les avisan de que están siendo atacados. Elizabeth y un pequeño ejército de RIO ataca la *Burbuja* mientras Lucas, Ana y los demás intentan defenderla. Ana pide ayuda a la Resistencia por radio.
-                
-                Llegan los refuerzos de la Resistencia y reducen a los de {W:0:RIO} a duras penas. Cuando la zona es segura llega Jonás y ataca a Lucas, rabioso porque este ha liberado a la Sirena. El vagabundo acaba confesando su anterior puesto de biotecnólogo en {W:0:RIO} y lo peligroso que es la Sirena (pe. daños mentales, reducción de la esperanza de la vida, etc), sobre todo para gente resistente como él y especialmente Lara. Cuando el grupo va a reagruparse y volver a la base se comunica con esta última. La comunicación se interrumpe de repente con una explosión. El grupo viaja allí y descubren la base destruida. Lara y Noemí, entre otros, han desaparecido.
-                
-                Elizabeth consigue huir en la confusión, pero la encuentran rápidamente. Esta se encuentra muy confundida y les reproduce una grabación de su comunicador: de su base también ha escuchado una explosión. El grupo se da cuenta de otras muchas bases de la Resistencia y de RIO destruidas.
-                
-                ## A resolver
-                
-                - Otra altenativa: RIO localiza las bases rebeldes gracias a la mente colmena y neutraliza la mayoría.
-                - Bases de RIO destruidas por ellos mismos para eliminar sospechas y contener la "infección".
-                - ¿Jonás le suministra en secreto algo que lo hace más resistente, por eso Lucas no es tan sugestionable como antes?. **¿No se entera la Sirena de esto? O es que ya no se le puede aparecer y se intenta comunicar con él a través de otros asimilados**
+POV:            0
+label:          3
+status:         1
 compile:        2
 
 
