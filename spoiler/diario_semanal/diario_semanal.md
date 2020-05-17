@@ -466,3 +466,9 @@ Ya me encuentro a mitad del segundo cuarto del libro y la semana que viene deber
 **Completado resumen de capítulos hasta el capítulo 19 inclusive**. Acabo de entrar en el tercer cuarto del libro y queda claro que superaré los 24 capítulos de la primera parte. ¿La superaré también en número de páginas?
 
 ¡Hasta la semana que viene!
+
+## Semana 61 (11/05/2020 - 17/05/2020)
+
+**He completado el resumen de capítulos hasta el capítulo 23 inclusive**. Esta semana he trabajado en la novela dos días menos porque durante el fin de semana he estado participando en el [1er reto game dev](https://itch.io/jam/1-retogamedev).
+
+La semana que viene debería volver al ritmo normal... esperemos.
