@@ -13,7 +13,7 @@ notes:          - Enfado de Noemí por sentirse abandonada por Lucas y los demá
                 - Bases de RIO destruidas por ellos mismos para eliminar sospechas y contener la "infección".
                 
 label:          4
-status:         2
+status:         1
 compile:        2
 setGoal:        500
 
