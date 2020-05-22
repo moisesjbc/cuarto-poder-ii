@@ -1,0 +1,47 @@
+title:          Escena 1
+ID:             23
+type:           md
+summaryFull:    Lucas se abre paso durante la lucha entre los efectivos de RIO y la Resistencia y encuentra a Noemí y a los demás. Consiguen escapar a tiempo de la explosión pero entonces los captura Elizabeth junto con refuerzos de la Resistencia.
+POV:            0
+notes:          - Elizabeth: "Es hora de acabar con esto de una vez".
+                - **¿Qué pasa con Ajani y Kasim?**
+                
+                - Siguiente capítulo: son transportados al almacén de África.
+                - Jonás confiesa que lo matará sin dudarlo para proteger a su hermana.
+                - RIO amenaza con matar a Noemí si no lanza el Mástil.
+                
+                # Cuarto acto
+                
+                Efectivos de la Resistencia viajan hasta el almacén de África. Durante el trayecto la Sirena intenta convencerles de que RIO intenta crear una *Burbuja* global, donde poco importará las pruebas que hayan podido publicar.
+                
+                Todos convergen en la base y se produce una batalla caótica entre los de RIO, la Resistencia, Ajani y los asimilados, tanto "buenos" como "malos". Lucas consigue abrirse paso hasta el centro de control y se encuentra en la tesitura de lanzar el Mástil o  destruirlo (**¿Por qué?**). Finalmente lo destruye.
+                
+                ## A resolver
+                
+                - **¿Cómo llega Lucas a estar en esa posición de poder? ¿Qué lo termina de convencer?**
+                
+                (-) ¿Por qué aparece justo en ese momento para salvar a Lucas? -> ¿Quizás alguien le contactó y le contó lo de las visiones de Lucas y por eso Ajani va a por él? -> ¿quién?
+                - Con esto puedo "explotar" el hecho de que Ajani sólo salvó a Lucas para usarlo al tiempo que mataba a los de RIO.
+                - ¿Qué cree Ajani que puede conseguir si encuentra el planeta?
+                - Ver cómo lo conecto con el relato del almacén en África.
+                - ¿Cómo dice Ajani que conoce el planeta? Si meto lo de las visiones no cuadraría con su personaje (creo), y daría a entender que es otro afectado por las *Burbujas* -> Quizás simplemente conoció las visiones de escucharlas por muchas personas y llegó a saber que RIO ha desplegado satélites pero no sabe lo que son realmente.
+                (-) ¿Cómo puede saber Ajani del planeta y seguir influenciado de la Gran Sirena? -> A lo mejor su ira lo vuelve más suceptible a la Sirena y esta lo improntó con el objetivo antes de perder el control. También puedo meter los intentos de Jonás por hacerle ver que es un bulo o algo para distraerlo de su objetivo.
+                - Ajani no se andará con chiquitas: "no quiero un peso muerto / lastre al que proteger, sino a alguien en quien poder confiar en el campo de batalla". Pondrá a prueba a Lucas con pruebas como pelear con un prisionero capturado, buscarse la vida en el bosque (¿matar perro salvaje?), etc.
+                - **Decidir si Ajani lo lleva ante los Hombres de Negro**.
+                - Los de RIO y de la Resistencia pueden seguir actuando porque no todos están infectados. Los de RIO experimentan con un mini mástil que protege al portador.
+                
+                # Misterios a resolver
+                
+                - ¿Tema de la obra? ¿Conciencia y proactividad para cambiar las cosas?
+                
+                ## Ideas sueltas
+                
+                - **¿Integro la lucha por el almacén en la historia? ¿En dónde?**
+                - **Revisar**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
+                - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
+                - Cuando Lucas es contagiado puedo cambiar a la perspectiva de otro personaje, o puedo seguir con la perspectiva de Lucas, lidiando con las voces que lo guían.
+label:          4
+status:         1
+compile:        2
+
+
