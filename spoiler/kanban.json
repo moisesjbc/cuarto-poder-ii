@@ -6,19 +6,34 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Esbozar capítulo 24",
+          "name": "Esbozar capítulo 29",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Esbozar capítulo 25",
+          "name": "Esbozar capítulo 30",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "[Split] Resto de capítulos (de 1 en 1)",
+          "name": "Esbozar capítulo 31",
           "details": "",
-          "color": "FCC7FC"
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 32",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 33",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 34",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "Repasar destino y presencia en las escenas",
@@ -129,6 +144,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Esbozar capítulo 28",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 27",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 26",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 25",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 24",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Esbozar capítulo 23",
           "details": "",
