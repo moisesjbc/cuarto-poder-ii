@@ -472,3 +472,9 @@ Ya me encuentro a mitad del segundo cuarto del libro y la semana que viene deber
 **He completado el resumen de capítulos hasta el capítulo 23 inclusive**. Esta semana he trabajado en la novela dos días menos porque durante el fin de semana he estado participando en el [1er reto game dev](https://itch.io/jam/1-retogamedev).
 
 La semana que viene debería volver al ritmo normal... esperemos.
+
+## Semana 62 (18/05/2020 - 24/05/2020)
+
+**Pues salvo que fallé un día, sí que he mantenido el ritmo normal :-)** **He esbozado los capítulos hasta el 28 (inclusive) y estoy muy cerca del final del libro (en cuanto a resúmenes...)**. Creo que se quedará en 30 o 31 capítulos, pero todo puede cambiar. No es más que el primer esbozo y hay capítulos que es muy posible que se unifiquen o se separen.
+
+A ver qué se cuenta la semana que viene.
