@@ -5,8 +5,8 @@ summaryFull:    El grupo se abre paso entre la multitud a dudas penas, con un Jo
 POV:            0
 notes:          
                 - Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores.
-                	- "La asimilación debe ser aceptada por un ser adulto".
-                	
+                - "La asimilación debe ser aceptada por un ser adulto".
+                
                 
 label:          4
 status:         1
