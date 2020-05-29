@@ -10,6 +10,13 @@ notes:          "Allí Ajani y Kasim le cuentan a Lucas que lo han rescatado por
                 - **¿Cómo saben Ajani y Kasim de las visiones de Lucas?**
                 - Espían los informes de la Resistencia sobre los *Burbujas* y saben de sus visiones. Han visto que Lucas mantiene las visiones.
                 - **¿Y Ana?**
+                
+                - Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.
+                - Sobre lo de Ajani dándose cuenta de que Lucas tiene las visiones puedo incluir un simpatizante suyo que pregunta sutilmente a Lucas por sus visiones y va informando a Ajani.
+                - Ajani en la carta a Cooper en la primera parte lamentaba no poder ayudarle (REVISAR). Casar esto.
+                - **Sensibilidad de Lucas a las nanomáquinas**
+                - 	¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
+                - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
 label:          4
 status:         1
 compile:        2

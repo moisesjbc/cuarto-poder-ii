@@ -5,6 +5,8 @@ summaryFull:    Ajani y Lucas se infiltran en las instalaciones mientras Kasim l
 POV:            0
 notes:          - ¿La Sirena va dando indicaciones a Lucas de alguna manera?
                 - ¿Ajani usa algún tipo de impulso electromagnético para desactivar la trampilla?
+                - 	- Importante: esto se usará en el capítulo 31 (lucha contra Jonás).
+                
 label:          4
 status:         1
 compile:        2

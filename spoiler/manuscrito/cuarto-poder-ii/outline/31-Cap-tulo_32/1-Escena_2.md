@@ -5,7 +5,7 @@ summaryFull:    Años después: Lucas camina por la calle mientras va haciendo y
 POV:            0
 notes:          - **¿Le quito a Ana la oportunidad de evolucionar al quitarla de la parte final de la novela?**
                 - Indicar que la gente no ha perdido el libre albedrío ni la privacidad.
-                	- ¿Sigue existiendo el crimen?
+                - ¿Sigue existiendo el crimen?
                 - RIO y la Resistencia han dejado de existir.
                 - Importancia de conocer / sentir nuestro efecto en los demás y el planeta para ayudarnos a tomar la decisión correcta.
                 
