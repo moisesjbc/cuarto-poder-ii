@@ -8,5 +8,6 @@ notes:          - Elizabeth: "Es hora de acabar con esto de una vez".
 label:          4
 status:         1
 compile:        2
+setGoal:        500
 
 

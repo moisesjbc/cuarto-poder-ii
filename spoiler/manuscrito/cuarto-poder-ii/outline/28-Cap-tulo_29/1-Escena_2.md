@@ -9,5 +9,6 @@ notes:          - Lucas se percata del bulto en la pierna de uno de los efectivo
 label:          4
 status:         1
 compile:        2
+setGoal:        500
 
 

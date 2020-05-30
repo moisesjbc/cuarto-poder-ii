@@ -7,6 +7,9 @@ notes:          **(¿Meter finalmente?)**
                 - ¿Meter a los Hombres de Negro?
                 - Insertar en algún lado que RIO / los hombres de Negro forzaron que Paco se mantuviera en su puesto porque su incompetencia les sirve para X.
                 - ¿Querían que entraran de lleno en el subsuelo del {W:3:AT de Gran Canaria} para capturarles dentro?
+                
+                - Ver cómo lo conecto con el relato del almacén en África.
+                - ¿Aclarar que Ajani lo mencione de pasada?.
 label:          1
 status:         1
 compile:        2

@@ -5,6 +5,7 @@ summaryFull:    Los de RIO son detenidos y el grupo de la Resistencia, furioso, 
 POV:            0
 notes:          - ¿Ser querido de la médico asesinada intenta matar a Lucas?
                 - "Enhorabuena. Nos has condenado a todos" (A Lucas).
+                - Bases de RIO destruidas por ellos mismos para eliminar sospechas y contener la "infección".
 label:          4
 status:         1
 compile:        2

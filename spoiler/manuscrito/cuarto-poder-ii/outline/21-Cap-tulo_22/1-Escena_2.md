@@ -5,7 +5,6 @@ summaryFull:    Ana y Lucas charlan sobre lo ocurrido y Ana se plantea si el vir
 POV:            0
 notes:          - Durante la conversación ambos muestran más empatía el uno por el otro, casi como si pudieran hablar sin palabras y la Sirena les habla de la mente enjambre y la unidad.
                 - Lucas se plantea si realmente puede tener privacidad con la Sirena escuchando todo a través de él.
-                - Puedo incluir en la lucha con los violentos que Ana siente un pinchazo (le inyectan algo que le provoca el malestar / alucinaciones).
 label:          4
 status:         1
 compile:        2

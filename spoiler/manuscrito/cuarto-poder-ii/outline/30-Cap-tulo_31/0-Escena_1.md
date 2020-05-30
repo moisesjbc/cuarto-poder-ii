@@ -7,5 +7,6 @@ notes:          - **Pensar muy bien por qué Ajani no ha podido atacar antes sin
 label:          4
 status:         1
 compile:        2
+setGoal:        500
 
 
