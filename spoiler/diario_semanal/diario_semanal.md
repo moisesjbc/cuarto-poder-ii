@@ -478,3 +478,9 @@ La semana que viene debería volver al ritmo normal... esperemos.
 **Pues salvo que fallé un día, sí que he mantenido el ritmo normal :-)** **He esbozado los capítulos hasta el 28 (inclusive) y estoy muy cerca del final del libro (en cuanto a resúmenes...)**. Creo que se quedará en 30 o 31 capítulos, pero todo puede cambiar. No es más que el primer esbozo y hay capítulos que es muy posible que se unifiquen o se separen.
 
 A ver qué se cuenta la semana que viene.
+
+## Semana 63 (25/05/2020 - 31/05/2020)
+
+**¡Completado primer resumen / esbozo de todos los capítulos!** Por ahora estamos en 32 capítulos y estoy casi convencido de que la historia no sufrirá grandes cambios (pero a saber...).
+
+**La semana que viene la dedicaré a darle un segundo repaso rápido a los capítulos** para intentar resolver el mayor número de dudas que me he planteado. **Especialmente quiero ver si puedo evitar la "sobrecarga de información" que tiene el capítulo 11 (encuentro de Lucas con Ajani y Kasim) y refinar un poco los últimos capítulos.**
