@@ -6,34 +6,9 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Esbozar capítulo 29",
+          "name": "Repasar bien la última parte (dudas, naturaleza y control del almacén, etc)",
           "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Esbozar capítulo 30",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Esbozar capítulo 31",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Esbozar capítulo 32",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Esbozar capítulo 33",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Esbozar capítulo 34",
-          "details": "",
-          "color": "FAFCD2"
+          "color": "FF9E9E"
         },
         {
           "name": "Repasar destino y presencia en las escenas",
@@ -144,6 +119,36 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "(Capítulos 18 - 32) Mover misterios de los outlines a sus escenas correspondientes (los que se pueda)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "(capítulos 1 - 18) Mover misterios de los outlines a sus escenas correspondientes (los que se pueda)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 32",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 31",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 30",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Esbozar capítulo 29",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Esbozar capítulo 28",
           "details": "",
