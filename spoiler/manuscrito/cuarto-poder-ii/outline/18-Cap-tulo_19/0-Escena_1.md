@@ -5,6 +5,8 @@ summaryFull:    La Sirena da las gracias a Lucas y Ajani y les insta a huir, ya 
 POV:            0
 notes:          - **¿Meter que Ajani quiere quedarse a matar a los de RIO pero Kasim lo calma?**
                 - ¿Meter lucha con Elizabeth en la que esta le coloca / inyecta un localizador a Lucas? Así RIO puede orquestar la lucha con los violentos.
+                
+                - Los de RIO y de la Resistencia pueden seguir actuando porque no todos están infectados. Los de RIO experimentan con un mini mástil que protege al portador.
 label:          4
 status:         1
 compile:        2

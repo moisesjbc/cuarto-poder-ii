@@ -8,6 +8,7 @@ notes:          - Ajani está ciego cebándose con los de RIO y por eso escapan 
                 - **¿Aclarar aquí el estado de control de las instalaciones?**
                 - **La Sirena ha acabado con los que controlan la base (¿cómo?), pero no pueden acercarse a tantos metros de la cámara de lanzamiento porque estos antes de morir activaron la señal**.
                 - **La Sirena ha "tamponado" accesos a la cámara con sus insectos. Por eso Lucas es necesario**.
+                - ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
 label:          4
 status:         1
 compile:        2

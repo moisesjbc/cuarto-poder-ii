@@ -9,6 +9,12 @@ notes:          - **Decidir tiempos**.
                 
                 - ¿Qué pasó con Allan? Si acaso mencionar que sigue desaparecido.
                 - ¿Y {C:12:Arturo Ramírez "El Venezolano"}?
+                
+                - Asalto al AT de Gran Canaria.
+                -	En la ficha de Cooper menciono "descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}."
+                -	 	**¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
+                - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
+                - 	Consecuencias para el coronel e Inglaterra.
 label:          4
 status:         1
 compile:        2

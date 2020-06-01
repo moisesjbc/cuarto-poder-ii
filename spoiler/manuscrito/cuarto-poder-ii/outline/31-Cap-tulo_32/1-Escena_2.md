@@ -9,7 +9,7 @@ notes:          - ¿Mover a otro capítulo?
                 - ¿Sigue existiendo el crimen?
                 - RIO y la Resistencia han dejado de existir.
                 - Importancia de conocer / sentir nuestro efecto en los demás y el planeta para ayudarnos a tomar la decisión correcta.
-                
+                - ¿Especificar qué termina de convencer a Lucas?
 label:          4
 status:         1
 compile:        2

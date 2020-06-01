@@ -16,12 +16,6 @@ Full:        # Inicio
              
              Mientras abandonan la *Burbuja* en la que el joven estaba retenido, el grupo es emboscado por fuerzas de {W:0:RIO}. Estos han activado la trampa de nanomáquinas de la estación, haciéndolos caer en un "foso", y lanzan granadas con un potente somnífero. El grupo es reducido, pero cuando despierta, los de RIO han sido sorprendidos y eliminados por un grupo de refuerzo de la Resistencia. Este último fue avisado por el primer grupo que abandonó la *Burbuja*, justo antes de ser capturado por la corporación.
              
-             ## Notas
-             
-             - Los de la Resistencia pueden haber llegado en el tren y haber pillado a los de RIO por sorpresa ya que no pensaban sacar a los capturados hasta que el tren pasara.
-             - Cámara: Miembro de la {W:1:Resistencia} que graba el {P:1:Estallido de la burbuja de Mario}, centrándose en Lucas -> Me parece que va a morir al principio y la Resistencia sólo recupera la cámara. O llegan todos pero no se le ve más el pelo.
-             - ¿No menciona nunca más a dicho grupo?
-             
              # Primer acto
              
              El grupo es transportado a salvo hasta una de las bases de entrenamiento de la Resistencia.
@@ -34,38 +28,6 @@ Full:        # Inicio
              
              Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a sus primeras misiones de estallido de *Burbujas*. En una de ellas el grupo es emboscado por fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras estos intentan escapar.
              
-             ## Notas
-             
-             - Pensar dónde situar la {W:15:Burbuja M (la de Mario)} (revisar descripción) y el pueblo / barrio / lugar donde está la base rebelde (**Pensínsula, buscar un sitio recóndito al que llegue el tren y el paisaje frente a la estación coincida**).
-             - {C:1:Ana}, viendo cómo Lucas no está tan seguro de pertenecer a la Resistencia, lo lleva aparte y le dice que si va a entrar en la {W:1:Resistencia} debe hacerlo convencido, puesto que las vidas de sus compañeros dependerán de él. Lucas recuerda cuando huyó de una paliza a su amigo (o no).
-             - Experimentos con Arturo en el manicomio. ¿Consecuencias?
-             - Asalto al AT de Gran Canaria.
-             -	En la ficha de Cooper menciono "descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}."
-             -	 	**¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
-             - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
-             - 	Consecuencias para el coronel e Inglaterra.
-             - Indicar que Lucas (¿y quién más?) usará el uniforme de la resistencia (¿tienen recursos para tener uniforme?).
-             
-             - **¿Qué ha estado haciendo Ajani durante toda la primera parte?**
-             - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
-             - **¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?**
-             - - ¿Qué ha pasado con la Resistencia tras el {P:2:Asalto al AT de Gran Canaria}?
-             - ¿Resultados del {P:2:Asalto al AT de Gran Canaria}? ¿Se fueron con las manos vacías?
-             - Consecuencias para Inglaterra.
-             - **(*) ¿Cuál es el plan de Jonás si parece que directamente escapan del AT sin hacer nada?**
-             - Mencionar incidente de Inglaterra: **- Qué pasa en el vídeo original y en el que vio Noemí.**
-             - Indicar que Lucas (¿y quién más?) usará el uniforme de la resistencia (¿tienen recursos para tener uniforme?).
-             - ¿Qué ha ocurrido con Cooper y el resto de su unidad?
-             - Mencionar que lo han encontrado en una *Burbuja* muy lejos. Han aceptado colaborar con la Resistencia.
-             - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
-             
-             - - **Sensibilidad de Lucas a las nanomáquinas**
-             - ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
-             - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
-             - ¿Qué es el "humo negro"?
-             - ¿Cualquiera puede usar los nanoguantes? ¿sólo Jonás? ¿alguien más? ¿Jonás conserva alguno?
-             - Mencionar destino de Cooper según su ficha.
-             
              # Segundo acto
              
              Lucas está a punto de morir a manos de las fuerzas de RIO, pero entonces es rescatado por {C:5:Ajani} y {C:39:Kasim}. Los tres huyen.
@@ -75,24 +37,6 @@ Full:        # Inicio
              Al día siguiente Lucas despierta solo, sin rastro alguno de sus acompañantes, agua o comida. Lucas entra en modo pánico, pero empieza a explorar la zona. El joven pasa penurias para encontrar algo que echarse a la boca y buscar refugio. Al día siguiente vuelven a aparecer los africanos, pero Ajani continúa sometiéndolo a prueba.
              
              Cuando Ajani considera que Lucas está listo, lo llevan con ellos para continuar la búsqueda del planeta X. Siguen varias pistas hasta descubrir una base de RIO que controla unos satélites que parecen estar interfiriendo las comunicaciones con el planeta X. Ajani y Lucas se infiltran en él y llegan hasta la sala, activando la destrucción de los satélites. Cuando consiguen abrirlo descubren que las visiones del eran alucinaciones provocadas por un ser alienígena que sólo puede ver Lucas (**¿o Ajani también?**) para que destruyeran el Mástil que frenaba su proceso de asimilación de la Tierra.
-             
-             ## A resolver
-             
-             - **¿Por qué Ajani no pide ayuda a la resistencia? ¿Por qué Lucas no puede volver con ellos?**
-             - Ajani no se termina de fiar de la Resistencia como un todo, ya que tiene muchos infiltrados de RIO.
-             - **¿Cómo saben Ajani y Kasim de las visiones de Lucas?**
-             - Espían los informes de la Resistencia sobre los *Burbujas* y saben de sus visiones. Han visto que Lucas mantiene las visiones.
-             - **¿Qué pasa con Ana en este acto?**
-             - Meter lo del tabardo de Ajani pegando a Lucas.
-             - Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.
-             - Ajani en la carta a Cooper en la primera parte lamentaba no poder ayudarle (REVISAR). Casar esto.
-             - ¿Meter a los Hombres de Negro?
-             - ¿Qué pasó con Allan? Si acaso mencionar que sigue desaparecido.
-             - Insertar en algún lado que RIO / los hombres de Negro forzaron que Paco se mantuviera en su puesto porque su incompetencia les sirve para X.
-             - ¿Querían que entraran de lleno en el subsuelo del {W:3:AT de Gran Canaria} para capturarles dentro?
-             - - **Sensibilidad de Lucas a las nanomáquinas**
-             - 	¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
-             - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
              
              # Tercer acto
              
@@ -110,13 +54,6 @@ Full:        # Inicio
              
              Elizabeth consigue huir en la confusión, pero la encuentran rápidamente. Esta se encuentra muy confundida y les reproduce una grabación de su comunicador: de su base también ha escuchado una explosión. El grupo se da cuenta de otras muchas bases de la Resistencia y de RIO destruidas.
              
-             ## A resolver
-             
-             - Otra altenativa: RIO localiza las bases rebeldes gracias a la mente colmena y neutraliza la mayoría.
-             - Bases de RIO destruidas por ellos mismos para eliminar sospechas y contener la "infección".
-             - ¿Jonás le suministra en secreto algo que lo hace más resistente, por eso Lucas no es tan sugestionable como antes?. **¿No se entera la Sirena de esto? O es que ya no se le puede aparecer y se intenta comunicar con él a través de otros asimilados**
-             
-             
              # Cuarto acto
              
              Lucas se une a un grupo de la Resistencia para buscar a Noemí, Lara y otros supervivientes. La Sirena les ayuda a localizarlas rápidamente. Jonás sigue sin fiarse y recalca la importancia de destruir a la Sirena para no ponerlas en peligro nunca más.
@@ -126,28 +63,3 @@ Full:        # Inicio
              Efectivos de la Resistencia viajan hasta el almacén de África. Durante el trayecto la Sirena intenta convencerles de que RIO intenta crear una *Burbuja* global, donde poco importará las pruebas que hayan podido publicar.
              
              Todos convergen en la base y se produce una batalla caótica entre los de RIO, la Resistencia, Ajani y los asimilados, tanto "buenos" como "malos". Lucas consigue abrirse paso hasta el centro de control y se encuentra en la tesitura de lanzar el Mástil o  destruirlo (**¿Por qué?**). Finalmente lo destruye.
-             
-             ## A resolver
-             
-             - **¿Cómo llega Lucas a estar en esa posición de poder? ¿Qué lo termina de convencer?**
-             
-             (-) ¿Por qué aparece justo en ese momento para salvar a Lucas? -> ¿Quizás alguien le contactó y le contó lo de las visiones de Lucas y por eso Ajani va a por él? -> ¿quién?
-             - Con esto puedo "explotar" el hecho de que Ajani sólo salvó a Lucas para usarlo al tiempo que mataba a los de RIO.
-             - ¿Qué cree Ajani que puede conseguir si encuentra el planeta?
-             - Ver cómo lo conecto con el relato del almacén en África.
-             - ¿Cómo dice Ajani que conoce el planeta? Si meto lo de las visiones no cuadraría con su personaje (creo), y daría a entender que es otro afectado por las *Burbujas* -> Quizás simplemente conoció las visiones de escucharlas por muchas personas y llegó a saber que RIO ha desplegado satélites pero no sabe lo que son realmente.
-             (-) ¿Cómo puede saber Ajani del planeta y seguir influenciado de la Gran Sirena? -> A lo mejor su ira lo vuelve más suceptible a la Sirena y esta lo improntó con el objetivo antes de perder el control. También puedo meter los intentos de Jonás por hacerle ver que es un bulo o algo para distraerlo de su objetivo.
-             - Ajani no se andará con chiquitas: "no quiero un peso muerto / lastre al que proteger, sino a alguien en quien poder confiar en el campo de batalla". Pondrá a prueba a Lucas con pruebas como pelear con un prisionero capturado, buscarse la vida en el bosque (¿matar perro salvaje?), etc.
-             - **Decidir si Ajani lo lleva ante los Hombres de Negro**.
-             - Los de RIO y de la Resistencia pueden seguir actuando porque no todos están infectados. Los de RIO experimentan con un mini mástil que protege al portador.
-             
-             # Misterios a resolver
-             
-             - ¿Tema de la obra? ¿Conciencia y proactividad para cambiar las cosas?
-             
-             ## Ideas sueltas
-             
-             - **¿Integro la lucha por el almacén en la historia? ¿En dónde?**
-             - **Revisar**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
-             - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
-             - Cuando Lucas es contagiado puedo cambiar a la perspectiva de otro personaje, o puedo seguir con la perspectiva de Lucas, lidiando con las voces que lo guían.

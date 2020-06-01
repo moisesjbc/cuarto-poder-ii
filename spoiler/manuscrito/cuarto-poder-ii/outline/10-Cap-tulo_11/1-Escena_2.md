@@ -29,6 +29,24 @@ notes:
                 - Con esto puedo "explotar" el hecho de que Ajani sólo salvó a Lucas para usarlo al tiempo que mataba a los de RIO.
                 - ¿Qué cree Ajani que puede conseguir si encuentra el planeta?
                 
+                - **¿Qué ha estado haciendo Ajani durante toda la primera parte?**
+                - Posible motivo: ayudó al ataque aún sabiendo que fallaría para distraer la atención de {W:0:RIO} y conseguir X en su favor.
+                - **¿Por qué avisó tan justo del ataque a Jonás si ya sabía del ataque?**
+                
+                - **¿Por qué Ajani no pide ayuda a la resistencia? ¿Por qué Lucas no puede volver con ellos?**
+                - Ajani no se termina de fiar de la Resistencia como un todo, ya que tiene muchos infiltrados de RIO.
+                - **¿Cómo saben Ajani y Kasim de las visiones de Lucas?**
+                - Espían los informes de la Resistencia sobre los *Burbujas* y saben de sus visiones. Han visto que Lucas mantiene las visiones.
+                
+                - Experimentos con Arturo en el manicomio. ¿Consecuencias?
+                	- ¿Mencionar aquí los intentos de RIO por intentar descubrir más "sensibles"?
+                	- ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
+                	
+                - Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.
+                - Ajani en la carta a Cooper en la primera parte lamentaba no poder ayudarle (REVISAR). Casar esto.
+                
+                (-) ¿Cómo puede saber Ajani del planeta y seguir influenciado de la Gran Sirena? -> A lo mejor su ira lo vuelve más suceptible a la Sirena y esta lo improntó con el objetivo antes de perder el control. También puedo meter los intentos de Jonás por hacerle ver que es un bulo o algo para distraerlo de su objetivo.
+                - Ajani no se andará con chiquitas: "no quiero un peso muerto / lastre al que proteger, sino a alguien en quien poder confiar en el campo de batalla". Pondrá a prueba a Lucas con pruebas como pelear con un prisionero capturado, buscarse la vida en el bosque (¿matar perro salvaje?), etc.
 label:          4
 status:         1
 compile:        2

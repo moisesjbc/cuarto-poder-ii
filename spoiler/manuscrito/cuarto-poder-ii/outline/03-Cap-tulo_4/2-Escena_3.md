@@ -7,6 +7,10 @@ notes:          - "La gente que queda tiene que ser gente de fiar. No nos valen 
                 - Lucas suelta algo en plan "No a todo el mundo le resulta tan fácil jugarse la vida" o algo así y la caga.
                 
                 - **Revisar. Poner aquí (puede que muy forzado) o en otra discusión**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
+                
+                - Mencionar incidente de Inglaterra: **- Qué pasa en el vídeo original y en el que vio Noemí.**
+                
+                - "{C:1:Ana}, viendo cómo Lucas no está tan seguro de pertenecer a la Resistencia, lo lleva aparte y le dice que si va a entrar en la {W:1:Resistencia} debe hacerlo convencido, puesto que las vidas de sus compañeros dependerán de él. Lucas recuerda cuando huyó de una paliza a su amigo (o no)."
 label:          4
 status:         1
 compile:        2
