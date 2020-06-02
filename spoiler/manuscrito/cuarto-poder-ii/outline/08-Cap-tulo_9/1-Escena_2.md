@@ -1,9 +1,11 @@
 title:          Escena 2
 ID:             51
 type:           md
-summaryFull:    Flashforward del entrenamiento de Lucas. Un día descubre que Cooper ha muerto, lo cuál supone un golpe para Lucas.
+summaryFull:    Flashforward del entrenamiento de Lucas. Un día descubre que Cooper ha muerto (*), lo cuál supone un golpe para Lucas.
 POV:            0
-notes:          - **Decidir tiempos**.
+notes:          (*) En el {T:13:Capítulo 3} puede que ya haya refenciado (**¿y confirmado, o no?**) la posible muerte de Cooper. Tener en cuenta.
+                
+                - **Decidir tiempos**.
                 - Se puede mergear la escena esta y la siguiente.
                 - {C:1:Ana} parte a misiones y vuelve de vez en cuando, mientras Lucas continúa su entrenamiento.
                 

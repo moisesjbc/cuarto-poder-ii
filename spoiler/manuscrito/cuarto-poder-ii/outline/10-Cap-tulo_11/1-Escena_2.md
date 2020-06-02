@@ -39,9 +39,9 @@ notes:
                 - Espían los informes de la Resistencia sobre los *Burbujas* y saben de sus visiones. Han visto que Lucas mantiene las visiones.
                 
                 - Experimentos con Arturo en el manicomio. ¿Consecuencias?
-                	- ¿Mencionar aquí los intentos de RIO por intentar descubrir más "sensibles"?
-                	- ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
-                	
+                - ¿Mencionar aquí los intentos de RIO por intentar descubrir más "sensibles"?
+                - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
+                
                 - Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.
                 - Ajani en la carta a Cooper en la primera parte lamentaba no poder ayudarle (REVISAR). Casar esto.
                 

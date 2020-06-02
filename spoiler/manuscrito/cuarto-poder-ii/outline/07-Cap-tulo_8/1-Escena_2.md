@@ -5,7 +5,6 @@ summaryFull:    El grupo de reclutas es formado sobre las *Burbujas* y su estall
 POV:            0
 notes:          - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
                 - ¿Otra noche movidita?
-                - **Yo creo que después de esta escena puedo hacer un flashforward**
 label:          4
 status:         1
 compile:        2

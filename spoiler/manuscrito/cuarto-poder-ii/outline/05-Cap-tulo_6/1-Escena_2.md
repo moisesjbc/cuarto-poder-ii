@@ -5,6 +5,9 @@ summaryFull:    Llegan a la nueva base rebelde y Ana habla con Lucas. Le da un t
 POV:            0
 notes:          Lucas: sigo sin estar seguro.
                 Ana: lo sé. Una decisión rara vez es algo que tomas una vez y pasas a lidiar con los resultados. Decisiones como estas las tomas día tras día.
+                
+                - No olvidar que discutieron previamente.
+                - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
 label:          4
 status:         1
 compile:        2
