@@ -1,15 +1,11 @@
 title:          Escena 2
 ID:             47
 type:           md
-summaryFull:    Ajani y Kasim van a una pequeña aldea donde los habitantes les informan de la localización y otra información de interés. Estos resultan ser los "{W:6:[REVISAR] Hombres de negro}.
+summaryFull:    Ajani y Kasim van a un piso franco en una aldea donde el informante, un espía de los Hombres de Negro" les informa de la localización del nombre en clave y otra información de interés.
 POV:            0
-notes:          **(¿Meter finalmente?)**
-                - ¿Meter a los Hombres de Negro?
-                - Insertar en algún lado que RIO / los hombres de Negro forzaron que Paco se mantuviera en su puesto porque su incompetencia les sirve para X.
-                - ¿Querían que entraran de lleno en el subsuelo del {W:3:AT de Gran Canaria} para capturarles dentro?
+notes:          Los "Hombres de Negro" son agentes dedicados a cubrir las huellas de RIO. Sin embargo, algunos como los que contacta Ajani en este caso son espías que intentan descubrir más sobre el planeta X.
                 
-                - Ver cómo lo conecto con el relato del almacén en África.
-                - ¿Aclarar que Ajani lo mencione de pasada?.
+                - Uno de estos espías mantuvo a Paco en su puesto en la primera parte como forma de aprovechar su incompetencia a favor de la Resistencia. Casi muere por ello.
 label:          1
 status:         1
 compile:        2
