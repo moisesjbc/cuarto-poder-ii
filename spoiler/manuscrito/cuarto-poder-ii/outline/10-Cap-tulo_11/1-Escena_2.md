@@ -4,7 +4,7 @@ type:           md
 summaryFull:    El grupo llega hasta las montañas y descansa. Allí Ajani y Kasim le cuentan al joven su interés en él y le piden  comprometerse "de verdad". Lucas acepta.
 POV:            0
 notes:          - Ajani y Kasim rescatan a Lucas por sus visiones del planeta X, las cuales conocen por un informante de la Resistencia. La pareja lleva tiempo buscándolo porque cree que contiene la clave para destruir a RIO.
-                	- "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
+                - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
                 - Ajani aclara que no piensa cargar con un peso muerto al que proteger, sino que quiere a alguien que pueda desenvolverse en el campo de batalla. Le pregunta al joven si está dispuesto a darlo todo por encontrar el planeta. Lucas, aunque dudoso, acepta.
                 
                 - Ajani no colabora con la resistencia directamente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos infiltrados de RIO.
