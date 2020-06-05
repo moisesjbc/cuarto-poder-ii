@@ -5,9 +5,11 @@ summaryFull:    La Sirena inhabilita a los efectivos de RIO provocándoles jaque
 POV:            0
 notes:          - **¿Meter que Ajani quiere quedarse a matar a los de RIO pero Kasim lo calma?**
                 - ¿Meter lucha con Elizabeth en la que esta le coloca / inyecta un localizador a Lucas? Así RIO puede orquestar la lucha con los violentos.
-                	- O un casual de RIO que le golpea con un anillo con un clavo oculto.
+                - O un casual de RIO que le golpea con un anillo con un clavo oculto.
                 
                 - Los de RIO y de la Resistencia pueden seguir actuando porque no todos están infectados. Los de RIO experimentan con un mini mástil que protege al portador.
+                
+                - Aquí y/o en capítulos siguientes: empezar a poner referencias a que la Sirena no asimila a menores.
 label:          4
 status:         1
 compile:        2
