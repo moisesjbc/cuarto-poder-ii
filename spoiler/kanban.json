@@ -6,22 +6,7 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Repasar bien la última parte (dudas, naturaleza y control del almacén, etc)",
-          "details": "",
-          "color": "FF9E9E"
-        },
-        {
           "name": "Repasar destino y presencia en las escenas",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Repasar misterios en resumen y ver si están planteados / resueltos en sus respectivas escenas o capítulos",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Refinar lista de escenas",
           "details": "",
           "color": "FAFCD2"
         },
@@ -41,44 +26,19 @@
           "color": "C1F7C2"
         },
         {
-          "name": "Limpiar resúmenes de \"misterios\". Integrar estos en el resumeno en otro lugar.",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
-          "name": "Anotar posibles soluciones para 7 misterios en el resumen",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Anotar posibles soluciones para 7 misterios en el resumen (II)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
           "name": "Decidir un nombre de una vez",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Rellenar ficha de interacción de agentes principales con Gran Sirena (aproximación)",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Refinar ficha de interacción de agentes principales con Gran Sirena",
-          "details": "",
-          "color": "FAFCD2"
-        },
-        {
-          "name": "Agradecer al \"Snowflake guy\"",
-          "details": "",
-          "color": "C1F7C2"
-        },
-        {
           "name": "¿Renombrar libro?",
           "details": "",
           "color": "FFFFFF"
+        },
+        {
+          "name": "[Split] Escribir primer borrador (¿alternar día investigación / escribir escena?)",
+          "details": "",
+          "color": "FCC7FC"
         },
         {
           "name": "Ver dónde subi la primera parte y si está actualizada (Bubok)",
@@ -99,6 +59,11 @@
           "name": "Tener en cuenta (DESC)",
           "details": "- Aclarar el \"show, don't tell\": https://en.wikipedia.org/wiki/Show,_don%27t_tell\n- Me \"paro\" mucho a describir la distribución del pasillo y las dos grandes salas de la planta 26 a pesar de que se está produciendo una avanzadilla de los ingleses (¡acción!).\n- Muchos personajes.\n- Sin pausa.",
           "color": "FAFCD2"
+        },
+        {
+          "name": "Agradecer al \"Snowflake guy\"",
+          "details": "",
+          "color": "C1F7C2"
         }
       ],
       "settings": {}
@@ -119,6 +84,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Repasar notas / dudas del último cuarto",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar notas / dudas del tercer cuarto",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar notas / dudas del segundo cuarto",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar notas / dudas de primer cuarto",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar misterios en resumen y ver si están planteados / resueltos en sus respectivas escenas o capítulos",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "(Capítulos 18 - 32) Mover misterios de los outlines a sus escenas correspondientes (los que se pueda)",
           "details": "",
