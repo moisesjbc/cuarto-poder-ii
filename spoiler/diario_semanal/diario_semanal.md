@@ -484,3 +484,9 @@ A ver qué se cuenta la semana que viene.
 **¡Completado primer resumen / esbozo de todos los capítulos!** Por ahora estamos en 32 capítulos y estoy casi convencido de que la historia no sufrirá grandes cambios (pero a saber...).
 
 **La semana que viene la dedicaré a darle un segundo repaso rápido a los capítulos** para intentar resolver el mayor número de dudas que me he planteado. **Especialmente quiero ver si puedo evitar la "sobrecarga de información" que tiene el capítulo 11 (encuentro de Lucas con Ajani y Kasim) y refinar un poco los últimos capítulos.**
+
+## Semana 64 (01/06/2020 - 07/06/2020)
+
+Estos días **he repasado la lista de escenas, refinando las notas que tenía tomadas y añadiendo otras nuevas**.
+
+Bueno, como broma que ha estado bien, **pero creo que ha llegado el momento de empezar a escribir la novela en si**, si quiero terminarla algún día. **Para la semana que viene voy a proponerme escribir el primer capítulo**, ¡veamos qué sale!.
