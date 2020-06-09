@@ -5,7 +5,7 @@ summaryFull:    Jonás corre a recuperar su {W:4:Nanoguante} para luchar contra 
 POV:            0
 notes:          - La niña no debe haberle apuñalado de mucha gravedad si puede luchar contra ambos.
                 - ¿Referencia a que Jonás no puede acercarse a la cámara (o que no se sabe el efecto) por las nanomáquinas en su interior?.
-                	- O eliminan la influencia de la Sirena pero no el efecto de las nanomáquinas y Jonás se siente confundido por esto.
+                - O eliminan la influencia de la Sirena pero no el efecto de las nanomáquinas y Jonás se siente confundido por esto.
 label:          4
 status:         1
 compile:        2

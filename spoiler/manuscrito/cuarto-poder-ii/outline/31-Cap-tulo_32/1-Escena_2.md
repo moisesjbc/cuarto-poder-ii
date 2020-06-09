@@ -11,7 +11,7 @@ notes:          - ¿Mover a otro capítulo?
                 - Importancia de conocer / sentir nuestro efecto en los demás y el planeta para ayudarnos a tomar la decisión correcta.
                 - ¿Especificar qué termina de convencer a Lucas?
                 - Especificar que Jonás y Lara tenían más resistencia pero no iban a morir porque...
-                	- ¿La interacción de las nanomáquinas con la Sirena era lo que causaba las jaquecas?
+                - ¿La interacción de las nanomáquinas con la Sirena era lo que causaba las jaquecas?
 label:          4
 status:         1
 compile:        2
