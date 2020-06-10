@@ -4,7 +4,7 @@ type:           md
 summaryFull:    Lucas despierta en medio de una emboscada de {W:0:RIO} y se debate entre huir con {C:4:Jonás} o quedarse a luchar. Decide quedarse y luchar pero entonces los de RIO los reducen con un potente somnífero.
 POV:            0
 notes:          - **¿Momento del día?**
-                	- "El segundo grupo abandonará el pueblo en el tren de las 19:12, una hora después del primero."
+                - "El segundo grupo abandonará el pueblo en el tren de las 19:12, una hora después del primero."
                 - La decisión debe ocurrir en pocos segundos (¿y antes de que empiecen los disparos?). Muy forzado si tarda más y están en peligro.
                 - - Jonás lo deja caer "con gusto" para intentar huir con Lara.
                 - Lucas tiene un flashback de "un adolescente malherido en un callejón".
@@ -65,6 +65,7 @@ La mano soltó a Lucas y este cayó. La caída no fue muy grande, pero bastó pa
 Lucas apenas la distinguía en la penumbra, pero podía ver que su amiga lo miraba fijamente.
 - Sí - mintió Lucas, intentando ocultar el dolor de cabeza.
 Noemí, al lado de Ana, comenzó a acercarse a Lucas para abrazarle, pero Ana la detuvo. Esta avanzó hacia Lucas y este esperó un abrazo que nunca llegó. Su amiga lo bordeó y se agachó rápidamente junto al cuerpo sobre el que había aterrizado. Cogió algo de él y se lo ofreció a Lucas. 
+- **¿No es muy bestia que lo haya dejado inconsciente? ¿Y que no se preocupen más por él?**
 - Toma.
 Lucas tomó la pistola.
 - Pero yo... - balbuceó.
