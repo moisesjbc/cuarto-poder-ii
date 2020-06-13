@@ -485,8 +485,19 @@ A ver qué se cuenta la semana que viene.
 
 **La semana que viene la dedicaré a darle un segundo repaso rápido a los capítulos** para intentar resolver el mayor número de dudas que me he planteado. **Especialmente quiero ver si puedo evitar la "sobrecarga de información" que tiene el capítulo 11 (encuentro de Lucas con Ajani y Kasim) y refinar un poco los últimos capítulos.**
 
-## Semana 64 (01/06/2020 - 07/06/2020)
+## Semana 64 (01/06/2020 - 06/06/2020)
 
 Estos días **he repasado la lista de escenas, refinando las notas que tenía tomadas y añadiendo otras nuevas**.
 
 Bueno, como broma que ha estado bien, **pero creo que ha llegado el momento de empezar a escribir la novela en si**, si quiero terminarla algún día. **Para la semana que viene voy a proponerme escribir el primer capítulo**, ¡veamos qué sale!.
+
+## Semana 65 (06/06/2020 - 13/06/2020)
+
+**¡Completado el primer borrador del primer capítulo!**. Aunque fallé 2 de los 5 objetivos o tareas para la semana, las 3 principales (escribir cada una de las 3 escenas del capítulo) pude sacarlas adelante.
+
+El principio del capítulo no me termina de convencer, creo que no equilibro bien las descripciones, algunas cosas las expresaría mejor... pero **pienso seguir el consejo de Kristina Adams** en ["Productivity for writers"](https://www.amazon.com/Productivity-Writers-defeat-critic-minute-ebook/dp/B073M7NM21): **"No escribir y editar al mismo tiempo"**. Con esto en mente, **mis objetivos para la semana que viene** son:
+
+- **Escribir el capítulo 2 (obvio)**.
+- **Encontrar una localización aproximada en Marruecos para los hechos del libro**. Esta tarea es una de las dos que no pude completar la semana pasada (la otra fue refinar el capítulo 1 tras escribilrlo... pero eso contradecería lo que he dicho en el párrafo anterior). A ver si no la sigo arrastrando.
+
+¡Hasta la semana que viene!
