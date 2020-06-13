@@ -6,6 +6,16 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Establecer localización en África",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Releer y refinar",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Repasar destino y presencia en las escenas",
           "details": "",
           "color": "FAFCD2"
@@ -84,6 +94,21 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Escribir escena 1.3",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir escena 1.2",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir escena 1.1",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Repasar notas / dudas del último cuarto",
           "details": "",
