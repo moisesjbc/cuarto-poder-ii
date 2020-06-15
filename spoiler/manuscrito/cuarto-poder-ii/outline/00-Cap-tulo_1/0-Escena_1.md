@@ -12,31 +12,6 @@ notes:          - **¿Momento del día?**
                 - Ana recordará esta decisión más adelante y Lucas aclarará que era por su conciencia. Ana le dice que siempre la obedezca.
                 
                 
-                # ¿Lugar de África?
-                
-                - https://es.wikipedia.org/wiki/Sierra_Leona
-                
-                - ¿Marruecos?: https://es.wikipedia.org/wiki/Marruecos
-                - Cordillera de Atlas: https://es.wikipedia.org/wiki/Atlas_Medio
-                - ¿Tren?
-                - Parque nacional de Tazekka
-                
-                
-                - El animal que ataque puede ser un Jabalí: https://en.wikipedia.org/wiki/North_African_boar
-                
-                
-                - En Atlas medio:
-                https://www.google.com/maps/place/33%C2%B028'11.5%22N+4%C2%B033'09.0%22W/@33.4703091,-4.5586445,15.5z/data=!4m14!1m7!3m6!1s0xd9f58d3b958a7eb:0x1bfef767c6a25958!2sAtlas+Medio!3b1!8m2!3d33.5000015!4d-4.5000014!3m5!1s0x0:0x0!7e2!8m2!3d33.4698599!4d-4.5525049
-                - ¿Cabras?
-                - ¿Jabalíes?
-                - ¿Pasa el tren cerca?
-                
-                
-                https://www.google.com/maps/@33.5206706,-4.4703006,12z
-                - ¿Cabras?
-                - ¿Jabalíes?
-                - ¿Pasa el tren cerca?
-                
 label:          4
 status:         1
 compile:        2
