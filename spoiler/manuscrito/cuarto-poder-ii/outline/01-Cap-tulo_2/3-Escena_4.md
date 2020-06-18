@@ -1,10 +1,10 @@
 title:          Escena 4
-ID:             11
+ID:             10
 type:           md
-summaryFull:    En el almuerzo Lucas intenta disculparse con Noemí y le confiesa que no está seguro de qué hace allí. Noemí se marcha enfadada. 
+summaryFull:    Empieza el entrenamiento de Lucas y los demás. Lucas recibe un golpe y tiene otra visión.
 POV:            0
-notes:          - Lucas se lo confiesa intentando despertar su empatía, pero Noemí recuerda a sus padres y se va.
-                - Ana no está en el almuerzo.
+notes:          - ¿Habla algo en voz alta?
+                - ¿Se fuga gente?
 label:          4
 status:         1
 compile:        2
