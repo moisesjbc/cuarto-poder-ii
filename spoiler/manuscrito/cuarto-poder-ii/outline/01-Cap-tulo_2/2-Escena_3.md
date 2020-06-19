@@ -1,9 +1,7 @@
 title:          Escena 3
 ID:             48
 type:           md
-summaryFull:    {C:1:Ana} y {C:0:Lucas} consiguen calmar a Jonás y todos son marcados.
-                
-                El grupo va a desayunar y siente el rechazo de miembros de la Resistencia. Noemí desea entrenar pero Ana le dice que la Resistencia se "niega a reclutar niños". Noemí lo paga con Lucas por su inacción.
+summaryFull:    El grupo va a desayunar y siente el rechazo de miembros de la Resistencia. Noemí desea entrenar pero Ana le dice que la Resistencia se "niega a reclutar niños". Noemí lo paga con Lucas por su inacción.
 POV:            0
 notes:          - En el desayuno los de la *Burbuja* comen aparte y sienten cierto rechazo del resto.
                 - Lara a favor de no entrenar con la Resistencia.
@@ -13,33 +11,42 @@ compile:        2
 setGoal:        500
 
 
-Lucas, Ana, y cuatro efectivos de la resistencia rodeaban a Jonás y Lara, situados estos últimos contra la pared. Algunos intentaron acercarse a la pareja, pero entonces la nube de humo negro se revolvía, furiosa, y todos permanecían en su sitio.
-- Jonás... ¿qué es eso? - dijo Lara tras su hermano. La voz le temblaba. Sujetaba el brazo izquierdo de su hermano, sin dejar de mirar a la nube negra.
-Jonás no respondía.
-- Jonás - dijo Ana, frente a él -. ya oíste a Miriam. No estamos en un lugar seguro. No me cabe duda de que sabes cuidarte. Ya lo has demostrado de sobra. Pero ahora tienes que pensar en tu hermana.
-- ¡Ja! - exclamó Jonás - ¿Y acaso está más segura aquí, en primera línea de lucha contra RIO? No lo creo.
-- Ningún menor lucha en la Resistencia - contestó la joven -. Al más mínimo peligro ellos serán los primeros a los que protegeremos.
-Lucas tosió, aclarándose la garganta. Intentaba mirar a Jonás, pero su mirada le traicionaba y se escapaba de vez en cuando con Lara.
-- Además... si huyes eso no quita a RIO de la ecuación. Seguirá persiguiéndoles a ambos. Aquí al menos tenemos una posibilidad.
-- ¡No los conoces como yo! ¡Nadie tiene ninguna posibilidad contra RIO!
-- Es... es posible, ¿pero no merece la pena aprovechar todas las oportunidades que tengamos para proteger a mi...? Quiero decir, ¿a Lara?. Aquí tenemos comida, alojamiento y protección.
-Lara miró a Lucas a los ojos.
-- Jonás, quiero quedarme.
-- Pero... - su hermano resopló, sin dirigirle la mirada. Seguía mirando hacia todas las personas que tenía delante. Atento a cualquier movimiento - ... ¿estás segura?
-- Creo... creo que sí - la joven se situó entre Jonás y los miembros de la resistencia, dándole la espalda a estos últimos. Lo miró a los ojos. - Por favor.
-Lucas la miró a los ojos durante unos segundos.
-- Está bien.
-- Esto no es una cárcel - añadió Ana -. En cualquier momento pueden marcharse si lo prefieren.
-- ¿Es eso verdad? - Jonás frunció el ceño.
-- Sí. Y aunque no lo fuera - Ana levantó la vista a la nube negra -. No creo que podamos reternerles. - La joven sonrió.
-- ...está bien.
-La nube negra desapareció. Lucas se quitó el guante y se lo guardó en el bolsillo del pantalón vaquero. Los efectivos de la resistencia retrocedieron de espaldas y se quedaron por el pasillo. Lara se sentó en la silla y Miriam, la tatuadora, comenzó a marcarle la muñeca. Miraba de reojo a Jonás.
-Lucas se dispuso a volver a su sitio en la cola, cuando se percató de que el grupo mantenía la distancia con Jonás.  Algunos le hicieron señas a Lucas para que permaneciera en el sitio, y el joven se quedó en el segundo puesto.
-Lara profirió un pequeño grito y Jonás se sobresaltó, avanzando rápidamente hacia ella.
-- ¡No pasa nada! - exclamó la joven.
-Terminado el tatuaje, Lara se levantó y lo miró fijamente.
-- ¡Muy bien! - exclamó la joven rubia de la Resistencia - ¡seguro que tienes hambre! - Lara asintió. - Cuando quieran, sigan por este pasillo, giren a la derecha y llegarán al comedor.
-La pareja se marchó siguiendo las indicaciones, mientras Miriam apremiaba a Lucas. Este último se sentó en la silla y antes de que se diera cuenta tenía un tatuaje sobre la muñeca izquierda.
-Se levantó y siguió las indicaciones para llegar al comedor. Mientras caminaba observó el tatuaje. Dos circunferencias negras intercaladas, una a la derecha y abajo de la otra.
-A pesar de su intento por tranquilizar a Jonás sobre el tema, Lucas no pudo evitar preguntarse a qué venía esa manera de distinguir a los rescatados de las *Burbujas* de otros miembros de la Resistencia.
-Sus tripas rugieron y el joven estuvo de acuerdo. Pensaría en ello más tarde.
+Lucas entró en una cafetería enorme. Unas diez mesas atravesaban todo el ancho de la estancia, con un único banco alargado unido a cada lado. En el lateral izquierdo de la habitación había una cola de personas que avanzaba hacia el extremo opuesto de la sala, donde un amplio mostrador abierto en la pared daba a la cocina.
+Dos miembros de la resistencia, un chico y una chica poco mayores que Lucas, se afanaban en ir ofreciendo una bandeja con la comida a cada persona.
+El joven se unió a la cola. Los dos hombres que habían inmediatamente delante de él interrumpieron su charla y lo miraron con una sonrisa en los labios. Lucas sonrió a su vez, pero entonces los hombres bajaron la vista a su muñeca izquierda y las sonrisas desaparecieron. Entonces se giraron y siguieron charlando entre ellos.
+Lucas frunció el ceño y miró a su muñeca izquierda. "El tatuaje...", pensó.
+La cola avanzó rápidamente. Cuando llegó el turno de Lucas, este se situó delante de la mujer, quien estaba más cerca de él y estaba libre en ese momento. Esta dirigió una rápida mirada a la muñeca de Lucas y negó con la cabeza.
+Aturdido, Lucas avanzó y esperó a ser atendido por el hombre. Este le saludó con una sonrisa y le sirvió una bandeja sin pararse a mirar el tatuaje.
+Lucas buscó un puesto en las mesas. Hizo el amago de acercarse a algunos puestos libres junto a miembros de la Resistencia, pero varios, no todos, lo miraron con mala cara.
+- ¡Mario! - gritó Noemí, haciéndole señas desde una de las mesas centrales -. ¡Uff!
+La chica apretó los ojos con fuerza. Lucas hizo lo propio al asaltarle la visión de su hija llamándole. "No son mis hijas", se dijo. "No soy Mario. Me llamo Lucas", se repitió. Entonces le invadió la visión del planeta que había tenido en la estación de tren la noche anterior.
+Lucas llegó a la mesa y recorrió el pasillo entre esta y la siguiente hasta llegar a la mitad, donde se sentó junto a Noemí. Al otro lado de Noemí se encontraba Ana, y frente a ellas se sentaban Jonás y Lara. Las dos adolescentes sonrieron a Lucas y Ana le saludó. El hermano de Lara, sin embargo, se limitó a mirarlo de reojo y siguió comiendo sin prestarle atención.
+Lucas comenzó a comer. La sopa de pescado no era su favorita, pero llevaba casi un día sin comer nada contundente y lo agradeció.
+- ¿Has dormido bien? - le preguntó Noemí tras unos segundos.
+- Sí - contestó -. ...¿y tú?
+- Muy bien. ¡Estoy lista para entrenar!.
+Ana se rió al otro lado de Noemí.
+- Eres persistente, ¿eh?
+- Noemí... - suspiró Lara.
+- ¡Puedo ayudar! - exclamó Noemí. Lucas se rió, pero entonces vio que Noemí hablaba en serio -. ¡Quiero ayudar!
+- Ya lo hemos hablado - dijo Ana, sin dejar de comer -. La Resistencia necesita toda la ayuda posible, es cierto. Pero nos negamos a reclutar niños.
+- ¡No soy una niña! - Noemí se giró hacia Lara - ¡cuéntale cómo actué en la *Burbuja*!
+- Pues...
+- Ya basta - la cortó Ana -. Si dentro de unos años sigues queriendo luchar con nosotros, seré la primera en aceptarte. Pero hasta entonces tendrás que esperar.
+- ...
+Noemí miró a Ana fijamente y apretó los labios. Todos permanecieron en silencio.
+- Si quieres - susurró Lucas, inclinándose hacia Noemí - podemos intercambiarnos.
+- ¿Qué?
+- Puedes entrenar por mí - sonrió.
+- No estoy de broma - Dijo Noemí.
+Lucas dejó de sonreír.
+- Una parte de mí tampoco - confesó - A veces me pregunto qué hago aquí.
+Noemí lo miró a los ojos, apretando los labios.
+- Pues yo sí lo sé. Intento vengar a mis padres muertos.
+- Yo...
+La adolescente se levantó y se marchó. Dejando la bandeja de comida sin terminar.
+Lucas hizo el amago de levantarse para ir tras ella, pero Ana le miró a los ojos y negó con la cabeza. Lucas percibió cierta hostilidad en su mirada.
+El joven se sentó y se obligó a comer, a pesar del nudo en el estómago y la sensación de haber metido la pata.
+
+
+- 
