@@ -1,7 +1,6 @@
 title:          Capítulo 8
-ID:             43
+ID:             37
 type:           folder
-POV:            0
 label:          3
 status:         1
 compile:        2

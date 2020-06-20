@@ -1,7 +1,7 @@
 title:          Escena 1
-ID:             62
+ID:             56
 type:           md
-summaryFull:    Lucas está a punto de morir a manos de las fuerzas de RIO, pero entonces es rescatado por {C:5:Ajani} y {C:39:Kasim}. Los tres huyen.
+summaryFull:    Lucas sufre un ataque de pánico, pero consigue controlarse y se termina de preparar con sus compañeros.
 POV:            0
 label:          4
 status:         1

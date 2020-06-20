@@ -1,10 +1,16 @@
 title:          Escena 1
-ID:             26
+ID:             20
 type:           md
-summaryFull:    El grupo consigue abandonar la base antes de que lleguen los de RIO. Sin embargo, uno de ellos, presa del pánico, empieza a gritar para alertar a los efectivos de la corporación y ganarse su favor. 
+summaryFull:    Lucas se despierta y recibe varias quejas por haber estado revolviéndose en sueños, al igual que Jonás. Entre los dos calman a Lara que, como Jonás, ha sangrado durante la noche.
+                
 POV:            0
-notes:          - ¿Lucas corriendo a proteger a Noemí?
-                - Se emite una señal secreta de "auto-destrucción". Esta señal se reutilizará en capítulo 27 cuando se produce el atentado a los de RIO en la base rebelde.
+notes:          - Intentos de la Sirena de sugestionarlo en sueños.
+                - "¡Joder! ¡Menuda noche!"
+                - Jonás se niega a que los vea un médico a Lara o a él.
+                
+                - ¿Qué es el "humo negro"?
+                - ¿Cualquiera puede usar los nanoguantes? ¿sólo Jonás? ¿alguien más? ¿Jonás conserva alguno?
+                - Jonás duerme con el guante para proteguerse, pero se da cuenta de que es un peligro.
 label:          4
 status:         1
 compile:        2

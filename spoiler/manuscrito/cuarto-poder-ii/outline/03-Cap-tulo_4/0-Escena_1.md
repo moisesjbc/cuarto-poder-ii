@@ -1,16 +1,12 @@
 title:          Escena 1
-ID:             20
+ID:             14
 type:           md
-summaryFull:    Lucas se despierta y recibe varias quejas por haber estado revolviéndose en sueños, al igual que Jonás. Entre los dos calman a Lara que, como Jonás, ha sangrado durante la noche.
-                
+summaryFull:    Lucas vence su "miedo escénico" y graba vídeos contrarios a RIO junto con otros liberados de las *Burbujas*
 POV:            0
-notes:          - Intentos de la Sirena de sugestionarlo en sueños.
-                - "¡Joder! ¡Menuda noche!"
-                - Jonás se niega a que los vea un médico a Lara o a él.
+notes:          - Cámara: Miembro de la {W:1:Resistencia} que graba el {P:1:Estallido de la burbuja de Mario}, centrándose en Lucas -> Me parece que va a morir al principio y la Resistencia sólo recupera la cámara. O llegan todos pero no se le ve más el pelo.
+                - O se le menciona en este momento.
                 
-                - ¿Qué es el "humo negro"?
-                - ¿Cualquiera puede usar los nanoguantes? ¿sólo Jonás? ¿alguien más? ¿Jonás conserva alguno?
-                - Jonás duerme con el guante para proteguerse, pero se da cuenta de que es un peligro.
+                
 label:          4
 status:         1
 compile:        2

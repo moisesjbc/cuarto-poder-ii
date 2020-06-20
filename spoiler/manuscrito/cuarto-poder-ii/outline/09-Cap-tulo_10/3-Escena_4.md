@@ -1,7 +1,7 @@
 title:          Escena 4
-ID:             59
+ID:             53
 type:           md
-summaryFull:    El grupo consigue esconderse a tiempo y abrirse paso hasta el centro de control. Allí son emboscados por las fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras sus miembros intentan escapar.
+summaryFull:    [Flashforward] Se anuncia que al día siguiente (**¿tan pronto?**) se liberará la primera *Burbuja*. Noemí habla con Lucas y se disculpa por haber criticado su inacción. Esto aumenta el miedo de Lucas, al darse cuenta de que Noemí teme que no vuelva.
 POV:            0
 label:          4
 status:         1

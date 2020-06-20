@@ -1,11 +1,10 @@
 title:          Escena 1
-ID:             27
+ID:             26
 type:           md
-summaryFull:    Los de la Resistencia hacen explotar toda la base, matando a casi todos los de RIO. Se producen discusiones, peleas y bajas. Lucas se debate nuevamente entre quedarse o irse. Decide quedarse.
+summaryFull:    El grupo consigue abandonar la base antes de que lleguen los de RIO. Sin embargo, uno de ellos, presa del pánico, empieza a gritar para alertar a los efectivos de la corporación y ganarse su favor. 
 POV:            0
-notes:          - ¡¿Hemos estado durmiendo sobre bombas?!  
-                - ¡Estaban desactivadas! ¡El peligro es mucho mayor si somos capturados!
-                - Lara, acojonada, ya no sabe si irse con su hermano no.
+notes:          - ¿Lucas corriendo a proteger a Noemí?
+                - Se emite una señal secreta de "auto-destrucción". Esta señal se reutilizará en capítulo 27 cuando se produce el atentado a los de RIO en la base rebelde.
 label:          4
 status:         1
 compile:        2

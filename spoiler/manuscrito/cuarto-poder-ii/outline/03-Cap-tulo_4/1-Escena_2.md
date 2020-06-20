@@ -1,13 +1,9 @@
 title:          Escena 2
-ID:             21
+ID:             15
 type:           md
-summaryFull:    Nueva sesión de entrenamiento. Un grupo generoso de reclutas se marcha ante la impotencia de luchar contra RIO. Estos acusan a Lucas de ser un agente secreto de RIO.
+summaryFull:    Lucas sale a pasear por los alrededores y se replantea qué está haciendo. Cuando está volviendo se topa con más personas que se están fugando.
 POV:            0
-notes:          
-                - El grupo se desmotiva por el poder de RIO para convertirlos en terroristas.
-                - Lucas intenta convencerlos de que es más seguro quedarse, pero no tiene argumentos a favor de poder hacer algo contra RIO.
-                - "Ya vimos que trabajabas para RIO, ¿quién nos dice que no sigues haciéndolo?"
-                - Nueva tentación de Lucas de irse.
+notes:          - También piensa en si no será una locura la conexión que siente con Noemí.
 label:          4
 status:         1
 compile:        2

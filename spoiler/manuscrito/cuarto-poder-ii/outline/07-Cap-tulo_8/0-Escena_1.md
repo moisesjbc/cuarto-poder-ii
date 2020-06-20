@@ -1,10 +1,10 @@
 title:          Escena 1
-ID:             45
+ID:             38
 type:           md
-summaryFull:    Ana y Lucas hablan sobre lo que Lucas ha leído.
-POV:            0
-notes:          Lucas: ¿cómo pretendes motivarme diciéndome que nuestro enemigo lleva X años en el poder?
-                Ana: No, pretendo motivarte diciendo que nosotros seguimos luchando después de X años.
+summaryFull:    Historia de RIO y de la Resistencia.
+notes:          - **Crear personaje y asignar en el POV**
+                - Termina con "Reality is Ours"
+                - ¿Ampliar a más escenas?
 label:          4
 status:         1
 compile:        2
