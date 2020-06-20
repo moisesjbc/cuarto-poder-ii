@@ -501,3 +501,13 @@ El principio del capítulo no me termina de convencer, creo que no equilibro bie
 - **Encontrar una localización aproximada en Marruecos para los hechos del libro**. Esta tarea es una de las dos que no pude completar la semana pasada (la otra fue refinar el capítulo 1 tras escribilrlo... pero eso contradecería lo que he dicho en el párrafo anterior). A ver si no la sigo arrastrando.
 
 ¡Hasta la semana que viene!
+
+## Semana 66 (14/06/2020 - 20/06/2020)
+
+**He encontrado una localización aproximada en Marruecos y tiraré con ella. En cuanto a terminar el capítulo 2... pues no sabría decir si lo he terminado** :-P La cuestión es que he escrito 3 de las 4 escenas que originalmente componían el capítulo. Sin embargo, mientras las escribía, dividí una de las escenas en 2 (*), y me he planteado seriamente dividir el capítulo 2 en dos. Teniendo esto en cuenta, ¿se puede decir que lo he terminado? :-P
+
+La escena que he dividido es aquella en la que Jonás se niega a que su hermana Lara sea "marcada como ganado" y se enfrenta a la resistencia. He dividido la escena justo en el punto en el que Lucas avanza hacia él para "proteger a su hija".
+
+**Para la siguiente semana planeo resolver este misterio sobre el capítulo 2 / 3 y completar el capítulo 3**.
+
+¡A por ello!
