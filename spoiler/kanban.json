@@ -6,7 +6,7 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Establecer localización en África",
+          "name": "Escribir escena 2.4",
           "details": "",
           "color": "FAFCD2"
         },
@@ -94,6 +94,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Escribir escena 2.3",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir escena 2.2",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir escena 2.1",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Establecer localización en África",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Escribir escena 1.3",
           "details": "",
