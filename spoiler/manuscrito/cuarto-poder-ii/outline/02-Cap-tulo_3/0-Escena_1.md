@@ -35,6 +35,6 @@ Tras un breve descanso, Lucía continuó.
 La instructora tomó prestado a un hombre del grupo que le sacaba casi dos cabezas y lo animó a lanzarle un puñetazo con todas sus ganas. Tras unos instantes de duda, el mastodonte obedeció y, cuando quiso darse cuenta, yacía en el suelo al lado de Lucía.
 La joven lo ayudó a levantarse con una sonrisa. Luego hizo que las filas impares de reclutas se dieran la vuelta para quedarse frente a frente con las pares. Recorrió las filas a lo largo mientras se detenía al lado de cada pareja y les hacía repetir el ejercicio.
 Cuando llegó a Lucas, este hizo la vez de atacante y lanzó un puñetazo tímido al hombre que tenía delante, un chico un poco más joven que él. Este último imitó la llave.
-- ¡No! ¡Suéltale los brazos!
+- ¡¿Qué haces?! ¡Suéltale los brazos!
 Pero fue demasiado tarde. Lucas apenas tuvo tiempo de protegerse con las manos y su cabeza golpeó estas últimas.
 Al segundo siguiente, Lucas se encontró de nuevo bajo un inmenso cielo azul verdoso dominado por dos lunas gigantes, una plateada y otra dorada.
