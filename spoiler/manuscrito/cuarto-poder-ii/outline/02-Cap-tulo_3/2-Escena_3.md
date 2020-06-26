@@ -11,3 +11,33 @@ compile:        2
 setGoal:        500
 
 
+A pesar de haberse imaginado en ese situación previamente, Lucas no había llegado a una conclusión sobre cómo enfocar el tema con Noemí. Sin saber muy bien qué decir, intentó aprovechar que la adolescente también estaba empezando a comer para pensar algo sobre la marcha.
+Lucas removió el caldo de verduras con la cuchara unos instantes antes de empezar a comer. Distraído como estaba, casi soltó un grito cuando sintió que la comida aún estaba demasiado caliente.
+"Tengo que ser sincero", se dijo. "Pero uno puede ser sincero usando palabras totalmente diferentes. ¿Habrá alguna combinación secreta que me permita arreglar la situación?". Se temió la respuesta. "¿Qué puedo decir?"
+Se preguntó si no estaba exagerando la situación. Había metido la pata y quería arreglarlo, pero se dio cuenta de que estaba volviendo a ver a Noemí como la que había sido su hija ficticia en la *Burbuja*. "¿Le daría tantas vueltas si hubiera sido con una adolescente a la que apenas conozco, tal como es el caso?, reflexionó.
+- ¿Qué tal el entrenamiento? - preguntó Lara de repente.
+Lucas levantó la vista. La adolescente lo miraba con una sonrisa, aunque su mirada se escapa de vez en cuando hacia Noemí. Esta última seguía con la mirada fija en el plato.
+- Bien - respondió el joven -. Bueno, no estoy nada acostumbrado al ejercicio físico y las agujetas van a ser mortales - sonrió. - ¿Ustedes que han hecho? - preguntó, deseando que Noemí se uniera a la conversación.
+- No mucho - dijo Lara -. Hemos tenido unas... clases un tanto especiales.
+- ¿Clases?
+- Sí - se rió -. Un señor de la Resistencia nos ha "enseñado" a conectarnos a Internet. Nos ha pedido buscar información sobre diferentes temas y luego recitar lo que recordáramos de memoria frente a los demás.
+- Ya veo... ¿y...? ¿y tú, Noemí? ¿Hiciste lo mismo?
+Lucas se giró hacia ella. La adolescente siguió mirando el plato en silencio durante unos segundos. Parecía que iba a decir algo.
+- Sí - respondió Lara - todos hicimos lo mismo.
+Lucas la miró, intentado disimular su disgusto. No debió hacerlo muy bien, puesto que Lara bajó la mirada. El joven sonrió a Lara.
+- Bien - dijo. Se aseguró de esperar a que Lara levantara la vista para que lo viera sonreír. "No pasa nada", quiso transmitirle.
+- He terminado - dijo Noemí.
+"Mierda", pensó Lucas al ver el plato de ella vacío, "¿Qué puedo decir? ¿Qué puedo decir?", se repetía.
+La adolescente fue a incorporarse cuando Lucas habló.
+- Lo siento.
+Silencio. Noemí permaneció en el sitio.
+- He sido un cobarde - confesó Lucas -. No sólo ahora; llevo mucho tiempo siéndolo. Me gustaría poder decir que empezó en Inglaterra; por lo menos así sentiría que es algo más "reciente", pero es algo mucho anterior.
+Noemí seguía sin inmutarse. A la mente de Lucas acudió la imagen de un niño en un callejón intentando contener las lágrimas. Lucas suspiró.
+- Quiero dejar de ser un cobarde - continuó - pero no es algo que pueda conseguir de la noche a la mañana. He estado en medio de tiroteos entre la Resistencia y RIO, y me aterra pensar que eso es lo que me espera. Pero más me aterra pensar dónde puedo acabar si no hago nada.
+Lucas paró un par de segundos y tomó aire antes de seguir.
+- Quiero ser como tu padres. La clase de personas que lucha por lo correcto.
+El joven se mordió el labio. "Mierda ¿cómo he podido mencionarlos?"
+Noemí levantó la mirada hacia Lucas. Una lágrima escapaba de su ojo derecho.
+- ¿Te refieres a la clase de persona que me abandona?
+- Yo...
+Noemí se levantó, recogió su bandeja, y se fue.
