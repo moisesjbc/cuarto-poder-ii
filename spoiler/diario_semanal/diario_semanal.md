@@ -511,3 +511,11 @@ La escena que he dividido es aquella en la que Jonás se niega a que su hermana 
 **Para la siguiente semana planeo resolver este misterio sobre el capítulo 2 / 3 y completar el capítulo 3**.
 
 ¡A por ello!
+
+## Semana 67 (21/06/2020 - 27/06/2020)
+
+**Completado el primer borrador del capítulo 3**. Inicialmente planifiqué escribir también el capítulo 4, pero esta semana no conté con que era el [GameLab](https://www.gamelab.es) y, además, **estoy viendo que proponerme una escena por día no es un objetivo que pueda mantener al tiempo que saco el resto de tareas que me planteo para cada día**. Por esta razón, descarté escribir el capítulo 4 esta semana y en su lugar **me fijé un objetivo de escribir media escena cada día (~250 palabras)**.
+
+**El capítulo 3 incluye una nueva visión muy corta de Lucas, y termina con un nuevo "diálogo" entre este y Noemí.** Ninguno de los dos estaba muy planificado a priori. Simplemente los planteé en el resumen de una frase de cada escena, y a la hora de escribirlos se me ocurrió la escena duración de la visión de Lucas y su monólogo final a Noemí. **Me gusta este equilibrio entre tenerlo todo planificado a priori y el desarrollar la historia a medida que escribo**. Espero poder mantener dicho equilibrio (¡y acordarme de hojear las fichas de personaje antes de escribir sus escenas, que para eso están!).
+
+¡Y eso es todo! **¡La semana que viene toca darle caña al capítulo 4!**
