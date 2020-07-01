@@ -60,10 +60,29 @@ Lucía estalló en risas mientras Óscar la miraba fijamente sin decir palabra. 
 - ¡Lo siento! ¡Lo siento! - dijo la joven instructora sin dejar de reírse - ¡Es que me ha parecido tan tierno!
 Lucas quería echar a correr y alejarse cuánto más mejor de aquel sitio.
 - Bueno, bueno - dijo Óscar, volviendo a mirar hacia Lucas - Un par de puntos a mejorar...
-- ¿Puedo...? - interrumpió Lucas - ¿Puedo beber algo de agua?
+- ¿Qué ha sido del Coronel Cooper y su unidad? - interrumpió Lucas.
+- Oh... - respondió Óscar - seguimos buscándolos.
+- Ya veo...
+- Como iba diciendo...
+- ¿Puedo...? - volvió a interrumpir Lucas - Lo siento. ¿Puedo beber algo de agua?
 - Oh, sí. Claro - respondió Óscar - ¿Lucía?.
 - ¡En seguida! - dijo esta. Se marchó por la puerta sin dejar de reírse por lo bajo.
-- Bueno - continuó Óscar -. Como iba diciendo, hay algunos puntos a mejorar. En primer lugar, creo que es mejor seguir un orden cronológico. Has mencionado las "mentiras sobre Inglaterra". Yo sé de lo que hablas y, permíteme decir que es un gran acierto. Si no lo hubieras mencionado te lo hubiera sugerido sin dudarlo.
+- Bueno... - continuó Óscar. Miró a Lucas unos instantes antes de continuar -. Como iba diciendo, hay algunos puntos a mejorar. En primer lugar, creo que es mejor seguir un orden cronológico. Has mencionado las "mentiras sobre Inglaterra". Yo sé de lo que hablas y, permíteme decir que es un gran acierto. Si no lo hubieras mencionado te lo hubiera sugerido sin dudarlo.
 - ¿Lo sabes? - dijo Lucas, los ojos abiertos como platos.
-
-
+- Todos en la resistencia lo saben. Es una de las mentiras notables de RIO.
+- Ya veo.
+- El problema es que la gente de calle no lo sabe. Emitimos pruebas de la mentira cuando la lanzaron, pero RIO nos silenció enseguida, y la gente es muy olvidadiza. No obstante...
+- ...ahora me tienen a mi.
+- Exacto. Bien, ¿puedes contarme con tus palabras qué sucedió?
+Lucas notó que la cámara seguía grabando y dudó sobre si mirar hacia ella o hacia Óscar. Miró a este último.
+- Bueno, sucedió en 2022. Yo trabajaba como reportero para RIO...
+- ¡El agua! - gritó Lucía desde la puerta. Se acercó ignorando la mirada de Óscar y le ofreció la botella a Lucas.
+- Gracias - dijo este. Bebió un trago antes de continuar -. Bueno, como iba diciendo, ehm... sucedió en 2022. Yo trabajaba como reportero para RIO y me mandaron a Inglaterra. Habíamos recibido rumores, o eso me hicieron creer, de que Inglaterra planeaba lanzar un ataque sorpresa a los Estados Unidos aprovechando su guerra civil. Viajé con un cámara de la corporación al sur de Reino Unido, donde encontramos una gran flota de barcos. Intentamos colarnos pero fuimos descubiertos y llevados ante el coronel Cooper. Pensé que iba a acabar en prisión para el resto de mi vida, ¿saben?
+Óscar y Lucía sonrieron.
+- Pero el coronel se limitó a informarnos de lo que sucedía realmente. ¡Preparaban una exhibición para la reina! Contestó a todas nuestras preguntas y nos dejó marchar.
+Lucas recordó lo buena persona que le pareció Cooper y sus hombres desde el primer momento. "Ojalá estén bien...", pensó.
+- ¿Y qué pasó luego? - preguntó Óscar.
+- Volvimos al AT de Gran Canaria y me felicitaron por el trabajo. Esos cabrones... No sé cómo lo hicieron, pero alteraron el vídeo y mi voz en off afirmaba que los rumores del inminente ataque eran cierto.
+Lucas apretó el puño.
+- ¿Intentaste denunciarlos?
+- ¡Por supuesto!
