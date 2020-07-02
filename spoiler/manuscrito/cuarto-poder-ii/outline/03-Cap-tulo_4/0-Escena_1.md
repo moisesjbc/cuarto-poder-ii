@@ -82,7 +82,23 @@ Lucas notó que la cámara seguía grabando y dudó sobre si mirar hacia ella o 
 - Pero el coronel se limitó a informarnos de lo que sucedía realmente. ¡Preparaban una exhibición para la reina! Contestó a todas nuestras preguntas y nos dejó marchar.
 Lucas recordó lo buena persona que le pareció Cooper y sus hombres desde el primer momento. "Ojalá estén bien...", pensó.
 - ¿Y qué pasó luego? - preguntó Óscar.
-- Volvimos al AT de Gran Canaria y me felicitaron por el trabajo. Esos cabrones... No sé cómo lo hicieron, pero alteraron el vídeo y mi voz en off afirmaba que los rumores del inminente ataque eran cierto.
-Lucas apretó el puño.
+- Volvimos al AT de Gran Canaria y me felicitaron por el trabajo. Esos cabrones... No sé cómo lo hicieron, pero alteraron el vídeo y mi voz en off afirmaba que los rumores del inminente ataque eran cierto - Lucas apretó el puño.
 - ¿Intentaste denunciarlos?
-- ¡Por supuesto!
+- ¡Por supuesto! Pero la policía me tomó por loco, otros medios lo intentaron pero fueron silenciados, ...
+- Lo de siempre con RIO, vamos.
+- Sí...
+- ¿Y por qué seguiste trabajando con ellos? - preguntó Lucía.
+Lucas bajó la mirada.
+- RIO se aseguró de atarme en corto. Los otros medios empezaron a rehuirme, y sin trabajo acabaría en un barrio estatal. "No pasa nada. Voy a recopilar pruebas contra ellos desde dentro", me decía. Pero a la hora de la verdad temía arriesgarme.
+- No todo el mundo está preparado para dar el salto y enfrentarse a ellos directamente - dijo Óscar -. Pero estás empezando a hacerlo, y eso es lo que importa ahora mismo.
+- Eso espero...
+- Bueno - dijo el cámara tras unos instantes - ¿Seguimos?
+Lucas volvió a hablar directamente a la cámara, volviendo a contar su historia una y otra vez. Tras cada repetición, Óscar y / o Lucía proponían cambios y volvían a empezar. En un momento de la tarde Lucía se disculpó.
+- Tengo que retomar el entrenamiento de los reclutas - dijo, antes de marcharse -. ¡Buena suerte!.
+Lucas siguió repitiendo su historia ante la cámara y ante Óscar. Tras un número de repeticiones en el que el joven perdió la cuenta varias veces, Óscar sonrió.
+- Bueno - resopló -. ¡Hemos terminado!
+- Por fin - añadió Lucas, agotado.
+- Muchas gracias, Lucas. Voy a preparar el vídeo para la emisión. Me quedan algunas horas... Bueno, ¡eres libre!
+Lucas se despidió del cámara y salió de la habitación.
+Una vez en el pasillo, solo, el joven sintió que por fin había hecho algo contra RIO después de varios años, aunque fuera algo simbólico. No obstante, otro pensamiento acudió rápidamente a su cabeza.
+"Esto no va a servir de nada", pensó.
