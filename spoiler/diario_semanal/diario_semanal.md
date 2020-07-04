@@ -519,3 +519,11 @@ La escena que he dividido es aquella en la que Jonás se niega a que su hermana 
 **El capítulo 3 incluye una nueva visión muy corta de Lucas, y termina con un nuevo "diálogo" entre este y Noemí.** Ninguno de los dos estaba muy planificado a priori. Simplemente los planteé en el resumen de una frase de cada escena, y a la hora de escribirlos se me ocurrió la escena duración de la visión de Lucas y su monólogo final a Noemí. **Me gusta este equilibrio entre tenerlo todo planificado a priori y el desarrollar la historia a medida que escribo**. Espero poder mantener dicho equilibrio (¡y acordarme de hojear las fichas de personaje antes de escribir sus escenas, que para eso están!).
 
 ¡Y eso es todo! **¡La semana que viene toca darle caña al capítulo 4!**
+
+## Semana 68 (28/06/2020 - 04/07/2020)
+
+**Esta semana he completado "únicamente" la primera escena del capítulo cuatro, pero esta ha terminado teniendo... 1671 palabras**. Al margen de si hará falta dividirla o no, **he llado a la conclusión de que lo mejor es planificarme la semana por objetivos diarios de número de palabras (pe. 200 palabras por día)**.
+
+Es algo que ya he leído cuando leo consejos sobre escritura y productividad, pero tenía que experimentar la necesidad yo mismo. En este caso, he estado planificando media escena por día, pero eso era suponiendo escenas de 500 palabras. Mis escenas no tienen una longitud fija y como tal, necesito una medida más equilibrada para trabajar más o menos lo mismo cada día.
+
+**Para la semana que viene seguiré con un objetivo modesto de 200 palabras por día e iré ajustando** según vaya viendo si cumplo todo lo que quiero hacer en el día (no todo va a ser escribir). Veamos cómo sale.
