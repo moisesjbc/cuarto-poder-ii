@@ -6,9 +6,9 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Releer y refinar",
-          "details": "",
-          "color": "FAFCD2"
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Planificación de la semana que viene.\n5. Meter en Tasks si será por objetivos o tiempo.\n6. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor si soy capaz de asegurar un ritmo constante. Por tiempo si estoy con objetivos indeterminados / más \"creativos\".\n7. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
         },
         {
           "name": "Repasar destino y presencia en las escenas",
@@ -46,6 +46,11 @@
           "color": "FCC7FC"
         },
         {
+          "name": "Releer y refinar",
+          "details": "",
+          "color": "FCC7FC"
+        },
+        {
           "name": "Ver dónde subi la primera parte y si está actualizada (Bubok)",
           "details": "",
           "color": "FFFFFF"
@@ -75,13 +80,7 @@
     },
     {
       "name": "On going",
-      "cards": [
-        {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n\n4. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor si soy capaz de asegurar un ritmo constante. Por tiempo si estoy con objetivos indeterminados / más \"creativos\".\n5. Planificación de la semana que viene.\n6. Meter en Tasks si será por objetivos o tiempo.\n7. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
-        }
-      ],
+      "cards": [],
       "settings": {
         "limit": 2
       }
@@ -89,6 +88,21 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Escribir escena 4.2 (1/2)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir escena 4.1 (2/2)",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir escena 4.1 (1/2)",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Escribir escena 3.3 (2/2)",
           "details": "",
