@@ -30,4 +30,18 @@ El día anterior, en la *Burbuja*, le había dicho a Ana que se uniría a la res
 Lucas dio un respingo. Una joven salio de entre dos de los camiones y lo saludó con una sonrisa, antes de seguir echando un vistazo al motor de uno de ellos.
 - Ho-hola.
 La joven siguió a lo suyo y Lucas hizo lo propio. Siguió avanzando y llegó hasta los árboles. Allí el camino curvaba 90º hacia la derecha y avanzaba un buen trecho sin ningún signo de civilización antes de volver a girar hacia la izquierda, en la lejanía.
-"¿Y si dijera que no quiero hacerlo?", Lucas se sintió culpable sólo de pensarlo, pero era una pregunta necesaria. "
+Lucas siguió caminando por un lateral de la carretera, sin dejar de observar los alrededores. Les habían asegurado que no había animales peligrosos en la zona. "Pero aún así..."
+"¿Y si dijera que no quiero hacerlo?", Lucas se sintió culpable sólo de pensarlo, pero era una pregunta necesaria. "Estoy en el objetivo de RIO. Sería un fugitivo y estaría en peligro igualmente".
+El joven se paró a observar unas flores a su derecha. "¿Es lo único que me mantiene aquí? ¿El miedo y el no tener una alternativa mejor?"
+"Quiero sentir que hago algo para mejorar el mundo", se dijo, "pero, ¿tiene que ser a costa de mi seguridad?" - Lucas exhaló una bocanada de aire y continuó caminando, sin perder de vista los alrededores. "Los de la resistencia no tienen problema en arriesgar sus vidas. ¿Por qué? ¿Qué los hace tan especiales? ¿Qué tienen que a mí me falta?"
+Lucas casi tropezó con una piedra situada en el camino. La pateó con desdén hacia los árboles.
+"Motivación. Tengo que buscar mi motivación... ¿cuál es? Ana y mis hij-"
+- Uff - Lucas se llevó la mano a la cabeza y se obligó a respirar profundamente.
+"No. No son mis hijas".
+El joven se preguntó si alguna vez dejaría de sentir que convivía con un desconocido dentro de su cabeza.
+"No son mis hijas", se volvió a decir. "Pero... eso no cambia que no quiera abandonarlas, igual que a Ana. Son las únicas personas que me quedan en las que siento que pueda confiar... y Ana me salvó".
+"Ana..."
+Lucas recordó que aún tenía que disculparse con Ana tras lo del desayuno. "Aunque no sé muy bien por qué. Y si la disculpa me sale tan bien como con Noemí..."
+El joven no pudo evitar fruncir el ceño.
+"Creí que Noemí odiaba mi cobardía, pero tampoco quiere que la abandone". Se imaginó en medio del fuego cruzada, corriendo hacia su muerte. "¿Puedo proporcionarle ambas cosas? ¿Acaso es posible?"
+De repente se escuchó un ruido de hojas secas quebrándose muy cerca de Lucas, entre los árboles. El joven dio un respingo y se alejó hacia el centro de la carretera.
