@@ -23,7 +23,10 @@
     "fullscreenSettings": {
         "autohide-bottom": true,
         "autohide-left": true,
-        "autohide-top": true
+        "autohide-top": true,
+        "clock-show-seconds": true,
+        "progress-auto-show": true,
+        "title-show-full-path": true
     },
     "lastTab": 6,
     "openIndexes": [

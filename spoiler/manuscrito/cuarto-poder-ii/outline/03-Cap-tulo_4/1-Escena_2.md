@@ -44,4 +44,25 @@ El joven se preguntó si alguna vez dejaría de sentir que convivía con un desc
 Lucas recordó que aún tenía que disculparse con Ana tras lo del desayuno. "Aunque no sé muy bien por qué. Y si la disculpa me sale tan bien como con Noemí..."
 El joven no pudo evitar fruncir el ceño.
 "Creí que Noemí odiaba mi cobardía, pero tampoco quiere que la abandone". Se imaginó en medio del fuego cruzada, corriendo hacia su muerte. "¿Puedo proporcionarle ambas cosas? ¿Acaso es posible?"
-De repente se escuchó un ruido de hojas secas quebrándose muy cerca de Lucas, entre los árboles. El joven dio un respingo y se alejó hacia el centro de la carretera.
+De repente se escuchó un ruido de hojas secas quebrándose muy cerca de Lucas, entre los árboles. El joven dio un respingo y se alejó hacia el centro de la carretera. Empezó a alejarse hacia la base de espaldas.
+- ¡Tranquilo! ¡Somos vecinos de la *Burbuja*!
+Un pequeño grupo de séis personas salió de entre los árboles, aunque sin adentrarse en el camino de tierra. Miraban con recelo hacia la izquierda, donde el camino llevaba hasta las instalaciones.
+Lucas, efectivamente, reconoció vagamente algunas de las caras de cuando fueron rescatados de la *Burbuja*. Esto lo tranquilizó un poco, pero no pudo evitar permanecer alerta.
+- Nos vamos - Hablaba una mujer de unos 50 años que iba a la cabeza del grupo.
+- ¿Qué? - respondió Lucas. - ¿A dónde?
+- ¡A cualquier sitio lejos de aquí!
+- Shhh - le reprendió una joven detrás de ella.
+- Lo siento - miró hacia Lucas -. Esta gente nos prepara para morir. Prefiero morir huyendo del matadero, no corriendo hacia él.
+- Pero...
+- ¡No tenemos tiempo que perder! Pueden venir tras nosotros en cualquier momento.
+"No somos prisioneros", quiso decir Lucas, pero entonces lo vio. El grupo atravesó la carretera hacia el bosque del otro lado. Llevaban mochilas cargadas a sus espaldas.
+- ¿Les habéis robado? - Lucas los miró, boquiabiertos.
+- Necesitamos provisiones - dijo la mujer que iba en cabeza. El grupo terminó de cruzar la carretera y se adentró en los árboles.
+- ¿Te vienes? - gritó uno de los chicos que iba en la retaguardia, mirando hacia Lucas desde los árboles.
+Lucas dio un paso hacia adelante. Estuvo a punto de dar un segundo, pero entonces se obligó a detenerse.
+- No - dijo en voz baja -.
+- ¿Qué?
+- ¡No!
+- Ok - dijo el joven al tiempo que se adentraba más entre los árboles para unirse al resto del grupo - ¡suerte!
+Lucas escuchó los pasos entre los árboles durante unos instantes hasta que volvió a quedarse solo con sus pensamientos.
+"¿Hasta cuando?", se dijo, mirándose los pies. Apuntaban hacia donde el grupo se había ido "¿Hasta cuando voy a fingir ser quien no soy?"
