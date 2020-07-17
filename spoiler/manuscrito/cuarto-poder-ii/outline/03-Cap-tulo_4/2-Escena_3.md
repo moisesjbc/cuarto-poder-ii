@@ -40,3 +40,13 @@ Una figura alta y delgada se encontraba de pie ante él. Lucas reconoció la eno
 - ¿Eh?
 Lucas pensó sobre a qué podría referirse, hasta que por fin cayó. Se ruborizó ligeramente.
 "El vídeo"
+Cuando quiso darse cuenta, se encontraban en una gran sala con bancos verdes de hierro dispuestos en fila. Frente a la pared del fondo se encontraba una mesa de madera que apenas se mantenía en pie. Sobre ella descansaba un enorme televisor de culo. Lucas no recordaba la última vez que había visto uno. Al lado del televisor descansaba un portátil.
+- Toda esta gente... - empezó a decir.
+- Sí, han venido a verte - sonrió Óscar.
+"Buff"
+Lucas sintió que las mejillas se le empezaban a calentar. Óscar lo abandonó para ir a sentarse ante el portátil. Lucas buscó el primer hueco que vio libre, en una de las últimas filas, mientras buscaba con la mirada a Ana y los demás. Creyó distinguir a Ana en una de las primeras filas, pero no estaba seguro.
+Grupos de personas aquí y allá hablaban entre susurros, cuidándose con mucho recelo de ser escuchados por otros. Lucas se preguntó si estarían planificando fugarse.
+Óscar encendió el gran televisor y zapeó entre varios canales en Árabe hasta llegar a uno en español. Estaban emitiendo las noticias de la noche. Las personas congregadas miraron la tele pero continuaron hablando por lo bajo.
+- Muy bien, ¡vamos allá! - gritó Óscar, logrando un mayor silencio en la estancia.
+La imagen que mostraba a dos presentadores en unos lujosos estudios de televisión dieron paso abruptamente a un escenario mucho más humilde. Una figura permanecía de pie sobre una pared desnuda.
+Era Lucas.
