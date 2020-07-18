@@ -6,11 +6,6 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Planificación de la semana que viene.\n5. Meter en Tasks si será por objetivos o tiempo.\n6. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor si soy capaz de asegurar un ritmo constante. Por tiempo si estoy con objetivos indeterminados / más \"creativos\".\n7. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
-        },
-        {
           "name": "Repasar destino y presencia en las escenas",
           "details": "",
           "color": "FAFCD2"
@@ -80,7 +75,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Exportar kanban y añadir a Git.\n3. Escribir entrada diario semanal (+ commit).\n4. Planificación de la semana que viene.\n5. Meter en Tasks si será por objetivos o tiempo.\n6. Mejora continua.\n    - Repasar documento de consejos de escritura.\n    - No perder tiempo en pensar nombres desde el principio.\n    - Por objetivos mejor si soy capaz de asegurar un ritmo constante. Por tiempo si estoy con objetivos indeterminados / más \"creativos\".\n7. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        }
+      ],
       "settings": {
         "limit": 2
       }
@@ -88,6 +89,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Escribir escena 4.2 (1/2)",
           "details": "",
