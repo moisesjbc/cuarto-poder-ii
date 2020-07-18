@@ -527,3 +527,11 @@ La escena que he dividido es aquella en la que Jonás se niega a que su hermana 
 Es algo que ya he leído cuando leo consejos sobre escritura y productividad, pero tenía que experimentar la necesidad yo mismo. En este caso, he estado planificando media escena por día, pero eso era suponiendo escenas de 500 palabras. Mis escenas no tienen una longitud fija y como tal, necesito una medida más equilibrada para trabajar más o menos lo mismo cada día.
 
 **Para la semana que viene seguiré con un objetivo modesto de 200 palabras por día e iré ajustando** según vaya viendo si cumplo todo lo que quiero hacer en el día (no todo va a ser escribir). Veamos cómo sale.
+
+## Semana 69 (13/07/2020 - 18/07/2020)
+
+**Me tomé la semana anterior libre por motivos personales. En cuanto a esta semana, he continuado y cumplido el objetivo diario de 200 palabras diarias (de hecho, lo común ha sido hacer más palabras)**. La única conclusión que puedo sacar ahora mismo de esta semana es que **las escenas de 500 palabras me siguen pareciendo muy cortas**, ¡y eso que no me estoy deteniendo mucho en las descripciones e intentando ir al grano en este primer borrador!.
+
+**La semana que viene comenzaré la escena 4.4, donde se publica el vídeo de Lucas contra RIO y esta última lo desmiente directamente.** No estoy seguro de si soltaré la bomba sobre la muerte de Cooper o la reservaré para más adelante.
+
+Pobre Lucas...
