@@ -24,4 +24,9 @@ A pocos segundos de terminar el vídeo, la imagen de Lucas volvió a desaparecer
 En su lugar apareció Elizabeth Ramírez, reportera del AT de Gran Canaria y antigua compañera de Lucas. Este último no recordaba haber hablado nunca con ella. Sin embargo, recordaba haber escuchado su nombre de pasada con una frecuencia demasiado superior para las veces que aparecía en antena.
 Los pocos susurros que se producían en el momento de la interrupción se silenciaron al unísono. Todo el mundo miraba fijamente la pantalla. Lucas se fijó en Óscar. Lejos de intentar recuperar el control de la emisión, miraba con expresión seria el televisor.
 Tras unos segundos, Elizabeth comenzó a hablar.
-"Buenas noches"
+"Buenas noches
+En primer lugar nos gustaría disculparnos desde RIO por esta interrupción en nuestra programación. Ha sido un toque de atención para que mejoremos nuestras políticas de seguridad y pueden tener presentes que trabajaremos duramente para que algo así no vuelva a ocurrir.
+Por otra parte, y centrándonos en la emisión que acaban de ver, nos gustaría confirmar que, efectivamente, Lucas, nuestro antiguo reportero, continúa vivo. Como recordarán, el pasado mes de Agosto el AT de Gran Canaria sufrió un ataque terrorista a mano de un grupo del ejército inglés liderado por el Coronel Cooper. Tras el ataque fallido dimos por muerto a nuestro querido compañero, el cuál había sido clave en destapar las intenciones de Inglaterra para con Estados Unidos en el pasado, aprovechando su delicada situación interna. Ciertamente se había convertido en un objetivo de las represalias de los terroristas.
+Nuevamente debemos pedir perdón a nuestros televidentes por esta información falsa. Y aunque me alegro mucho de que Lucas siga vivo, lamento que haya optado por la vía del terror".
+- ¿Cómo? - Lucas no pudo dejar escapar un gesto de incredulidad. Un susurro anónimo lo mandó a callar.
+"Tras la supuesta muerte de nuestro compañero, recibimos rumores que inicialmente nos negamos a creer"
