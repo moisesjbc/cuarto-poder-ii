@@ -35,3 +35,14 @@ A Elizabeth se le quebró la voz. Hizo una pausa, bajando la mirada y llevándos
 "Lo siento. No sé cómo ha podido hacernos esto un compañero tan querido por nuestra redacción". Elizabeth resopló. "Como decía, estamos colaborando con las fuerzas del Orden, y pedimos la colaboración de nuestros hermanos del continente vecino para que nos ayuden a capturar a nuestro compañero."
 "Por favor", Elizabeth suspiró, "a pesar de los crímenes que pueda haber cometido durante estos meses, se trata de una persona solitaria a la que le han lavado el cerebro. Si lo ven intenten comprender que no sabe lo que hace y que necesita ayuda".
 "Elizabeth Ramírez informando para el AT de Gran Canaria. Corporación RIO"
+El silencio se hizo en la sala, únicamente roto por unos pocos susurros aquí y allá. Muchas cabezas se giraron hacia Lucas. Al lado del televisor, Óscar se puso en pie y sonrió mirando hacia Lucas.
+- ¿Qué te parece ser un terrorista?
+Lucas hizo caso omiso del comentario y se levantó de su asiento.
+- ¿Ana? ¡Ana!
+Una figura se alzó sobre una de las primeras filas.
+- Estoy aquí.
+Lucas avanzó hacia ella. Iba con paso decidido aunque las piernas le temblaban un poco. Cuando llegó a su altura, Ana comenzó a hablar.
+- Tranquilo, esto es lo que hacen siempre. Pero...
+- "El difunto Coronel Cooper" Es mentira, ¿verdad?. Tiene que seguir capturado en una *Burbuja*, ¿no?
+Ana guardó silencio unos segundos sin dejar de mirarlo fijamente.
+- Estaba en una *Burbuja* que liberamos, pero no lo consiguió. Está muerto.
