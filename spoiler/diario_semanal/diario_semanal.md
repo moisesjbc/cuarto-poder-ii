@@ -535,3 +535,13 @@ Es algo que ya he leído cuando leo consejos sobre escritura y productividad, pe
 **La semana que viene comenzaré la escena 4.4, donde se publica el vídeo de Lucas contra RIO y esta última lo desmiente directamente.** No estoy seguro de si soltaré la bomba sobre la muerte de Cooper o la reservaré para más adelante.
 
 Pobre Lucas...
+
+## Semana 70 (20/07/2020 - 25/07/2020)
+
+**He cumplido con creces el objetivo diario de 200 palabras los 5 días (palmadita en la espalda)** No obstante, entre el trabajo y recados que surgen de improviso, de momento no me veo aumentando el objetivo diario.
+
+**Al final he soltado la bomba de Cooper al final del capítulo 4**. He optado por seguir añadiendo leña al conflicto interno de Lucas sobre si intentar hacer algo para parar a RIO o desentenderse de todo.
+
+**He comenzado con el capítulo 5, incluyendo una primera escena en la que Lucas vuelve a tener un ¿sueño? con el planeta X** (realmente tengo que pensar algún nombre si no quiero que se acabe quedando así). Me sigo sintiendo con este equilibrio de tener la trama principal esbozada sin dejar de "volverme creativo" a medida que escribo (el sueño lo fui inventando según lo escribía).
+
+Veamos cuánto avanzo la semana que viene.
