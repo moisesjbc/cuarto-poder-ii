@@ -32,7 +32,6 @@
     "openIndexes": [
         0,
         [
-            "16",
             "71"
         ],
         null
