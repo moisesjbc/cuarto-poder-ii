@@ -6,6 +6,11 @@
       "name": "ToDo",
       "cards": [
         {
+          "name": "Anotar miembros de la resistencia y de la habitación de Lucas",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Repasar destino y presencia en las escenas",
           "details": "",
           "color": "FAFCD2"
@@ -89,6 +94,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Escribir 200 palabras",
           "details": "",
