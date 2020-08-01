@@ -538,10 +538,20 @@ Pobre Lucas...
 
 ## Semana 70 (20/07/2020 - 25/07/2020)
 
-**He cumplido con creces el objetivo diario de 200 palabras los 5 días (palmadita en la espalda)** No obstante, entre el trabajo y recados que surgen de improviso, de momento no me veo aumentando el objetivo diario.
+**He cumplido con creces el objetivo diario de 200 palabras los 5 días (palmadita en la espalda)**. No obstante, entre el trabajo y recados que surgen de improviso, de momento no me veo aumentando el objetivo diario.
 
 **Al final he soltado la bomba de Cooper al final del capítulo 4**. He optado por seguir añadiendo leña al conflicto interno de Lucas sobre si intentar hacer algo para parar a RIO o desentenderse de todo.
 
 **He comenzado con el capítulo 5, incluyendo una primera escena en la que Lucas vuelve a tener un ¿sueño? con el planeta X** (realmente tengo que pensar algún nombre si no quiero que se acabe quedando así). Me sigo sintiendo con este equilibrio de tener la trama principal esbozada sin dejar de "volverme creativo" a medida que escribo (el sueño lo fui inventando según lo escribía).
 
 Veamos cuánto avanzo la semana que viene.
+
+## Semana 71 (27/07/2020 - 01/08/2020)
+
+**Nuevamente he mantenido el objetivo diario de 200 palabras los 5 días**. De momento lo mantendré en 200.
+
+**Esta semana he terminado las escenas 5.2 y 5.3 (incidente de madrugada de Lucas, Jonás y Lara, y fuga de compañeros de la habitación). También he comenzado la escena 5.4, donde se produce una discusión entre Ana y Lucas por la inacción de este último**. Hace unos meses lei en un libro sobre escritura que **la tensión no es igual a persecuciones y tiroteos constantes**, y pienso aplicarlo en esta segunda parte. De momento Lucas ya la ha pifiado con Noemí y está a punto de hacerlo con Ana. En la escena que viene se viene una persecusión, pero ya me entienden ;-)
+
+**Toca planificar la siguiente semana**. No sé si dejarla íntegramente a seguir el objetivo diario de 200 palabras, o incluir algún "objetivo especial" en medio, **como aclararme con quiénes conviven en la base y especialmente en la habitación de Lucas, porque actualmente los voy sacando según cuadra ^^U**.
+
+¡Hasta la semana que viene!
