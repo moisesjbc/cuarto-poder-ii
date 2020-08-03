@@ -49,4 +49,59 @@ Ana suspiró.
 - Ah - Lucas bajó la mirada.
 Ana permaneció en silencio durante unos instantes.
 - Repetiré la pregunta: ¿por qué estás aquí?
-**440**
+- Ana...
+- Ahora.
+Lucas levantó la mirada hacia su amiga, pero la volvió a apartar súbitamente cuando vio que esta no le quitaba ojo de encima.
+- ...
+- ¿Y bien?
+- Yo...
+- ¿Sí?
+- No... no lo pones fácil.
+- Tendría que serlo.
+- ...
+- ¿Por qué estás aquí?
+- Joder...
+- ¿Por qué...-?
+- ¡Por ti! ¿Vale? ¡Y por Noemí!
+Lucas esperó que aquello le diera tregua.
+Qué equivocado estaba.
+- ¿Y ya está?
+- ¿Cómo que si ya está? ¿Te parece poco?
+- Sí.
+Lucas levantó la mirada nuevamente. Empezó a sonreír para responder a la sonrisa de su amiga.
+Pero Ana no estaba sonriendo. Sus labios formaban una línea recta. Sus ojos seguían clavados en Lucas, impasibles bajo su flequillo lacio y pelirrojo.
+- ¿No te parece un buen motivo quedarse a proteger a las personas que quieres?
+- ¿Y por qué no usaste ese motivo en la habitación con los fugados?
+Lucas permaneció en silencio unos segundos.
+- No sabía si ellos tenían seres queridos y si ya... o si ya los habían perdidos a todos.
+- Y una mierda - espetó Ana -. Ese motivo tendría que haber salido natural, sin pararte a pensar en si la otra persona había perdido a seres queridos o no.
+- Pero...
+- E incluso en ese caso, hubieras podido mencionar la venganza. No es infrecuente que sólo una persona de la misma familia haya sido jodido por RIO.
+- No tengo esa soltura con las palabras, Ana. Sabes... sabes que me bloqueo con facilidad.
+- Lo que sé es que te bloqueas si no sientes lo que estás diciendo...
+Lucas frunció el ceño.
+- ¿Insinúas que no me importas?
+- Insinúo que no lo suficiente como para estar aquí.
+- ¿Te das cuenta de la locura que estás diciendo? - Lucas la miraba fijamente, sin dejar de fruncir el ceño -. Me importas, Ana. Y no quiero que te pase nada.
+Lucas sintió que las mejillas se le sonrojaban al decir esto último.
+- Te creo.
+- Bien.
+- Pero no es suficiente.
+- ¡Joder! - espetó Lucas -. Entonces, dime, ¿por qué? ¿Por qué no es suficiente?
+- Porque un día, más pronto que tarde, vas a estar esquivando balas de RIO. Y necesito saber que tus compañeros podrán confiar en ti.
+A Lucas se le hizo un nudo en la garganta.
+- ¿Acaso es delito tener miedo de morir? Me parece una reacción muy sana.
+- Lo es, pero si estás con nosotros asumes un compromiso. Luchar contra RIO, cueste lo que cueste.
+- ¿Dando mi vida por n-?
+- Ibas a decir "por nada", ¿verdad?
+- ...
+Ana resopló.
+- No nos valen los reclutados por el miedo, Lucas. La unidad en la que acabes va a depender con sus vidas de ti. Tienes que sentir que lo que haces vale para algo. Tienes que vivirlo.
+- No es tan fácil para todo el mundo.
+- ¿El qué?
+- ¡No a todo el mundo le resulta tan fácil jugarse la vida!.
+Sus palabras salieron con más fuerza de lo que esperaba, pero murieron en el silencio de la mañana tan pronto como abandonaron su boca. Ana bajó la mirada por primera vez.
+- Vete a la mierda.
+Ana avanzó y pasó a su lado sin mirarlo.
+- Ana...
+Pero la joven lo apartó sin esfuerzo con el hombro y entró en las instalaciones.
