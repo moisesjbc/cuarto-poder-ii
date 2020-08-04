@@ -17,7 +17,7 @@ Lucas corría hacia él. El cielo sobre su cabeza iba tomando un tono cada vez m
 - ¡Vamos! - gritó Cooper - ¡date prisa!
 Lucas, jadeando, llegó a su lado.
 - Ya estoy aquí - resopló.
-Cooper no respondió. Lucas extendió la mano para tocarlo, pero entonces Cooper se desvaneció. En su lugar apareció una nube de polvo. El uniforme cayó al suelo. Una calavera asomaba entre las ropas.
+Cooper no respondió. Lucas extendió la mano para tocarlo, pero entonces Cooper se desvaneció. En su lugar apareció una nube de ceniza. El uniforme cayó al suelo. Una calavera asomaba entre las ropas.
 Lucas miró el cadáver sin inmutarse durante unos instantes. Entonces miró al frente.
 - Despierta.
 Una gran extensión de hierba se extendía hasta donde alcanzaba la vista, sin ninguna señal de vida aparente.
