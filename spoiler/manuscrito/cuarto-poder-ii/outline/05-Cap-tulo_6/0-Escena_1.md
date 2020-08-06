@@ -5,6 +5,7 @@ summaryFull:    El grupo consigue abandonar la base antes de que lleguen los de 
 POV:            0
 notes:          - ¿Lucas corriendo a proteger a Noemí?
                 - Se emite una señal secreta de "auto-destrucción". Esta señal se reutilizará en capítulo 27 cuando se produce el atentado a los de RIO en la base rebelde.
+                -
 label:          4
 status:         1
 compile:        2
@@ -31,3 +32,13 @@ Todos los presentes avanzaron hasta el extremo opuesto. La multitud fue haciénd
 En el muro había una pequeña puerta del color mismo de la pared y sin ningún tipo de decoración. Había que estar realmente cerca para percatarse de ella.
 El grupo salió al exterior, entrando directamente en el bosque que empezaba a escasos metros del muro.
 Dejando atrás las luces de las instalaciones, el grupo avanzaba con cuidado bajo la escasa iluminación de unas pocas linternas acopladas en las armas de los miembros de la resistencia.
+El grueso del grupo avanzaba junto, alejándose en línea recta, siempre que lo permitieran los árboles, de las instalaciones. No obstante, Lucas puedo percibir que algunas personas se separaban del grupo y se alejaban en distintas direcciones.
+En primer lugar pensó que se trataría de "veteranos" de la Resistencia que se separaban para asegurar los flancos. Luego pensó que podría tratarse de novatos que bordeaban para poder ir más rápido.
+En ninguno de esos posibles escenarios parecían volver.
+"¿Se están fugando?", pensó Lucas, "¿Ahora?"
+- ¡Cuidado! - espetó una figura delante de él. Mirando hacia los lados, Lucas no se percató de que había un pequeño desnivel en el camino que hizo reducir la marcha a los que iban delante y empujó al chico que iba delante de él.
+- ¡Perdón!
+Un ruido lejano se sumó a los murmullos del grupo. A medida que se acercaba, no tardó en imponerse sobre todo lo demás.
+Era un helicóptero.
+- Al suelo! - gritaron varias veces a la vez.
+Lucas se tiró al suelo con tanta velocidad que la tierra le raspó el cuerpo. Noemí se tendió a su lado. Tendido boca abajo, el joven no podía ver a Jonás y Lara tras ellos, pero entre el sonido de sus propios latidos creyó escucharles haciendo lo propio.
