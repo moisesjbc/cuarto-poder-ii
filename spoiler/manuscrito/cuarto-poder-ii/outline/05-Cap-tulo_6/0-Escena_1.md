@@ -42,3 +42,20 @@ Un ruido lejano se sumó a los murmullos del grupo. A medida que se acercaba, no
 Era un helicóptero.
 - Al suelo! - gritaron varias veces a la vez.
 Lucas se tiró al suelo con tanta velocidad que la tierra le raspó el cuerpo. Noemí se tendió a su lado. Tendido boca abajo, el joven no podía ver a Jonás y Lara tras ellos, pero entre el sonido de sus propios latidos creyó escucharles haciendo lo propio.
+El helicóptero, oculto por la copa de los árboles, se iba acercando a su posición. Aparte del sonido del peligro inminente sobre sus cabezas, la tierra permanecía en silencio.
+- ¿Qué estás haciendo? - susurró Lara tras Lucas.
+- Shhh - respondió Jonás. Lucas lo escuchó haciendo algo con las manos, pero no supo decir qué era.
+De repente, una figura de las muchas que se encontraban tendidas en el suelo, se levantó.
+- ¡Aquíiiiii! - gritó, alzando los brazos al cielo - ¡Estamos aquíii!
+- ¡¿Qué estás haciendo?! - susurró alguien, casi gritando.
+- ¡Cállate, gilipollas!
+Pero el hombre, algo mayor que Lucas, hizo caso omiso. Continuaba gritando haciendo señas al helicóptero, aún cuando lo ocultara la vegetación.
+- ¡Aquíii!
+Varios veteranos de la resistencia se fueron acercando hacia él, con sus armas apuntándole.
+Lucas apenas tuvo tiempo de reaccionar cuando Noemí se puso en pie de un salto. Esta última corrió hacia la figura y trató de embestirla, pero el hombre la paró en seco. Ambos empezaron a forcejear.
+El helicóptero, que parecía estar pasándolos de largo hace unos instantes, se acercó y permaneció sobrevolando la zona.
+Lucas, medio agachado, comenzó a escuchar otro ruido proveniente del helicóptero.
+"Oh no"
+Estaba a punto de comenzar a disparar.
+Lucas terminó de incorporarse y corrió hacia Noemí y el hombre que los había descubierto. Cuando llegó a donde estaban, empujó al hombre con toda sus fuerzas, algo que tampoco valió para hacerlo caer, pero lo hizo retroceder. Lucas agarró a Noemí con fuerza y la obligó a agacharse, intentado cubrirla con su propio cuerpo.
+Una lluvia de balas cayó sobre ellos.
