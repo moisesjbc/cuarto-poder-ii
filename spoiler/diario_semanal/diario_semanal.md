@@ -555,3 +555,11 @@ Veamos cuánto avanzo la semana que viene.
 **Toca planificar la siguiente semana**. No sé si dejarla íntegramente a seguir el objetivo diario de 200 palabras, o incluir algún "objetivo especial" en medio, **como aclararme con quiénes conviven en la base y especialmente en la habitación de Lucas, porque actualmente los voy sacando según cuadra ^^U**.
 
 ¡Hasta la semana que viene!
+
+## Semana 72 (03/08/2020 - 08/08/2020)
+
+**Nuevo pleno con respecto al objetivo diario de 200 palabras**. Salvo el jueves, que hice 220, el resto de días conseguí bastantes más (¡el martes estuve especialmente motivado y llegué a ~680!). **Me estoy planteando aumentar el objetivo diario, aunque es posible que durante las dos semanas que viene no toque la novela tanto**. Hay dos game jams en sendas semanas a las que les he echado el ojo, y no sé si participar en ambas o sólo en una.
+
+Sobre lo que he escrito: **esta semana ha tocado la discusión de Ana y Lucas por la inacción de este último. También ha tocado la huida de la base rebelde ante el ataque inminente de RIO**. Estoy inmerso en esta última, justo en el punto en el que Lucas se lanza a proteger a Noemí y ambos son proteguidos a su vez por Jonás y sus nanomáquinas. Según mi planificación, se viene una explosión ;-)
+
+Y poco más que contar. **Mañana o pasado veré si me apunto a la primera game jam y ya iré mirando qué hago**.
