@@ -29,6 +29,17 @@ Notes:               # Forma física
                      
                      Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos y voladores que forman una mente colmena.
                      
+                     # Representación ante Lucas
+                     
+                     Primera aparición (sueño antes del ataque de RIO a las primeras instalaciones de la Resistencia).
+                     
+                     "El portal había desaparecido. En su lugar había una mujer joven. Era un poco más alta que Lucas y tan delgada como este. Vestía unos vaqueros y un top blanco. Su cara redondeado exhibía unos rasgos finos. La joven lucía una generosa melena castaña risada que caía a borbotones por su cuerpo, cubriéndolo en gran parte hasta sus rodillas.
+                     La joven miró a Lucas y abrió la boca, pero no emitió sonido alguno.
+                     Por un instante la boca desapareció de su cara. Lucas frunció el ceño y retrocedió.
+                     Parpadeó y la joven volvió a tener boca. Esta volvió a abrirse y esta vez emitió un pequeño gruñido.
+                     La boca volvió a desaparecer. Un segundo después apareció de nuevo. Fue entonces cuando Lucas se fijó.
+                     La boca no era exactamente como antes. Parecía un poco más grande, y los labios parecían tener otro tono y estar algo menos abultados."
+                     
                      # Modo de funcionamiento
                      
                      ## 1. Fase de colonización
