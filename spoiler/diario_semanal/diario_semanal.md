@@ -563,3 +563,9 @@ Veamos cuánto avanzo la semana que viene.
 Sobre lo que he escrito: **esta semana ha tocado la discusión de Ana y Lucas por la inacción de este último. También ha tocado la huida de la base rebelde ante el ataque inminente de RIO**. Estoy inmerso en esta última, justo en el punto en el que Lucas se lanza a proteger a Noemí y ambos son proteguidos a su vez por Jonás y sus nanomáquinas. Según mi planificación, se viene una explosión ;-)
 
 Y poco más que contar. **Mañana o pasado veré si me apunto a la primera game jam y ya iré mirando qué hago**.
+
+## Semana 73 (10/08/2020 - 15/08/2020)
+
+**Finalmente esta semana me uní a una game jam y sólo dediqué lunes y martes a la novela**. En total escribí unas ~450 palabras el lunes y actualicé la ficha de la Sirena con la descripción que doy cuando se presenta ante Lucas en sueños.
+
+**La semana que viene creo que NO participaré en la otra jam, pero creo que va a ser movidita en el curro. A ver cuánto le puedo dedicar a la novela...**
