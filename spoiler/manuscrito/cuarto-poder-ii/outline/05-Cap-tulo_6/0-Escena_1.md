@@ -22,7 +22,7 @@ Lucas frunció el ceño.
 - ¿La entrada principal no está hacia el otro lado? - preguntó Lara.
 Jonás miró hacia el otro extremo del pasillo, pero no había nadie. Los cuatro notaron que sólo escuchaban gritos y otros ruidos desde el extremo contrario del pasillo.
 - ¡Vamos! - gritó Noemí, adelántadose hacia el lado donde escuchaban a la gente moverse.
-El grupo la siguió hasta que se unieron a un grupo más numeroso que avanzaba guiado por miembros de la resistencia. Al igual que ellos cuatro, el grupo más numeroso de antiguos habitantes de la *Burbuja* escapaba con la poca ropa de dormir que pudieron ponerse.
+El grupo la siguió hasta que se unió a un grupo más numeroso que avanzaba guiado por miembros de la resistencia. Al igual que ellos cuatro, el grupo más numeroso de antiguos habitantes de la *Burbuja* escapaba con la poca ropa de dormir que pudieron ponerse.
 La pequeña multitud avanzó a trompicones hasta llegar al patio de entrenamiento. Una noche cerrada y tranquila los recibió. Debía de ser aún pronto en la madrugada.
 - ¡No puede ser que sea un simulacro! - espetó Jonás.
 No obstante, la gente, lejos de permanecer en el centro del patio para esperar nuevas instrucciones (o al menos una explicación), avanzaba hacia el extremo opuesto del patio.

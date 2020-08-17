@@ -12,6 +12,8 @@ notes:          - Lucas descubre entonces que están en África.
                 - ¿Lucas tiene alguna visión en sueños?
                 - Perciben el rechazo.
                 - ¿Lucas cuenta algo de la visión? -> ¿O se niega en ese momento por estar con más gente?
+                
+                - Quitar el uniforme de RIO y de la Resistencia. Ambos se suponen que intentan infiltrarse.
 label:          4
 status:         1
 compile:        2
@@ -26,7 +28,7 @@ Se trata de hombre mayor, delgado y con el pelo blanco, pero que parecía gozar 
 Las palabras surtieron el efecto deseado y los presentes se apresuraron a subir a la trasera de los camiones. No faltaron las quejas.
 - ¿Acaso somos ganado?
 - ¡No hay derecho!
-Debían haber unas sesenta personas, pensó Lucas. Noemí y él permanecieron juntos y subieron al segundo camión. El joven no pudo reprimir una sonrisa cuando comprobó que Ana también subió y se sentó junto a ellos.
+Debía haber unas sesenta personas, pensó Lucas. Noemí y él permanecieron juntos y subieron al segundo camión. El joven no pudo reprimir una sonrisa cuando comprobó que Ana también subió y se sentó junto a ellos.
 Nada más terminar de subir el último pasajero, los camiones iniciaron la marcha. Formaron una fila india y avanzaron varios kilómetros por la tierra junto a las vías de tren, dejando estas a su derecha. Luego giraron hacia la izquierda y tomaron una pequeña carretera de tierra.
 Lucas, sentado en el lado derecho del camión, pudo ver frente a sí las luces de la *Burbuja* en el fondo hasta que los camiones la sobrepasaron y perdió el lugar de vista. No pudo reprimir un suspiro.
 - Algo me dice que no la echarás de menos - bromeó Ana, a su izquierda.
