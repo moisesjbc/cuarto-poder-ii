@@ -569,3 +569,9 @@ Y poco más que contar. **Mañana o pasado veré si me apunto a la primera game 
 **Finalmente esta semana me uní a una game jam y sólo dediqué lunes y martes a la novela**. En total escribí unas ~450 palabras el lunes y actualicé la ficha de la Sirena con la descripción que doy cuando se presenta ante Lucas en sueños.
 
 **La semana que viene creo que NO participaré en la otra jam, pero creo que va a ser movidita en el curro. A ver cuánto le puedo dedicar a la novela...**
+
+## Semana 74 (17/08/2020 - 22/08/2020)
+
+Esta semana el trabajo ha estado algo intenso y **he faltado a 2 de los 5 días de escritura**. Ha tocado la escena inmediatamente posterior al ataque del helicóptero de RIO, donde de nuevo hay más bajas en las filas de la resistencia y una mayor desmoralización, pero Lucas empieza a sentir algo de orgullo propio.
+
+¡A ver si la semana que viene es menos atropellada y vuelvo al ritmo constante de escritura! ;-)
