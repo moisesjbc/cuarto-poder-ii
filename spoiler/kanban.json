@@ -6,9 +6,19 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Anotar miembros de la resistencia y de la habitación de Lucas",
+          "name": "Escribir 250 palabras",
           "details": "",
-          "color": "C1F7C2"
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "Escribir 250 palabras",
@@ -99,6 +109,21 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Anotar miembros de la resistencia y de la habitación de Lucas",
+          "details": "",
+          "color": "C1F7C2"
+        },
         {
           "name": "Añadir descripción de la Sirena tal como se presenta a Lucas en su ficha",
           "details": "",
