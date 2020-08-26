@@ -43,3 +43,15 @@ Lucas se sobresaltó y miró al veterano situado a su derecha: un hombre de unos
 - Lo siento - susurró Lucas.
 El joven permaneció vigilando el bosque, con su atención dividida. Por un lado intentaba discernir posibles peligros en los sutiles ruidos que provenían de entre los árboles situados frente a él. Por otro, cada vez que escuchaba un quejido tras sus espaldas se recordaba que era lo normal dada la situación de algunos de los heridos.
 Su objetivo era vigilar el bosque, no lo que sucediera a sus espaldas.
+Tras un cuarto de hora sin novedades le hicieron una seña a Lucas. Este se apartó y dejó pasar al grupo de refuerzos, que ahora portaba a cuatro heridos.
+El joven pensó que ahora tocaría esperar bastante tiempo a que volvieran a recoger a más heridos. No obstante, sólo pasó unos veinte minutos hasta que vio repetirse el mismo patrón de luces en el bosque. El veterano a la derecha de Lucas respondió con su linterna y el mismo grupo de antes volvió a emerger de entre los árboles, las camillas vacías.
+El procedimiento se repitió unas tres veces más. Cada una de las veces, una pequeña parte del grupo de Lucas se iba con los refuerzos para no volver.
+En el último viaje ofrecieron una camilla a Jonás, pero este la rechazó y se levantó. Aún sudaba bastante, y los hilos de sangre que brotaban de su nariz no había desaparecido, pero ya estaba más consciente y no le costaba hablar.
+Esta vez Lucas y el resto de los presentes acompañaron al grupo de refuerzos mientras llevaban a los heridos a través del bosque.
+Avanzaban rápidamente sin dejar de observar a su alrededor. Se acercaba el amanecer y la visibilidad era mejor, aunque no dejaban de estar rodeados de cientos de árboles tras los cuales podía esconderse una emboscada.
+Tardaron unos diez minutos en llegar a una carretera de tierra que surcaba el bosque. La vía estaba desierta salvo por un camión de transporte verde.
+Subieron a los heridos en la parte de atrás, dejando las camillas en el suelo sin fijaciones de ningún tipo. El resto de los presentes se subió al camión y se sentó en los bancos de los lados.
+El camión arrancó ruidosamente.
+Lucas se recostó contra la pared y entrecerró los ojos. Estaba tan cansado...
+Sin embargo, no tardó en fijarse en que el resto de los presentes, de los veteranos al menos, no se permitían el lujo de descansar. Miraban fijamente el bosque, las armas preparadas.
+**956**
