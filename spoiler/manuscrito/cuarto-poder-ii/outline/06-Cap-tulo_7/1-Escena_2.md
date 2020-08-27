@@ -54,4 +54,14 @@ Subieron a los heridos en la parte de atrás, dejando las camillas en el suelo s
 El camión arrancó ruidosamente.
 Lucas se recostó contra la pared y entrecerró los ojos. Estaba tan cansado...
 Sin embargo, no tardó en fijarse en que el resto de los presentes, de los veteranos al menos, no se permitían el lujo de descansar. Miraban fijamente el bosque, las armas preparadas.
-**956**
+Sintiéndose culpable, Lucas se giró en su banco para vigilar el bosque por su lado. Recordó que tenía puesto el seguro del arma.
+"¿Tendría que quitarlo?", se preguntó. No sabía cuál era el procedimiento en esos casos, y le daba vergüenza preguntarlo. Optó por dejar el seguro puesto.
+Los árboles se sucedían delante de él. El camión no iba lo suficientemente rápido para que no distinguiera nada, pero sí como para que el fluir de troncos y hojas lo mareara un poco.
+Durante un segundo se alegró de llevar sin comer desde la cena, pero según lo recordó, el agujero en su estómago se unió al malestar producido por un mundo que avanzaba más rápido de lo que podía controlar.
+"¿Habrá comida en el camión?". También le daba vergüenza preguntar. El sabor amargo que sentía en la boca también le disuadía de ello.
+Lucas permaneció en su puesto intentando mantener la compostura. De vez en cuando flanqueaba y permitía a su cuerpo apoyarse más de la cuenta en el lateral del camión. Esto era peligroso, sin embargo. Bastaba un mínimo de comodidad para que sus ojos comenzaran a cerrarse.
+Al enésimo cabezazo, el chófer del camión lo sobresaltó gritando para todos los presentes.
+- ¡Hemos llegado!
+El camión se apartó hacia un pequeño claro en el bosque. Unos gruesos muros grises sin decoración alguna y con abundantes cicatrices por el paso de los años bordeaban un edificio de una planta cuyas paredes eran de un amarillo claro.
+El camión atravesó un gran portón abierto en el muro custodiado por sendos guardias y entró a un amplio patio con una carretera de tierra que llevaba a la entrada principal. El vehículo se detuvo a la izquierda del camino, a escasos metros de la puerta principal del edificio.
+Lucas y los demás afortunados que no habían resultado heridos dejaron que los camilleros veteranos de la Resistencia portaran a los heridos al interior. El resto del grupo entró detrás pero su camino se separó rápidamente de el de los heridos. Un veterano de la Resistencia, un hombre mayor con una cicatriz sobre la mejilla derecha los dirigió hacia sus habitaciones.
