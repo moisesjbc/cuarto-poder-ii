@@ -575,3 +575,11 @@ Y poco más que contar. **Mañana o pasado veré si me apunto a la primera game 
 Esta semana el trabajo ha estado algo intenso y **he faltado a 2 de los 5 días de escritura**. Ha tocado la escena inmediatamente posterior al ataque del helicóptero de RIO, donde de nuevo hay más bajas en las filas de la resistencia y una mayor desmoralización, pero Lucas empieza a sentir algo de orgullo propio.
 
 ¡A ver si la semana que viene es menos atropellada y vuelvo al ritmo constante de escritura! ;-)
+
+## Semana 75 (24/08/2020 - 30/08/2020)
+
+**He cumplido 4 de los 5 días. El viernes no pude por motivos personales.** He seguido trabajando en la escena después del ataque del helicóptero.
+
+A medida que he ido escribiendo las últimas escenas he ido cayendo más y más en algo. **La escena por defecto en Manuskript establece 500 como objetivo de palabras, mientras que yo suelo sobrepasarlo con creces**, a veces llegando hasta 1300 palabras. Esto me hace plantearme si no estaré dividiendo mal las escenas, o si simplemente el objetivo por defecto del software es muy pequeño. Esto último es muy subjetivo, claro, pero **no deja de hacer que me replantee mi división de escenas**.
+
+En todo caso, esto es algo sobre lo que puedo trabajar a posteriori. **De momento mantendré el objetivo en 250** ¡y a darle caña! **La semana que viene entro de lleno en la escena sobre el origen de RIO y la Resistencia**. ¡A ver cómo sale!
