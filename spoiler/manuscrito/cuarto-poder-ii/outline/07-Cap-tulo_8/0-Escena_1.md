@@ -47,4 +47,22 @@ Uno de los hombres se sacó una pequeña llave del bolsillo y la usó para abrir
 - Sí, toma.
 El hombre aceptó el fuego. Cogió una papelera cercana e introdujo la carpeta en su interior y prendió la chispa.
 Corrí desde mi escondite en la puerta hacia ellos. Eran mucho más corpulentos que yo, pero yo contaba con la sorpresa. Y un cuchillo.
-Hundí la hoja en uno de ellos múltiples veces. El segundo me agarró y me lanzó por los aires como si no fuera nada.
+Hundí la hoja en uno de ellos múltiples veces hasta que cayó al suelo. El segundo me agarró y me lanzó por los aires como si no fuera nada. Me levanté rápidamente y esquivé la mayoría de sus golpes a duras penas. Lancé una puñalada pero la esquivó sin esfuerzo. Seguimos forcejeando mientras mis puñaladas erraban una tras otra.
+La pelea prosiguió unos instantes hasta que por fin pude alcanzarle en el costado. La primera entró con mucha dificultad. La segunda costó pero acertó eventualmente. La tercera y sucesivas acertaron sin mucho esfuerzo.
+Respiré con dificultad y escupí. La sangre de mi boca se entremezcló con los charcos  de los dos brutos.
+Rescaté los papeles de la papelera. Había recortes de periódicos. Muchos de ellos hacían referencia a otras manifestaciones que habían acabado con fábricas destruidas. Mi corazón se encogió al recordar a los amigos que perdí en esos incidentes.
+Entre los recortes había una lista de nombres. Varios de ellos coincidían con los dueños de las fábricas destruidas. Arthur, el dueño cuya vida segué hacía dos días, también aparecía allí. 
+Otro de los papeles tenía una dirección.
+Había descubierto mi siguiente paso.
+**23 de Noviembre de 1760**
+Llevo un par de días rondando la dirección del papel. Señalaba un club de caballeros en X (**completar**). No suelo ver mucho movimiento, pero sé que tengo que encontrar la manera de entrar.
+**25 de Noviembre 1760**
+Finalmente conseguí colarme en el club de caballeros. Esperé durante horas escondido tras una barandilla que daba a un gran salón metros más abajo.
+Empezaron a llegar grandes dueños de fábricas, pero también dueños de periódicos.
+Celebraron los resultados de las últimas noticias, las cuales habían desembocado en la destrucción de múltiples fábricas rivales. Se refirieron a Arthur como un traidor y celebraron su muerte también.
+Fue entonces cuando empezaron a hablar de las noticias que deberían aparecer los siguientes días.
+La semana siguiente uno de los periódicos se haría eco de los abusos a menores de uno de los dueños de fábricas. Otro periódico informaría sobre una explosión que se cobraría innumerables vidas en otra fábrica rival. Unos matones asintieron cuando se les mencionó al tratar el tema de la explosión.
+No estaban informando de la verdad. La estaban creando.
+La reunión terminó cuando el principal orador se alzó y hablo.
+- Gentlemen, **R**eality **I**s **O**urs.
+(*) "Caballeros, la realidad es nuestra"
