@@ -583,3 +583,11 @@ Esta semana el trabajo ha estado algo intenso y **he faltado a 2 de los 5 días 
 A medida que he ido escribiendo las últimas escenas he ido cayendo más y más en algo. **La escena por defecto en Manuskript establece 500 como objetivo de palabras, mientras que yo suelo sobrepasarlo con creces**, a veces llegando hasta 1300 palabras. Esto me hace plantearme si no estaré dividiendo mal las escenas, o si simplemente el objetivo por defecto del software es muy pequeño. Esto último es muy subjetivo, claro, pero **no deja de hacer que me replantee mi división de escenas**.
 
 En todo caso, esto es algo sobre lo que puedo trabajar a posteriori. **De momento mantendré el objetivo en 250** ¡y a darle caña! **La semana que viene entro de lleno en la escena sobre el origen de RIO y la Resistencia**. ¡A ver cómo sale!
+
+## Semana 76 (31/08/2020 - 05/09/2020)
+
+**Esta semana tocó pleno** (5/5 objetivos cumplidos). **Terminé los capítulos 7 y 8**, así que no está mal. Con respecto al capítulo 8 fui escribiendo el origen de RIO y la Resistencia sin apenas planificar los eventos. Han quedados bastantes flecos por pulir, pero para eso están las revisiones posteriores, ¿no?
+
+**La semana que viene repetiré la estructura de esta: una tarea pendiente que no toca directamente la escritura de escenas y cuatro objetivos de palabras diarias**. Esta semana creo que para esa primera tarea releeré el correo de [Marina](https://bardinflor.perso.aquilenet.fr/cetere/kaoseto-es) sobre la primera parte y apuntaré sus valiosos consejos en mi super documento de consejos de escritura. ¡Gracias de nuevo, Marina! ;-)
+
+Y poco más que decir. ¡Hasta dentro de una semana!
