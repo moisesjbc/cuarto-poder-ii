@@ -44,3 +44,40 @@ Ana bebió un trago antes de seguir. Lucas hizo lo propio.
 - Es algo muy loable, Ana, pero no puedes culparme por tener mis dudas. Me gustaría sentir que si muero es por algo más... tangible.
 Ana meditó durante unos instantes.
 - Cuando el helicóptero disparó sobre Noemí, ¿por qué corriste hacia ella?
+Lucas frunció el ceño.
+- ¿A qué te refieres? No iba a dejarla morir.
+- Piénsalo. Te interpusiste entre la ametralladora de un helicóptero y ella. ¿Qué diferencia iba a suponer si no llega a intervenir Jonás?
+- ...supongo que tienes razón.
+- Pero igualmente lo hiciste. Corriste hacia ella a pesar de que era inútil.
+- No fue algo que pensara racionalmente en el momento.
+- Si hubieras tenido tiempo de pensarlo, ¿lo hubieras hecho igualmente?
+- Me gustaría... - Lucas se aclaró la garganta - ...me gustaría pensar que sí.
+- A todos nos gustaría pensarlo.
+Lucas bebió un trago de su vaso. Ana hizo lo mismo.
+- ¿Qué pensaste en ese momento? - preguntó la joven.
+Lucas hizo memoria. Durante un segundo, volvía a estar en un bosque de noche, con Noemí frente a él a punto de morir.
+- Pensé... pensé en salvar a mi hija.
+Ana frunció el ceño. Al instante sonrió.
+- Ya veo. Es algo curioso, ¿sabes? Las visiones desaparecen con rapidez entre los rescatados de las *Burbujas*, pero los enlaces tardan mucho más. Siguen viendo a amigos, vecinos y familia cuando se miran entre sí.
+- ¿Has dicho visiones? - Lucas abrió más los ojos.
+- Sí. Siguen viendo personas que no existen, flashes, un planeta desconocido, ... ¿no tuviste visiones cuando fuiste rescatado?
+- No...
+- Qué ra-
+- Pero sí que las he tenido estos días.
+- Eso... - lo miró Ana -. Eso sí que es raro. Normalmente se producen durante el estallido pero no duran más que unas horas.
+"¿Qué me está pasando", pensó Lucas, la mirada perdida en su vaso.
+- Bueno, preguntaré sobre ello. No te preocupes.
+- Gracias.
+- Y volviendo al tema de por qué rescataste a Noemí... ¿dirías que fue una decisión fácil correr hacia ella?
+- ¿Eh? Ya te he dicho que no lo pensé.
+- Entonces podría decirse que la decisión fue fácil.
+- Sí... se podría decir.
+- Bueno, es bueno que empieces a entenderlo.
+Lucas estaba perplejo.
+- ¿A qué te refieres?
+Ana sonrió.
+- La última vez que hablamos, ¿qué fue lo último que me dijiste? - esperó unos segundos. Cuando no obtuvo respuesta, añadió - ¿Antes de que te mandara a la mierda?
+- Ah, que no a todo el mundo le resulta tan fácil jugarse la vida.
+Ana volvió a sonreír, satisfecha.
+- Ahí lo tienes.
+- Pero... no es lo mismo.
