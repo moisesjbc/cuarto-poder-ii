@@ -81,3 +81,19 @@ Ana sonrió.
 Ana volvió a sonreír, satisfecha.
 - Ahí lo tienes.
 - Pero... no es lo mismo.
+- ¿Tú crees?
+- Sí.
+Ana hizo un gesto con la mano, invitándole a continuar. Lucas lo hizo así.
+- Entiendo que puede verse como algo egoísta, pero veo mucho más... comprensible, si se puede decir así, arriesgar la vida por alguien a quien quieres y que también se preocupa por ti. Es loable arriesgarse por un completo desconocido, ¿pero cómo puedes saber que esa persona haría lo mismo por ti?
+- Nuestros compañeros de la Resistencia no son completos desconocidos, y el mero hecho de entrar a luchar con nosotros ya les concede, como mínimo, el beneficio de la duda.
+- En eso tienes razón, pero yo voy más allá. ¿Qué sucede con todos los que no forman parte de la Resistencia? Por supuesto que habrá infinidad de vidas que merezcan la vida ser salvadas, pero muchos de ellos simplemente van a lo suyo. ¿Atacarles o procurarles mal? - Lucas negó con la cabeza -. Por supuesto que no. ¿Pero arriesgar la vida por ellos? No termino de verlo.
+- ¿Insinúas que no deberíamos haberte salvado?
+Ana esbozó una sonrisa pícara. 
+- Pero yo no soy un completo desconocido. Imagino... - Lucas sonrió también -. Imagino que tú sí que me tienes un mínimo de aprecio como para salvarme. Aunque entendería que el resto de tus compañeros no quisieran hacerlo.
+- Ya veo - Ana apuró el último trago de su vaso de agua antes de continuar -. Muy bien. Piensa en tus seres queridos ahora mismo. También me gusta pensar que me tienes un mínimo de aprecio y estoy dentro de ese círculo.
+- Por supuesto.
+- ¿Cómo crees que nos hubieran ido las cosas si no existiera la Resistencia?
+- Pues...
+- Los padres de Noemí quizás no hubieran intentado traicionar a RIO, aunque por lo poco que sé de ellos lo hubieran intentado igualmente. Ella hubiera acabado igualmente en la *Burbuja*, sólo que esta vez no hubiera habido nadie para salvarla.
+- Eso... es cierto - la imagen de Noemí muriendo en una *Burbuja* cruzó como un rayo el cerebro de Lucas y el estómago se le hizo un nudo.
+- Lo mismo hubiera pasado con Lara, sin nadie para rescatarla. Tú y yo podríamos seguir a merced de RIO sin ninguna esperanza de salir de sus garras.
