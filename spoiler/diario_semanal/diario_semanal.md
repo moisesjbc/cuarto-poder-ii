@@ -591,3 +591,9 @@ En todo caso, esto es algo sobre lo que puedo trabajar a posteriori. **De moment
 **La semana que viene repetiré la estructura de esta: una tarea pendiente que no toca directamente la escritura de escenas y cuatro objetivos de palabras diarias**. Esta semana creo que para esa primera tarea releeré el correo de [Marina](https://bardinflor.perso.aquilenet.fr/cetere/kaoseto-es) sobre la primera parte y apuntaré sus valiosos consejos en mi super documento de consejos de escritura. ¡Gracias de nuevo, Marina! ;-)
 
 Y poco más que decir. ¡Hasta dentro de una semana!
+
+## Semana 77 (07/09/2020 - 12/09/2020)
+
+**Cumplidos los 5 objetivos, aunque el de ayer (escribir 250 palabras) lo terminé hace escasos minutos ;-) No me he movido de la escena 9.1, donde Ana y Lucas hablan sobre lo que Lucas ha leído del origen de RIO y la Resistencia y Ana trata de motivarlo para que luche de verdad con ellos**. Estoy en el final de la escena, por lo que debería terminarla (su primer borrador, me refiero) en los próximos días. También, como comenté que haría la semana pasada, **he repasado los valiosos consejos de Marina.** Ha sido positivo darme cuenta de que ya estoy trabajando en esta segunda parte en consejos como darle más profundidad al funcionamiento de la Resistencia, entre otros ;-)
+
+**En los próximos días repasaré nuevamente el resumen de capítulos que hice de la primera parte** (si sigue existiendo) por si me estuviera dejando algo atrás **y seguiré con el objetivo de 250 palabras diarias**. ¡Hasta dentro de una semana!
