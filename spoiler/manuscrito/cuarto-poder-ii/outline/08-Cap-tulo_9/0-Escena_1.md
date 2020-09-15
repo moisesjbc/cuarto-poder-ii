@@ -96,4 +96,11 @@ Ana esbozó una sonrisa pícara.
 - Pues...
 - Los padres de Noemí quizás no hubieran intentado traicionar a RIO, aunque por lo poco que sé de ellos lo hubieran intentado igualmente. Ella hubiera acabado igualmente en la *Burbuja*, sólo que esta vez no hubiera habido nadie para salvarla.
 - Eso... es cierto - la imagen de Noemí muriendo en una *Burbuja* cruzó como un rayo el cerebro de Lucas y el estómago se le hizo un nudo.
-- Lo mismo hubiera pasado con Lara, sin nadie para rescatarla. Tú y yo podríamos seguir a merced de RIO sin ninguna esperanza de salir de sus garras.
+- Lo mismo hubiera pasado con Lara, sin nadie para rescatarla. Y tú y yo podríamos seguir a merced de RIO sin ninguna esperanza de salir de sus garras.
+Lucas bebió un trago mientras bajaba la vista, pensativo. Ana continuó.
+- Lo que quiero decir es que si no te motiva salvar a desconocidos, por mí ok. Pero recuerda que tu inacción de hoy tarde o temprano acabará salpicando a tus seres queridos y a ti mismo.
+- Visto así...
+- Bueno, te dejo. En breve comenzará el entrenamiento.
+- Espera, ¿y el almuerzo?
+Ana se rió.
+- Llegas un poco tarde para eso. Roba algo de la cocina. Tranquilo, no me chivaré.
