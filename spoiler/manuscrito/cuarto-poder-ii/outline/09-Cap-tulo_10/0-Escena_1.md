@@ -26,4 +26,18 @@ Pero no ocurrió nada. Seguía siendo él.
 - ¡Primera lección! - gritó una voz masculina - ¡Las señal de activación no tiene efecto sobre aquellos que han sido rescatados de una *Burbuja*!
 Los presentes se giraron hacia la puerta por la que habían salido al patio. Un hombre había salido de ella y avanzaba con paso decidido hacia ellos. Se trataba de un hombre mayor con una cicatriz sobre la mejilla derecha. Lucas reconoció en él al veterano de la Resistencia que los había dirigido a sus habitaciones más temprano ese mismo día. Debía tener unos 50 años, aunque inspiraba una forma física envidiable.
 - ¿Se trata de una broma? - escupió una de las reclutas.
-- Para nada - respondió el veterano con una sonrisa tan discreta que Lucas se preguntó si se la había imaginado.
+- Para nada - respondió el veterano con una sonrisa tan discreta que Lucas se preguntó si se la habría imaginado -. Hemos intentado informar de manera teórica a reclutas anteriores y no se lo terminaban de creer. Con tiempo nos hemos dado cuenta de que es mejor darles un pequeño susto ahora que dejarlos a su suerte cuando estén liberando una *Burbuja* y esta se active.
+- Siguen sin ser formas - respondió la recluta.
+- Bueno, es otra opinión - zanjó el veterano. Este miré a su alrededor y añadió: - pueden acercarse.
+Los reclutas se miraron unos a otros. Seguían muy separados entre ellos. Lucas seguía con el pulso ligeramente acelerado y se imaginó que no sería el único.
+No sin ciertas se acercaron todos al veterano.
+- Mi nombre es Matías - dijo el señor de la cicatriz en la mejilla -. Y como han podido adivinar, estoy aquí para hablarles de las *Burbujas*. Es mi deber avisarles desde ya de que la Resistencia conoce muy poco sobre el funcionamiento de las mismas. No obstante, sabemos liberarlas o "estallarlas", y eso es lo que cuenta. Esto no es una exposición; tan pronto como tengan preguntas pueden interrumpirme, ¿de acuerdo?
+Hizo una breve pausa durante la que recorrió a los presentes con la mirada. Entonces prosiguió.
+- Las *Burbujas* son pequeños pueblos o ciudades aislados y completamente controlados por RIO. Allí experimentan con la la voluntad de sus prisioneros, siendo estos mayormente capturados de la Resistencia, aunque también se encuentran simples civiles contrarios a ellos y a veces, incluso, agentes de la misma. Mediante una señal...
+- ¿Agentes de RIO? - interrumpió un joven de unos 20 años.
+- Así es. No es la primera vez que un agente de RIO es sometido a los experimentos. Desconocemos las causas de esto, pero lo que sí sabemos es que supone un riesgo extra.
+- ¿Por qué? - preguntó el mismo joven.
+- No todos son agentes que planean abandonar RIO; algunos son voluntarios de la corporación. Ya ha ocurrido que tras el estallido de una de las *Burbujas* uno o más de los rescatados resulta ser un agente de la corporación y no lo descubrimos hasta que es tarde.
+- Vaya... - el joven miró a su alrededor. Lucas también miró instintivamente a sus compañeros.
+"¿Cualquiera de ellos puede ser un traidor?"
+- El veterano continuó.
