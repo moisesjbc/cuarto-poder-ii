@@ -40,4 +40,28 @@ Hizo una breve pausa durante la que recorrió a los presentes con la mirada. Ent
 - No todos son agentes que planean abandonar RIO; algunos son voluntarios de la corporación. Ya ha ocurrido que tras el estallido de una de las *Burbujas* uno o más de los rescatados resulta ser un agente de la corporación y no lo descubrimos hasta que es tarde.
 - Vaya... - el joven miró a su alrededor. Lucas también miró instintivamente a sus compañeros.
 "¿Cualquiera de ellos puede ser un traidor?"
-- El veterano continuó.
+Varias personas le devolvieron la mirada.
+"Técnicamente trabajaba para RIO", pensó Lucas. "Soy un sospechoso lógico".
+El veterano continuó.
+- Mediante una tecnología que desconocemos, los sujetos son inyectados con nanomáquinas capaces de implantarles una personalidad diseñada por RIO. Estas permanecen conectadas al núcleo de la *Burbuja*, desde la cuál se emiten órdenes activadas mediante una señal que conocen muy bien.
+Un escalofrío recorrió el cuerpo de Lucas. Las inyecciones nunca le habían gustado, y pensar que le habían inyectado nanomáquinas en el cerebro... Las piernas le flanquearon y temió desplomarse en cualquier momento. Intentó respirar hondamente para evitar la tentación de sentarse en la tierra.
+- RIO experimenta en ciclos. Cada día "reinician" a los activos, haciendo que estos vivan una vida normal acordes a sus nuevas personalidades. Llegado el momento, emiten la señal activadora y envían órdenes diferentes a cada sujeto, la mayoría consistentes en matarse los unos a los otros. Este bucle se repite día tras día y la gran mayoría de los sujetos acaban muriendo salvo que lo evitemos *estallando la Burbuja*. A la corporación parece no preocuparle esto; tienen un flujo continuo de nuevos prisioneros con los que experimentar.
+Lucas alzó la mano lentamente. El veterano la encontró con la vista.
+- ¿Sí?
+- ¿Cómo...? - tosió -. Perdón... ¿cómo atraen a los... su-sujetos a la *Burbuja*?
+- ¿A qué te refieres? Los sujetos no son "atraídos". Son transportados inconscientes bajo distintas tapaderas. Una guagua, un camión de transporte, ...
+- Pero no es siempre así, ¿verdad?
+- Tienes que explicarte mejor. No te sigo.
+- Cuando estuve capturado... viajé con mi falsa familia - Lucas sintió un remordimiento al hablar de sus hijas como "falsas".
+Lucas se llevó la mano a la cabeza. "No son tus familia", se dijo.
+- Tranquilo, respira hondo.
+El veterano esperó pacientemente mientras Lucas se recuperaba.
+- Mi... familia y yo llegamos a la *Burbuja* tras un viaje de carretera de varias horas. ¿Cómo pudieron atraernos desde fuera de la *Burbuja*.
+El veterano sonrió.
+- ¿De verdad viajaste en coche? ¿O es lo que crees recordar?
+- Yo... - Lucas bajó la mirada. Recordó vivamente su viaje en carretera con Noemí, Lara y su "mujer". El sol justiciero, la gran extensión de terreno a su alrededor que llegaba hasta donde alcanzaba la vista, las pequeñas discusiones con su mujer por la planificación del viaje, ... - ¿E-eso... no ocurrió?
+- No - respondió el señor de la cicatriz en la mejilla -. RIO tiene muchísimo poder, pero no puede arriesgarse a cubrir áreas tan grandes con sus experimentos. Nunca hemos detectado casos del uso de la señal fuera de las *Burbujas*
+"Todo es falso...", pensó el joven. "¿Qué es verdad? ¿Y... si esto tampoco lo es?
+Lucas no aguantó más de pie. Se dejó caer y se sentó en el suelo.
+- ¿Estás bien? - preguntó alguien a su lado.
+- Sí... - mintió - sólo necesito un momento.
