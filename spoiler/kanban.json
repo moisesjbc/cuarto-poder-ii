@@ -6,7 +6,7 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Repasar resumen-capítulos.md",
+          "name": "Integrar \"Misterios por integrar\" en resúmenes de capítulos (1/2)",
           "details": "",
           "color": "C1F7C2"
         },
@@ -34,6 +34,11 @@
           "name": "Análisis semana / planificación (DESC)",
           "details": "1. Asegurar que estamos en rama correcta.\n2. Escribir entrada diario semanal (+ commit).\n3. Planificación de la semana que viene.\n4. Exportar kanban y añadir a Git.\n5. Repasar documento de consejos de escritura.\n6. Devolver esta tarea a ToDo.",
           "color": "FCE4D4"
+        },
+        {
+          "name": "Integrar \"Misterios por integrar\" en resúmenes de capítulos (2/2)",
+          "details": "",
+          "color": "C1F7C2"
         },
         {
           "name": "Repasar destino y presencia en las escenas",
@@ -93,6 +98,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar resumen-capítulos.md",
+          "details": "",
+          "color": "C1F7C2"
+        },
         {
           "name": "Escribir 250 palabras",
           "details": "",
