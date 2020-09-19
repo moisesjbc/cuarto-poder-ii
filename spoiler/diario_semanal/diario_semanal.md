@@ -597,3 +597,11 @@ Y poco más que decir. ¡Hasta dentro de una semana!
 **Cumplidos los 5 objetivos, aunque el de ayer (escribir 250 palabras) lo terminé hace escasos minutos ;-) No me he movido de la escena 9.1, donde Ana y Lucas hablan sobre lo que Lucas ha leído del origen de RIO y la Resistencia y Ana trata de motivarlo para que luche de verdad con ellos**. Estoy en el final de la escena, por lo que debería terminarla (su primer borrador, me refiero) en los próximos días. También, como comenté que haría la semana pasada, **he repasado los valiosos consejos de Marina.** Ha sido positivo darme cuenta de que ya estoy trabajando en esta segunda parte en consejos como darle más profundidad al funcionamiento de la Resistencia, entre otros ;-)
 
 **En los próximos días repasaré nuevamente el resumen de capítulos que hice de la primera parte** (si sigue existiendo) por si me estuviera dejando algo atrás **y seguiré con el objetivo de 250 palabras diarias**. ¡Hasta dentro de una semana!
+
+## Semana 78 (14/09/2020 - 19/09/2020)
+
+**¡Pleno! El lunes repasé el resumen que hice en su momento de la primera parte y apunté en una ficha los "misterios por resolver".** Aunque muchos ya están localizados, quiero volver a repasarlos e incluir los que se me hayan podido quedar atrás en las escenas / capítulos de la segunda parte que procedan. **De martes a viernes cumplí el objetivo diario de 250 palabras**.
+
+**En principio, la semana que viene no tocaría la novela**. Viene un amigo que vive fuera, me he apuntado a una game jam, ... Ahora mismo **estoy planificando para la semana del 28. Mi idea es situar en sus respectivas escenas la mitad de los "misterios por resolver"** que mencioné anteriormente, **y seguir con el objetivo diario de 250 palabras.**
+
+¡Hasta entonces!
