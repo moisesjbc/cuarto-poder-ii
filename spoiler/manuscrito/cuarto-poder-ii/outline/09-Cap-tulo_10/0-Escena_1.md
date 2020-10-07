@@ -7,6 +7,10 @@ notes:          - Las notas de xilófono eran una broma pesada / primera lecció
                 - La Resistencia sabe muy poco sobre las *Burbujas*. Ni siquiera sabe cómo funcionan las {W:16:Notas de xilófono}.
                 
                 
+                - En la primera parte digo que la familia Pérez llega a la ciudad burbuja tras un viaje de muchas horas en coche por tierras desérticas. **Aclarar que ese principio de viaje no existió como tal**
+                - El alcalde Batido de Maíz les felicita por "superar el primer nivel": **aclarar funcionamiento**
+                - **Aclarar por qué los niños conservan el nombre**.
+                - **Aclarar que las *Burbujas* reciben llamadas de control cada X**
 label:          4
 status:         1
 compile:        2

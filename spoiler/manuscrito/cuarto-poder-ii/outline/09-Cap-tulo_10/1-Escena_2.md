@@ -17,6 +17,9 @@ notes:          (*) En el {T:13:Capítulo 3} puede que ya haya refenciado (**¿y
                 -	 	**¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
                 - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
                 - 	Consecuencias para el coronel e Inglaterra.
+                
+                
+                - **Aclarar sangrado de Lara (o mover)**
 label:          4
 status:         1
 compile:        2

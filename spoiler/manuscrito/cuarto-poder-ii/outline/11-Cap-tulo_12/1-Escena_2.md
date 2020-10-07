@@ -21,7 +21,7 @@ notes:          **DARLE UN REPASO A ESTA ESCENA PORQUE SE VA QUEDAR UN BUEN INFO
                 
                 - **Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.**
                 - **Destino de Arturo y otros**
-                	- **¿Qué le inyectan a Arturo?**
+                - **¿Qué le inyectan a Arturo?**
 label:          4
 status:         1
 compile:        2
