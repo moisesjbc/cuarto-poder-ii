@@ -11,6 +11,7 @@ notes:          - Las notas de xilófono eran una broma pesada / primera lecció
                 - El alcalde Batido de Maíz les felicita por "superar el primer nivel": **aclarar funcionamiento**
                 - **Aclarar por qué los niños conservan el nombre**.
                 - **Aclarar que las *Burbujas* reciben llamadas de control cada X**
+                
 label:          4
 status:         1
 compile:        2
@@ -34,21 +35,22 @@ Los presentes se giraron hacia la puerta por la que habían salido al patio. Un 
 - Siguen sin ser formas - respondió la recluta.
 - Bueno, es otra opinión - zanjó el veterano. Este miré a su alrededor y añadió: - pueden acercarse.
 Los reclutas se miraron unos a otros. Seguían muy separados entre ellos. Lucas seguía con el pulso ligeramente acelerado y se imaginó que no sería el único.
-No sin ciertas se acercaron todos al veterano.
+No sin cierta reticencia se acercaron todos al veterano.
 - Mi nombre es Matías - dijo el señor de la cicatriz en la mejilla -. Y como han podido adivinar, estoy aquí para hablarles de las *Burbujas*. Es mi deber avisarles desde ya de que la Resistencia conoce muy poco sobre el funcionamiento de las mismas. No obstante, sabemos liberarlas o "estallarlas", y eso es lo que cuenta. Esto no es una exposición; tan pronto como tengan preguntas pueden interrumpirme, ¿de acuerdo?
 Hizo una breve pausa durante la que recorrió a los presentes con la mirada. Entonces prosiguió.
 - Las *Burbujas* son pequeños pueblos o ciudades aislados y completamente controlados por RIO. Allí experimentan con la la voluntad de sus prisioneros, siendo estos mayormente capturados de la Resistencia, aunque también se encuentran simples civiles contrarios a ellos y a veces, incluso, agentes de la misma. Mediante una señal...
 - ¿Agentes de RIO? - interrumpió un joven de unos 20 años.
-- Así es. No es la primera vez que un agente de RIO es sometido a los experimentos. Desconocemos las causas de esto, pero lo que sí sabemos es que supone un riesgo extra.
+- Así es. No es la primera vez que un agente de RIO es sometido a los experimentos, lo que supone un riesgo extra.
 - ¿Por qué? - preguntó el mismo joven.
-- No todos son agentes que planean abandonar RIO; algunos son voluntarios de la corporación. Ya ha ocurrido que tras el estallido de una de las *Burbujas* uno o más de los rescatados resulta ser un agente de la corporación y no lo descubrimos hasta que es tarde.
+- No todos son agentes que planean abandonar RIO; algunos son voluntarios de la corporación. Ya ha ocurrido que tras el estallido de una de las *Burbujas* uno o más de los rescatados resulta ser un agente de la corporación y no lo descubrimos hasta que es demasiado tarde.
 - Vaya... - el joven miró a su alrededor. Lucas también miró instintivamente a sus compañeros.
 "¿Cualquiera de ellos puede ser un traidor?"
 Varias personas le devolvieron la mirada.
 "Técnicamente trabajaba para RIO", pensó Lucas. "Soy un sospechoso lógico".
 El veterano continuó.
 - Mediante una tecnología que desconocemos, los sujetos son inyectados con nanomáquinas capaces de implantarles una personalidad diseñada por RIO. Estas permanecen conectadas al núcleo de la *Burbuja*, desde la cuál se emiten órdenes activadas mediante una señal que conocen muy bien.
-Un escalofrío recorrió el cuerpo de Lucas. Las inyecciones nunca le habían gustado, y pensar que le habían inyectado nanomáquinas en el cerebro... Las piernas le flanquearon y temió desplomarse en cualquier momento. Intentó respirar hondamente para evitar la tentación de sentarse en la tierra.
+Un escalofrío recorrió el cuerpo de Lucas. Las inyecciones nunca le habían gustado, y pensar que le habían inyectado nanomáquinas en el cerebro... Las piernas le flanquearon y temió desplomarse en cualquier momento.
+Intentó respirar hondamente para evitar la tentación de sentarse en la tierra.
 - RIO experimenta en ciclos. Cada día "reinician" a los activos, haciendo que estos vivan una vida normal acordes a sus nuevas personalidades. Llegado el momento, emiten la señal activadora y envían órdenes diferentes a cada sujeto, la mayoría consistentes en matarse los unos a los otros. Este bucle se repite día tras día y la gran mayoría de los sujetos acaban muriendo salvo que lo evitemos *estallando la Burbuja*. A la corporación parece no preocuparle esto; tienen un flujo continuo de nuevos prisioneros con los que experimentar.
 Lucas alzó la mano lentamente. El veterano la encontró con la vista.
 - ¿Sí?
@@ -69,3 +71,27 @@ El veterano sonrió.
 Lucas no aguantó más de pie. Se dejó caer y se sentó en el suelo.
 - ¿Estás bien? - preguntó alguien a su lado.
 - Sí... - mintió - sólo necesito un momento.
+Con los brazos estirados a ambos lados del cuerpo, Intentó centrarse en el tacto de la tierra rojiza en sus manos. El suelo duro bajo su trasero y piernas le incomodaba.
+Lucas trató de centrarse en esto último, intentando que su consciencia, débil, se centrara en ello.
+Desde su posición era incapaz de ver a Matías a través del mar de piernas que los separaba, pero escuchó perfectamente cómo este continuaba hablando.
+- Las *Burbujas* no son solo campos de experimentación y exterminio - dijo con voz grave -. También suponen un campo de entrenamiento muy exigente para los agentes  que viven en ellas voluntariamente.
+- ¿Y de qué les sirve? - dijo una voz femenina entre el mar de piernas - Una vez abandonan la *Burbuja* lo han olvidado todo... - tras unos segundos añadió - ¿O a ellos no les cambian la personalidad?
+- Es una buena pregunta - respondió Matias -. A primera vista pareciera que los guardias de la *Burbuja* son agentes plenamente conscientes que conservan su personalidad. No obstante, tanto entre los guardias como entre los habitantes hemos localizado miembros de la corporación a los que se les ha lavado el cerebro y a a los que no. Esto no hace más que aumentar el peligro en ambos casos. Comentaste...
+Hubo una pequeña pausa.
+- Aquí.
+- Sí, gracias. Comentaste que lo olvidan todo al abandonar la *Burbuja* y no es así. La mente olvida, pero el cuerpo no.
+Lucas intentó incorporarse en su sitio. Alguien le tendió una mano y la aceptó. El rápido ascenso mareó al joven y este apretó los ojos instintivamente.
+- Estoy bien - dijo -. Gracias.
+- De nada.
+Cuando Lucas abrió los ojos, la joven, algo más baja que él, ya se había dado la vuelta. Entre el grupo de cabezas, Lucas era capaz de ver a Matías nuevamente, moviéndose de un lado a otro.
+- ...no detenerse por nada - decía Matías -. Hasta que se llega al centro de control, todo el mundo es el enemigo. Todo. el. mundo. Una vez en el centro de control deberán presionar a los presentes para que desactiven el sistema.
+- ¿No podemos desactivar el sistema nosotros mismos? - preguntó alguien.
+- No, necesitamos la clave para ello, y es única en cada *Burbuja*.
+- ¿Y destruir el centro de control con ellos dentro? - preguntó otra persona - Que se jodan.
+- Destruir el sistema no lanza la señal que estalla la *Burbuja*. Recuerden; nuestra misión es de rescate y, si es posible, recabar toda la información posible.
+- ¿Y cómo nos aseguramos de que no es una trampa?
+- No lo sabemos. Al emitir la señal suele escucharse las notas de xilófonos invertidas: Tres notas agudas y largas de xilófono, seguida de una grave y corta.
+- ¿"suele"?
+
+
+- **1420**

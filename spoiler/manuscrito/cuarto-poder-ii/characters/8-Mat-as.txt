@@ -1,0 +1,7 @@
+Name:                Matías
+ID:                  8
+Importance:          0
+Full Summary:        Instructor sobre las *Burbujas*
+                     
+                     "Los presentes se giraron hacia la puerta por la que habían salido al patio. Un hombre había salido de ella y avanzaba con paso decidido hacia ellos. Se trataba de un hombre mayor con una cicatriz sobre la mejilla derecha. Lucas reconoció en él al veterano de la Resistencia que los había dirigido a sus habitaciones más temprano ese mismo día. Debía tener unos 50 años, aunque inspiraba una forma física envidiable."
+Color:               #c183b5
