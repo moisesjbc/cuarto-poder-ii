@@ -92,6 +92,22 @@ Cuando Lucas abrió los ojos, la joven, algo más baja que él, ya se había dad
 - ¿Y cómo nos aseguramos de que no es una trampa?
 - No lo sabemos. Al emitir la señal suele escucharse las notas de xilófonos invertidas: Tres notas agudas y largas de xilófono, seguida de una grave y corta.
 - ¿"suele"?
-
-
-- **1420**
+- Así es. Nos basamos en lo que hemos visto de las *Burbujas* y lo poco que conseguimos sonsacarle a los capturados. Aún así no disponemos de un buen conocimiento sobre las mismas.
+Se produjo una pequeña pausa. Tras unos segundos, Matías volvió a hablar.
+- Bueno, eso es más o menos todo. Las próximas sesiones serán más... prácticas.
+- Vaya...
+La voz provino de la primera fila, aunque Lucas no podía ver de quién era desde su posición. No obstante, sí que vio a Matías dirigir una mirada a la fuente.
+- No es lo que esperabas, ¿verdad?
+- No... - empezó a decir la voz -. Creo que todos los presentes nos esperábamos... algo más - varias cabezas asintieron. El propio Lucas asintió a su vez, aunque nadie reparara en él - ¿Cómo consiguen controlarnos como marionetas? ¿Cuál es el objetivo? ¿Cómo podemos estar seguros de que estamos a salvo de que "la señal" no nos vuelva a afectar?
+- Son muchas preguntas sin respuesta, sí.
+- ¿De qué...?
+La voz paró bruscamente.
+- Por favor, continúa.
+- ¿De qué sirve todo esto?
+Matía sonrió. Paseó su mirada por las de todos los presentes antes de hablar.
+- Cuando alguien piensa en cambiar las cosas piensa en cosas a lo grande. Conseguir una gesta decisiva que cambia aquí y ahora el devenir del mundo. Pero rara vez se trata de eso, y aún cuando en apariencia alguien consigue cambiar el mundo a mejor, no se puede hablar de que lo haya conseguido en solitario. El camino a ese evento que  alteró el mundo para siempre fue pavimentado por muchas personas, en su mayoría anónimas pero decisivas. Hace dos años, cuando descubrimos la existencia de las *Burbujas* no sabíamos nada sobre ellas. Ni si quiera nos atrevíamos a entrar hasta que uno de los nuestros se arriesgó. Tras él, otras personas se aventuraron y descubrieron el centro de control que tienen todas las *Burbujas*. Gracias a otros miembros de nuestras filas dimo con la señal de desactivación...
+Matías se mantuvo en silencio unos segundos, sondeando nuevamente con su mirada a los presentes.
+- Cada vez que estallamos una *Burbuja*, no solo nuestro conocimiento sobre las nuestras aumenta aunque sea ligeramente; también salvamos vidas. ¿Quieren destruir a RIO de una vez por todas? Harto improbable por ahora... aunque no imposible. Pero tienen la oportunidad de ayudar a forjar su hundimiento. De pavimentar el camino hacia un mundo mucho mejor mientras lo mejoran piedra a piedra.
+Matía volvió a sonreír a los presentes.
+- ¿Alguna pregunta más?
+1930
