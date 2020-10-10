@@ -605,3 +605,13 @@ Y poco más que decir. ¡Hasta dentro de una semana!
 **En principio, la semana que viene no tocaría la novela**. Viene un amigo que vive fuera, me he apuntado a una game jam, ... Ahora mismo **estoy planificando para la semana del 28. Mi idea es situar en sus respectivas escenas la mitad de los "misterios por resolver"** que mencioné anteriormente, **y seguir con el objetivo diario de 250 palabras.**
 
 ¡Hasta entonces!
+
+## Semana 79 (05/10/2020 - 10/10/2020)
+
+Al final fueron dos jams a las que me apunté y **estuve dos semanas sin tocar la novela** ^^U 
+
+**Esta semana cumplí 4 de los 5 días, aunque uno hice una pequeña trampa**; en lugar de cumplir el objetivo diario de palabras, hice otro objetivo de mover mis "misterios por resolver" a sus respectivas escenas. **El balance fue: fuera la ficha de misterios por resolver y añadidas unas ~800 palabras, terminando la escena 10.1** (primera formación sobre las *Burbujas*).
+
+Para los siguientes días espero volver al rendimiento pre-"vacaciones", y **me he decidido a aumentar el mínimo de palabras diarias a 300**.
+
+¡A por ello!
