@@ -6,38 +6,33 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Integrar \"Misterios por integrar\" en resúmenes de capítulos (1/2)",
+          "name": "Minimizar \"info dump\" de la escena cuando Lucas conoce a Ajani y Kasim",
           "details": "",
           "color": "C1F7C2"
         },
         {
-          "name": "Escribir 250 palabras",
+          "name": "Escribir 300 palabras",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Escribir 250 palabras",
+          "name": "Escribir 300 palabras",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Escribir 250 palabras",
+          "name": "Escribir 300 palabras",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Escribir 250 palabras",
+          "name": "Escribir 300 palabras",
           "details": "",
           "color": "FAFCD2"
         },
         {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Escribir entrada diario semanal (+ commit).\n3. Planificación de la semana que viene.\n4. Exportar kanban y añadir a Git.\n5. Repasar documento de consejos de escritura.\n6. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
-        },
-        {
-          "name": "Integrar \"Misterios por integrar\" en resúmenes de capítulos (2/2)",
-          "details": "",
+          "name": "Introducir conversación Lucas / Jonás (DESC)",
+          "details": "# Primer encuentro entre Jonás y Lucas\n\n- Cuando Jonás y  Lucas se ven por primera vez en el capítulo 11 de la primera parte, el primero dice \"Al fin nos volvemos a ver\": **aclarar esto, Lucas no se puede quedar sin preguntarle**.",
           "color": "C1F7C2"
         },
         {
@@ -90,7 +85,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Escribir entrada diario semanal (+ commit).\n3. Planificación de la semana que viene.\n4. Exportar kanban y añadir a Git.\n5. Repasar documento de consejos de escritura.\n6. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        }
+      ],
       "settings": {
         "limit": 2
       }
@@ -98,6 +99,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 250 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Integrar \"Misterios por integrar\" en resúmenes de capítulos (2/2)",
+          "details": "",
+          "color": "C1F7C2"
+        },
+        {
+          "name": "Integrar \"Misterios por integrar\" en resúmenes de capítulos (1/2)",
+          "details": "",
+          "color": "C1F7C2"
+        },
         {
           "name": "Escribir 250 palabras",
           "details": "",
