@@ -41,3 +41,19 @@ La voz del instructor siempre lo sobresaltaba, al igual que la presencia de Noem
 - Ni uno - sonreía Lucas.
 La sonrisa de este último no se limitaba a la tozudez de Noemí con respecto a entrenar con la Resistencia. "Aunque esté entrenando para su muerte", le decía su mente sádica. Una parte de Lucas seguía viendo a Noemí como su verdadera hija, pero esta parte era cada vez más pequeña. Se limitaba a decirle "Es tu hija". "No, es mi amiga", respondía su otra parte.
 La parte que podía llamar suya.
+Después de cada entrenamiento instaban a Lucas a hablar con Noemí para disuadirla de interrumpir en estos. Lucas lo intentó las primeras veces. No tardó en darse cuenta de que era en vano y en su lugar aprovechaba para charlar con la que había sido su hija sobre cómo había ido el día.
+Cuando más tarde algún veterano le preguntaba, intentaba mentir como buenamente podía. Esto tampoco tardó en convertirse en un mero trámite; Lucas ya no se esforzaba en hacer que pareciera creíble que había hablado con Noemí, y su interlocutor apenas insistía ni discutía.
+En las comidas se juntaba con el mismo grupo: Noemí, Lara y Jonás. De vez en cuando se le unía Ana, pero esta había entrado en una rutina de salir a misiones y a veces tardaban días en volver a verla.
+Aunque apenas volviera con rasguños, Lucas no podía evitar preocuparse sobremanera esos días.
+Jonás seguía tan hablador como siempre. Lara sí se animaba a charlar con Lucas y Noemí mientras comían, aunque había días en los que estaba mucho más reservada. Lucas aprendió a predecir estos días porque la adolescente aparecía con pequeñas gotas de sangre reseca saliendo de su nariz.
+El joven se moría por saber qué le estaba pasando, pero Jonás se negaba a hablar, y nunca abandonaba a su hermana para que pudieran hablar a solas. Cuando Lucas preguntaba a Lara por el sangrado, esta se limitaba a decir que estaba bien e intentaba tranquilizarlo con una sonrisa.
+Fuera de su zona de comfort (si aquello se podía llamar así), Lucas seguía teniendo dificultades para hablar con los demás, aunque poco a poco se iba abriendo con los 5 novatos que formaban su unidad.
+No obstante, Lucas se esforzaba por sacar el tema de las visiones, por muy brusco que resultara dadas sus limitadas habilidades sociales.
+Preguntó a los miembros de su unidad durante las pausas en los entrenamientos.
+Preguntó a los otros novatos con los que coincidía de manera fortuita en la fila para comer, ducharse o entrenar.
+Preguntó a los novatos y veteranos que Ana le mandó.
+Lucas extrajo una conclusión que no le gustó nada. Era el único cuyas visiones habían persistido más allá del día del estallido de su *Burbuja*.
+Y las visiones seguían ahí. Primero cada 2 o 3 noches. Ahora cada noche.
+Un planeta desconocido, un portal y una mujer con un pelo larguísimo que intentaba comunicarse con él.
+Las otras personas a las que entrevistaban recordaban haber visto un planeta como el que describía pero nada más. Ni el portal ni la mujer.
+"¿Por qué?", pensaba Lucas. "¿Por qué soy el único que sigue teniendo esas visiones? ¿Qué significan?"
