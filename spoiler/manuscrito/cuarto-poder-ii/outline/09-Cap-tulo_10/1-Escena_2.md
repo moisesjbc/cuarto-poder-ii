@@ -57,3 +57,9 @@ Y las visiones seguían ahí. Primero cada 2 o 3 noches. Ahora cada noche.
 Un planeta desconocido, un portal y una mujer con un pelo larguísimo que intentaba comunicarse con él.
 Las otras personas a las que entrevistaban recordaban haber visto un planeta como el que describía pero nada más. Ni el portal ni la mujer.
 "¿Por qué?", pensaba Lucas. "¿Por qué soy el único que sigue teniendo esas visiones? ¿Qué significan?"
+Lucas se sorprendía pensando a cara rato en este misterio, y temió que la obsesión fuera tal que no pudiera pensar en otras cosas.
+Tras el último entrenamiento le demostraron lo fácil que era cambiar eso.
+Al acabar de "irrumpir" por enésima vez en las instalaciones, el instructor les deseó suerte para dentro de dos días.
+La unidad de Lucas intercambió ceños fruncidos.
+- ¿Por qué? - preguntó uno de sus compañeros.
+- Porque mañana se les enviarán a estallar su primera *Burbuja*.
