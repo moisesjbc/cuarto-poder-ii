@@ -615,3 +615,11 @@ Al final fueron dos jams a las que me apunté y **estuve dos semanas sin tocar l
 Para los siguientes días espero volver al rendimiento pre-"vacaciones", y **me he decidido a aumentar el mínimo de palabras diarias a 300**.
 
 ¡A por ello!
+
+## Semana 80 (12/10/2020 - 17/10/2020)
+
+**He cumplido tres de los cinco objetivos semanales**. ¿Vale la gripe como excusa? ;-)
+
+**He completado el primer borrador de la escena 10.2 y estoy por la escena 10.3.** Lucas lleva un par de semanas de entrenamiento y recibe la "bomba" de que en dos días partirá con su unidad a estallar su primera *Burbuja*. Es un momento de mucha tensión para el personaje, en el que siente que va a morir. Ya puedo adelantar que no siento que esté expresando bien esa tensión ahora mismo pero... para eso están los primeros borradores.
+
+**Para la semana me gustaría intentar recuperar la racha... pero** viene un amigo a pasar una o dos semanas por aquí y **no puedo prometer nada** ;-)
