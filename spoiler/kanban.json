@@ -100,6 +100,16 @@
       "name": "Done",
       "cards": [
         {
+          "name": "Escribir 300 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Escribir 300 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
           "name": "Escribir 250 palabras",
           "details": "",
           "color": "FAFCD2"
