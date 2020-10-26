@@ -3,6 +3,7 @@ ID:             53
 type:           md
 summaryFull:    [Flashforward] Se anuncia que al día siguiente (**¿tan pronto?**) se liberará la primera *Burbuja*. Noemí habla con Lucas y se disculpa por haber criticado su inacción. Esto aumenta el miedo de Lucas, al darse cuenta de que Noemí teme que no vuelva.
 POV:            0
+notes:          - **Ajustar descripciones con {C:9:Unidad de Lucas}**
 label:          4
 status:         1
 compile:        2

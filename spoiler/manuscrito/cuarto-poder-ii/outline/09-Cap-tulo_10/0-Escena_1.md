@@ -104,10 +104,9 @@ La voz provino de la primera fila, aunque Lucas no podía ver de quién era desd
 La voz paró bruscamente.
 - Por favor, continúa.
 - ¿De qué sirve todo esto?
-Matía sonrió. Paseó su mirada por las de todos los presentes antes de hablar.
+Matías sonrió. Paseó su mirada por las de todos los presentes antes de hablar.
 - Cuando alguien piensa en cambiar las cosas piensa en cosas a lo grande. Conseguir una gesta decisiva que cambia aquí y ahora el devenir del mundo. Pero rara vez se trata de eso, y aún cuando en apariencia alguien consigue cambiar el mundo a mejor, no se puede hablar de que lo haya conseguido en solitario. El camino a ese evento que  alteró el mundo para siempre fue pavimentado por muchas personas, en su mayoría anónimas pero decisivas. Hace dos años, cuando descubrimos la existencia de las *Burbujas* no sabíamos nada sobre ellas. Ni si quiera nos atrevíamos a entrar hasta que uno de los nuestros se arriesgó. Tras él, otras personas se aventuraron y descubrieron el centro de control que tienen todas las *Burbujas*. Gracias a otros miembros de nuestras filas dimo con la señal de desactivación...
 Matías se mantuvo en silencio unos segundos, sondeando nuevamente con su mirada a los presentes.
 - Cada vez que estallamos una *Burbuja*, no solo nuestro conocimiento sobre las nuestras aumenta aunque sea ligeramente; también salvamos vidas. ¿Quieren destruir a RIO de una vez por todas? Harto improbable por ahora... aunque no imposible. Pero tienen la oportunidad de ayudar a forjar su hundimiento. De pavimentar el camino hacia un mundo mucho mejor mientras lo mejoran piedra a piedra.
 Matía volvió a sonreír a los presentes.
 - ¿Alguna pregunta más?
-1930
