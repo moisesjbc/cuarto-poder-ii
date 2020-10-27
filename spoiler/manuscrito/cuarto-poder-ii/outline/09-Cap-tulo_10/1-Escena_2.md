@@ -63,4 +63,4 @@ Tras el último entrenamiento le demostraron lo fácil que era cambiar eso.
 Al acabar de "irrumpir" por enésima vez en las instalaciones, el instructor les deseó suerte para dentro de dos días.
 La unidad de Lucas intercambió ceños fruncidos.
 - ¿Por qué? - preguntó uno de sus compañeros.
-- Porque mañana se les enviarán a estallar su primera *Burbuja*.
+- Porque se les enviará a estallar su primera *Burbuja*.

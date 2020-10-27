@@ -22,7 +22,7 @@ Retrocedió unos pasos, echándose las manos a la cara. A punto estuvo de perder
 De repente el viento se detuvo.
 La luz que atravesaba sus párpados como si no fueran nada cesó también.
 Lucas se descubrió la cara y abrió los ojos poco a poco.
-El portal había desaparecido. En su lugar había una mujer joven. Era un poco más alta que Lucas y tan delgada como este. Vestía unos vaqueros y un top blanco. Su cara redondeado exhibía unos rasgos finos. La joven lucía una generosa melena castaña risada que caía a borbotones por su cuerpo, cubriéndolo en gran parte hasta sus rodillas.
+El portal había desaparecido. En su lugar había una mujer joven. Era un poco más alta que Lucas y tan delgada como este. Vestía unos vaqueros y un top blanco. Su cara redondeado exhibía unos rasgos finos. La joven lucía una generosa melena castaña rizada que caía a borbotones por su cuerpo, cubriéndolo en gran parte hasta sus rodillas.
 La joven miró a Lucas y abrió la boca, pero no emitió sonido alguno.
 Por un instante la boca desapareció de su cara. Lucas frunció el ceño y retrocedió.
 Parpadeó y la joven volvió a tener boca. Esta volvió a abrirse y esta vez emitió un pequeño gruñido.
