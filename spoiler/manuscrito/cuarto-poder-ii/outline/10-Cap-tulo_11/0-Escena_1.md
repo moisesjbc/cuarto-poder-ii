@@ -32,3 +32,38 @@ Lucas quiso parpadear simplemente, pero en lugar de ello permaneció con los ojo
 Lucas terminó de incorporarse, quedándose sentado en el banco, la espalda recostada en la pared. Estaban en el patio de entrenamiento.
 - Tienes agua ahí, si quieres - Marta señaló un vaso en el banco, al lado de Lucas.
 - Gracias - la boca del joven estaba seca y reclamó la ofrenda. Lucas tomó el vaso y apuró un buen trago.
+Mientras bebía, su mirada escaneó a su unidad de izquierda a derecha.
+Todos lo miraban fijamente. Carmen, la líder, lo miraba con una expresión curiosa. Marta mostraba preocupación, aunque su postura se había relajado bastante en los últimos instantes. Manuel desprendía seriedad.
+Aunque sediento, Lucas reservó el fondo del vaso para después. Dejó el recipiente en el banco, a su derecha.
+La primera en hablar fue Carmen.
+- ¿Quieres hablar de lo que pasó?
+Lucas meditó unos instantes. "¿Quiero?", pensó. Rápidamente obtuvo respuesta.
+- No puedo creer que vaya a... - se mordió el labio -. Que vayamos a una *Burbuja* tan pronto. 
+- ¿Qué ibas a decir? - dijo Carmen, avanzando un paso hacia él.
+- ¿Qué?
+- "No puedo creer que vaya a...". ¿Qué ibas a decir?
+Lucas no conocía nada de Carmen hace dos semanas, peo en ese tiempo había descubierto algo. Era imposible engañarla.
+"Pero aún así...", pensó. No se sentía cómodo confesándolo.
+- A morir - dijo finalmente -. No puedo creer que vaya... que vayamos a morir en dos días.
+Marta bajó la mirada. Carmen y Manuel siguieron mirándolo.
+- Bueno, ¿y qué? - sonrió Manuel.
+- Manuel... - lo miró Carmen.
+- No creo que Lucas se equivoque, Carmen - contestó, la sonrisa desaparecida -. Teniendo una formación mayor quizás tuviéramos alguna oportunidad, ¿pero de verdad piensas conseguir algo contra RIO tras poco más de dos semana? ¿Contra la misma corporación que al parecer controla el mundo?
+- Lo creo - Carmen se cruzó de brazos -. La Resistencia es una hormiga frente a RIO y aún así nos ha salvado, y nosotros salvaremos a otros. No tenemos que destruir a la corporación. Ni siquiera tenemos que hacerle un gran daño. Basta con hacer lo que esté en nuestras manos para continuar la lucha.
+Manuel negó con la cabeza.
+- No me convences. Pero en fin, pienso ir igualmente.
+- ¿Por qué? - intervino Lucas, el ceño fruncido.
+- Porque creo que estamos muertos desde el momento en el RIO nos puso la mano encima - lo miró a través de sus mechones negros y lacios -. Nadie nos ha salvado. Sólo han atrasado un poco más nuestra muerte.
+Marta avanzó hacia el banco con la mirada gacha y se sentó al lado de Lucas.
+- ¿Estás bien? - le susurró este.
+Pero Marta no contestó.
+- A ver si lo he entendido bien... - comenzó a decir Carmen, paseando su mirada entre Manuel y Lucas - ¿Entonces creen que esto no es más que una misión suicida?
+- Sí - contestó Manuel -. Básicamente sí.
+Carmen miró a Lucas. Este asintió con la cabeza, bajando la vista.
+- ¿Y por qué siguen aquí?
+Lucas levantó la mirada. Carmen miró a Manuel y este último le hizo un gesto a Lucas. "Adelante", parecía decir con la mano.
+- Consciencia - dijo Lucas.
+- Adrenalina - dijo Manuel.
+- Creo... que me quedo con el motivo de Lucas - Carmen miró al joven.
+Manuel se encogió de hombros.
+- No te culpo.

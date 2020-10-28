@@ -59,7 +59,7 @@ Notes:               # Plano físico
                      - **Altura**: 1.75 metros
                      - **Peso**: 70 kilos
                      - **Etnia**: caucásico
-                     - **Vestimenta**: prefiere vaqueros y camiseta de colores neutros. Durante la historia usará el {W:9:Uniforme de la resistencia}.
+                     - **Vestimenta**: prefiere vaqueros y camiseta de colores neutros. ---> (O NO) Durante la historia usará el {W:9:Uniforme de la resistencia}.
                      - **Cómo se siente con su aspecto**: bien, aunque le gustaría ganar en fuerza y agilidad.
                      - **Enfermedades**: Lucas es un poco neurótico.
                      - **Libro / película favoritos**: Regreso al futuro.
@@ -107,5 +107,5 @@ Notes:               # Plano físico
                      - En el descenso al sótano secreto del {W:3:AT de Gran Canaria} siente mareos y ganas de vomitar al usar el "ascensor B".
                      - Poco acostumbrado a conflictos. Teme disparar aunque sea a enemigos.
                      - Pésima puntería.
-                     - Hace comentarios para intentar romper el silencio que lo averguenzan después (pe. blanco = inocencia).
+                     - Hace comentarios para intentar romper el silencio que lo avergüenzan después (pe. blanco = inocencia).
 Color:               #fcaf3e
