@@ -3,7 +3,7 @@ ID:                  9
 Importance:          0
 Full Summary:        Unidad de cuatro personas.
                      
-                     - **Manuel**: un hombre de 35 años. Musculoso y alto, con el pelo lacio y negro hasta el hombro. Es algo más sociable que Lucas pero no mucho más. Parece disfrutar tanto sólo como en compañía.
+                     - **Manuel**: un hombre de 35 años. Musculoso y alto, con el pelo lacio y negro hasta el hombro. Es algo más sociable que Lucas pero no mucho más. Parece disfrutar tanto sólo como en compañía. Cree que los otros rescatados de las *Burbujas* y él están muertos desde que RIO los capturó la primera vez.
                      - **Marta**: una mujer de 36 años. Baja estatura y una forma física no muy buena, aunque se ha comprometido con el entrenamiento. Pelo muy corto y azul, aunque ha empezado a perder el teñido. Dice "haberse camelado" a la tatuadora (¿nombre?) para conseguirse más tinte, aunque realmente son amigas. Muy sociable.
                      - **Carmen**: una joven de 26 años. Aspecto atlético. Pelo corto (aunque no tan corto como el de Marta) y castaño. Muy sociable y con dotes de mando. Fue la elegida para dirigir la unidad de Lucas.
 Color:               #cd9aaa

@@ -67,3 +67,36 @@ Lucas levantó la mirada. Carmen miró a Manuel y este último le hizo un gesto 
 - Creo... que me quedo con el motivo de Lucas - Carmen miró al joven.
 Manuel se encogió de hombros.
 - No te culpo.
+Carmen se giró hacia Lucas.
+- Y bien, así que... Oh, ¡hola!
+Lucas frunció el ceño y siguió la mirada de Carmen. A unos metros a su izquierda, Noemí se encontraba de pie en la puerta que daba a las instalaciones.
+La adolescente no saludó. Se limitó a mirar a Lucas, seria.
+- ¿Llevas mucho tiempo ahí? - le preguntó Carmen.
+- Lo suficiente para saber que piensas abandonarme en dos días - contestó Noemí, dirigiéndose a Lucas.
+Este último la miró sin decir nada. Noemí se dio la vuelta y se fue por la puerta.
+- ¿No vas con ella? - le preguntó Carmen.
+- No... es mejor esperar - contestó Lucas, torciendo sus labios en una sonrisa amarga durante un fracción de segundo.
+- Muy bien... - Carmen suspiró -. Así que, Lucas, tu consciencia te mueve a intentar estallar la *Burbuja* en lugar de desentenderte de la Resistencia y huir como tantos otros. No obstante, sientes pánico ante lo que consideras una muerte segura. ¿Me equivoco?
+- No.
+- Creo que no lo termino de entender. Por mucho que tu conciencia te mueva a hacerlo, ¿cómo es que te lo planteas siquiera si no piensas conseguir nada?
+Lucas meditó unos segundos.
+- He dicho que me mueve la consciencia, pero quizás debería decir que es el miedo. Tengo pánico a la muerte, sí, pero tengo aún más miedo a volver a abandonar a la gente que me importa. No sé si podría vivir con ello.
+- ¿"Volver a abandonar"?
+Lucas se mordió el labio.
+- Sí... - el joven bajó la mirada. Por el rabillo del ojo vio que Marta alzaba la vista hacia él -. Cuando tenía unos 15 años unos matones intentaron robarnos a un amigo y a mí.
+Lucas levantó la mirada y se apoyó en la pared tras de sí. Tal como se imaginaba, sus tres interlocutores lo miraban con interés. Continuó hablando.
+- Mi amigo les hizo frente y recibió una paliza. Yo...
+- ...huiste - concluyó Carmen.
+- Sí - el labio de Lucas se torció en una mueca -. Me escondí hasta que vi que los matones se fueron y fui junto a mi amigo.
+Lucas se llevó la mano a la boca y entrecerró los ojos. Estuvo unos segundos así antes de continuar.
+- Su mirada... No solo había dejado de ser uno de mis mejores amigos en ese momento. No quiso saber nada más de mí nunca más. No le culpo.
+Lucas suspiró.
+- Quince años después y aún no puedo quitarme su mirada de la cabeza.
+El joven agachó la cabeza. Sus interlocutores se mantuvieron en silencio unos instantes.
+- Ahora lo entiendo - dijo Carmen -. No quieres volver a pasar por eso, aunque suponga la muerte.
+- Así es - suspiró Lucas.
+- Siento tener que hacer esta pregunta, Lucas. ¿Pero será suficiente? - Carmen esperó a que Lucas levantara la vista hacia ella antes de seguir hablando -. Cuando estemos en la *Burbuja*, ¿podremos confiar en que no nos abandonarás?.
+Lucas no respondió inmediatamente.
+- No lo sé. Pero prometo intentarlo - Lucas suspiró, torciendo sus labios en una sonrisa amarga - ¿Te vale?
+Carmen asintió con la cabeza.
+- Tendrá que valer.
