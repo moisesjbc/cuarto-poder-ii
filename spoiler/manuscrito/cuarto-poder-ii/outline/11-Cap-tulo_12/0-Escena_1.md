@@ -1,8 +1,9 @@
 title:          Escena 1
-ID:             62
+ID:             58
 type:           md
-summaryFull:    Lucas está a punto de morir a manos de las fuerzas de RIO, pero entonces es rescatado por {C:5:Ajani} y {C:39:Kasim}. Los tres huyen.
+summaryFull:    El grupo avanza hacia el centro de control, cuando de repente se escuchan las {W:16:Notas de xilófono}.
 POV:            0
+notes:          - En esta o la siguiente escena puedo hacer que Lucas vea a otro Mario / Noemí, etc.
 label:          4
 status:         1
 compile:        2

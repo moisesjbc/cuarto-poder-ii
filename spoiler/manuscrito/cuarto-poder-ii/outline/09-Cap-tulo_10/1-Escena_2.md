@@ -22,6 +22,8 @@ notes:          (*) En el {T:13:Capítulo 3} puede que ya haya refenciado (**¿y
                 - **Aclarar sangrado de Lara (o mover)**
                 - **¿Mejor relación con Noemí?**
                 - **Ajustar descripciones con {C:9:Unidad de Lucas}**
+                
+                - **Indicar que es en el entrenamiento de la tarde**
 label:          4
 status:         1
 compile:        2
