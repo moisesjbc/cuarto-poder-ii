@@ -623,3 +623,11 @@ Para los siguientes días espero volver al rendimiento pre-"vacaciones", y **me 
 **He completado el primer borrador de la escena 10.2 y estoy por la escena 10.3.** Lucas lleva un par de semanas de entrenamiento y recibe la "bomba" de que en dos días partirá con su unidad a estallar su primera *Burbuja*. Es un momento de mucha tensión para el personaje, en el que siente que va a morir. Ya puedo adelantar que no siento que esté expresando bien esa tensión ahora mismo pero... para eso están los primeros borradores.
 
 **Para la semana me gustaría intentar recuperar la racha... pero** viene un amigo a pasar una o dos semanas por aquí y **no puedo prometer nada** ;-)
+
+## Semana 81 (26/10/2020 - 31/10/2020)
+
+Sí, he dejado una semana sabática entremedias ;-)
+
+**Esta semana he recuperado el pleno de 5 objetivos cumplidos de 5**. Además, **he aumentado el objetivo diario a 400 palabras, incluyendo un repaso previo de las fichas de personajes que intervienen en la escena actual**. He completado las escenas 10.3 (cuando sueltan el bombazo a la unidad de Lucas sobre su inminente misión a una *Burbuja*) y 11.1 (ataque de pánico de Lucas ante su muerte inminente). Ahora estoy de lleno en la escena 11.2, donde Lucas habla con Noemí sobre la situación. Espero crear un diálogo interesante ;-)
+
+**La semana que viene mantendré el objetivo de repaso + 400 palabras diarias.** ¡A ver si mantengo la racha!
