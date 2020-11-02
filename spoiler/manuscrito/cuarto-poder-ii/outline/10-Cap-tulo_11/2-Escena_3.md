@@ -4,6 +4,7 @@ type:           md
 summaryFull:    - Lucas habla con Noemí. Esta intenta convencerle de que huya con ella.
                 - No está Ana.
 POV:            0
+notes:          - Lucas tiene que empezar el capítulo poniéndose el abrigo.
 label:          4
 status:         1
 compile:        2
