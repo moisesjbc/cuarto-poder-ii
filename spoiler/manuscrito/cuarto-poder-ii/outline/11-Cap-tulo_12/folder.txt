@@ -1,9 +1,6 @@
 title:          Capítulo 12
-ID:             78
+ID:             83
 type:           folder
-POV:            0
-label:          3
-status:         1
 compile:        2
 
 
