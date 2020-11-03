@@ -1,6 +1,6 @@
 Name:                Noemí
 ID:                  2
-Importance:          0
+Importance:          1
 Motivation:          Venganza y descubrimiento personal.
 Goal:                - Unirse a la {W:1:Resistencia} para vengar la muerte de sus padres.
                      - Descubrir quién es realmente.
@@ -49,7 +49,7 @@ Notes:               # Plano físico
                      - **Defectos**: impulsiva y un poco cabezona.
                      - **Cómo se ve**: como una chica activa y alegre en un mundo cruel.
                      - **Cómo lo ven otros personajes**: jovial y alegre.
-                     - **Tics / manias**: no le gustan los espacios cerrados.
+                     - **Tics / manías**: no le gustan los espacios cerrados.
                      
                      # Plano social
                      
