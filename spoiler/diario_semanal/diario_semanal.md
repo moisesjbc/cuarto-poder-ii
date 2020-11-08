@@ -631,3 +631,11 @@ Sí, he dejado una semana sabática entremedias ;-)
 **Esta semana he recuperado el pleno de 5 objetivos cumplidos de 5**. Además, **he aumentado el objetivo diario a 400 palabras, incluyendo un repaso previo de las fichas de personajes que intervienen en la escena actual**. He completado las escenas 10.3 (cuando sueltan el bombazo a la unidad de Lucas sobre su inminente misión a una *Burbuja*) y 11.1 (ataque de pánico de Lucas ante su muerte inminente). Ahora estoy de lleno en la escena 11.2, donde Lucas habla con Noemí sobre la situación. Espero crear un diálogo interesante ;-)
 
 **La semana que viene mantendré el objetivo de repaso + 400 palabras diarias.** ¡A ver si mantengo la racha!
+
+## Semana 82 (02/11/2020 - 08/11/2020)
+
+Casi hago el pleno. **He cumplido 4 de los 5 objetivos semanales**.
+
+**Esta semana he terminado las escenas 11.2** (la cena de Lucas con su unidad después de recibir la noticia del inminente asalto a la *Burbuja*) **y la 11.3** (la conversación entre Noemí y Lucas en el patio). **Además, ahora estoy de lleno en la escena 12.1** (informe sobre la *Burbuja*). En las últimas semanas he estado metiendo escenas entre medias según iba notando que podía meter alguna conversación interesante o algo más que contar. Ciertamente **me estoy "deteniendo" mucho más en los tiempos entre momentos de acción frenética que en la primera novela.** Espero no pasarme ;-)
+
+**Para la semana que viene mantendré el objetivo diario de repasar los personajes de la escena y escribir mínimo 400 palabras.** ¡A por ello!
