@@ -1,0 +1,5 @@
+Name:                Luís
+ID:                  10
+Importance:          0
+Full Summary:        Espía en la *Burbuja 32*.
+Color:               #cef492

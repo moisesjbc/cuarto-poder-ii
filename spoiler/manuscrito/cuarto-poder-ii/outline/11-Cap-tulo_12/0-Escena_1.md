@@ -5,6 +5,9 @@ summaryFull:    Informe sobre la Burbuja
 POV:            0
 notes:          - No he comentado que Ana está de misión.
                 - Lucas tiene que despedirse de Lara y nuevamente de Noemí.
+                
+                - **¿Hablan del sistema de control de la *Burbuja*?**.
+                - **Confirmar número de *Burbuja*. Mencionar en el capítulo de la primera formación sobre las *Burbujas***
 label:          4
 status:         1
 compile:        2
@@ -27,3 +30,21 @@ Lucas reconoció en esta última a Lucía, la instructora que les había imparti
 - Perfecto, ya estamos todos - dijo Matías -. Por favor, colóquense alrededor de los planos.
 Las dos unidades se comunicaron entre sí con poco más que gestos y asentimientos y no tardaron en colocarse. Lucas acabó junto con Marta al lado izquierdo de Matías. Lucía y uno de los hombres de su unidad se colocaron al otro lado. Carmen, Manuel y los dos hombres restantes e la otra unidad se colocaron frente a ellos.
 - Muy bien, empecemos.
+Matías apartó cada una de las fotos de encima del plano de la *Burbuja* y las dejó a los lados de este.
+- Esto que ven aquí es un plano de la *Burbuja* número 32. Tal como en otros casos, se trata de una pequeña población amurallada - Siguió con el dedo índice el polígono que rodeaba el pueblo -, donde RIO realiza sus experimentos sobre prisioneros. Nuestro objetivo es liberarlos.
+El superior paseó su mirada por los presentes de manera fugaz antes de continuar.
+- La *Burbuja* tiene dos entradas principales, situadas en el lado norte - Señaló un pequeño segmento sobre el polígono - y otra en el lado sur - Repitió el gesto -. Ambas cuentan con puertas secundarias a unos 100 metros a ambos lados - Su mano se movió ágilmente entre los pequeños segmentos en el mapa.
+- La unidad de Carmen se encargará de la entrada sur. Uno de nuestros espías les abrirá la puerta secundaria de la derecha. Aquí. El espía se llama Luís y a la hora convenida, las 
+Matías miró a Carmen. Esta se limitó a asentir y Matías continuó.
+- La unidad de Lucía se encargará de la muralla norte. Desgraciadamente no disponemos de más espías en la *Burbuja*. Luís nos ha comunicado que intentará dejar abierta esta puerta - Situó su dedo en el mapa -, pero si no puede conseguirlo tendrán que escalar la muralla, ¿entendido?
+- Perfecto - respondió Lucía.
+"Menos mal que no tenemos que escalar", Lucas no puedo evitar suspirar.
+- ¿Pasa algo? - le preguntó Carmen.
+Varios cabezas se giraron hacia Lucas.
+- ¿Eh? ¡No! Nada.
+- Muy bien - continuó Matías -. Pasemos a las fotos.
+El veterano de 50 años volvió a situar las fotos, cinco en total, formando un círculo encima del mapa.
+- Tanto la avenida principal como las calles secundarias - Señaló sendas fotos - están rodeadas por edificios de no más de 2 plantas, por lo que el equipo Norte tendrá la mayor visibilidad cuando haya escalado la muralla.
+- Entendido - Asintió Lucía.
+Matías señaló las otras tres fotos. Dos de ellas mostraban un pequeño edificio de una planta con una gran cruz en el tejado. La tercera mostraba lo que parecía ser el interior. Una fila de bancos avanzaba con filas de bancos a ambos lados.
+- La iglesia, situada en el centro del pueblo, aloja el centro de control.
