@@ -42,9 +42,33 @@ Matías miró a Carmen. Esta se limitó a asentir y Matías continuó.
 - ¿Pasa algo? - le preguntó Carmen.
 Varios cabezas se giraron hacia Lucas.
 - ¿Eh? ¡No! Nada.
-- Muy bien - continuó Matías -. Pasemos a las fotos.
+- Muy bien - continuó Matías -. Según nuestros informes tienen unos doce hombres custodiando la *Burbuja*. Tres parejas de guardias patrullan la parte superior de las murallas - Siguió el contorno de la misma con la mano -. Las otras tres parejas patrullan las calles del pueblo. Según Luís, de madrugada las comunicaciones entre ellos se relajan bastante, así que será nuestro momento de atacar. No duden en abatirlos ya que...
+A Lucas se le hizo un nudo en la garganta. Carmen le dio un ligero codazo y le señaló su brazo. El joven se lo estaba rascando frenéticamente.
+- ¿Pasa algo? - preguntó Matías, mirándolos.
+- No. No pa - comenzó a decir Carmen.
+- Lo siento... - se disculpó Lucas - ¡perdón por interrumpir! - le sonrió nerviosamente a Carmen antes de dirigirse nuevamente a Matías - Simplemente pensaba... pensaba que atacaríamos por el día.
+- No es viable - dijo Matías -. Por el día hay más actividad en la *Burbuja* y es más fácil que seamos descubiertos.
+- Entiendo - dijo Lucas, con la mirada perdida.
+"Me queda aún menos tiempo de vida", le dijo una voz interior.
+Matías continuó.
+- Como decía: no duden en reducirlos a la mínima oportunidad de hacerlo de manera sigilosa. No todos se rinden cuando una *Burbuja* es estallada.
+Matías esperó unos segundos antes de continuar.
+- Bien, pasemos a las fotos.
 El veterano de 50 años volvió a situar las fotos, cinco en total, formando un círculo encima del mapa.
 - Tanto la avenida principal como las calles secundarias - Señaló sendas fotos - están rodeadas por edificios de no más de 2 plantas, por lo que el equipo Norte tendrá la mayor visibilidad cuando haya escalado la muralla.
 - Entendido - Asintió Lucía.
 Matías señaló las otras tres fotos. Dos de ellas mostraban un pequeño edificio de una planta con una gran cruz en el tejado. La tercera mostraba lo que parecía ser el interior. Una fila de bancos avanzaba con filas de bancos a ambos lados.
-- La iglesia, situada en el centro del pueblo, aloja el centro de control.
+- La iglesia, situada en el centro del pueblo, aloja el centro de control. Se accede a través de una trampilla situada en el suelo tras el altar.
+- Imagino que estará bloqueada - dijo Carmen.
+- Así es. No obstante Luís nos ha asegurado que se puede forzar con facilidad.
+- Y ese Luís... - comenzó a decir Lucas - Perdón.
+- No no, adelante - Le animó Matías.
+- Ese tal Luís, el espía... ¿es de fiar?
+Hubo un silencio que se prolongó durante unos segundos que a Lucas se le hicieron una eternidad.
+- Lo siento. Es que...
+- No te preocupes - Le interrumpió Matías -. Me gustaría poder decir que no ha habido trampas por parte de RIO volviendo a nuestros espías contra nosotros - suspiró -. Pero en este caso conozco personalmente a Luís. Antes moriría que ayudar a RIO.
+"¿Podría decir lo mismo de mí?", pensó Lucas. No quiso responderse.
+Matías miró a los presentes.
+- ¿Alguna pregunta más?
+Varios de los presentes, incluyendo a Carmen y Lucía, las líderes de las unidades, negaron con la cabeza. Otros como Lucas las imitaron, aunque con menos firmeza.
+- Perfecto. Intenten descansar durante lo que queda de día. A medianoche preséntense en la entrada delantera, junto a los camiones. Buena suerte.

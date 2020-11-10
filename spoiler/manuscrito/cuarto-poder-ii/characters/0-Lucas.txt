@@ -99,7 +99,7 @@ Notes:               # Plano físico
                      - **Casa**: piso modesto en el barrio del {W:3:AT de Gran Canaria}.
                      - **Educación**: educado y respetuoso.
                      - **Amigos**: {C:1:Ana}.
-                     - **Enemigos**: mayor parte de sus compañeros en RIO lo desprecian por los "mimos" de {W:0:RIO}.
+                     - **Enemigos**: la mayor parte de sus compañeros en RIO lo desprecian por los "mimos" de {W:0:RIO}.
                      
                      
                      # Otros
