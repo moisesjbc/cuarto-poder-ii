@@ -639,3 +639,9 @@ Casi hago el pleno. **He cumplido 4 de los 5 objetivos semanales**.
 **Esta semana he terminado las escenas 11.2** (la cena de Lucas con su unidad después de recibir la noticia del inminente asalto a la *Burbuja*) **y la 11.3** (la conversación entre Noemí y Lucas en el patio). **Además, ahora estoy de lleno en la escena 12.1** (informe sobre la *Burbuja*). En las últimas semanas he estado metiendo escenas entre medias según iba notando que podía meter alguna conversación interesante o algo más que contar. Ciertamente **me estoy "deteniendo" mucho más en los tiempos entre momentos de acción frenética que en la primera novela.** Espero no pasarme ;-)
 
 **Para la semana que viene mantendré el objetivo diario de repasar los personajes de la escena y escribir mínimo 400 palabras.** ¡A por ello!
+
+## Semana 83 (09/11/2020 - 14/11/2020)
+
+**He cumplido 2 de los 5 objetivos, ambos centrados en la escena 12.1 (informe sobre la *Burbuja*)**.
+
+Esta semana ha sido un poco caótica, algo más de curro, mala gana, nervios, ... Y **estoy replanteando mi forma de organizarme mis proyectos personales y tareas pendientes en el corto plazo, por lo que no sé si en los próximos días tocaré el libro**. Ya iremos viendo.
