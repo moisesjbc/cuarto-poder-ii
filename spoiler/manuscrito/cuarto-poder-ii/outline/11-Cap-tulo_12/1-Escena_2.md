@@ -25,4 +25,22 @@ Lucas se detuvo en medio del pasillo unos segundos, viendo al resto alejarse.
 "Mierda", se maldijo, obligándose a dejar de rascarse el brazo.
 Contó uno, dos y tres, siguiendo cada número con una respiración profunda. Cuando terminó, tomó una decisión.
 "Primero Lara", se dijo.
-
+El joven se dirigió por los pasillos, sin encontrarse con apenas personas, hasta la habitación donde dormía Lara. La encontró acostada en la cama superior de su litera, en el fondo la estancia, leyendo un libro. Jonás se encontraba acostado en la cama de debajo. Tan pronto como Lucas se preguntó si estaría durmiendo. este último giró la cabeza hacia la puerta, posando los ojos sobre él.
+"Parece que no"
+La estancia era más pequeña que las otras habitaciones que había visto. Dos filas de tres literas, una a cada lado del pasillo central. Los hermanos se encontraban en la litera más lejana de la fila de la derecha.
+Cuando Lucas iba por el centro de la habitación, Lara levantó la vista de su libro y le sonrió ligeramente.
+- Hola.
+- Hola - Lucas llegó hasta situarse a un lado de la litera y asintió con la cabeza hacia Jonás. Este asintió a su vez y volvió a mirar hacia el techo de su litera, sin dejar de mirarlo de reojo. Lucas volvió a mirar a Lara - ¿Podemos hablar?
+- Sí, claro - Lara dejó el libro en la cama - Un segundo...
+- ¿De qué es el libro? - la pregunta surgió de los labios del joven de manera más brusca de lo que había pensado. Se limitó a toser toscamente.
+- Ah, es de matemáticas - dijo, volviendo a tomar el libro y alcanzándoselo.
+Lucas cogió el libro y retrocedió unos pasos para dejar a Lara bajar por las escaleras.
+"Análisis matemático", rezaba la portada. Lucas lo abrió por una página al azar y la pared de números y letras lo abrumó.
+- Vaya - dijo sonriendo, una vez Lara bajó y se situó frente a él -. ¿Esto es lo que se da en el instituto? - preguntó sorprendido, pasando las hojas - Me he quedado bastante atrás.
+- No, no se da en el instituto - hizo una pausa -. Al menos no en el mío.
+Lucas creyó distinguir una mancha roja en una de las páginas que dejó volar frente a él. Volvió sobre sus pasos y comprobó que, efectivamente, era sangre.
+El joven miró a la adolescente sin decir ni una palabra.
+- Oh, ¡no pasa nada! - se abalanzó a decir - realmente me relaja... La mayor parte del tiempo al menos.
+- Entiendo.
+Lucas le entregó el libro. La que había sido su hija se alzó sobre sus pies y dejó el libro sobre la cama.
+- ¿De qué querías hablar?
