@@ -43,4 +43,22 @@ El joven miró a la adolescente sin decir ni una palabra.
 - Oh, ¡no pasa nada! - se abalanzó a decir - realmente me relaja... La mayor parte del tiempo al menos.
 - Entiendo.
 Lucas le entregó el libro. La que había sido su hija se alzó sobre sus pies y dejó el libro sobre la cama.
-- ¿De qué querías hablar?
+- ¿De qué querías hablar? - preguntó mientras se sentaba en la litera vacía de al lado. El joven había dado un paso hacia la salida, pero se sentó rápidamente a su lado - ¡oh! ¿querías salir?
+- ¡Ah no!, es lo mismo - Lucas agitó la mano con indiferencia.
+Lucas dio vueltas en su cabeza a cómo decirlo. Pasaron unos segundos, en los que sintió las miradas de Lara y su hermano clavadas en él.
+"Mejor ser directo", pensó.
+- Me voy... me voy a una misión. Esta noche.
+Lara abrió los ojos ampliamente. Su boca también formó un pequeño círculo. Entonces bajó ligeramente la cabeza y miró al suelo.
+- ¿Vas... a una *Burbuja*?
+- Sí.
+- ¿Cuándo?
+Lucas frunció el ceño.
+- Esta... noche.
+- Ah sí - las palabras se arrastraban para salir de su boca -. Lo dijiste.
+Se hizo el silencio. Jonás miraba de reojo a Lucas, sin dejar de tener la cabeza recostada en su cama, mirando al techo. Lara seguí mirando al suelo. Lucas no sabía qué decir.
+- ¿Estás seguro? - Lara había alzado la cabeza y miraba hacia él. Tenía los ojos húmedos.
+- ¿Qué? ¿A qué te refieres?
+- Sobre la misión. Sobre ir a la *Burbuja*. Es muy... peligroso.
+Lucas inclinó el cuerpo hacia delante y apoyó los brazos en las piernas, cruzando las manos.
+Suspiró.
+- No.
