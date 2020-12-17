@@ -3,6 +3,7 @@ ID:             89
 type:           md
 summarySentence:Lucas se despide de Lara y Noemí
 POV:            0
+notes:          - ¿Queda muy forzado que Lucas no haya visto a Noemí en el desayuno y no se preocupara?
 label:          4
 status:         2
 compile:        2
@@ -62,3 +63,28 @@ Se hizo el silencio. Jonás miraba de reojo a Lucas, sin dejar de tener la cabez
 Lucas inclinó el cuerpo hacia delante y apoyó los brazos en las piernas, cruzando las manos.
 Suspiró.
 - No.
+- ¿Entonces... por qué lo haces?
+- Consciencia.
+Lara no dijo nada.
+- Siento que si sigo huyendo no podré vivir conmigo mismo - añadió Lucas.
+Otro silencio, pero este no duró mucho.
+- Entiendo...
+Ambos bajaron la mirada sin decir nada. Al cabo de un rato habló Lucas.
+- ¿Cómo sigues...? - Lucas miró a su alrededor antes de continuar. Las únicas personas que se encontraban en la habitación estaban a cierta distancia y parecían ignorarles. Jonás seguía mirándole de reojo.
+Lucas bajó la voz igualmente
+- ¿Cómo sigues de lo tuyo?
+- ¿De lo mío? - Lara frunció el ceño.
+Lucas se tocó con el dedo índice bajo la nariz.
+- ¡Ah! ¡Claro! - Una ligera sonrisa apareció fugazmente sobre su rostro, pero desapareció enseguida -. Estoy bien... más o menos.
+- ¿Y no sabes por qué es?
+- No, pero parece que...
+- Suficiente - dijo Jonás. Lucas se sobresaltó.
+- ¿Es algo...? - Lucas miró a Jonás con cautela - ¿Es algo en lo que pueda ayudar... de alguna manera?
+- No.
+Lucas apartó la mirada de Jonás y miró a Lara. Intentó sonreír, sin éxito.
+- Muy bien... - el joven carraspeó antes de continuar -. Bueno, solo quería decirte lo de la misión - comenzó a incorporarse -. Imagino que nos veremos en la cena, ¿no?
+- Sí...
+- Perfecto. Por cierto, ¿has visto a tu herma- perdón... a Noemí? No la vi en el desayuno. ¿Se quedaría dormida? - sonrió.
+Lara lo miró fijamente.
+- Pues no... No la he visto desde ayer.
+**1110**
