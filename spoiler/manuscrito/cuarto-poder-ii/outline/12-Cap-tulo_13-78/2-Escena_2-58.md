@@ -1,5 +1,5 @@
-title:          Escena 3
-ID:             59
+title:          Escena 2
+ID:             58
 type:           md
 summaryFull:    El grupo consigue esconderse a tiempo y abrirse paso hasta el centro de control. Allí son emboscados por las fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras sus miembros intentan escapar.
 POV:            0

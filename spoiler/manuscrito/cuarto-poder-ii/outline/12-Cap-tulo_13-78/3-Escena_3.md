@@ -1,4 +1,4 @@
-title:          Escena 4
+title:          Escena 3
 ID:             60
 type:           md
 summaryFull:    Lucas huye con un compañero y consigue salir de la *Burbuja*. Allí intentan ponerse en contacto con la base rebelde, pero no reciben señal. El compañero de Lucas es asesinado y Lucas está a punto de caer.
