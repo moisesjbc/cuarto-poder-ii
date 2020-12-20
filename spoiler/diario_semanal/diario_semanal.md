@@ -645,3 +645,13 @@ Casi hago el pleno. **He cumplido 4 de los 5 objetivos semanales**.
 **He cumplido 2 de los 5 objetivos, ambos centrados en la escena 12.1 (informe sobre la *Burbuja*)**.
 
 Esta semana ha sido un poco caótica, algo más de curro, mala gana, nervios, ... Y **estoy replanteando mi forma de organizarme mis proyectos personales y tareas pendientes en el corto plazo, por lo que no sé si en los próximos días tocaré el libro**. Ya iremos viendo.
+
+## Semana 84 (14/12/2020 - 20/12/2020)
+
+¡Aquí estamos otra vez!
+
+Al final aproveché la pausa para centrarme en sacar una nueva versión de mi juego "UFO taxi!", antes de intentar equilibrar este este desarollo y el libro. Esta semana he hecho la prueba de trabajar en ambos, limitando el objetivo diario para cada uno, y de momento ha salido bien.
+
+En lo que respecta a *Cuarto Poder*, **he reducido el objetivo a 200 palabras diarias y he cumplido la racha de cinco días. He trabajado en las escena 12.2, donde Lucas se despide de Lara, y en la escena 13.1, donde Lucas parte con su equipo a *estallar* su primera *Burbuja*.** Ante esto último sólo puedo decir ¡Por fin!. Espero que no se me malinterprete; estoy disfrutando de crear escenas en apariencia más "calmadas", remplazando los tiroteos constantes por diálogos. No obstante, sí es cierto que llevaba tiempo sin meter a mis personajes en "fregados", asi que me alegro también de volver a ello.
+
+**Para los siguientes días planeo mantener el objetivo diario de palabras, y acojonar al pobre Lucas ;-)**.
