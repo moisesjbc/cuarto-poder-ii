@@ -26,3 +26,25 @@ Aunque Lucas sabía perfectamente lo que había al otro lado.
 El grupo avanzó en fila india pegados al lateral izquierdo del camión. Cuando llegaron a la parte posterior, Carmen, en cabeza, les hizo una seña con la mano para que se detuvieran.
 La joven asomó con cautela la cabeza, oteando el mundo más allá del furgón. Seguía con la mano en alto.
 - Muy bien, vamos.
+Carmen abandonó la cobertura, seguida de cerca por Manuel, Marta y Lucas. A este último le dio un vuelco el corazón cuando vio las altas murallas a poco más de doscientos metros.
+"Tendría que estar huyendo de aquí", pensó, "No acercándome".
+El grupo avanzaba por el borde derecho del asfalto con sus subfusiles en alto, pendientes de todo lo que pudiera supone una amenaza a su alrededor.
+A ambos lados de la carretera no había más que una inmensa llanura con apenas algunos matojos, gotas verdes en un océano marrón oscurecido por la negra noche.
+Lucas dudaba que hubieran enemigos escondidos allí, pero eso no lo tranquilizaba. Si no era ahora, los encontraría en unos instantes.
+Las murallas crecieron a medida que se acercaban. No parecía haber actividad sobre ellas. Toda la cálida luz que emitía la *Burbuja* procedía de su interior. No se recortaban sombras humanas en lo alto.
+Llegaron al borde la muralla, donde un inmenso portón amenazaba con engullirlos a pesar de estar cerrado a cal y canto. Sin detenerse, siguieron a Carmen mientras estaba giraba a la derecha y avanzaba por encima de la tierra al borde de la muralla.
+Caminaron unos cien metros hasta llegar a una puerta de metal gris de dos metros. Carmen se situó frente a la puerta y el resto se colocó a su señal. Lucas a su izquierda, y Marta y Manuel a su derecha.
+Carmen bajó su subfusil, gesto que no fue imitado por sus compañeros, y golpeó con suavidad, pero con firmeza, en la puerta. Inmediatamente preparó su subfusil.
+Silencio.
+No hubo respuesta desde el otro lado. Carmen hizo una mueca y alzó la mano para repetir los golpes.
+Tres golpes sonaron al otro lado de la puerta.
+Carmen volvió a alzar su subfusil y aguardó.
+La puerta se abrió y apareció un joven de unos 20 años. Llevaba el uniforme de RIO.
+Carmen y el joven se miraron durante unos instantes sin decir nada. Lucas intercambió miradas con Marta y Manuel al otro lado.
+- Oh, perdón - dijo el joven sonriendo. Al ver que Carmen no le devolvía la sonrisa, tosió -. Sí, claro. "Dicen que el elefante puede esprintar durante... trece metros"
+Carmen lo miró unos segundos, antes de contestar.
+- Pues yo creo que son quince.
+El joven paseó la mirada por los presentes.
+- Perfecto. Pasen.
+El joven se dio la vuelta y caminó, seguido de Carmen, Lucas, Marta y Manuel.
+Un metro de sólida roca más adelante se encontraron dentro de la *Burbuja*.
