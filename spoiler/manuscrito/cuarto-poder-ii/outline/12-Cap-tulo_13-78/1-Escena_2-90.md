@@ -48,3 +48,12 @@ El joven paseó la mirada por los presentes.
 - Perfecto. Pasen.
 El joven se dio la vuelta y caminó, seguido de Carmen, Lucas, Marta y Manuel.
 Un metro de sólida roca más adelante se encontraron dentro de la *Burbuja*.
+Ahora se encontraban en una calle estrecha de un único sentido, que discurría paralela a la muralla, con acera a ambos lados. Frente a ellos, al otro lado de la calle, se encontraba una fila de coches aparcados, y tras ellos se alzaba una hilera de casas blancas de dos plantas. Los edificios se interrumpían cada 20 metros para dejar paso a las calles que se internaban hacia el pueblo.
+No había ni una sola alma a la vista. Todas las ventanas estaban cerradas y no se adivinaban luces tras sus cortinas. Nadie asomaba en las azoteas. Nadie caminaba por las calles.
+- ¿Y los guardias? - preguntó Carmen.
+Luís se encontraba observando la calle despreocupadamente.
+- ¿Eh? - se giró hacia ellos - ¡Ah! Ya me encargué de la pareja encargada de vigilar esta parte. No se preocupen.
+Fue entonces cuando Lucas advirtió la pequeña mancha de sangre en el pecho del espía. Este último le siguió la mirada y soltó una maldición para sus adentros.
+- Gracias -. Se limitó a decir.
+Del bolsillo del pantalón se sacó un pequeño spray y se lo roció por la mancha. Acto seguido se sacó un pequeño pañuelo blanco de su otro bolsillo y se lo pasó por la mancha. Esta última desapareció inmediatamente.
+- Muy bien - dijo, dirigiéndose a todos -. Seguidme.
