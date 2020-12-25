@@ -6,6 +6,8 @@ POV:            0
 notes:          - Puede ser una *Burbuja* donde RIO experimenta con la conexión entre sujetos. Idea: se topan con alguien ciego, alguien mudo, alguien en silla de ruedas, ... 
                 - Esquivan al ciego, al sordo, ... No obstante, el mudo / en silla de ruedas los ve y "avisa" al ciego, que apuñala a uno de ellos.
                 - - En esta o la siguiente escena puedo hacer que Lucas vea a otro Mario / Noemí, etc.
+                
+                - Especificar que Luís lleva una pistola, ya que siempre hablo del grupo y subfusiles (¿o todos llevan pistolas?).
 label:          4
 status:         2
 compile:        2
@@ -57,3 +59,11 @@ Fue entonces cuando Lucas advirtió la pequeña mancha de sangre en el pecho del
 - Gracias -. Se limitó a decir.
 Del bolsillo del pantalón se sacó un pequeño spray y se lo roció por la mancha. Acto seguido se sacó un pequeño pañuelo blanco de su otro bolsillo y se lo pasó por la mancha. Esta última desapareció inmediatamente.
 - Muy bien - dijo, dirigiéndose a todos -. Seguidme.
+El grupo atravesó la calle y se encaminó hacia la derecha por la derecha. Iban apuntando sus subfusiles y sus miradas hacia sus alrededores, pendientes de cualquier peligro.
+Lucas los imitaba, intentando recordar su instrucción. No obstante, le costaba no desviar la mirada más de lo necesario hacia arriba, sobre sus cabezas, y hacia Luís. "¿Podemos fiarnos de él?", pensaba. "¿Nos emboscarán desde las ventanas?", temía. "¿Dónde estará Noemí?", se preocupaba.
+El grupo cruzó una calle y siguió avanzando por la acera hasta llegar a un pequeño parte que se internaba entre dos de las casas. Un camino de piedra avanzaba por el lado izquierdo, con puertas de madera dando a las casas de ese lado. A su derecha unos frondosos arbustos dejaban entrever tras ellos una pequeña zona abierta con columpios.
+Luís se detuvo de repente y Carmen casi se choca con él. Señaló con su brazo izquierdo hacia la zona de columpios mientras con la derecha seguía apuntando su pistola hacia adelante.
+El grupo obedeció y se dirigió a un pequeño pasillo entre los setos. Lucas vio de reojo que se acercaban unas luces de linterna desde la esquina hacia la que miraba Luis. Cuando el grupo hubo entrado en los setos, Luis entró con ellos y aguardaron detrás de los setos.
+Escucharon unos pasos pasar corriendo sobre el camino de piedra del parque. Una voz femenina se comunicaba por radio en marroquí.
+Luís esperó a que terminaran de pasar. Se asomó al camino de piedra y miró a ambos lados. Entonces se dirigió hacia ellos.
+- Están buscando a los dos guardias que neutralicé - dijo, sin mostrar emoción alguna - Debemos darnos prisa.
