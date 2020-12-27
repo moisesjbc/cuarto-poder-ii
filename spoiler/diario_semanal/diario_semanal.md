@@ -655,3 +655,13 @@ Al final aproveché la pausa para centrarme en sacar una nueva versión de mi ju
 En lo que respecta a *Cuarto Poder*, **he reducido el objetivo a 200 palabras diarias y he cumplido la racha de cinco días. He trabajado en las escena 12.2, donde Lucas se despide de Lara, y en la escena 13.1, donde Lucas parte con su equipo a *estallar* su primera *Burbuja*.** Ante esto último sólo puedo decir ¡Por fin!. Espero que no se me malinterprete; estoy disfrutando de crear escenas en apariencia más "calmadas", remplazando los tiroteos constantes por diálogos. No obstante, sí es cierto que llevaba tiempo sin meter a mis personajes en "fregados", asi que me alegro también de volver a ello.
 
 **Para los siguientes días planeo mantener el objetivo diario de palabras, y acojonar al pobre Lucas ;-)**.
+
+## Semana 85 (21/12/2020 - 27/12/2020)
+
+**Fallé por un día pero lo recuperé al siguiente, así guay**
+
+**Estoy de lleno en la escena 13.2, donde Lucas ya se encuentra con su unidad dentro de la *Burbuja* y están a punto de ser descubiertos**, la verdad que tengo poco más que decir a parte de: da gusto meter un poco de "acción clásica" ;-)
+
+**El objetivo de 200 palabras diarias se me hace corto, pero voy a mantenerlo para la semana que viene**. Aún estoy dándole vueltas a cómo organizar mi día a día y la semana que viene entre festivos, sobrinos del caos, ... no me fío.
+
+¡Hasta entonces!
