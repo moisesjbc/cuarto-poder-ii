@@ -31,11 +31,6 @@
           "color": "FAFCD2"
         },
         {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Escribir entrada diario semanal (+ commit).\n3. Planificación de la semana que viene.\n4. Exportar kanban y añadir a Git.\n5. git push\n6. Repasar documento de consejos de escritura.\n7. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
-        },
-        {
           "name": "Ouzud, Marruecos",
           "details": "",
           "color": "C1F7C2"
@@ -95,7 +90,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Escribir entrada diario semanal (+ commit).\n3. Planificación de la semana que viene.\n4. Exportar kanban y añadir a Git.\n5. git push\n6. Repasar documento de consejos de escritura.\n7. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        }
+      ],
       "settings": {
         "limit": 2
       }
@@ -103,6 +104,31 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "Repasar personajes escena y escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar personajes escena y escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar personajes escena y escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar personajes escena y escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "Repasar personajes escena y escribir 200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Repasar personajes escena y escribir 200 palabras",
           "details": "",
