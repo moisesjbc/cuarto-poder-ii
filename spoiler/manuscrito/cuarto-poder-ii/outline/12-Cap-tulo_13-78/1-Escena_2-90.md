@@ -67,3 +67,7 @@ El grupo obedeció y se dirigió a un pequeño pasillo entre los setos. Lucas vi
 Escucharon unos pasos pasar corriendo sobre el camino de piedra del parque. Una voz femenina se comunicaba por radio en marroquí.
 Luís esperó a que terminaran de pasar. Se asomó al camino de piedra y miró a ambos lados. Entonces se dirigió hacia ellos.
 - Están buscando a los dos guardias que neutralicé - dijo, sin mostrar emoción alguna - Debemos darnos prisa.
+El grupo se unió a Luís en el camino de piedra y avanzaron los metros que faltaban hasta la siguiente calle. El espía y Carmen otearon a ambos lados y cuando confirmaron que era seguro hicieron señas al grupo, que se puso en marcha inmediatamente. La calle era prácticamente idéntica a la anterior, salvo por la fila de casas sustituyendo a la muralla por lado.
+Había un silencio absoluto. Cuando el grupo atravesó la calle y se dirigió hacia la derecha por la acera, Lucas no dejaba de pensar que las pisadas del grupo resonaban en todo el pueblo.
+"¿O son mis latidos?", pensó, intentando sonreír para sus adentros, pero la tensión que martilleaba su cabeza no lo permitía.
+Creyó ver una sombra moverse tras una ventana y apuntó con el subfusil en esa dirección rápidamente.
