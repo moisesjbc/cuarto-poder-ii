@@ -3,11 +3,7 @@ ID:             90
 type:           md
 summaryFull:    El grupo avanza hacia el centro de control, cuando de repente se escuchan las {W:16:Notas de xilófono}.
 POV:            0
-notes:          - Puede ser una *Burbuja* donde RIO experimenta con la conexión entre sujetos. Idea: se topan con alguien ciego, alguien mudo, alguien en silla de ruedas, ... 
-                - Esquivan al ciego, al sordo, ... No obstante, el mudo / en silla de ruedas los ve y "avisa" al ciego, que apuñala a uno de ellos.
-                - - En esta o la siguiente escena puedo hacer que Lucas vea a otro Mario / Noemí, etc.
-                
-                - Especificar que Luís lleva una pistola, ya que siempre hablo del grupo y subfusiles (¿o todos llevan pistolas?).
+notes:          - ¿Cambiar subfusiles por pistolas?
 label:          4
 status:         2
 compile:        2
@@ -71,3 +67,12 @@ El grupo se unió a Luís en el camino de piedra y avanzaron los metros que falt
 Había un silencio absoluto. Cuando el grupo atravesó la calle y se dirigió hacia la derecha por la acera, Lucas no dejaba de pensar que las pisadas del grupo resonaban en todo el pueblo.
 "¿O son mis latidos?", pensó, intentando sonreír para sus adentros, pero la tensión que martilleaba su cabeza no lo permitía.
 Creyó ver una sombra moverse tras una ventana y apuntó con el subfusil en esa dirección rápidamente.
+No vio nada.
+Lucas agradeció el agarre de los guantes, pues al martilleo que le perforaba la sien se le unió un sudor que parecía inundar su cuerpo y especialmente sus manos.
+El grupo continuó avanzando por la acera hasta llegar al siguiente cruce, en el cuál giró hacia la izquierda para continuar avanzando hacia el centro de la *Burbuja*.
+Esta calle también estaba completamente desierta. Nuevamente, el silencio sólo era interrumpido por sus botas golpeando el suelo.
+"No pasa nada", intentó tranquilizarse Lucas, sin dejar de mirar frenéticamente hacia todos lados.
+"No pasa nada", se repitió, sintiendo cómo le fallaban las piernas.
+"No pasa nada", insistió, faltándole el aire.
+De repente escuchó un sonido terriblemente familiar, llegándole desde todas las direcciones.
+Tres notas graves y cortas de xilófono, seguida de una larga y aguda.
