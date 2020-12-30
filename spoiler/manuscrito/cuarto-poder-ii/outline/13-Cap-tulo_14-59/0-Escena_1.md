@@ -30,3 +30,14 @@ Carmen lo miró durante unos segundos sin ocultar una mueca, pero decidió obede
 Carmen verbalizó lo que no solo Lucas parecía estar pensando.
 - ¿Qué?
 Una persona emergió de una de las casa a la derecha. Un joven de unos 20 años había avanzado unos metros desde el umbral de su puerta y miraba, impasible, hacia el frente, hacia donde se encontraba el grupo de la Resistencia. No obstante parecía tener la mirada perdida en el horizonte. Se limitó a mirar sin ver, primero al frente, luego a los lados.
+Llevaba un cuchillo de cocina en la mano.
+Tras él salió una mujer de unos 40 años, también con la mirada perdida, y armada con una llave inglesa. De la casa de la izquierda salieron otras tres personas. De la casa de la derecha salió una pareja de ancianos.
+Todos iban armados con diferentes herramientas. Lucas sintió un escalofrío recorrer todo su cuerpo.
+Las aceras no tardaron en llenarse de personas. Esperaban unos segundos al borde del asfalto, antes de empezar a caminar sin rumbo. Seguían direcciones, en apariencia, al azar.
+Varias personas se dirigieron cerca del grupo, sin reparar en su presencia. La unidad alzó sus fusiles al instante, pero Luís les hizo un gesto con la mano para que pararan. Con otro gesto les indicó que lo siguieran.
+El grupo avanzó lentamente en silencio, separándose cuando era necesario para esquivar a las personas que se cruzaban en su camino. Lucas sentía que el martilleo en su sien volvía a intensificarse otra vez, al tiempo que su respiración se aceleraba.
+Una expiración algo más fuerte le jugó una mala pasada y un señor de unos cincuenta años se giró hacia donde él se encontraba, avanzando seguido por otras personas cercanas.
+Lucas aguantó la respiración y avanzó con paso tembloroso, dejando al grupo de habitantes atrás.
+Llegaron al siguiente cruce y continuaron avanzando. La siguiente calle también parecía un mercadillo, con personas cruzando a un lado y otro. Avanzaron unos 20 metros hasta donde la calle giraba hacia la izquierda.
+A unos 50 metros frente a ellos, la calle daba a una pequeña plaza con un solitario edificio en su centro. Una gran cruz descansaba sobre su tejado.
+"El centro de control", pensó Lucas.
