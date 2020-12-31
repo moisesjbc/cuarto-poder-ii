@@ -41,3 +41,33 @@ Lucas aguantó la respiración y avanzó con paso tembloroso, dejando al grupo d
 Llegaron al siguiente cruce y continuaron avanzando. La siguiente calle también parecía un mercadillo, con personas cruzando a un lado y otro. Avanzaron unos 20 metros hasta donde la calle giraba hacia la izquierda.
 A unos 50 metros frente a ellos, la calle daba a una pequeña plaza con un solitario edificio en su centro. Una gran cruz descansaba sobre su tejado.
 "El centro de control", pensó Lucas.
+Al frente vieron una cabeza, a unos 30 metros, dirigiéndose hacia ellos entre la multitud. Parecía ser un joven de unos 20 años. Las demás personas, lejos de chocar con él, se apartaban para darle paso, sin llegar a mirar hacia él siquiera.
+A medida que se acercaba, el grupo distinguió una segunda cabeza, mucho más anciana, situada a la altura del pecho del joven.
+Luís comenzó a mirar hacia un lado y otro, al parecer buscando una vía de escape. Sin embargo, la multitud apenas dejaba huecos libres por los que escabullirse.
+No fue hasta que las dos cabezas estuvieron a unos quince metros de ellos, que Lucas vio fugazmente la silla de ruedas.
+Luís, en cabeza intentaba colocarse en posición, para apuntar al anciano sin llamar la atención de ninguno de los ciegos que los rodeaban. Apenas hubo encontrado un hueco, alzó su pistola hacia el señor en la silla de ruedas, pero alguien se interpuso en su camino. Maldijo en silencio e inclinó el cuerpo para intentar asegurar el tiro.
+"¿Qué hace?", Lucas abrió los ojos como platos. Manuel, más cerca del espía, avanzó hacia él, apuntando su subfusil hacia él. Carmen intentaba alcanzar con la mano a Manuel para detenerlo.
+El anciano, con un incipiente pelo cano que dejaba al cubierto su coronilla, no tardó en fijar la vista hacia Luís. Su semblante serio apenas se inmutó al ver el arma apuntándole.
+Luís dejó escapar un grito ahogado cuando una niña cercana a él le apuñaló el brazo.
+- ¡No dejen que los vea el anciano! - gritó, al tiempo que empujaba a la niña hacia atrás de una patada - ¡No dejen que-AH!
+Lucas, desde su posición a unos metros por detrás de Luís, apenas podía ver al espía forcejear. Se apartó justo a tiempo para esquivar a una pareja que pasaba ante él con un cuchillo en la mano cada uno. Fue entonces cuando Lucas vio a Luís empujar a un hombre que se encontraba tras él. No obstante, el hombre, mucho más corpulento que Luís, apenas se movió. Alzó un destornillador y volvió a apuñalar a Luís en el cuello.
+Manuel, a la izquierda de Luís apuntó su subfusil hacia el hombre corpulento, que seguía apuñalando al espía sin que este opusiera ya ninguna resistencia. Otras personas cercanas se dirigían directamente hacia su posición y también lo apuñalaban sin mostrar ninguna emoción.
+Luís miró al anciano. Este dirigió la mirada hacia Manuel. Un segundo después fue este último el que gritó.
+"Mierda", maldijo Lucas para sus adentros. "Mierda, mierda, mierda".
+El joven perdió de vista al anciano y lo buscó con la mirada entre el mar de personas, al tiempo que intentaba dirigirse a la acera. Lo encontró unos metros más cerca de él.
+El anciano estaba mirando hacia él.
+Un líquido caliente cayó por sus piernas, que amenazaban con fallar en cualquier momento.
+Percibió movimiento por el rabillo del ojo izquierdo y apuntó su subfusil rápidamente. Carmen apartó el arma del joven con la mano y empujó a este hacia atrás. Una llave inglesa cayó con fuerza por donde Lucas había estado un segundo antes y alcanzó a Carmen en el hombre izquierdo.
+La líder gruñó y fue a llevarse la mano de la pistola al hombro, pero entonces pareció cambiar de idea inmediatamente y en su lugar disparó su arma. El proyectil salió con un sonido sordo y atravesó la cabeza de la mujer que sujetaba la llave inglesa. El ruido del cadáver y la llave inglesa golpeando el suelo atrajo a las personas cercanas, que se acercaron al lugar sin reparar en ellos.
+Luís fue a acercarse a Carmen. Estuvo a punto de escapársele un "¿Estás bien?" cuando alguien le empujó.
+Marta se llevó un dedo a la boca para indicarle que se callara. Luego movió la palma de la mano hacia abajo para indicarle que se agachara, y rápidamente señaló hacia la acera de la derecha.
+La pareja pasó entre dos coches aparcados y subieron a la acera. Varios ciegos caminaban por ella a un lado y a otro, pero eran muchos menos que los que poblaban la carretera.
+- ¿Estás bien? - susurró Marta.
+Lucas intentó tomar aire pero sentía que este se negaba a entrar en sus pulmones.
+- Tenemos... - resopló - ¡tenemos que irnos de aquí!
+- No - la voz provenía de detrás de ellos. Carmen se apoyaba en uno de los coches aparcados, agarrándose el hombro izquierdo - tenemos que estallar esta maldita *Burbuja*.
+- Pero...
+- ¡Ahora!
+Carmen exhaló un quejido y se puso en marcha, avanzando agachada por la acera.
+**¿El capítulo acaba con algo avisando a Lucas y Elizabeth disparando a Carmen?**
+754
