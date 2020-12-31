@@ -8,6 +8,7 @@ notes:          - No he comentado que Ana está de misión.
                 
                 - **¿Hablan del sistema de control de la *Burbuja*?**.
                 - **Confirmar número de *Burbuja*. Mencionar en el capítulo de la primera formación sobre las *Burbujas***
+                - **Aclarar que los espías sólo se arriesgan a enviar información durante la construcción de las burbujas, ya que luego se interrumpen las comunicaciones con el exterior (especificar que las fotos son de la *Burbuja* en obras /  formándose). Hay quienes se arriesgan a salir fuera pero siempre mueren. (caso de la *Burbuja de Mario*)**.
 label:          4
 status:         1
 compile:        2

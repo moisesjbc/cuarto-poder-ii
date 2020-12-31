@@ -69,5 +69,4 @@ Lucas intentó tomar aire pero sentía que este se negaba a entrar en sus pulmon
 - Pero...
 - ¡Ahora!
 Carmen exhaló un quejido y se puso en marcha, avanzando agachada por la acera.
-**¿El capítulo acaba con algo avisando a Lucas y Elizabeth disparando a Carmen?**
-754
+**¿El capítulo acaba con algo avisando a Lucas y Elizabeth disparando a Carmen (¿referencia a escena 4.4 cuando Elizabeth lo tacha de terrorista?)?**
