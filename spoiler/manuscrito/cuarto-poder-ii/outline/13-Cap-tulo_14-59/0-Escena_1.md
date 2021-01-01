@@ -6,6 +6,7 @@ POV:            0
 notes:          - Puede ser una *Burbuja* donde RIO experimenta con la conexión entre sujetos. Idea: se topan con alguien ciego, alguien mudo, alguien en silla de ruedas, ... 
                 - Esquivan al ciego, al sordo, ... No obstante, el mudo / en silla de ruedas los ve y "avisa" al ciego, que apuñala a uno de ellos.
                 - - En esta o la siguiente escena puedo hacer que Lucas vea a otro Mario / Noemí, etc.
+                - **¿El capítulo acaba con algo avisando a Lucas y Elizabeth disparando a Carmen (¿referencia a escena 4.4 cuando Elizabeth lo tacha de terrorista?)?**
 label:          4
 status:         1
 compile:        2
@@ -69,4 +70,17 @@ Lucas intentó tomar aire pero sentía que este se negaba a entrar en sus pulmon
 - Pero...
 - ¡Ahora!
 Carmen exhaló un quejido y se puso en marcha, avanzando agachada por la acera.
-**¿El capítulo acaba con algo avisando a Lucas y Elizabeth disparando a Carmen (¿referencia a escena 4.4 cuando Elizabeth lo tacha de terrorista?)?**
+"Tiene razón", intentó convencerse Lucas, "No podemos simplemente escapar. Ya no ".
+Aceleró el paso para alcanzar a Marta, que ya seguía a Carmen.
+El trío avanzó con el cuerpo gacho tras los coches y furgones aparcados. La mayoría de los vehículos eran pequeños turismos, de modo que no cabían los tres tras uno de manera segura. En su lugar solían encontrarse Carmen y Marta un vehículo por delante de Lucas.
+Aunque el orden era el que era, el joven no pudo evitar pensar que preferían dejarlo atrás. "Normal", se dijo, antes de intentar alejar el pensamiento de su cabeza sin mucho éxito.
+Casi al unísono, la pareja y Lucas se asomaban ligeramente por un lateral de su respectivo vehículo. Cuando confirmaban que era seguro, avanzaban al siguiente.
+No volvieron a ver al anciano en silla de ruedas. "Hemos debido dejarlo atrás", se dijo Lucas.
+Consiguieron avanzar sin mayores sobresaltos hasta que llegaron a un cruce de calles. Era el último antes de llegar a la plaza de la iglesia.
+Lucas se unió a Carmen y Marta en el último furgón aparcado en la calle al borde del cruce y se permitió soltar un pequeño suspiro. La siguiente calle parecía mucho menos poblada.
+"Será más fácil sortearlos".
+Carmen asomó la cabeza desde detrás de la cobertura. Marta y Lucas se prepararon para avanzar rápidamente, pero entonces Carmen retrocedió y les ordenó parar con la mano.
+La líder revisó su sufusil y se asomó con cautela, alzando el subfusil con la mano derecha. Tras un segundo, un sonido ahogado confirmó el disparo.
+Carmen, con el brazo izquierdo prácticamente inmóvil, alzó la mano del subfusil para indicarles que avanzaran.
+El trío abandonó la cobertura y cruzó la calle. Lucas dirigió una rápida mirada hacia el centro y vio a una anciana que yacía muerta sobre una silla de ruedas en medio del cruce. Una mujer de unos 30 años permanecía de pie tras la silla, con la mirada perdida y palpando la cabeza ensangrentada de la anciana.
+A Lucas se le revolvió el estómago.
