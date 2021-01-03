@@ -665,3 +665,11 @@ En lo que respecta a *Cuarto Poder*, **he reducido el objetivo a 200 palabras di
 **El objetivo de 200 palabras diarias se me hace corto, pero voy a mantenerlo para la semana que viene**. Aún estoy dándole vueltas a cómo organizar mi día a día y la semana que viene entre festivos, sobrinos del caos, ... no me fío.
 
 ¡Hasta entonces!
+
+## Semana 86 (28/12/2020 - 03/01/2021)
+
+**Entré en el año nuevo cumpliendo el objetivo diario los cinco días**, así que guay ;-)
+
+**Estoy a nada de terminar la escena 14.1, donde Lucas y su unidad son sorprendidos en la *Burbuja* y se abren paso hacia el centro de control**. El pobre Lucas está a una calle de toparse con Elizabeth y perder a Carmen ^^U
+
+**Para la siguiente semana voy a aumentar el objetivo a 300 palabras diarias** ¡A por ello!
