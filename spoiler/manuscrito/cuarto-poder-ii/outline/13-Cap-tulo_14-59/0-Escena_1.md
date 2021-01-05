@@ -83,4 +83,29 @@ Carmen asomó la cabeza desde detrás de la cobertura. Marta y Lucas se preparar
 La líder revisó su sufusil y se asomó con cautela, alzando el subfusil con la mano derecha. Tras un segundo, un sonido ahogado confirmó el disparo.
 Carmen, con el brazo izquierdo prácticamente inmóvil, alzó la mano del subfusil para indicarles que avanzaran.
 El trío abandonó la cobertura y cruzó la calle. Lucas dirigió una rápida mirada hacia el centro y vio a una anciana que yacía muerta sobre una silla de ruedas en medio del cruce. Una mujer de unos 30 años permanecía de pie tras la silla, con la mirada perdida y palpando la cabeza ensangrentada de la anciana.
-A Lucas se le revolvió el estómago.
+A Lucas se le revolvió el estómago, pero se obligó a continuar.
+La calle siguiente fue, efectivamente, más sencilla de sortear. El grupo continuó avanzando por la acera de la derecha, esquivando a las pocas personas invidentes que paseaban sin rumbo por la misma.
+En esta calle vieron a una segunda anciana en silla de ruedas, escoltada por un hombre de unos 40 años. La pareja se mantenía en el centro de la calle, con el hombre empujando la silla siguiendo un pequeño círculo imaginario. La anciana se limitaba a mirar hacia todos lados, sin dejar entrever emoción alguna.
+La unidad consiguió esquivar a la pareja sin dificultad y se encaminó rápidamente hacia el final de la calle.
+Lucas apenas se había permitido ser un poco optimista cuando se fijó en que la pequeña plaza a la que se acercaban contaba con no pocos transeúntes.
+La plaza era un estrecho rectángulo bordeado por un pequeño muro de medio metro con una franja ajardinada tras él. La calle por la que llegó la unidad tocaba a la plaza en el centro de uno de sus lados largos, cerca de uno de los múltiples accesos en los que el muro dejaba paso a un camino de lozas amarillas. En el extremo derecho se situaba una pequeña iglesia de una planta con un tejado a dos aguas del que salía una estrecha torre con una modesta campana.
+La unidad se incorporó a la calle que discurría paralela a la plaza y se escondió detrás de un camión aparcado. Carmen y Marta asomaron la cabeza por la parte posterior del vehículo, y Lucas hizo lo propio por la trasera.
+En el interior de la plaza contó unas cuarenta personas caminando de aquí para allá. Por desgracia, no todas andaban con la mirada perdida. El joven llegó a ver hasta a cinco ancianos en silla de ruedas, empujados en direcciones aparentemente aleatorias.
+No parecía haber un patrón que pudieran explotar para entrar sin ser descubiertos.
+Sabiéndose incapaz de entrar y de huir, Lucas se reunió, abatido, con su unidad en el centro del camión.
+Carmen y Marta tampoco pudieron adivinar una ruta de entrada segura.
+La primera les hizo un gesto de espera con la mano y se llevó el dedo al pinganillo que asomaba en su oreja derecha.
+- Hola, hemos llegado a la plaza pero está... - Carmen se interrumpió unos instantes en los que alternó su vista entre Lucas, Marta y la plaza - ¿ahora? - Otra pausa. Carmen suspiró - De acuerdo.
+La joven cortó la comunicación y se masajeó el hombro izquierdo, allí donde había hecho mella la llave inglesa, mientras se limitaba a decir:
+- Prepárense para correr hacia la iglesia cuando escuchen la explosión.
+Lucas y Marta compartieron una mueca.
+- ¿Qué explosión? - preguntó Marta.
+Pero Carmen se limitó a colocarse en cabeza tras el extremo posterior del camión. Marta y Lucas obedecieron la orden implícita y se colocaron en fila tras la líder.
+No pasó ni un minuto cuando una explosión en el extremo izquierdo de la plaza rompió por completo el silencio de la noche, así como mobiliario y algunas plantas.
+Lucas corrió hacia adelante y tropezó con Marta. Esta se dio la vuelta, asustada. Cuando se cercioró de lo que había pasado, se limitó a sonreír y volver a darse la vuelta, al tiempo que le señalaba la mano de Carmen. Esta última se alzaba en el aire, pidiéndoles el alto.
+- Lo siento - susurró Lucas tan bajo a su pesar que dudó que Marta lo escuchara.
+Carmen bajó rápidamente la mano y avanzó perdiéndose por la parte posterior del camión, seguida por Marta.
+Lucas soltó una maldición para sus adentros y corrió para recortar la distancia. La unidad cruzó la calle y avanzó por la acera que abrazaba el muro de la plaza.
+La mayoría de las personas de la plaza avanzaban hacia el lugar de la explosión, incluyendo a tres de los cinco ancianos. Los otros dos, situados a pocos metros de la iglesia, continuaban vigilando sus alrededores rodeados de un pequeño séquito.
+El anciano más cercano al lateral por el que se aproximaba la unidad no tardó en dirigir la vista hacia ellos, pero apenas pudo reaccionar cuando una bala de Carmen le atravesó la cabeza.
+El anciano al otro lado dirigió la vista hacia su compañero, pero una segunda bala acabó con él. Ni Carmen, ni Marta, ni muchísimo menos Lucas fueron los artífices de ese segundo asesinato. El joven dirigió un rápido vistazo hacia el otro lado, de la plaza, donde una figura vestida de militar como ellos avanza en paralelo por el exterior del muro.
