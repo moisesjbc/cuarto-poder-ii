@@ -108,4 +108,17 @@ Carmen bajó rápidamente la mano y avanzó perdiéndose por la parte posterior 
 Lucas soltó una maldición para sus adentros y corrió para recortar la distancia. La unidad cruzó la calle y avanzó por la acera que abrazaba el muro de la plaza.
 La mayoría de las personas de la plaza avanzaban hacia el lugar de la explosión, incluyendo a tres de los cinco ancianos. Los otros dos, situados a pocos metros de la iglesia, continuaban vigilando sus alrededores rodeados de un pequeño séquito.
 El anciano más cercano al lateral por el que se aproximaba la unidad no tardó en dirigir la vista hacia ellos, pero apenas pudo reaccionar cuando una bala de Carmen le atravesó la cabeza.
-El anciano al otro lado dirigió la vista hacia su compañero, pero una segunda bala acabó con él. Ni Carmen, ni Marta, ni muchísimo menos Lucas fueron los artífices de ese segundo asesinato. El joven dirigió un rápido vistazo hacia el otro lado, de la plaza, donde una figura vestida de militar como ellos avanza en paralelo por el exterior del muro.
+El anciano al otro lado miró hacia su compañero, pero una segunda bala acabó con él. Ni Carmen, ni Marta, ni muchísimo menos Lucas fueron los artífices de ese segundo asesinato. El joven dirigió un rápido vistazo hacia el otro lado, de la plaza, donde una figura vestida de militar como ellos avanza en paralelo por el exterior del muro.
+El trío continuó avanzando hasta dar con una abertura en el pequeño muro a su izquierda. Entraron por ella a la plaza y continuaron en línea recta hasta alcanzar la esquina de la pequeña iglesia.
+Lucas recordaba su instrucción como algo lejano, apenas visible tras un muro de estrés y vergüenza envuelta en un pantalón meado, pero la recordaba. Se suponía que debía ir mirando hacia atrás mientras sus dos compañeras vigilaban el lateral y lo que quedaba por delante. Marta, delante de él, se encargaría de darle un pequeño toque cuando se detuvieran.
+Sin embargo, Lucas no podía permitirse la vergüenza de volver a tropezar con la joven.  Era por ello que corría de lado, alternando la vista muy rápido hacia ambos lados.
+El sistema, aunque tosco, sirvió. El grupo se detuvo sin incidentes justo antes de la puerta de la iglesia, dos grandes hojas de madera incrustadas en la pared blanca.
+Lucía, la instructora, se detuvo al otro lado de la puerta al mismo tiempo que ellos. Bajó la pistola y les indicó con la mano que esperaran. Acto seguido se llegó la mano al pecho del uniforme y liberó una pequeña granada.
+La veterana hizo una señal a Carmen y esta asintió, al tiempo que bajaba su arma. Entonces agarró el pomo derecho de la puerta y abrió esta ligeramente, lo justo para que Lucía tirara dentro la granada.
+Dos segundos después se escuchó un fogonazo y las dos chicas abrieron las puertas, irrumpiendo en el edificio con las armas en alto. Marta las siguió como si fuera su sombra, y Lucas siguió a esta última a algo más de distancia.
+Solo el silencio les recibió.
+Un amplio pasillo avanzaba recto, custodiado por sendas filas de gruesas columnas de piedra gris que se alzaban hasta el humilde techo, a escasos metros sobre sus cabezas. Al otro lado de cada columna, un banco de madera de unos 10 metros ocupaba el espacio hasta los dos pasillos más pequeños que avanzaban junto a las paredes laterales.
+Lucía y Carmen avanzaron por el pasillo central, mientras Marta tomaba el pasillo de la izquierda y Lucas avanzaba por el pasillo de la derecha.
+Sin dejar de avanzar, la unidad echaba un vistazo rápido a cada pasillo en busca de amenazas. Lucas suplicaba para sus adentros no encontrar ninguna.
+Y así fue.
+El grupo se reunió al final del pasillo central, frente al altar.
