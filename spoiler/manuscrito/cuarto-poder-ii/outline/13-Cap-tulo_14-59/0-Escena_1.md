@@ -122,3 +122,18 @@ Lucía y Carmen avanzaron por el pasillo central, mientras Marta tomaba el pasil
 Sin dejar de avanzar, la unidad echaba un vistazo rápido a cada pasillo en busca de amenazas. Lucas suplicaba para sus adentros no encontrar ninguna.
 Y así fue.
 El grupo se reunió al final del pasillo central, frente al altar.
+Subieron unos amplios escalones de mármol y bordearon una mesa de madera vestida con un humilde mantel de tela blanca. Lucía y Marta por la izquierda, y Carmen y Lucas por la derecha.
+En el suelo vieron una alfombra cuadrada de la misma anchura que la mesa. Lucía miró a Lucas y se dio unos toquecitos con el índice bajo el ojo para acto seguido señalar a una pequeña puerta de madera situada en la pared del fondo de la iglesia. Lucas asintió.
+La instructora entonces repitió el mismo gesto dos veces más: la primera vez se dirigió a Marta y le señaló la gran puerta por la que habían entrado en el edificio. La segunda vez ordenó a Carmen ayudarle a mover la alfombra.
+Las dos jóvenes apartaron la alfombra, dejando al descubierto una gran trampilla de madera. Lucía no tardó en localizar la manecilla. Se dispuso a abrirlo cuando lanzó una mirada de reproche a Lucas y le volvió a señalar la puerta trasera. Lucas obedeció, avergonzado, aunque no pudo evitar seguir echando vistazos furtivos.
+Lucía se agachó cerca de la manecilla y la agarró. Hizo fuerza.
+Se escuchó un clic, pero la trampilla no cedió.
+Lucía levantó la mirada, con la ceja enarcada. Ni siquiera reprendió a Lucas por haber perdido de vista la puerta trasera. Otra vez.
+Lucas se sintió confundido. "¿Tendrá alguna clave?", pensó. También sintió un ligero mareo y se tambaleó un poco. "¿Pero qué...?". Se llevó una mano temblorosa a la cabeza, pero el mareo desapareció rápidamente.
+Tres golpes resonaron sobre el suelo de mármol. Lucas se giró rápidamente y vio a sus tres compañeras yaciendo en el suelo, inconscientes.
+Corrió y se agachó al lado de Carmen.
+- Carmen -. La movió ligeramente. - ¡Carmen! - La zarandeó. Era imposible; no reaccionaba.
+El corazón le golpeaba el pecho con violencia.
+Entonces se acercó a Lucía y la movió y gritó. No hubo respuesta tampoco.
+Echó un vistazo hacia Marta, temiendo el resultado, pero entonces percibió movimiento.
+Alguien entraba por la puerta principal.
