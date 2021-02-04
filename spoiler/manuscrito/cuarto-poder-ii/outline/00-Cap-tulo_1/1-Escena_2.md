@@ -40,5 +40,5 @@ Ana se limitó a asentir. Se giró rápidamente hacia los efectivos de la puerta
 - No - contestó una chica joven ligeramente corpulenta. Su pelo rizado rubio se entrometía entre su cara y Ana. - Pero el primer grupo sí. Fueron emboscados cuando abandonaban la estación de destino.
 - ...vaya.
 - ¿Han sido capturados? - interrumpió Lucas. Se le hizo un nudo en la garganta al recordar a María, la que fue su pareja ficticia en la *Burbuja*. Estaba en el primer grupo.
-La chica y Ana se miraron. Esta último miró a Lucas y esperó unos segundos antes de contestar.
+La chica y Ana se miraron. Esta última miró a Lucas y esperó unos segundos antes de contestar.
 - RIO no se arriesga a hacer prisioneros por segunda vez.
