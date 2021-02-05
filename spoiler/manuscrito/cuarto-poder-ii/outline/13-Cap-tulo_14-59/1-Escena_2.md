@@ -27,3 +27,19 @@ Una explosión restalló sobre las paredes de la estancia y Lucas se tambaleó d
 Entró en un pequeño despacho sin más mobiliario que un modesto escritorio de madera situado frente a él con una silla raquítica delante y otra detrás. Cerró la puerta tras de si y corrió hacia la ventana del fondo. Intentó levantarla pero no cedió.
 Una bala atravesó la puerta y la ventana, arrojando pequeños cristales sobre él. Lucas se tapó como pudo y disparó un par de veces contra la puerta, deseando ganar tiempo. Se volvió a girar hacia la ventana y localizó el pestillo.
 Lucas abrió la ventana y saltó por ella.
+Cayó sobre el suelo de piedra de la plaza y se puso en pie. No había nadie a su alrededor.
+Miró hacia ambos lados: ¿hacia qué lado debía huir?
+Escuchó la puerta de la oficina abrirse y se apartó de la ventana. Corrió hacia la derecha.
+"Mejor malo conocido", pensó.
+Todo su cuerpo temblaba y los pensamientos se agolpaban en su cabeza. Acababa muerto en la mayoría de ellos.
+Llegó a la esquina de la plaza y asomó la cabeza ligeramente. Por el lateral de la iglesia tampoco parecía haber nadie.
+Una bala pasó silbando a su lado. Lucas bordeó la esquina de la iglesia y se alejó corriendo hacia el exterior de la plaza.
+- ¡Está huyendo hacia el sur! - escuchó gritar tras de si.
+Llegó hasta el pequeño muro exterior de la plaza y saltó por encima. Habían pocas personas caminando sin rumbo de un lado a otro, portando cuchillos, destornilladores y otros objetos punzantes. No parecía haber nadie en silla de ruedas.
+Lucas cruzó la calle y avanzó hacia la izquierda, alejándose de la parte trasera de la plaza y la iglesia.
+Al llegar a la primera esquina se metió en la calle que avanzaba hacia el sur, pero lo recibieron varios disparos.
+Disparó a ciegas mientras cruzaba la calle volviendo hacia la calle de la plaza. Avanzó hasta la siguiente esquina.
+En la nueva calle no lo recibieron disparos. Se detuvo a tomar un par de segundos para tomar aire, pero las piernas amenazaban con fallarle. Se obligó a continuar.
+Siguió corriendo por una de las aceras de la calle, esquivando invidentes y buscando enemigos con la mirada.
+Cuando llegó al cruce de calles se topó con una anciana en silla de ruedas que fijo su vista cansada hacia él. Varios ciegos se giraron hacia Lucas y corrieron hacia él.
+El joven corrió hacia la calle de la izquierda y corrió con todas sus fuerzas. Recorrió varias calles sin sobresaltos hasta llegar a la perpendicular que recorría la muralla Este de la *Burbuja*.
