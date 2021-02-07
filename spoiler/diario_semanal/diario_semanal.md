@@ -673,3 +673,15 @@ En lo que respecta a *Cuarto Poder*, **he reducido el objetivo a 200 palabras di
 **Estoy a nada de terminar la escena 14.1, donde Lucas y su unidad son sorprendidos en la *Burbuja* y se abren paso hacia el centro de control**. El pobre Lucas está a una calle de toparse con Elizabeth y perder a Carmen ^^U
 
 **Para la siguiente semana voy a aumentar el objetivo a 300 palabras diarias** ¡A por ello!
+
+## Semana 87 (01/02/2021 - 0702/2021)
+
+Sí, he tenido un mes "sabático".
+
+He empezado el año descansando un poco y revisando mi forma de organizarme, volviendo a añadir objetivos semanales poco a poco. **La semana pasada volví a la novela, dedicándole algún día suelto, y esta semana he cumplido tres de los cinco días**. A ver si vuelvo a coger momento.
+
+**Lucas y parte de su unidad ha llegado al centro de la *Burbuja*, aunque las cosas se han torcido y ahora Lucas está corriendo, solo, por su vida. Hay cierta diferencia entre lo que planifiqué inicialmente para estas escenas y lo que estoy escribiendo finalmente, aunque no me estoy saliendo de la estructura general.** De momento tengo la sensación de seguir en un buen equilibrio entre planificación y espontaneidad.
+
+**Para la siguiente semana debería tocar el encuentro con Ajani y Kasim**; se viene un capítulo denso. A ver si puedo organizarlo mejor para que no sea un *info dump* de manual.
+
+¡Hasta entonces!
