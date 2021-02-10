@@ -8,7 +8,7 @@ notes:          - Durante la primera parte, Ajani ha estado luchando contra RIO 
                 - **Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.**
                 - **Destino de Arturo y otros**
                 - **¿Qué le inyectan a Arturo?**
-                - 
+                -
                 
                 - Nuevas muertes de patrullas de RIO.
                 - Diarreas y heridas.
