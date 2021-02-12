@@ -17,3 +17,23 @@ compile:        2
 setGoal:        500
 
 
+Ajani conitnuó caminando a paso ligero sin preocuparse en mirar hacia Lucas. Este último, varios metros por detrás, intentaba seguirle el ritmo como podía.
+Caminaron unos cien metros y entonces Ajani giró hacia la derecha, alejándose de la carretera. Ajani se dirigió a un montículo de metro y medio de altura y tiró de él con una mano.
+Lucas sacudió la cabeza, aturdido. Entonces se fijó en que Ajani sujetaba una gran tela de camuflaje. Al tirar de ella había descubierto un coche destartalado.
+"Buena idea", pensó Lucas, recordando las ruedas reventadas del furgón de la resistencia.
+Entonces se acordó de algo más.
+- ¡Tenemos que volver!
+Ajani apenas se inmutó.
+- Ni hablar - se limitó a decir mientras se subía al coche -. Entra.
+Lucas echó un vistazo hacia la *Burbuja*, preocupado. Se subió en el puesto de copiloto.
+- No lo entien-
+- No - le miró Ajani -. Atrás.
+El joven frunció el ceño, pero obedeció. Ya en el puesto de atrás volvió a hablar.
+- No lo entiendes. No soy el único superviviente. ¡Hay tres compañeras de la resistencia ahí dentro! ¡Tenemos que liberarlas!
+- No. Esto no es una misión de caridad.
+- ¿Y entonces...? - Lucas dudó si terminar la pregunta - ¿y entonces yo...?
+- Tú puedes sernos de utilidad.
+- ¿"Sernos"? ¿A quiénes?
+Ajani no respondió. Aceleró el coche y lo llevó a la carretera. Se paró en medio de la vía, dando la espalda la *Burbuja*. Miró hacia el gran terreno que se extendía hacia la izquierda.
+Una figura se alzó en medio del páramo yermo, a unos veinte metros de ellos. Corrió de lado hacia el coche, sin dejar de mirar hacia la *Burbuja*.
+La misteriosa silueta se transformó en un hombre mulato, ligeramente más joven que Ajani. Tenía el pelo rapado, al contrario que Ajani, que lo tenía corto, y parecía un poco menos atlético que él, pero el parecido entre ellos era razonable.

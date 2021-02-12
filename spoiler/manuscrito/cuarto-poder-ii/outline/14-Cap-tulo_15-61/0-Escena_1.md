@@ -11,7 +11,7 @@ compile:        2
 setGoal:        500
 
 
-Ajani dedicó una mirada rápida a Lucas. Este último tragó saliva y el sabor a tierra y sangre le inundó la garganta.
+Ajani dedicó una mirada rápida con sus ojos azules a Lucas. Este último tragó saliva y el sabor a tierra y sangre le inundó la garganta.
 - A... ayuda - consiguió decir mientras alzaba la mano buscando apoyo.
 El hombre, alto, de complexión atlética y vestido con ropa de camuflaje, miró la camiseta ensangrentada de Lucas. Se giró y comenzó a alejarse.
 Lucas dejó caer la mano pesadamente sobre su pecho. En lugar de un fuerte dolor, únicamente sintió una leve molestia. Donde debía estar el agujero de bala sentía un cosquilleo. El joven frunció el ceño.
@@ -25,7 +25,7 @@ La voz le fallaba.
 - Aja- - tosió - Ajani...
 Comenzó a caminar lentamente hacia la silueta que se alejaba.
 - No me - volvió a toser -. No me dejes aquí.
-Ajani bordeó el furgón y siguió alejándose. Lucas lo imitó, fijándose en que el coche tenía las ruedas reventadas según pasaba a su lado.
+Ajani bordeó el furgón y siguió alejándose. Lucas lo imitó, fijándose en que el vehículo tenía las ruedas reventadas según pasaba a su lado.
 El perseguido se llevó la mano a la oreja y se detuvo en el sitio. Lucas continúo acercándose, pero se detuvo cuando el africano se giró y miró hacia él.
 Sus miradas se cruzaron un segundo, pero Ajani rápidamente bajó la mirada hacia el pecho de Lucas. Este último dudó unos segundos, pero entonces se levantó la camiseta.
 Ajani frunció el ceño.
