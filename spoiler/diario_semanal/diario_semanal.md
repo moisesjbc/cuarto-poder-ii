@@ -674,7 +674,7 @@ En lo que respecta a *Cuarto Poder*, **he reducido el objetivo a 200 palabras di
 
 **Para la siguiente semana voy a aumentar el objetivo a 300 palabras diarias** ¡A por ello!
 
-## Semana 87 (01/02/2021 - 0702/2021)
+## Semana 87 (01/02/2021 - 07/02/2021)
 
 Sí, he tenido un mes "sabático".
 
@@ -685,3 +685,13 @@ He empezado el año descansando un poco y revisando mi forma de organizarme, vol
 **Para la siguiente semana debería tocar el encuentro con Ajani y Kasim**; se viene un capítulo denso. A ver si puedo organizarlo mejor para que no sea un *info dump* de manual.
 
 ¡Hasta entonces!
+
+## Semana 88 (08/02/2021 - 14/02/2021)
+
+**Cuatro de los cinco objetivos diarios cumplidos** Poco a poco.
+
+**Por fin Lucas se ha encontrado con Ajani**. Se vienen turbulencias para el primero. **El lunes intenté organizar las escenas / capítulos siguientes para intentar evitar el *info dump** A ver cómo desulta. **También he comenzado a leerme el libro "How to write awesome dialogue! For Fiction, Film, and Theatre" de Tom Leveen y voy apuntando consejos útiles**.
+
+Para los días que vienen mantendré el objetivo diario de 300 palabras.
+
+¡A por ello!
