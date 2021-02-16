@@ -7,12 +7,12 @@ Goal:                - Destruir a {W:0:RIO} por venganza.
 Conflict:            Sus ganas de venganza y su ira convierten a Ajani en un luchador formidable. Sin embargo, también lo ciegan, afectando negativamente a aquellos que lo acompañan o al objetivo mismo de la misión cuando este no supone atacar directamente a RIO.
 Epiphany:            Acepta la ira como parte de si mismo y consigue enfocarla cuando realmente es útil para él y / o el grupo (mayor autocontrol).
 Phrase Summary:      Mestizo español y nigeriano que perdió a su familia y amigos por culpa de {W:0:RIO} y busca la venganza a cualquier coste.
-Paragraph Summary:   Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO}. Cuando lo descubrieron  Ajani convirtió la ira hacia RIO, junto con la protección de su hermano, en los ejes de su vida. Desde entonces lucha por acabar con RIO por todos los medios posibles.
+Paragraph Summary:   Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO}. Cuando lo descubrieron, Ajani convirtió la ira hacia RIO, junto con la protección de su hermano, en los ejes de su vida. Desde entonces lucha por acabar con RIO por todos los medios posibles.
 Full Summary:        # Vida anterior
                      
                      Ajani nació el 13 de Agosto de 1985 (40 años) en Nigeria.
                      
-                     Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO} en 1996 (11 años). Los hermanos consiguieron escapar y pasaron semanas enteras vagando por el desierto, aprovechando la oscuridad de la noche para robar alimentos en los campamentos por los que pasaban. Sus jóvenes e inocentes manos no tardaron en mancharse de sangre. Ambos se vieron obligados a matar a soldados que amenazaban con acabar con sus vidas, y muy a su pesar, no tardaron en convertirse en expertos combatientes.
+                     Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO} en 1996 (11 años). Los hermanos consiguieron escapar y pasaron semanas enteras vagando por el desierto, aprovechando la oscuridad de la noche para robar alimentos en los campamentos por los que pasaban. Sus jóvenes e inocentes manos no tardaron en mancharse de sangre: ambos se vieron obligados a matar a soldados que amenazaban con acabar con sus vidas, y muy a su pesar, no tardaron en convertirse en expertos combatientes.
                      
                      Durante este tiempo Ajani desarrolló una gran dependencia y sobreprotección con respecto a su hermano menor, atacando con una gran ira asesina a cualquiera que perturbara en lo más mínimo a {C:39:Kasim}.
                      
@@ -73,7 +73,7 @@ Notes:               # Plano físico
                      - **Tribu (equipo, hermandad, partido político, etc)**: su hermano es su universo.
                      - **Casa**: nómada, suele tirar de tiendas, pisos y casas abandonadas.
                      - **Educación**: respeto.
-                     - **Amigos**: {C:39:Kasim}, ve a la {W:1:Resistencia} como aliados aunque trabaje sólo principalmente.
+                     - **Amigos**: {C:39:Kasim}, ve a la {W:1:Resistencia} como aliados ocasionales, aunque desconfía de sus múltiples tops y trabaja sólo principalmente.
                      - **Enemigos**: {W:0:RIO}.
                      
                      
@@ -81,7 +81,7 @@ Notes:               # Plano físico
                      
                      - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}.
                      - **¿Por qué no puede estar en el ataque a la Cadena? (¿Y en el resto de la primera parte?)**
-                     - "La gente me considera un héroe, pero simplemente se trata de una casualidad. Sólo deseo matar a aquellos que les hace daño".
+                     - "La gente me considera un héroe, pero simplemente se trata de una casualidad. Sólo deseo matar a aquellos que le hacen daño".
                      - En el mismo email al {C:3:Coronel Cooper} le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
                      - ¿Cómo se pronuncia el nombre?
                      - Según Luis (capítulo 15): no ha dado señales de vida después del {P:2:Asalto al AT de Gran Canaria}.
