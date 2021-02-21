@@ -695,3 +695,11 @@ He empezado el año descansando un poco y revisando mi forma de organizarme, vol
 Para los días que vienen mantendré el objetivo diario de 300 palabras.
 
 ¡A por ello!
+
+## Semana 89 (15/02/2021 - 21/02/2021)
+
+**Esta semana entre curro y sobrinos del caos he cumplido dos de los cinco días.** El lado positivo es que **he terminado la escena 15.2, donde Lucas se reúne con Ajani y Kasim y acepta ir con ellos**. Se vienen curvas para el pobre Lucas ;-)
+
+*En teoría* la siguiente semana no debería haber problemas para cumplir los objetivos diarios, aunque habrá que verlo. **Toca dejar a Lucas a solas con su instinto de supervivencia, el cual es tan malo como el mío.** A ver cómo sale.
+
+¡Hasta entonces!
