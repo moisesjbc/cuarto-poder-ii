@@ -4,24 +4,24 @@ type:           md
 summaryFull:    El grupo viaja hacia las montañas mientras hablan en el vehículo. Ajani y Kasim le cuentan al joven su interés en él y le piden  comprometerse "de verdad". Lucas acepta.
                 
 POV:            0
-notes:           - Ajani y Kasim rescatan a Lucas por sus visiones del planeta X
+notes:          - Ajani y Kasim rescatan a Lucas por sus visiones del planeta X
                 , las cuales conocen por un informante de la Resistencia. La pareja lleva tiempo
-                 buscándolo porque cree que contiene la clave para destruir a RIO.
-                                - "Despliegue de satélites, Des-inversiones en el sector espaci
+                buscándolo porque cree que contiene la clave para destruir a RIO.
+                - "Despliegue de satélites, Des-inversiones en el sector espaci
                 al, ... RIO no quiere que miremos hacia arriba".
-                                - Ajani aclara que no piensa cargar con un peso muerto al que proteger, sino que quiere a alguien que pueda desenvolverse en el campo de batall
+                - Ajani aclara que no piensa cargar con un peso muerto al que proteger, sino que quiere a alguien que pueda desenvolverse en el campo de batall
                 a. Le pregunta al joven si está dispuesto a darlo todo por encontrar el planeta.
-                 Lucas, aunque dudoso, acepta.
-                               -                - Ajani no colabora con la resistencia directa
+                Lucas, aunque dudoso, acepta.
+                -                - Ajani no colabora con la resistencia directa
                 mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
                 filtrados de RIO.
-                                - **(-) ¿Por qué aparece justo en ese momento para salvar a Luc
+                - **(-) ¿Por qué aparece justo en ese momento para salvar a Luc
                 as? ¿No había momentos menos peligrosos**
-                                - Puede haber sido la primera prueba y que Ajani / Kasim lo men
+                - Puede haber sido la primera prueba y que Ajani / Kasim lo men
                 cionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
                 -               - Durante la primera parte, Ajani ha estado luchando contra RIO
-                 en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero 
-                no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia 
+                en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero
+                no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia
                 atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones
 label:          4
 status:         1
