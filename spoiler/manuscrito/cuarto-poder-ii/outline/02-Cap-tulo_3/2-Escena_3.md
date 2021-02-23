@@ -9,6 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      3507
 
 
 A pesar de haberse imaginado en ese situación previamente, Lucas no había llegado a una conclusión sobre cómo enfocar el tema con Noemí. Sin saber muy bien qué decir, intentó aprovechar que la adolescente también estaba empezando a comer para pensar algo sobre la marcha.

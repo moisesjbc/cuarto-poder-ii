@@ -8,6 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      1308
 
 
 La figura del Coronel Cooper se recortaba contra el cielo azul. Se encontraba situado dándola la espalda a unos metros distancia, sobre un montículo de tierra de metro de altura.

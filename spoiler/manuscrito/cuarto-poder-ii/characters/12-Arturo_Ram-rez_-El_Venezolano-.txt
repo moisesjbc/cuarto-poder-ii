@@ -1,6 +1,7 @@
 Name:                Arturo Ramírez "El Venezolano"
 ID:                  12
 Importance:          0
+POV:                 True
 Motivation:          Lealtad y proactividad.
 Goal:                - Encontrar al {C:3:Coronel Cooper}.
                      - Demostrar la inocencia de su país tras el {P:0:Incidente de Inglaterra}.

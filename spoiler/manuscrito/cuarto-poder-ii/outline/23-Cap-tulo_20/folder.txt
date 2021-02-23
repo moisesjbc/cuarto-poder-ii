@@ -1,9 +1,0 @@
-title:          Capítulo 20
-ID:             115
-type:           folder
-POV:            0
-label:          3
-status:         1
-compile:        2
-
-

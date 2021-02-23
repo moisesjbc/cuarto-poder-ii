@@ -1,6 +1,7 @@
 Name:                Ajani
 ID:                  5
 Importance:          1
+POV:                 True
 Motivation:          Venganza y familia.
 Goal:                - Destruir a {W:0:RIO} por venganza.
                      - Proteger a su hermano a toda costa.

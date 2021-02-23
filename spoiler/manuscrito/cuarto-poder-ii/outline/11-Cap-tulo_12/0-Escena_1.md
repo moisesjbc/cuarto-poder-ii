@@ -13,6 +13,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      6793
 
 
 Al día siguiente el entrenamiento de la mañana fue sustituido por una reunión sobre el inminente asalto a la *Burbuja*.

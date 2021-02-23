@@ -1,6 +1,7 @@
 Name:                Noemí
 ID:                  2
 Importance:          1
+POV:                 True
 Motivation:          Venganza y descubrimiento personal.
 Goal:                - Unirse a la {W:1:Resistencia} para vengar la muerte de sus padres.
                      - Descubrir quién es realmente.

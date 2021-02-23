@@ -1,9 +1,0 @@
-title:          Capítulo 22
-ID:             127
-type:           folder
-POV:            0
-label:          3
-status:         1
-compile:        2
-
-

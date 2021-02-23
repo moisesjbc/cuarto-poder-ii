@@ -9,6 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      5019
 
 
 Lucas se levantó de un salto. En la habitación aparte de ellos sólo quedaban Lara y Jonás. Los hermaos se encontraban en el centro de la estancia.

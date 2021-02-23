@@ -12,6 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      3861
 
 
 Lucas regresó poco después al campamento, intentando convencerse de que hacía lo correcto.

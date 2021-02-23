@@ -8,6 +8,7 @@ label:          4
 status:         2
 compile:        2
 setGoal:        500
+charCount:      6304
 
 
 Todos abandonaron la estancia salvo Matías. Este último se quedó repasando absorto el mapa y las fotografías que tenía frente a sí.

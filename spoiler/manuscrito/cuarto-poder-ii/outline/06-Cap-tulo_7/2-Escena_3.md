@@ -5,6 +5,7 @@ POV:            0
 label:          4
 status:         2
 compile:        2
+charCount:      659
 
 
 Lucas abrió los ojos pesadamente. No sabía cuánto había dormido pero no era lo suficiente.

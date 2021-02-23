@@ -9,6 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      4242
 
 
 Al poco de irse Noemí, Ana hizo lo propio. No dirigió más palabra que una fría despedida a los presentes.

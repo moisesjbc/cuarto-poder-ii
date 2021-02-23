@@ -1,6 +1,7 @@
 Name:                María
 ID:                  24
 Importance:          0
+POV:                 True
 Motivation:          Rehacer su vida.
 Goal:                - Aceptar la oferta de la {W:1:Resistencia} de hacer vida en un barrio estatal.
                      - Desentenderse del conflicto {W:1:Resistencia} - {W:0:RIO}.

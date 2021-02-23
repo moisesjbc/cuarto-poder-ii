@@ -28,6 +28,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      5100
 
 
 Una vez Lucas se hizo a la rutina de ser un novato de la Resistencia, las próximas dos semanas se le pasaron volando.

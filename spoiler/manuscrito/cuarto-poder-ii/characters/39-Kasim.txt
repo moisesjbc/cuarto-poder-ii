@@ -1,6 +1,7 @@
 Name:                Kasim
 ID:                  39
 Importance:          0
+POV:                 True
 Motivation:          La venganza y la superación personal de su hermano.
 Goal:                - Llevar a los responsables de {W:0:RIO} ante la justicia.
                      - Curar el extremismo y la sobredependencia de su hermano {C:5:Ajani}.

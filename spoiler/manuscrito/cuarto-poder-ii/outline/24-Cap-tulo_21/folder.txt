@@ -1,9 +1,0 @@
-title:          Capítulo 21
-ID:             121
-type:           folder
-POV:            0
-label:          3
-status:         1
-compile:        2
-
-

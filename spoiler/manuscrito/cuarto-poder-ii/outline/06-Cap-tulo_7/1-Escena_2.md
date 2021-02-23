@@ -15,6 +15,7 @@ notes:          Lucas: sigo sin estar seguro.
 label:          4
 status:         1
 compile:        2
+charCount:      9094
 
 
 El grupo de supervivientes capaces de tomar un arma tomó posiciones formando un círculo alrededor de los heridos. Se protegían tras los árboles y rocas más cercanos y vigilaban con recelo el bosque alrededor de ellos.

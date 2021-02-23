@@ -1,6 +1,7 @@
 Name:                Coronel Cooper
 ID:                  3
 Importance:          1
+POV:                 True
 Motivation:          Justicia y disciplina.
 Goal:                - Limpiar el nombre de Inglaterra.
                      - Exponer y destruir a {W:0:RIO}.

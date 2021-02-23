@@ -6,6 +6,7 @@ POV:            0
 label:          4
 status:         1
 compile:        2
+charCount:      3849
 
 
 Lucas miró las dos pilas de cenizas frente a sus pies. En una pudo distinguir el uniforme del Coronel Cooper. La otra tenía una fina blusa baige y unos pantalones tipo chándal negros. A Lucas se le hizo un nudo en la garganta.

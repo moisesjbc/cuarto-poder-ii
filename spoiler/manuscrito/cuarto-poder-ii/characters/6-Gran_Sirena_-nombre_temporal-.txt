@@ -1,6 +1,7 @@
 Name:                Gran Sirena (nombre temporal)
 ID:                  6
 Importance:          1
+POV:                 True
 Motivation:          Lograr el máximo progreso para todo el universo.
 Goal:                - Liberarse de {W:0:RIO}.
                      - Asimilar a la raza humana.

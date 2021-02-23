@@ -1,9 +1,0 @@
-title:          Capítulo 30
-ID:             35
-type:           folder
-POV:            0
-label:          3
-status:         1
-compile:        2
-
-

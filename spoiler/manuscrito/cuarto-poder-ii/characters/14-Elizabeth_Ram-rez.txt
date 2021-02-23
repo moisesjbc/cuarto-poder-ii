@@ -1,6 +1,7 @@
 Name:                Elizabeth Ramírez
 ID:                  14
 Importance:          1
+POV:                 True
 Motivation:          Ambición por el poder y el progreso personal a toda costa.
                      
                      "La humanidad está condenada desde hace mucho. ¿De verdad importa si simplemente quiero ser de las últimas piezas en caer?"

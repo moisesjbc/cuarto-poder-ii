@@ -1,6 +1,7 @@
 Name:                Unidad de Lucas
 ID:                  9
 Importance:          0
+POV:                 True
 Full Summary:        Unidad de cuatro personas.
                      
                      - **Manuel**: un hombre de 35 años. Musculoso y alto, con el pelo lacio y negro hasta el hombro. Es algo más sociable que Lucas pero no mucho más. Parece disfrutar tanto sólo como en compañía. Cree que los otros rescatados de las *Burbujas* y él están muertos desde que RIO los capturó la primera vez.

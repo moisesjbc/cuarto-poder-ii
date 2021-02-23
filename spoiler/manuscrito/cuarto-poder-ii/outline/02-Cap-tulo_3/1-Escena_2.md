@@ -6,6 +6,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      3669
 
 
 La visión apenas duró unos pocos segundos. Lucas volvía a encontrarse tendido sobre la tierra rojiza del patio.

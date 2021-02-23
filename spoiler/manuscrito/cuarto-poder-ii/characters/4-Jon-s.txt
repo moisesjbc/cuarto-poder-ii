@@ -1,6 +1,7 @@
 Name:                Jonás
 ID:                  4
 Importance:          1
+POV:                 True
 Motivation:          Redención y libertad.
 Goal:                - Limpiar su conciencia tras haber colaborado con RIO en la creación de las {W:14:Burbujas} (**definir**).
                      - Mantener a su hermana  y a si mismo a salvo de las garras de {W:0:RIO}.

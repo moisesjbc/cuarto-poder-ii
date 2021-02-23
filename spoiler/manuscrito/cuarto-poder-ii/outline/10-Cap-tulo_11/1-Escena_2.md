@@ -9,6 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      4950
 
 
 La unidad de Lucas esperó un rato en silencio hasta que Manuel habló.

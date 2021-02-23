@@ -19,6 +19,7 @@ notes:          - Lucas tiene que empezar el capítulo poniéndose el abrigo.
 label:          4
 status:         1
 compile:        2
+charCount:      5621
 
 
 Lucas tomó el abrigo que le ofreció Noemí. Sus manos rozaron una fina capa de algodón del interior de la prenda. A pesar de la conversación que el joven sentía que se le venía en seguida, se detuvo un par de segundos a sentir la suave y caliente caricia del material.

@@ -16,6 +16,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      5685
 
 
 A la mañana siguiente Lucas se despertó completamente agotado. No sabía decir a qué hora sucedió el incidente en la madrugada, pero podía notar las consecuencias del sueño interrumpido.

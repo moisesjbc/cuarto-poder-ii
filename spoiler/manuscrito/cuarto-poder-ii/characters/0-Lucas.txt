@@ -1,6 +1,7 @@
 Name:                Lucas
 ID:                  0
 Importance:          2
+POV:                 True
 Motivation:          Vivir tranquilo y con la consciencia en paz.
 Goal:                - Unirse a la Resistencia y colaborar en la destrucción de RIO.
                      - Echar raíces en un lugar tranquilo en el campo.

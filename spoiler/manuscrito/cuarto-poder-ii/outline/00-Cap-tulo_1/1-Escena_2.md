@@ -10,6 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      3426
 
 
 Lucas abrió los ojos. Esta vez despertó tendido en el suelo. La pistola seguía en su mano.

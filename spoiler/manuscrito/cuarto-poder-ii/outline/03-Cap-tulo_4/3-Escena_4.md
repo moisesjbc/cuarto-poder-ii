@@ -12,6 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      5061
 
 
 Lucas sintió un ardor en las mejillas mientras su versión de unas horas antes hablaba ante la cámara.

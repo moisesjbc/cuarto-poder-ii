@@ -1,9 +1,0 @@
-title:          Capítulo 17
-ID:             97
-type:           folder
-POV:            0
-label:          3
-status:         1
-compile:        2
-
-

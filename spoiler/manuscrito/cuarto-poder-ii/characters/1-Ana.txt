@@ -1,6 +1,7 @@
 Name:                Ana
 ID:                  1
 Importance:          1
+POV:                 True
 Motivation:          Lograr una humanidad unida que avance hacia los mismos objetivos comunes, con la verdad como bandera.
 Goal:                - Exponer y destruir a {W:0:RIO}.
                      - (Más adelante) Ayudar a la {C:6:Gran Sirena (nombre temporal)}.

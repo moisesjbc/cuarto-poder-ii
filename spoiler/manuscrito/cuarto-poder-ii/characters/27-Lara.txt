@@ -1,6 +1,7 @@
 Name:                Lara
 ID:                  27
 Importance:          0
+POV:                 True
 Motivation:          Tener una vida normal.
 Goal:                - Vivir con {C:4:Jonás} y recuperar el tiempo perdido con este.
                      - Volver al instituto y seguir como si nada hubiera pasado.

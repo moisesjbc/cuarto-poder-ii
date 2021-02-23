@@ -9,6 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      3824
 
 
 Lucas entró en una cafetería enorme. Unas diez mesas atravesaban todo el ancho de la estancia, con un único banco alargado unido a cada lado. En el lateral izquierdo de la habitación había una cola de personas que avanzaba hacia el extremo opuesto de la sala, donde un amplio mostrador abierto en la pared daba a la cocina.
