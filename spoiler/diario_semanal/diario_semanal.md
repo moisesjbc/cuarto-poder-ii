@@ -703,3 +703,13 @@ Para los días que vienen mantendré el objetivo diario de 300 palabras.
 *En teoría* la siguiente semana no debería haber problemas para cumplir los objetivos diarios, aunque habrá que verlo. **Toca dejar a Lucas a solas con su instinto de supervivencia, el cual es tan malo como el mío.** A ver cómo sale.
 
 ¡Hasta entonces!
+
+## Semana 90 (22/02/2021 - 28/02/2021)
+
+**4 de 5 objetivos diarios, no está mal. En estos días Lucas está a su suerte en el bosque buscando agua.** A medida que escribo las escenas vengo con nuevas ideas que me gustaría introducir, y **gracias a tener planificada la trama con antelación, puedo incorporar dichos cambios con seguridad**.
+
+Una modificación que me estoy planteando es que Lucas no luche contra un jabalí u otro animal salvaje, sino con unos excursionistas o granjeros (aún no lo tengo decidido) que ven en él al terrorista que les ha vendido RIO. No cambia la historia general, y creo que puede dar más juego que un animal salvaje (lo siento por el especismo).
+
+En los próximos días, con suerte, optaré por una de estas alternativas.
+
+¡Veamos!
