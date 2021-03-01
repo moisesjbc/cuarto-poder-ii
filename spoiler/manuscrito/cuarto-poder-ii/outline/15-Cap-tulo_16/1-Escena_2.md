@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3704
+charCount:      5514
 
 
 Lucas se levantó e hizo un par de respiraciones pausadas más. Seguía sintiendo que en cualquier momento tendría otro ataque de pánico, pero decidió aprovechar el momento de calma.
@@ -38,3 +38,25 @@ Llegó a la cima y miró a su alrededor.
 El verde llegaba hasta donde alcanzaba la vista, lo cuál no cubría una gran extensión antes de toparse con una colina más alta o una montaña. No vio ningún océano, así que tendría que rebajar sus expectativas. Tampoco vio lagos ni presas.
 "Vamos..., algo tiene que haber"
 Escaneó varias veces sus alrededores, cada vez de manera más pausada, negándose a aceptar que no hubiera agua cerca.
+Una línea azul apareció zigzagueando entre los árboles frente a él, no muy lejos de donde se encontraba.
+El corazón le golpeó el pecho.
+"Tiene que serlo. ¡Tiene que serlo"
+Tragó y una cuchilla le perforó la garganta. Giró la cabeza a un lado y a otro, estudiando la pendiente, y se encaminó por la que parecía más fácil de bajar.
+"No puede ser un espejismo", se decía. "Eso sólo se da en el desierto", tras unos segundos dudó: "¿no?"
+- ¡Ah!
+Tropezó con una roca y estuvo a punto de caer. 
+Se obligó a parar y respiró tres veces, realizando tres inspiraciones y exhalaciones profundas, con la poca calma que pudo reunir.
+- Si me mato - dijo al interlocutor invisible -, ¿de qué va servir que corra?
+Esbozó una ligera sonrisa cortada y emprendió de nuevo la marcha, intentando no perder de vista las piedras del suelo tal como hacia con lo que esperaba, fuera un río.
+Al descender por debajo de las copas de los árboles perdió de vista el río.
+"No pasa nada. Sigue recto. No tiene pérdida".
+Caminó unos quince minutos más y se detuvo al escuchar un ruido constante.
+Lucas se sintió a punto de llorar.
+"¡Es agua!"
+No pudo negociar con sus piernas que evitaran correr, pero mente y cuerpo acordaron no perder de vista el suelo.
+El río comenzó a vislumbrarse a través de los árboles. Lucas comenzó a correr más rápido.
+"Alto", se dijo, "¡Alto!"
+Se detuvo en seco y vigiló sus alrededores. No percibía ningún ruido más allá del preciada agua al frente, los pájaros sobre su cabeza, y la ligera brisa a su alrededor.
+"Con calma"
+Se llevó la mano instintivamente a su uniforme, buscando su pistola. No fue hasta que palpó la cartuchera vacía que reconoció que seguía indefenso.
+Caminó lentamente, sin dejar de buscar cualquier indicio de movimiento a su alrededor salvo cuando los ojos se le iban a la fuente de agua.
