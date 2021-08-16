@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5514
+charCount:      8207
 
 
 Lucas se levantó e hizo un par de respiraciones pausadas más. Seguía sintiendo que en cualquier momento tendría otro ataque de pánico, pero decidió aprovechar el momento de calma.
@@ -60,3 +60,29 @@ Se detuvo en seco y vigiló sus alrededores. No percibía ningún ruido más all
 "Con calma"
 Se llevó la mano instintivamente a su uniforme, buscando su pistola. No fue hasta que palpó la cartuchera vacía que reconoció que seguía indefenso.
 Caminó lentamente, sin dejar de buscar cualquier indicio de movimiento a su alrededor salvo cuando los ojos se le iban a la fuente de agua.
+Ignoró como pudo la sequedad que acuciaba su boca y le suplicaba por agua. Comenzó a avanzar lentamente, cubriéndose tras cada árbol cercano y observando nuevamente a su alrededor antes de avanzar al siguiente.
+Seguía sin escuchar nada.
+El río estaba a unos quince metros.
+"¿Podría haber efectivos apostados en las copas?"
+Lucas comenzó a alternar sus vistazo alrededor con rápidos vistazos hacia arriba.
+No parecía haber nadie sobre él.
+Diez metros.
+"¿Podría haber serpientes?", sus labios cortados sonrieron ante su ignorancia. "¿Acaso hay serpientes en esta zona?". No tenía ni idea.
+Igualmente bajó la mirada y recorrió la hierba que crecía a su alrededor y servía de alfombra para los árboles. Las briznas se movían pero parecía ser obra del viento. O eso esperaba Lucas.
+Cinco metros.
+"¡Agua!", parecían gritar sus labios.
+"Tranquilo", le respondía una parte, cada vez más pequeña, de su cerebro.
+Los árboles se detenían a un par de metros del río, que no sería de más de tres metros de ancho. Lucas se detuvo antes del último árbol y asomó ligeramente la cabeza. El rio avanzaba cientos de metro hacia ambos lados antes de curvar y perderse entre los árboles.
+El joven miró hacia ambas orillas y hacia ambos lados. No parecía haber animales peligrosos ni personas a la vista.
+Puso un pie fuera de los árboles y luego el otro. Lo siguiente que supo es que estaba corriendo y agachándose atropelladamente junto al río.
+Se golpeó la rodilla derecha pero apenas sintió dolor cuando su mano le impregnó la boca de agua. Entre el movimiento y la sequedad de sus labios, apenas llegó a saborearla. Un segundo movimiento, apenas más calmado, le proveyó del dulce elemento y le insufló vida.
+"¡Está fresca!". No pudo evitar reír.
+Se llevó más y más agua hacia la boca hasta que no pudo más. Estaba seguro de que lamentaría la gula pero, sinceramente, le daba igual.
+Se dejó caer sobre la hierba y cerró los ojos, resoplando. La luz del sol se colaba entre los árboles y lo bañaba, al tiempo que el agua le chorreaba la camiseta. Una lágrima de felicidad se deslizó sobre su mejilla.
+Sus tripas gruñeron y Lucas se llevó la mano al estómago, sin abrir los ojos.
+"Cómo no", sonrió. "Ahora toca buscar comida".
+El gruñido aumentó y se tornó agresivo. Ya no provenía de sus tripas.
+Lucas frunció el ceño. Abrió los ojos y miró hacia su derecha.
+Un perro grande y gris se encontraba de pie a poco más de un metro de él, las patas tiesas y las orejas en punta. Gruñía y enseñaba los dientes mientras sus ojos se mantenían fijos en su presa.
+Lucas levantó las manos, enseñando sus palmas desnudas hacia el rabioso animal, esperando que el gesto de sumisión lo amansaran.
+En vez de eso, el perro atacó.
