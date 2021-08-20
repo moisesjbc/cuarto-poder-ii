@@ -64,7 +64,6 @@ Notes:               # Plano físico
                      
                      - **Sentido del humor**: muy serio.
                      - **Religión**: ateísmo.
-                     - **Orientación política**: derechas.
                      - **Hobbies**: entrenar.
                      - **Relación con la familia**: obsesión y sobreprotección con respecto a su hermano {C:39:Kasim}.
                      - **Trabajo**: no tiene. Viaja por el mundo con su hermano luchando contra {W:0:RIO}.
