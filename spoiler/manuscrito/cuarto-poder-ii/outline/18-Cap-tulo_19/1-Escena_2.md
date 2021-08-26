@@ -4,11 +4,12 @@ type:           md
 summaryFull:    Tras contener a Ajani a duras penas entre Lucas y Kasim, este último le cuenta la historia de su hermano y suya a Lucas.
 POV:            0
 notes:          - Kasim puede repetirle alguna frase que solía decir su madre / padre / padres.
+                - **¿Meto aquí lo de los significados de los nombres o en otra parte?**
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2503
+charCount:      4544
 
 
 Ajani le lanzaba golpe tras golpe sin parar y sin atender a los gritos de Kasim. Este último consiguió agarrarlo y separarlo de un sanguinolento Lucas.
@@ -43,4 +44,28 @@ Lucas abrió los ojos como platos.
 - ¿Qué? ¿Y qué sacaba *RIO* con ello?
 - Hacer limpieza.
 Lucas recordó todos los caídos entre ingleses y miembros de la resistencia.
-
+- Entiendo - dijo a los pocos segundos.
+"Así que Cooper fue 'limpiado'", pensó amargamente.
+- ¿Algo más que quieras sonsacarme antes de que vuelva Ajani?
+El joven miró al africano. Este último sonrió.
+- Dos cosas, la verdad.
+- Tú dirás.
+- ¿Dónde están Ana y los demás? ¿Están bien?
+-  Lo lamento, pero ese es nuestro seguro.
+Lucas frunció el ceño.
+- ¿Vuestro seguro?
+- Tenemos planes para ti y tu "sexto sentido". Tampoco sabemos por qué, pero tienes hipersensibilidad a las nanomáquinas de *RIO*, y nos vendrá bien en las próximas semanas.
+Lucas refrenó lo ofendido que se sentía al sentirse utilizado y consideró que esa era una información que sabría tarde o temprano. En su lugar aprovechó para lo segundo que quería preguntar.
+- Bueno, y ¿A qué ha venido lo de Ajani? - Se cuidó de no terminar con un "¿Está loco?"
+- Me preguntaba cuándo lo preguntarías - sonrió Kasim.
+El hermano menor miró a su alrededor, buscando a Ajani con la mirada. Lucas hizo lo mismo, pero tampoco lo localizó cerca.
+Kasim bajó la voz.
+- Cuando eramos pequeños, unos terroristas atacaron la aldea en la que vivíamos en Nigeria... nuestros padres, abuelos y amigos murieron en el ataque.
+- Vaya... lo siento.
+- Gracias. Ajani y yo conseguimos escapar a duras penas. Vagamos por el bosque, sobreviviendo de milagro. Ladrones y bandidos intentaron hacernos daño pero nos defendimos con uñas y dientes. Sin embargo, Ajani... lo llevó al extremo.
+- ¿Y eso?
+- No es un diagnóstico que nos haya dado un psicólogo, pero Ajani desarrolló una fuerte dependencia conmigo, su último ser querido, y protegerme se convirtió en su obsesión. Esto unido a toda la ira que sintió a perder a tantos seres queridos a manos de *RIO* siendo un niño...
+- ¿*RIO*? ¿Pero no habías dicho unos terroris...? - Lucas se detuvo - Ya veo -. Suspiró. - *RIO* tenía intereses en la zona.
+- Exacto.
+- Cabrones.
+- Bueno - dijo Ajani a sus espaldas, sobresaltando a Lucas -, ya lo sabes. Mataré a cualquiera de *RIO* y a cualquiera que ataque a mi hermano. Y ahora, sigamos con el entrenamiento.
