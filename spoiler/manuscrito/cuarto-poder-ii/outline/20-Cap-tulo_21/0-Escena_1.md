@@ -1,13 +1,50 @@
 title:          Escena 1
 ID:             98
 type:           md
-summaryFull:    Lucas convence a los hermanos de que lo dejen ver a Ana y lo llevan ante ella. Ana trata de convencerle de que vuelva con la Resistencia ya que desconfía de Ajani tras los sucesos del {P:2:Asalto al AT de Gran Canaria}. No obstante, Lucas decide honrar el trato y quedarse con los hermanos. Se despiden.
+summaryFull:    Lucas convence a los hermanos de que lo dejen ver a Ana 
 POV:            0
-notes:          - Lucas le pregunta por Noemí.
-                - Lucas se debate entre dejarle una nota con el destino a Ana en secreto o no para no ponerla en peligro. Finalmente se la cuela pero no lo dejo claro al lector.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      2307
 
 
+- ¿Qué has visto? - preguntó Ajani, mirándolo fijamente.
+- Matanzas en distintas *Burbujas*. Luego aparecía en un planeta con dos lunas gigantes, y crucé un portal con una joven. Aparecimos en una especie de base militar rodeada por bosques.
+- Interesante, ¿viste dónde estaba?
+Lucas intentó recordar el lugar y los nombres que había visto, y se sorprendió al recrearlo con tanta fidelidad y sin esfuerzo en su mente. Era como si de repente volviera a estar allí y pudiera estudiar las imágenes que había visto, en lugar de retener fragmentos más o menos borrosos.
+- Sí - dijo -. Bueno, no conozco el sitio, pero tengo referencias.
+- Bien, dímelas.
+Lucas exhaló durante unos instantes, cerrando los ojos. Los abrió antes de responder.
+- No.
+- ¿Cómo dices?
+Ajani apenas varió su semblante serio al recibir la negativa, pero Lucas pudo ver que tampoco es lo que deseaba. Se armó de valor.
+- No - repitió -. Antes quiero ver a Ana y los demás.
+- Están bien. En cuanto terminemos te dejaremos con ellos.
+- No, primero quiero verlos. Luego estaré más que contento de acompañarte.
+- ¿Y quién me dice a mí que cumplirás tu parte?
+Lucas sonrió, deseando que no se notara su nerviosismo.
+- ¿Y quién me dice a mí que tú cumplirás la tuya?
+- No creo que estés en posición de negociar.
+"¿Es una amenaza?"
+- Yo creo que sí.
+- Podría sacarte la información a golpes.
+"Mierda"
+El joven intentó mantener una expresión serena.
+- Ya me has pegado una paliza - se señaló la cara -. Diría que sí estoy en posición de negociar.
+- No me hagas perder el tiempo. Dime el sitio.
+- No.
+Ajani respiró tranquilamente. A los pocos segundos se inclinó hacia Lucas y este retrocedió instintivamente.
+- Se lo debemos, Ajani -. Dijo Kasim a través de la radio -. Mejor dicho, se lo debes.
+Ajani se detuvo.
+- No le debo nada. No podemos perder más tiempo.
+- No pienso discutir - respondió Kasim -. ¿Quieres un vacío?
+- ¡No!
+La repentina subida de tono de Ajani sobresaltó a Lucas, quien pegó un respingo.
+El africano se mordió el labio y respiró pausadamente, cerrando los ojos.
+Al cabo de unos instantes suspiró.
+- Partimos mañana - dijo finalmente -. Ir y volver, sin perder el tiempo.
+Lucas sonrió.
+- Perfecto - y al  rato instante añadió -: Gracias.
+Pero Ajani no respondió. Se limitó a levantarse, darle la espalda, y salir de la cueva.
