@@ -11,7 +11,7 @@ notes:          - Lucas le pregunta por Noemí.
 label:          4
 status:         1
 compile:        2
-charCount:      2514
+charCount:      6185
 
 
 A la mañana siguiente los hermanos llevaron a Lucas hasta su coche, a unos kilómetros de la cueva.
@@ -42,9 +42,57 @@ La joven pelirroja miró por encima del hombro de Lucas y su sonrisa desapareci�
 - ¿Te han hecho daño?
 - Oh, no - negó con la cabeza, pero entonces se detuvo -. Bueno, técnicamente sí, pero era parte del entrenamiento.
 Ana ojeó a Lucas.
-- Ya veo.
+- Ya veo. Bueno, vamos dentro - la joven se giró y dio unos pasos en dirección al campamento.
+Lucas elevó el tono más de la cuenta para detener a su amiga.
+- ¡Espera!
+Ana se giró hacia él y entonces miró a los hermanos.
+- ¿Qué están esperando?
+Lucas cerró los ojos unos instantes antes de responder.
+- A mí. Voy... voy a volver con ellos - miró tímidamente a los ojos de su amiga - ¡es temporal! - se apresuró a añadir.
+- ¿De qué hablas?
+- Les he prometido que iría con ellos. Verte fue mi parte del trato.
+Entonces pensó que quizás lo que hizo no se pudiera considerar "prometer". Más bien consiguió rascar una condición a lo que era básicamente una orden de acompañarlos.
+- "Prometerles" - bufó Ana - ¡como si la palabra de ellos valiera de algo!
 - Entiendo que no confíes en ellos, pero...
-- Y una mierda confío en ellos, Lucas. ¡Nos jodieron y bien en el AT de Gran Canaria! ¿Qué haces con ellos?
-
-
+- ¡Y una mierda confío en ellos, Lucas! ¡Nos jodieron y bien en el AT de Gran Canaria! ¿Qué haces con ellos?
+- No, no. Lo he hablado con Kasim. Dice que Ajani no envió el correo.
+Ana meditó unos segundos.
+- Lo único que tenemos es su palabra - dijo, antes de bajar la cabeza -. Murieron buenos amigos ahí.
+Lucas recordó los heridos y muertos mientras recorrían el edificio y el sótano secreto.
+Suspiró.
+- Lo siento.
+Levantó la mano torpemente para intentar posarla en el hombro de su amiga, pero la retiró, inseguro. Esperó unos segundos antes de hablar.
+- ¿Pero qué sacarían ellos con el ataque fallido? Una trampa de RIO suena más plausible.
+- Suena más plausible, lo admito - asintió -. Pero no sería la primera vez que Ajani la fastidia.
+Lucas frunció el ceño.
+- ¿A qué te refieres?
+- La Resistencia ha colaborado con él. Muy poco, pero lo ha hecho. Ajani es un guerrero formidable, pero pierde de vista el objetivo muy fácilmente si tiene a alguien de RIO delante. Tiene un problema de ira muy grave.
+Lucas recordó la paliza de Ajani. "No hace falta que lo jures", pensó.
+Por mucho que lo intentó, su pensamiento se tradujo en una sonrisa irónica.
+Esta vez fue Ana quien frunció el ceño.
+- ¿Seguro que no te ha hecho nada?
+Lucas retrocedió unos pasos y extendió los brazos, dejando que Ana recorriera su cuerpo con la mirada.
+- Ni un rasguño - sonrió -.
+Ana lo miró fijamente a los ojos, seria.
+"Oh no". El joven recordó por qué nunca jugaba al Póker con su amiga.
+- ¿Cómo están mis...? - Lucas se detuvo. "¿Todavía las veo como mis hijas?" - ¿Cómo están Lara? ¿Y Noemí? ¿La encontraron?
+- ¿Cómo que si la encontramos?
+- Justo antes de irme a la *Burbuja* había desaparecido.
+- ¡Ah! Sí, está bien... la última vez que la vi lo estaba, al menos.
+- ¿Cómo que "la última vez"?
+- Te echa mucho de menos, Lucas. Viene, está unos días, y sale "a dar una vuelta", pero se nota que te está buscando.
+- ¡Pero eso es peligroso! - exclamó Lucas, recordando a su "hija" jugar a "Revolverle el pelo a tu hermana la mayor". Una gran parte de él echaba de menos eso, y la idea de perderla era demasiado, fuera su hija o no.
+- Ya bueno, prueba a retenerla en un sitio. No tendría una razón para irse si estuvieras aquí.
+Lucas suspiró.
+- No puedo. Tengo que acompañar a los hermanos en esta misión.
+- ¿"Misión"? ¿Qué misión?
+Ana miró por encima del hombro de Lucas. Su gesto dubitativo se tornó en uno de asco.
+Lucas miró hacia atrás y vio que Ajani se había bajado del coche y caminaba hacia ellos. Kasim también se había bajado del coche, pero permanecía al lado de este.
+Tenía el rifle de sus francotirador en las manos.
+El joven se giró hacia Ana y sopesó las posibilidades. ¿Estaba dispuesto a ponerla en peligro?
+Ajani seguía acercándose. Kasim seguía mirándolos.
+Lucas se abrazó a una sorprendida Ana y le susurró al oído lo de la base militar de RIO. También le listó los cuatro nombres que la rodeaban.
+Se separó de Ana. Esta última lo miró y asintió, sonriendo.
+"Espero que los recuerde"
+- Es la hora - soltó Ajani a su espalda -. Nos vamos.
 
