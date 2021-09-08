@@ -8,6 +8,8 @@ notes:          - Lucas le pregunta por Noemí.
                 - **¿Cómo le escribe la nota si no tiene papel ni lápiz?**
                 
                 
+                - **Al final pasé de la nota**
+                - **¿Añado que Lucas le cuente lo de sus "poderes" o por qué quiere ir a la base de RIO realmente (planeta)?**
 label:          4
 status:         1
 compile:        2
