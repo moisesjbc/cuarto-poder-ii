@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3227
+charCount:      4870
 
 
 
@@ -38,13 +38,35 @@ Parecía que estaba hablando sólo con él. Lucas evitó el contacto visual con 
 Ajani se agachó al lado del segundo cadáver y lo apuñaló sin alterar su semblante serio pero con el puño apretando tan fuerte el cuchillo que parecía que lo fuera a romper en cualquier momento.
 "Ya. ¿Y cómo se supone que voy a controlar esto?", pensó Lucas, apartando la mirada.
 Se volvió a asomar a la esquina con cuidado. No venía nadie.
-Se sobresaltó cuando Ajani, segundos después, estaba a su lado.
-- Toma.
-Le dio la metralleta de uno de los soldados. Ajani llevaba la otra.
-- Camina a mi lado. Actúa como si estuvieras patrullando.
-El joven obedeció. La pareja continuó por el camino de piedra.
-- La entrada debería estar a unos diez metros - dijo Lucas, visualizando el plano perfectamente en su mente.
-De la esquina del edificio, a unos 30 metros de ellos, se asomó otra patrulla. Se quedaron unos segundos mirando hacia Ajani y Lucas, quietos.
-- Sigue caminando - dijo Ajani -. Tranquilo.
-Lucas intentó que sus piernas no le traicionaran durante unos segundos que le parecieron una eternidad.
-Por fin, la otra patrulla asintió desde su posición y volvieron a desaparecer por su esquina.
+Se sobresaltó cuando Ajani, segundos después lo llamó.
+- Ven aquí - Entonces se llevó la mano al pinganillo de la oreja - Vamos a subir -.
+- Ok - confirmó Kasim -. Espera.
+Esperaron unos segundos.
+- Ahora.
+Dispararon sus pistolas de gancho hacia el muro de la azotea y sendos ganchos volaron hacia allí dejando una cuerda como estela.
+- Mierda.
+- ¿Qué pasa? - dijo Ajani enseguida - ¡¿Estás bien?! - Empezó a bajar frenéticamente por la cuerda.
+- Sí, sí - respondió a los pocos segundos Kasim -. No pasa nada. He tenido que abatir a la patrulla de la azotea.
+Ajani no dijo nada. A los pocos segundos ya estaba adelantando a Lucas en el ascenso y llegando arriba del todo. Cuando este último llegó arriba, Ajani estaba agachándose con el cuchillo sobre una de las víctimas.
+- ¡Maldita sea! - maldijo Kasim.
+Lucas corrió hacia Ajani y e agarró del brazo, pero lo soltó enseguida cuando vio que el africano lo miraba fijamente.
+- Por favor - dijo, apartando la mirada -. No tenemos tiempo que perder. Tarde o temprano descubrirán los cadáveres.
+- Ve hacia la puerta - le ordenó el africano, mientras se volvía a agachar al lado del cadáver, cuchillo en mano.
+Lucas suspiró y caminó hacia una pequeña habitación a unos treinta metros de ellos.
+"¿Qué estoy haciendo aquí? Va a conseguir que nos maten"
+- Lo siento - le dijo Kasim por el pinganillo.
+- No pasa nada - mintió.
+Lucas se percató del lector de tarjetas al lado de la puerta y de la cámara sobre esta. Se paró un segundo y pegó un respingo cuando Ajani apareció caminando a su lado.
+- Continúa.
+- Pero la cámara...
+- Fíjate.
+Y le hizo una señal hacia la cámara. Lucas no vio nada.
+- Al lado de la cámara. En la pared.
+Lucas lo vio entonces. Sobre el muro de piedra, pegado a la cámara, había un pequeño cilindro clavado en la pared.
+- ¿Qué es?
+- Básicamente - dijo Kasim a través del pinganillo - emite un pequeño pulso que inutiliza la cámara.
+- Ah, menos mal.
+- Sí bueno, igualmente daos prisa. Cuanto menos tiempo pierdan la imagen menos sospechas.
+Lucas aceleró el paso, prácticamente corriendo. Ajani, sin embargo, continuó caminando, aunque con paso ligero.
+El joven llegó a la puerta y volvió a reparar en el lector de tarjetas. Miró a Ajani con expresión dubitativa.
+Este llegó a la puerta y se sacó una pequeña tarjeta metálica, completamente gris, del bolsillo. La pasó por el lector y la puerta obedeció, cediéndole el paso a ambos.
