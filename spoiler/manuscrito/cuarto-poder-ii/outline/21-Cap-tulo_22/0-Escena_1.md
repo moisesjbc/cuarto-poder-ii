@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4870
+charCount:      7185
 
 
 
@@ -70,3 +70,29 @@ Lucas lo vio entonces. Sobre el muro de piedra, pegado a la cámara, había un p
 Lucas aceleró el paso, prácticamente corriendo. Ajani, sin embargo, continuó caminando, aunque con paso ligero.
 El joven llegó a la puerta y volvió a reparar en el lector de tarjetas. Miró a Ajani con expresión dubitativa.
 Este llegó a la puerta y se sacó una pequeña tarjeta metálica, completamente gris, del bolsillo. La pasó por el lector y la puerta obedeció, cediéndole el paso a ambos.
+- Vamos a entrar - avisó Ajani.
+- Ok - respondió Kasim.
+Se encontraron con una escalera de cuatro tramos. Bajaron rápidamente hasta la planta calle sin encontrarse a nadie. Antes de que Ajani abriera la puerta, miró a Lucas.
+- Actúa normal frente a las cámaras.
+"Claro", pensó Lucas. "Aquí dentro no las puede desactivar Kasim"
+- ¿Y no nos reconocerán?
+- Por supuesto que nos reconocerán, pero con algo de suerte tardarán en hacerlo.
+Lucas asintió, no sin ciertas reservas.
+Revisó su arma mientras el africano abría la puerta. Entraron en un pasillo amplio dominado por el blanco. Suelo, paredes, techo y puertas eran del color de la pureza.
+- Vamos - susurró Ajani.
+Lucas se puso a su lado y ambos caminaron lentamente por el pasillo. El primero iba susurrándole indicaciones a Ajani cada vez que llegaban a una esquina. El segundo no respondía ni hacía ninguna señal visible. Simplemente, seguía la dirección indicada.
+En uno de los pasillos se encontraron con otra patrulla que venía en el sentido contrario. La pareja, hombre y mujer, miraron hacia ellos de pasada.
+Lucas vio de reojo que Ajani comenzaba a levantar su pistola. El joven fingió tropezar y empujó ligeramente al africano.
+- Oh, lo siento.
+Ajani lo miró y no dijo nada. La mujer frunció ligeramente el ceño cuando miró hacia ellos, pero no dijo nada y la pareja se perdió en la esquina tras ellos.
+Lucas dejó escapar un suspiro.
+- Muy bien - dijo tras caminar ambos otro rato siguiendo las indicaciones del joven -. Tras esta esquina está la puerta que lleva a la entrada al sótano.
+La pareja cruzó la esquina y se encontró otro pasillo desierto. Hacia el centro del pasillo, a su izquierda, se encontraba la puerta.
+- Esa es - dijo Lucas, mirando hacia ella.
+Caminaron lentamente hacia ella, intentando Lucas disimular calma bajo las cámaras con mucho esfuerzo.
+De repente, un estruendo comenzó a resonar, no solo en el pasillo en el que se encontraban, sino en toda la base. Era la alarma.
+- Vamos - dijo Ajani tranquilamente, mientras aceleraba el paso.
+- ¡Alto! - gritó alguien a sus espaldas. Era la mujer de antes, que apuntaba su subfusil hacia ellos.
+Ajani fue a darse la vuelta para responder pero Lucas se interpuso entre él y la mujer, llevándose un disparo en la espalda.
+- ¡Ah!
+Lucas empujó a Ajani y ambos entraron en la habitación.
