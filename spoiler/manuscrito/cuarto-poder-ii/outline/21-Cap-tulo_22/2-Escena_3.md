@@ -14,5 +14,26 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      1615
+
+
+Tras el susto inicial, la mujer sacudió la cabeza, como forzándose a reaccionar.
+- ¡Bajad! ¡Rápido!
+Ajani miraba a la mujer fijamente, afianzando la empuñadura del subfusil.
+- ¡Soy una aliada! ¡Pero ellos no! - Dijo, señalando hacia la puerta de detrás de Lucas y Ajani.
+Ambos miraron hacia la puerta, la cuál se estaba deshaciendo en una nube de humo que rápidamente transparentaba más y más a cada rato que pasaba.
+El africano volvió a mirar a la mujer y rápidamente efectuó un disparo.
+- ¡Qué hac-! - gritó Lucas, los ojos como platos, mirando hacia la mujer. Esta última se encontraba tras otra nube de humo negro que avanzaba hacia ellos.
+Ajani y Lucas se apartaron rápidamente y la nube pasó entre ellos, situándose entre la puerta desaparecida y ellos.
+Varios disparos impactaron desde el otro lado sobre la nube, deshaciéndose inmediatamente. Salvo uno, que impactó en la pared del fondo.
+Lucas volvió a mirar a la mujer. Le sangraba la nariz pero mantenía una expresión seria, inmutable.
+- ¡Bajad!
+Ajani y Lucas saltaron sobre sendas estanterías de madera. Lucas no calculó bien y tropezó, cayendo pesadamente en el suelo.
+- ¡Uff!
+Sintiendo el cosquilleo de su curación instantánea, se levantó de un salto. Ajani se dejó caer a su lado y ambos apuntaron sus armas hacia el techo, al tiempo que buscaban una cobertura.
+A pocos metros de ellos, la científica les hizo señas para que fueran a una esquina del laboratorio, mientras que con la otra mano, cubierta por un guante negro que brillaba hacia un gesto como atrayendo algo hacia si misma.
+La nube negra obedeció y se situó a un metro sobre sus cabezas.
+
+
 
 
