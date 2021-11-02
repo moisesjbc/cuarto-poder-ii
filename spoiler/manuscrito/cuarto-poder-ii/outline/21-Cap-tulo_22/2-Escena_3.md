@@ -10,6 +10,12 @@ notes:          - Puedo jugar con alguna confusión en la que Lucas (¿y Ajani?)
                 
                 "Cuando consiguen abrirlo descubren que las visiones del eran alucinaciones provocadas por un ser alienígena que sólo puede ver Lucas (**¿o Ajani también?**) para que destruyeran el Mástil que frenaba su proceso de asimilación de la Tierra."
                 
+                La científica mantuvo en secreto su control de las nanomáquinas y preparaba una ruta de escape. Un colega se apresuró a usarla pero fue capturado y llevado a una *Burbuja* (uno de los recuerdos que tiene Lucas).
+                	- ¿Por qué no hacen un túnel? Algún mecanismo que lo evite.
+                
+                
+                
+                
 label:          4
 status:         1
 compile:        2
