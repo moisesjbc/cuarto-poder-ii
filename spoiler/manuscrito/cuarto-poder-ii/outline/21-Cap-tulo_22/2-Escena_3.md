@@ -20,7 +20,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2928
+charCount:      6322
 
 
 Tras el susto inicial, la mujer sacudió la cabeza, como forzándose a reaccionar.
@@ -46,5 +46,33 @@ El africano y Lucas obedecieron y empujaron un pesado armario metálico.
 Lucas frunció el ceño pero se apresuró a ayudar a Ajani, quien ya estaba moviendo el pesado mueble hacia la posición indicada, entre la nube y ellos.
 El joven esperaba ver una trampilla secreta detrás del armario. Sin embargo, no había nada, solo una pared desnuda.
 - ¡Detrás del armario!
-La pareja obedeció y tomó cobertura detrás del mueble. La mujer los siguió y se giró hacia la pared. Con un gesto de su mano, la nube negra se abalanzó hacia la pared y comenzó a perforar un túnel que formaba un rectángulo perfecto.
-Tras avanzar unos metros en la pared, la nube siguió otro gesto de la mano de la científica y formó un techo entre el armario y el túnel. Sin que esta vez tuviera que decir nada, los dos hombres siguieron a la mujer hasta el túnel. Una vez dentro, la nube pasó entre ellos y continuó su trabajo de perforación.
+La pareja obedeció y tomó cobertura detrás del mueble. La mujer los siguió y se giró hacia la pared. Con un gesto de su mano, la nube negra se abalanzó hacia la pared y perforó un rectángulo perfecto en un abrir y cerrar de ojos.
+Al otro lado se encontraba un pasillo sin decoración y paredes, suelo y techo blancos, que avanzaba a izquierda y derecha. En el tramo visible había un efectivo de RIO que estaba agachado, apuntando su arma hacia la izquierda. Cuando se percató, miró hacia ellos sin dejar de apuntar al frente.
+- Pero qué...
+Ajani disparó rápidamente sobre el efectivo, que dejó escapar un grito antes de desplomarse en el suelo. El africano le disparó un par de veces mientras avanzaba hacia el rectángulo.
+Un segundo efectivo de RIO se asomó pero fue abatido por el africano, que nuevamente descargó varios disparos extras sobre él.
+- ¡Abrir el camino hacia la derecha! - gritó la mujer, al tiempo que ordenaba a la nube formar una pared que tapaba la sección izquierda del pasillo.
+Ajani se dispuso a asomarse al pasillo, apuntando el subfusil hacia el lado derecho.
+- ¡Yo primero! - gritó Lucas, apresurándose a asomarse al pasillo antes que el africano.
+Recibió varios disparos provenientes del pasillo cuando se asomó. Un dolor efímero pero infinito lo aturdió mientras se activaba su curación.
+Los disparos pararon unos segundos. Entonces se reanudaron pero esta vez procedían del arma de Ajani. Este se había asomado y efectuó varios tiros certeros hacia los dos sorprendidos enemigos.Los tres salieron al pasillo y avanzaron mientras la nube de humo les ofrecía cobertura de los disparos que provenían a sus espaldas.
+Cuando llegaban a donde el pasillo doblaba a izquierda y derecha, la mujer gritó.
+- ¡Hacia la derecha!
+Lucas, a pesar de saberse "inmune" a las balas, tuvo un momento de duda al pensar en el dolor que había sufrido instantes atrás. Agitó la cabeza, sacudiendo el pensamiento, y se obligó a asomarme de cuerpo entero en el nuevo pasillo.
+Nada
+Lucas dejó escapar un suspiro de alivio.
+- ¡Li-! ¡Limpio! - exclamó cuando se acordó de que no estaba solo.
+Ajani se asomó al pasillo y asintió. Avanzaron hacia la derecha y dejaron paso a la mujer. Cuando esta bordeó la esquina, dudó unos instantes y ordenó a la nube permanecer tras ellos.
+Avanzaron por un pasillo desierto pero lleno de puertas a ambos lados. Los dos hombres armados avanzaron por delante, con Lucas en cabeza. El joven se esforzaba en no cerrar los ojos cada vez que pasaba por delante de una puerta de la que podrían aparecer disparos en cualquier momento.
+De repente la mujer dejó escapar un grito y Lucas se giró rápidamente.
+Ajani había agarrado a la mujer del brazo y la había empujado contra la pared, con su brazo izquierdo aprisionando su cuello mientras que con la mano derecha pegaba su subfusil a la frente de la científica.
+La mujer dejó escapar un grito y la nube de gas se detuvo de repente. Lucas hizo el amago de apuntar su subfusil hacia Ajani, pero se detuvo. Observó la escena, atónito, sin dejar de mirar hacia el pasillo frente a ellos.
+- Pueden aparecer en cualquier momen-
+- ¿A dónde nos estás llevando? - lo interrumpió Ajani, mirando a la mujer.
+- ¿Cómo que...? A la sala del portal, por supuesto - frunció el ceño mientras miraba a su atacante durante apenas un segundo, tras lo cuál volvió a fijar los ojos, abiertos como platos, en el subfusil -. ¿No es ahí donde vais?
+- Ajani - empezó a decir Lucas -, podemos continuar caminando mientras hablamos. Los enemigos...
+- ¿Cómo sabemos que no nos llevas a una emboscada?
+- ¿Acaso te estás oyendo? - dijo la mujer, sudorosa -. ¡En ese caso sólo tenía que haberme protegido con la nube mientras os acribillaban!
+- Tiene razón Ajani...
+- ¡Los de RIO nunca son de fiar! - espetó Ajani, apretando el brazo un poco más contra el cuello de la mujer.
+Lucas observó que la nube se había acercado ligeramente y ahora permanecía un poco más cerca de ellos, a la espera.
