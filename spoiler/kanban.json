@@ -6,9 +6,29 @@
       "name": "ToDo",
       "cards": [
         {
-          "name": "Análisis semana / planificación (DESC)",
-          "details": "1. Asegurar que estamos en rama correcta.\n2. Escribir entrada diario semanal (+ commit).\n3. Planificación de la semana que viene.\n4. Exportar kanban y añadir a Git.\n5. git push\n6. Repasar documento de consejos de escritura.\n7. Devolver esta tarea a ToDo.",
-          "color": "FCE4D4"
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
         },
         {
           "name": "Ouzud, Marruecos",
@@ -70,7 +90,13 @@
     },
     {
       "name": "On going",
-      "cards": [],
+      "cards": [
+        {
+          "name": "Análisis semana / planificación (DESC)",
+          "details": "1. Asegurar que estamos en rama correcta.\n2. Planificación de la semana que viene.\n3. Exportar kanban y añadir a Git.\n4. git push\n5. Repasar documento de consejos de escritura.\n6. Devolver esta tarea a ToDo.",
+          "color": "FCE4D4"
+        }
+      ],
       "settings": {
         "limit": 2
       }
@@ -78,6 +104,26 @@
     {
       "name": "Done",
       "cards": [
+        {
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
+        {
+          "name": "200 palabras",
+          "details": "",
+          "color": "FAFCD2"
+        },
         {
           "name": "Escribir 400 palabras",
           "details": "",
