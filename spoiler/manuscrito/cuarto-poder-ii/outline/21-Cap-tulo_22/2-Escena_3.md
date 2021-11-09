@@ -20,7 +20,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6322
+charCount:      8838
 
 
 Tras el susto inicial, la mujer sacudió la cabeza, como forzándose a reaccionar.
@@ -61,7 +61,7 @@ Cuando llegaban a donde el pasillo doblaba a izquierda y derecha, la mujer grit�
 Lucas, a pesar de saberse "inmune" a las balas, tuvo un momento de duda al pensar en el dolor que había sufrido instantes atrás. Agitó la cabeza, sacudiendo el pensamiento, y se obligó a asomarme de cuerpo entero en el nuevo pasillo.
 Nada
 Lucas dejó escapar un suspiro de alivio.
-- ¡Li-! ¡Limpio! - exclamó cuando se acordó de que no estaba solo.
+- ¡Despejado! - exclamó cuando se acordó de que no estaba solo.
 Ajani se asomó al pasillo y asintió. Avanzaron hacia la derecha y dejaron paso a la mujer. Cuando esta bordeó la esquina, dudó unos instantes y ordenó a la nube permanecer tras ellos.
 Avanzaron por un pasillo desierto pero lleno de puertas a ambos lados. Los dos hombres armados avanzaron por delante, con Lucas en cabeza. El joven se esforzaba en no cerrar los ojos cada vez que pasaba por delante de una puerta de la que podrían aparecer disparos en cualquier momento.
 De repente la mujer dejó escapar un grito y Lucas se giró rápidamente.
@@ -76,3 +76,33 @@ La mujer dejó escapar un grito y la nube de gas se detuvo de repente. Lucas hiz
 - Tiene razón Ajani...
 - ¡Los de RIO nunca son de fiar! - espetó Ajani, apretando el brazo un poco más contra el cuello de la mujer.
 Lucas observó que la nube se había acercado ligeramente y ahora permanecía un poco más cerca de ellos, a la espera.
+Una mujer con el uniforme blanco de RIO se asomó en el pasillo tras ellos y disparó una ráfaga.
+Lucas se interpuso rápidamente entre Ajani y la ráfaga pero no consiguió detener todos los disparos con el cuerpo.
+La mujer profirió un grito. De un agujero su bata, a la altura del riñón, comenzó a manar sangre.
+Ajani abatió al efectivo de RIO, que cayó desplomado en el suelo. Otro efectivo, un hombre algo mayor con el mismo uniforme blanco, apareció tras ella y comenzó a disparar. La nube de gas se interpuso entre ellos y absorbió los disparos.
+Lucas miró hacia la mujer. Esta mantenía una mano temblorosa alzada.
+- Tenemos... - cerró los ojos y respiró pesadamente -. Tenemos que irnos.
+Ajani obedeció a regañadientes retrocedió con Lucas y la mujer. Al igual que el primero, apuntaba su arma hacia el frente, pero sin perder de vista el pasillo tras ellos.
+Lucas miró a la mujer con preocupación. Esta última caminaba tambaleándose frente a ellos, presionándose con la mano izquierda la zona ensangrentada.
+- ¿Hay botiquines cerca? - preguntó Lucas, al tiempo que esperaba que Ajani supiera de primeros auxilios.
+- Sí - contestó la mujer. Tardó unos segundos en continuar hablando -. La enfermería no está lejos de aquí.
+- No hay tiempo que perder - soltó Ajani -. ¿Por dónde?
+Entonces se llevó la mano a la radio.
+- ¿Kasim?
+La única respuesta fueron interferencias. Un segundo después, el africano repitió:
+- ¿Kasim?
+- Las comunicaciones están controladas... - la mujer sacudió la cabeza, sin dejar de de caminar y mirar hacia el frente - Las comunicaciones están controladas por...
+- Quita el humo.
+La mujer y Lucas se detuvieron.
+- ¿Cómo dices?
+- ¡Que quites el humo! ¡Voy a volver!
+La mujer se mordió el labio y negó con la cabeza.
+Ajani le asestó un puñetazo en la zona de la herida. La mujer dejó escapar un grito ahogado y se desplomó en el suelo. La nube de gas desapareció y Ajani volvió corriendo sobre sus pasos, al tiempo que respondía al fuego enemigo.
+Lucas se agachó junto a la mujer y miró, con los ojos abiertos como platos, al africano alejarse por el pasillo. Entonces se dispuso a agarrar a la mujer para ayudarla a incorporarse.
+- No - dijo esto, apartando el brazo de Lucas a duras penas antes de que el brazo cayera inerte -. Yo ya estoy muerta.
+Cerró los ojos y ya no los volvió a abrir.
+- ¡Eh! - la agitó Lucas - ¡Despierta!
+Pero no hubo respuesta.
+Lucas se incorporó, sintiendo mareo que desapareció en un instante.
+No ocurrió así con su desazón.
+- Y ahora - dijo en voz baja - ¿qué hago?
