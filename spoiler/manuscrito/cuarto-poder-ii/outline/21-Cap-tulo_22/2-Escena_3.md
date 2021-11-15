@@ -13,6 +13,7 @@ notes:          - Puedo jugar con alguna confusión en la que Lucas (¿y Ajani?)
                 La científica mantuvo en secreto su control de las nanomáquinas y preparaba una ruta de escape. Un colega se apresuró a usarla pero fue capturado y llevado a una *Burbuja* (uno de los recuerdos que tiene Lucas).
                 - ¿Por qué no hacen un túnel? Algún mecanismo que lo evite.
                 
+                - **Corrección**: Lucas ya conoce más o menos el camino. Añadir que Ajani mira a Lucas para confirmar las indicaciones de la mujer, y cuando Lucas tiene un momento de duda (**¿puede tenerlo? ¿No tiene un plano perfecto?**) es cuando la agrede.
                 
                 
                 
