@@ -14,9 +14,6 @@ notes:          - Puedo jugar con alguna confusión en la que Lucas (¿y Ajani?)
                 - ¿Por qué no hacen un túnel? Algún mecanismo que lo evite.
                 
                 - **Corrección**: Lucas ya conoce más o menos el camino. Añadir que Ajani mira a Lucas para confirmar las indicaciones de la mujer, y cuando Lucas tiene un momento de duda (**¿puede tenerlo? ¿No tiene un plano perfecto?**) es cuando la agrede.
-                
-                
-                
 label:          4
 status:         1
 compile:        2
