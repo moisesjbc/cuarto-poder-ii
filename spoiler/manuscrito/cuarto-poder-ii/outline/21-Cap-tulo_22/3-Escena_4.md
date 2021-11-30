@@ -24,7 +24,7 @@ notes:          - ¿O cambio que no escuche voz alguna?
 label:          4
 status:         2
 compile:        2
-charCount:      4787
+charCount:      5564
 
 
 Efectivos de RIO aparecieron por ambos lados, descargando una lluvia de balas sobre él.
@@ -67,7 +67,7 @@ La sala estaba sumida en el silencio. Las pantallas estaban apagadas y no había
 Resopló, intentando calmarse, y se asomó a la primera hilera.
 No había nadie.
 Continuó lentamente hacia la segunda hilera.
-- ¡Detrás de ti!
+De repente escuchó un golpe sordo tras de si.
 Lucas dejó escapar un grito y se giró rápidamente. Tras ella había una joven con una larga cabellera ondulada y castaña que, sin embargo, no se comparaba en nada a la de la chica de sus visiones.
 Era Elizabeth, la reportera de RIO.
 Lucas apuntó el subfusil hacia Elizabeth pero esta lo apartó de un manotazo y le propinó un puñetazo en la cara. El dolor desapareció rápidamente, pero Lucas se sintió a punto de desmayarse, al tiempo que se desplomaba en el suelo.
@@ -77,9 +77,19 @@ Lucas esquivó el ataque y lanzó una patada a la joven, que calló de culo, dej
 Lucas se reincorporó rápidamente y miró alrededor.
 "¿Qué?"
 Varios efectivos de RIO se asomaron desde detrás de dos primeras hileras y comenzaron a disparar sobre Lucas.
-- ¡A él no! - gritó Elizabeth desde su cobertura - ¡A los científicos!
-Lucas se ocultó en su hilera, sin comprender qué estaba pasando. Pasaron unos segundos hasta que la joven volvió a gritar.
-- ¡Hacedlo!
-En las hileras posteriores a Lucas se escucharon disparos ahogados y cuerpos desplomándose entre murmullos igualmente ahogados. El único grito provino de la voz que había avisado a Lucas instantes antes.
-- ¡No, no, n-ahg!
-Tras el suyo no se escucharon más cuerpos desplomándose.
+- ¡Inútiles! ¡Cogedlo!
+Varias efectivos de RIO pertrechados con material antidisturbios corrieron hacia él.
+Lucas disparó sobre ellos, pero las balas fueron inútiles para detener su avance. Cuando quiso darse cuenta los tenía prácticamente encima.
+Entonces reparó en lo pesadas que debían ser esas protecciones.
+Antes de que pudieran llegar a él, se subió al pesado mueble de madera y saltó hacia la siguiente hilera. Escuchó maldiciones ahogadas provenir de los casos de sus perseguidores, que no tuvieron más remedio que rodear su hilera.
+Avanzaban despacio pero sin pausa hacia él, dejando a uno en el sitio en caso de que Lucas intentara volver atrás haciendo lo mismo.
+"Claro", pensó este, "Cómo no".
+Entonces una imagen de su visión se grabó en su mente.
+Corrió hasta la primera hilera y se sentó en el puesto más alejado a la derecha. Una contraseña voló de su mente a sus dedos y desbloqueó el ordenador.
+Los efectivos de RIO comenzaron a correr hacia él.
+Empezó a introducir una combinación de teclas.
+- ¡Rápido! - gritó Elizabeth, al fondo de la sala.
+La pantalla se iluminó con un panel que pedía confirmación. Sí o no.
+Los pasos llegaron hasta él.
+Alguien le agarró del brazo derecho.
+Con el izquierdo confirmó la orden.
