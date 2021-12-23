@@ -10,11 +10,12 @@ notes:          - **¿Meter que Ajani quiere quedarse a matar a los de RIO pero 
                 - Los de RIO y de la Resistencia pueden seguir actuando porque no todos están infectados. Los de RIO experimentan con un mini mástil que protege al portador.
                 
                 - Aquí y/o en capítulos siguientes: empezar a poner referencias a que la Sirena no asimila a menores.
+                - Revisar si el puente no estaba destruido desde antes.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2385
+charCount:      4778
 
 
 Lucas intentó zafarse del brazo, esperando mucha más resistencia de la que recibió. Este último simplemente dejó caer el brazo, muerto.
@@ -51,4 +52,36 @@ Tenía la mirada perdida.
 - Así es.
 - ¿Quién eres?
 - Vamos.
-
+Lucas titubeó unos segundos pero entonces se puso en marcha.
+- No te preocupes - dijo la voz.
+Pero Lucas se sobresalto cuando el gas se le acercó. Este último formó una cápsula alrededor de él.
+"Un escudo", pensó Lucas.
+- Así es - dijo la voz.
+"¿Puedes leerme la mente?"
+- Sí.
+Lucas, literalmente, no sabía qué pensar. ¿Debía evitar pensar en lo que sabía de la Resistencia? ¿De Ana y los demás?
+- No soy de RIO - dijo la voz.
+El joven aún se mostraba reticente, pero entonces una lluvia de balas lo devolvió a la realidad.
+Los proyectiles se deshacían al contacto con el gas. Lucas pudo ver a través de este a varios efectivos de RIO en el puente, disparando hacia él. Al darse cuenta de la ineficacia de los disparos, los enemigos retrocedían sin dejar de apuntar hacia el joven.
+- Cuidado - dijo la voz.
+Lucas dirigió la mirada al suelo, donde yacía un cadáver de un efectivo de RIO. Tenía un agujero de bala en la cabeza.
+"¿Era de la resistencia?"
+"No, era de RIO"
+"¿Por qué lo mataron?"
+"Porque nos había aceptado".
+"¿A quiénes? ¿Cómo te llamas?"
+"Tu especie nos ha dado muchos nombres. *Sirena* es uno de los más usados".
+Una granada cayó cerca de él. Nuevamente el gas lo protegió incluso del ruido de la explosión, que llegaba hasta él como un eco distante.
+No obstante, el suelo bajo él quedó destruido por la explosión.
+- ¡Mierda! - dejó escapar Lucas.
+Cayó unos centímetros hasta que sus pies pisaron el gas, sólido como un suelo de hormigón.
+Suspiró aliviado, pero entonces comenzó a sentir un gran mareo.
+"Tranquilo, continúa caminando"
+Lucas dio unos pasos sobre la ligera pendiente ascendente que formaba el gas hasta que volvió a pisar el suelo del puente. Repitió su suspiro de alivio.
+Los efectivos de RIO retrocedieron hasta salir por puerta de la cámara, la cuál cerraron tras su paso.
+Llegó hasta la puerta y comenzó a detenerse al llegar, pero el gas avanzó y formó un túnel en esta. Los enemigos al otro lado dejaron escapar maldiciones de sorpresa y continuaron retrocediendo, esta vez a paso ligero y dándole la mayoría la espalda a Lucas.
+Entre ellos se encontraba Elizabeth.
+A través del gas, Lucas adivino una expresión de enfado en su cara.
+- ¡Atrás! ¡Retirada! - bramó.
+El grupo la siguió y se perdió tras la esquina del fondo del pasillo. Lucas los siguió, sin dejar de tener su arma preparada a pesar de no hacerle falta. Se asomó a la esquina.
+No había nadie.
