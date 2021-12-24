@@ -11,11 +11,12 @@ notes:          - **¿Meter que Ajani quiere quedarse a matar a los de RIO pero 
                 
                 - Aquí y/o en capítulos siguientes: empezar a poner referencias a que la Sirena no asimila a menores.
                 - Revisar si el puente no estaba destruido desde antes.
+                - Cuando salen de la base, ajustar descripciones con las que tenía al entrar.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4778
+charCount:      7723
 
 
 Lucas intentó zafarse del brazo, esperando mucha más resistencia de la que recibió. Este último simplemente dejó caer el brazo, muerto.
@@ -85,3 +86,43 @@ A través del gas, Lucas adivino una expresión de enfado en su cara.
 - ¡Atrás! ¡Retirada! - bramó.
 El grupo la siguió y se perdió tras la esquina del fondo del pasillo. Lucas los siguió, sin dejar de tener su arma preparada a pesar de no hacerle falta. Se asomó a la esquina.
 No había nadie.
+- Están preparado una emboscada aquí.
+"¿Aquí? ¿Aquí dón-...?
+Entonces el mapa mental que tenía de la base militar acudió a su mente sin que él pensara en él. Un punto rojo parpadeaba en un cruce de pasillos más adelante.
+"¿Qué demonios...?"
+- Es mejor que echemos por aquí.
+Las indicaciones aparecieron con un eco en su mente: izquierda, derecha, izquierda...
+Lucas las siguió sin encontrar apenas resistencia por el camino, más allá de algún que otro enemigo que descargaba munición sobre él y rápidamente se escondía, rendido, y de cadáveres en el suelo con un agujero de bala en la cabeza.
+Llegó hasta la mitad de un pasillo desierto. Según su mapa mental, la pared de la izquierda estaba marcada y ocultaba unas escaleras al otro lado.
+Sin que tuviera que decir nada, la cápsula dejó de rodearlo y abrió un túnel en la pared para volver a su cometido habitual de escudo.
+"... gracias", pensó tímidamente.
+- A ti. Tú nos liberaste.
+"Sobre eso..."
+- Después.
+Lucas subió por unas escaleras metálicas y llegó a la plantall calle de la base militar. La alarma seguía sonando, ahogada a través de la cápsula que lo envolvía. También escuchó otros ruidos conocidos.
+Fuego cruzado.
+Siguió los pasillos, visualizando las indicaciones, claras como un cielo en calma, en su cabeza.
+No tardó en llegar a las puertas por las que había entrado con Ajani.
+- ¡Ah! - dejó escapar - ¿Ajani y...?
+- Están bien.
+Lucas abrió las puertas, al tiempo que la cápsula desaparecía. La brisa de la mañana golpeó su sudorosa cara.
+"¿Qué...?"
+- ¡Alto!
+Dos militares se asomaron de las esquinas de enfrente y avanzaron hacia él. Sus ropas de camuflaje estaban llenas de tierra y agujeros.
+Lucas se permitió sonreír, al tiempo que suspiraba aliviado.
+Puso sus manos en alto y dejó que vieran su cara.
+- Soy Lucas.
+La pareja lo miró durante unos segundos. La de la izquierda, una mujer de unos cuarenta años, dejó de apuntar.
+- Es él.
+Su compañero la imitó. Acto seguido se descolgó la pequeña radio de su cintura y se la llevó a la cabeza.
+- ¿Ana? Lo encontramos - tras unos segundos dejó escapar una maldición por lo bajo. Luego suspiró - Muy bien. Vamos para allá.
+Miró a su compañera.
+- Ajani y Kasim han escapado.
+La mujer no parecía sorprendida. Se limitó a encogerse de hombros.
+- No creo que nunca consigamos capturarlos.
+Su compañero no respondió. Miró a Lucas y le hizo una señal con la mano para que lo siguiera. La pareja se puso en marcha, con sus armas en alto, seguidos por Lucas.
+Los disparos parecían escucharse desde todas las direcciones, aunque ninguno parecía estar muy cerca.
+"Genial", pensó Lucas, "Suficientes disparos por un día".
+Llegaron hasta la entrada de la base y continuaron por un camino de tierra rodeado de desierto que llegaba hasta los árboles, a unos cien metros de la base.
+Cuando estaba llegando, una figura conocida salió corriendo de los árboles hacia él. Lucas sonrió como un tonto y la imitó.
+Ana y él se fundieron en un abrazo.
