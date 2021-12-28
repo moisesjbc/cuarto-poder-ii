@@ -8,11 +8,13 @@ notes:          - A su vez Ana le cuenta que en la base rebelde los *Burbujas* e
                 - Recordar / ajustar descripciones de los subordinados.
                 - ¿Editar la escena anterior y esta para que la comunicación sea global a todos los miembros de la Resistencia presentes (menos a Lucas)?
                 - Confirmar tatuaje y su posición.
+                - Confirmar "queso **groullé**"
+                - ¿En este punto Ana ya sabe de *Sirena*? Ajustar.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3619
+charCount:      5907
 
 
 Las dos parejas se miraron fijamente durante unos segundos.
@@ -81,3 +83,36 @@ Tras unos minutos, el furgón se detuvo.
 Lucas dirigió una mirada interrogante hacia su amiga. Esta se limitó a asentir.
 - Vamos.
 Ana abrió la puerta trasera del furgón y ambos se apearon.
+Se encontraron delante de una nave abandonada y grande, de un piso de altura. Las paredes metálicas estaban completamente oxidadas, y algunas partes tenían tantos agujeros que parecía un queso groullé. Era la única construcción humana visible en la zona, a excepción de la carretera y el furgón. Todo lo demás era bosque.
+- ¡Suerte! - gritó Ana a la furgoneta que se alejaba. El conductor respondió sacando la mano por la ventana y saludando - Vamos -. Le dijo entonces a Lucas.
+Se encaminaron hacia el edificio.
+- ¿La resistencia tiene alguna propiedad que no esté en ruinas? - comentó Lucas.
+- ¿Las celdas de RIO cuentan?
+Ambos rieron, no sin sentirse culpables por ello.
+Siguió a Ana por un lateral de la nave hasta una pequeña puerta. La joven la forzó sin apenas esfuerzo y entraron en la nave.
+- Buff - Lucas se tapó la nariz - ¿A qué huele?
+No obstante, al instante dejó de sentir el hedor.
+"De nada", dijo la *Sirena*.
+Lucas vio entonces un hombre caminando delante de él y se detuvo, al tiempo que el hombre se detenía a su vez. La espalda le resultaba muy familiar.
+"Un momento..."
+Entonces se giró rápidamente y apuntó su arma.
+- ¡Tranquilo! ¡Soy amigo! - dijo el hombre, alzando los brazos.
+"Dice la verdad", confirmó la voz en la cabeza de Lucas.
+- Baja el arma - le dijo Ana -. Vive aquí -. Entonces se giró hacia el recién llegado - Hola, Felipe, ¿qué tal?
+El hombre, delgado, de unos 30 años con pelo rizado, corto y descuidado, bajó los brazos.
+- Hola, Ana. De maravilla, ¿y tú?
+- No me puedo quejar.
+Felipe asintió.
+- Tú debes ser... ¿Lucas?
+- Sí - el joven bajó su arma -. Lo siento.
+- No pasa nada. Suerte que *Sirena* te avisó. Respecto a tu pregunta, esto es una nave abandonada, como habrás podido comprobar. No disponemos de mucha agua para lujos tales como limpiar las instalaciones.
+- O ducharse - dijo Ana, sonriendo.
+Felipe asintió.
+- O ducharse.
+Lucas se mantuvo en silencio, mirando a Felipe.
+"¿Felipe te cono-?" Pero entonces sintió una corazonada. Permaneció con la mirada fija en el hombre "¿Puedes escucharme?"
+Felipe lo miró.
+"Sí", sonrió, "¿y tú?"
+Lucas frunció el ceño. Asintió.
+- ¿Qué está ocurriendo? - preguntó Ana, mirando a ambos.
+- Oh, nada - dijo Lucas, esforzándose por mostrar un gesto de despreocupación -. Que parece que tenemos telepatía.
