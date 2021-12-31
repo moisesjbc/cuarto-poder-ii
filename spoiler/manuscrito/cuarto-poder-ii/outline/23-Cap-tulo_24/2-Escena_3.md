@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2857
+charCount:      5409
 
 
 La *Sirena* asintió en señal de saludo cuando la pareja se le acercó.
@@ -54,3 +54,37 @@ La *Sirena* miró hacia él y asintió con la cabeza.
 Mientras hablaba, el vídeo del televisor hizo *zoom* en el meteorito y mostró su interior, lleno de larvas invisibles al ojo humano. El vídeo se aceleró y las larvas pasaron a convertirse en pequeños insectos voladores que formaban las paredes exteriores del meteorito y volaban a su alrededor.
 - Cuando llegamos a un nuevo planeta - mientras la *Sirena* continuaba hablando, el meteorito aterrizaba violentamente sobre la superficie terrestre -, nuestras crías abandonan el nido y buscan especímenes en los que introducirse.
 En el televisor, los insectos abandonaban el meteorito y atravesaban, sin que estos se dieran cuenta, la piel de toda clase de animales, incluidos los humanos.
+- Una vez dentro del huésped anidamos su sistema nervioso central y comenzamos a aprender la raza. Cuando obtenemos la capacidad de comunicarnos con ellos, les ofrecemos la asimilación.
+- ¿Están dentro de nosotros actualmente? - preguntó Lucas.
+- Así es.
+El joven hizo una mueca. La *Sirena* lo observó.
+- No somos muy diferentes de la población de bacterias y otros organismos que pueblan tu cuerpo.
+- Pero... ellos no tienen consciencia.
+- ¿Que tengan o no consciencia cambiaría en algo lo que hacen por ti? La consciencia no es excusa para el propósito de cada cuál.
+Lucas la observó, sin saber qué decir.
+Ana tomó el relevo.
+- ¿Y esa "asimilación" en qué consiste?
+- No dejamos de ser un extraño en el cuerpo de nuestros huéspedes. La reacción natural del organismo es intentar expulsarnos. Cuando un huésped acepta conscientemente la asimilación pasa a formar parte de nosotros.
+- Si el organismo les rechaza debe ser por algo - objetó Ana.
+- Vacunas, ejercicio físico regular, una buena alimentación... - la *Sirena* sonrió -. Vuestra raza es experta, consciente o inconscientemente, en rechazar lo que es bueno para ellos.
+Ana asintió con la cabeza.
+- No puedo discutir eso.
+- ¿Y qué...? - comenzó a decir Lucas - ¿...qué ocurre con el libre albedrío? ¿con lo que nos hace ser nosotros mismos?
+- Pasarían a formar parte de mí pero no perderían su autonomía. Podría decirse que mi influencia es como el hambre o el sueño. Son estados a los que no pueden resistirse, pero no por ello dejan de ser ustedes mismos.
+Ana y Lucas se miraron.
+- ¿Y nuestra privacidad? - dijo la primera - Si cualquiera puede entrar en nuestra mente, adiós a los secretos.
+- Tampoco perderán esa capacidad. Si hay algo que no quieran compartir con los demás se quedará con ustedes. Siempre que no afecte negativamente a otra persona.
+- ¿Quién decide lo que afectará negativamente o no?
+- Todos nosotros en conjunto.
+- No me fío de las decisiones de la mayoría - comentó Ana.
+- En nuestra experiencia, las mayorías sólo votan en contra del bien común cuando están desconectados de las verdades implicaciones de sus acciones.
+- ¿A qué te refieres?
+- ¿Dispararías a alguien de *RIO*?
+- Sí.
+- ¿Y si antes de eso sintieras el dolor del disparo? ¿La sensación de pérdida y la desolación de sus padres y sus seres queridos?
+- Eso no cambia lo que ha hecho.
+- ¿Lo haría si sintiera el dolor que causan?
+Ana fue a protestar, pero entonces calló. Lucas intervino.
+- ¿Qué hay de mis visiones? ¿Qué es ese extraño planeta?
+La *Sirena* sonrió.
+- Pensábamos que nunca lo preguntarías.
