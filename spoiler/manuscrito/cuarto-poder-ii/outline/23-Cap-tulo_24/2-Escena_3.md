@@ -7,11 +7,13 @@ notes:          - "Al día siguiente reciben informes de gente que ha enloquecid
                 
                 - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
                 - "La asimilación debe ser aceptada por un ser adulto".
+                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
+                - Sustituir X.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5409
+charCount:      7641
 
 
 La *Sirena* asintió en señal de saludo cuando la pareja se le acercó.
@@ -87,4 +89,30 @@ Ana y Lucas se miraron.
 Ana fue a protestar, pero entonces calló. Lucas intervino.
 - ¿Qué hay de mis visiones? ¿Qué es ese extraño planeta?
 La *Sirena* sonrió.
-- Pensábamos que nunca lo preguntarías.
+- Pensábamos que nunca lo preguntarías. Ese planeta es uno de los asimilados, y te sincronizaste temporalmente con uno de sus habitantes.
+- Entonces... ¿ya estoy "asimilado"? Pensaba que tenía que dar mi consentimiento.
+- Y así es. En todas las razas hay un pequeño porcentaje de la población cuyas defensas ante mis crías son casi nulas y, aún sin dar el consentimiento, experimentan algunas de las ventajas de una asimilación completa.
+- Vaya - dijo Lucas -. Eso es malo, ¿no? ¿Qué ocurre si no quiero la asimilación? ¿Qué ocurre con cualquiera que no la acepte?
+- Las personas que no acepten la asimilación seguirán su vida como siempre, conviviendo con nosotros, y no perderán la oportunidad de cambiar de idea y aceptarnos en el futuro. En cuanto a tu resistencia reducida, no es necesariamente algo malo. Peor sería si tus defensas fueran mayores a la media.
+- ¿Por qué?
+- Sufrirías jaquecas.
+Lucas meditó unos segundos.
+- Entiendo - dijo finalmente -.
+- ¿Qué me dices de los ataques que se están produciendo por todo el mundo? - dijo Ana tras unos segundos -. ¿No tienes nada que ver con los arrebatos de rabia que experimentan las personas, atacándose las unas a las otras.
+- No son obra nuestra.
+- Me parece mucha casualidad. Empezaron poco tiempo después de que Lucas te liberara.
+- Reconozco que la casualidad no se puede obviar - asintió -. Pero no he tenido que ver con ello.
+- ¿Y no puedes controlarlos? ¿Evitar que dejen de atacarse?
+- Lamentablemente no. Nuestras crías no pueden entrar en ellos, y los asimilados tampoco parece ser capaces de acercarse a ellos.
+- Entenderás que esto también nos resulte sospechoso, ¿no?
+- Así es. Pero se me ocurre algo.
+- Tú dirás.
+- Si pudieran capturar a uno de esos violentos y llevarlo a X podríamos analizarlo.
+- ¿Qué hay en X?
+- Una comunidad de asimilados.
+- Has dicho que los asimilados no pueden acercarse a los "violentos" - dijo Ana -.
+- Así es, pero allí disponemos de tecnología que puede ayudarnos. Se los explicaré cuando lleguen. Si es que deciden darme esa oportunidad.
+La *Sirena* miró hacia Lucas. Este último le devolvió la mirada y se encogió de hombros.
+- Ella es la que manda - dijo, señalando a Ana -.
+La *Sirena* miró entonces hacia Ana.
+- Está bien - dijo esta tras unos segundos - Lo haremos.
