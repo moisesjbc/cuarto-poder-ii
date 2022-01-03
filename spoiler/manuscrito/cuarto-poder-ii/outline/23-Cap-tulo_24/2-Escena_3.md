@@ -9,6 +9,7 @@ notes:          - "Al día siguiente reciben informes de gente que ha enloquecid
                 - "La asimilación debe ser aceptada por un ser adulto".
                 - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
                 - Sustituir X.
+                - ¿Mencionar las *Burbujas*?
 label:          4
 status:         1
 compile:        2
