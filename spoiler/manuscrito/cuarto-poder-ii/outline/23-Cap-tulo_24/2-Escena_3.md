@@ -10,6 +10,7 @@ notes:          - "Al día siguiente reciben informes de gente que ha enloquecid
                 - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
                 - Sustituir X.
                 - ¿Mencionar las *Burbujas*?
+                - Preguntar por la capacidad regenerativa de Lucas y por qué los demás no la tienen.
 label:          4
 status:         1
 compile:        2

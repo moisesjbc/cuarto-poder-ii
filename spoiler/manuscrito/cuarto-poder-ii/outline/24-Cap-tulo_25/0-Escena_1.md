@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2221
+charCount:      5085
 
 
 Lucas se agarró con fuerza a Ana, a pesar de que su amiga llevaba la moto con tranquilidad. A ambos lados de la carretera de tierra, los grandes árboles iban quedándose atrás con el suficiente tiempo para apreciar su belleza.
@@ -44,3 +44,47 @@ A unos 500  metros frente a ellos, el bosque cedía para dejar paso a una extens
 - Parece una aldea - comentó Lucas, bajándose de la moto.
 - O una zona de guerra - añadió Ana, señalando al cielo sobre las construcciones, al tiempo que también se apeaba de la moto.
 Grandes columnas de humo emergían de entre los edificios y oscurecían el cielo del mediodía.
+- Parece que hay una, dos, tres... - Ana continuó contando - ..., nueve y diez calles de ancho. Y otras tantas de profundidad. No veo gente en las calles.
+- No hay muros exteriores - añadió Lucas -. No parece que sea una *Burbuja*. ¿No?
+- La *Resistencia* no tiene registros de este sitio, al menos. Pero quién sabe. Toma.
+Ana le cedió unos binoculares.
+- Te dejo elegir por dónde entraremos.
+- Tiene que ser una broma.
+- No, no lo es. ¿Por qué?
+- No tengo ninguna experiencia en estas incursiones. Sólo he ido a una *Burbuja* y mira cómo salió.
+- Confío en ti.
+- No voy a poder convencerte de lo contrario, ¿verdad?
+- *Nope*.
+Lucas suspiró.
+- Está bien, pero yo iré delante.
+- ¿Y tienes experiencia para eso?
+- *Nope*, pero regenero las heridas de bala. ¿Tienes tú de eso?
+- Yo suelo esquivarlas.
+Lucas la miró a los ojos. Su amiga le devolvió la mirada con expresión seria durante unos segundos, pero entonces sonrió.
+- Está bien, está bien. Usted delante.
+Lucas observó la aldea. Tampoco veía a nadie, pero distinguió manchas de sangre en las paredes de las casas.
+"Perfecto", pensó.
+Intentó recordar sus entrenamientos con la *Resistencia* y con Ajani, pero no recordó nada para estas situaciones. "¿Por dónde...?"
+- ¿Y bien? - dijo Ana, a sus espaldas.
+- Un momento.
+- ¿Estás esperando a la noche?
+- Podría ser una opción, sí.
+- Lo sería si tuviéramos visión nocturna. He visto bastantes farolas rotas.
+- Oh - Lucas verificó lo dicho con los binoculares. Efectivamente, la aldea debería estar a oscuras durante la noche -. Ya te he dicho que no tengo experiencia en esto y...
+- Tranquilo - Ana se puso a su lado -. ¿Qué es lo que se te ocurre, así, de primeras?
+Lucas suspiró y continuó estudiando la aldea unos segundos más.
+- Diría... no sé, ¿por una de las esquinas?
+- Ajá, ¿por qué?
+- Sería más fácil (creo) controlar a los enemigos que nos disparen, suponiendo que quede alguien con vida y tengan armas - señaló con la mano -. Si entráramos por la esquina de la derecha, todos los de esta "cara" de la aldea nos quedaría a la izquierda, y los que pudieran asomarse por la otra cara nos quedarían en línea recta.
+Ana asintió.
+- No está mal. ¿Y qué esquina sugieres?
+La de la derecha.
+- No es la mejor opción - dijo una tercera voz.
+La pareja dio un respingo y miraron hacia su derecha. La *Sirena* se encontraba de pie al lado de ellos.
+- Esa zona está llena de violentos - dijo.
+- No veo a nadie.
+- Tranquilo, no te asustes - dijo la *Sirena*, mirando hacia Lucas.
+- ¿Qué...? ¡Ah!
+Lucas recibió un empujón, como si una fuerte ráfaga de viento lo tirara hacia delante. Dio unos pasos hacia delante y mantuvo el equilibrio como pudo. Miró hacia atrás y vio a Ana y la *Sirena* mirando hacia una tercera persona.
+Era él mismo.
+- **¿O directamente la *Sirena* lo transporta a uno de los asimilados? ¿O no queda ninguno (o no están asimilados) en la aldea?**
