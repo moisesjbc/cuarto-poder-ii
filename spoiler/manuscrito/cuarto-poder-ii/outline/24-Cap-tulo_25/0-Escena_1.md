@@ -5,11 +5,12 @@ summaryFull:    Lucas y Ana viajan a la ciudad más cercana dónde se ha reporta
 POV:            0
 notes:          Ana y Lucas debaten sobre lo que la Sirena les ha contado. Deciden recabar toda la información posible y aceptar ir a donde les indica la Sirena.
                 - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
+                - Definir nombre de la calle X.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5085
+charCount:      7188
 
 
 Lucas se agarró con fuerza a Ana, a pesar de que su amiga llevaba la moto con tranquilidad. A ambos lados de la carretera de tierra, los grandes árboles iban quedándose atrás con el suficiente tiempo para apreciar su belleza.
@@ -83,8 +84,39 @@ La de la derecha.
 La pareja dio un respingo y miraron hacia su derecha. La *Sirena* se encontraba de pie al lado de ellos.
 - Esa zona está llena de violentos - dijo.
 - No veo a nadie.
-- Tranquilo, no te asustes - dijo la *Sirena*, mirando hacia Lucas.
+- Permíteme - dijo la *Sirena*.
 - ¿Qué...? ¡Ah!
-Lucas recibió un empujón, como si una fuerte ráfaga de viento lo tirara hacia delante. Dio unos pasos hacia delante y mantuvo el equilibrio como pudo. Miró hacia atrás y vio a Ana y la *Sirena* mirando hacia una tercera persona.
-Era él mismo.
-- **¿O directamente la *Sirena* lo transporta a uno de los asimilados? ¿O no queda ninguno (o no están asimilados) en la aldea?**
+Lucas se encontraba de repente agachado tras un coche, en medio de una calle, pero ya no era él mismo.
+Era Martín, ciudadano de la aldea, 50 años, de complexión fuerte. De repente todo en aquel lugar era conocido para él. Sabía dónde estaba el médico, el colegio, dónde comprar pan... También identificó dónde Lucas se encontraba actualmente: estaba hacia sus nueve.
+Su calle era interior y perpendicular con respecto a donde estaba mirando Lucas. Era normal que no se vieran.
+La *Sirena* estaba a su lado, en medio de la carretera.
+- Mira - señaló hacia delante.
+Martín asomó ligeramente la cabeza y observó en dicha dirección.
+Había un grupo de cinco personas, todos adultos, unas tres manzanas frente a él. Caminaban ocupando la carretera y las aceras, alejándose de Martín.
+- ¿No se atacan entre ellos? - preguntó el hombre.
+- Así es - dijo la Sirena.
+"¡Mis hijos!", se escuchó decir para sus adentros.
+Martín parpadeó y volvió a ser Lucas, de pie, a una distancia segura de la aldea. Sintió un ligero mareo y se llevó la mano a la cara.
+- ¿Estás bien? - preguntó Ana a su lado.
+- Sí - dijo Lucas, mirando hacia ella. Se fijó en que tenía la mano en la barriga -, ¿tú estás bien?
+- Sí, sólo un poco mareada. He estado en la piel de una ciudadana de la aldea, María. Hay un grupo de violentos cerca de la tienda de Manolo y... - entonces se detuvo y miró hacia Lucas.
+- ¿Un chico de 27 años, rubio, lleva la tienda de la calle X?
+Ana lo miró con expresión interrogante pero entonces asintió.
+- También has "entrado" dentro de alguien, ¿no?
+- Sí, Martín.
+- Entiendo.
+- Son los dos grupos de violentos que hemos identificado - dijo la *Sirena*.
+- Pero estaban en movimiento - dijo Lucas -. No sabremos si estarán en el mismo sitio cuando lleguemos a la aldea.
+- Pueden entrar en ellos, y unos pocos ciudadanos más de la aldea cuando quieran.
+- Vaya, no sé si podré soportar tantos cambios.
+Lucas se llevó la mano a la cabeza.
+- ¿Seguro que estás bien? - le dijo Ana.
+- Sí, es que estos cambios entre identidades... He pasado a tener dos hijos más - bromeó -. Los de Martín - aclaró, cuando vio la cara de Ana.
+- Las primeras veces son así - dijo la *Sirena* -. Con el tiempo será natural.
+- Si aceptamos la asimilación - dijo Ana.
+La *Sirena* sonrió.
+- Por supuesto.
+- ¿Cualquier persona podría entrar en nosotros? - preguntó Lucas.
+- Sólo si aceptan la asimilación, y sólo si ustedes quieren.
+- ¿Y Martín y María? - dijo Ana - ¿Ellos querían?
+- Lo quisieron en cuanto pidieron ayuda para ellos y sus familias.
