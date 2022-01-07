@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7188
+charCount:      9476
 
 
 Lucas se agarró con fuerza a Ana, a pesar de que su amiga llevaba la moto con tranquilidad. A ambos lados de la carretera de tierra, los grandes árboles iban quedándose atrás con el suficiente tiempo para apreciar su belleza.
@@ -120,3 +120,35 @@ La *Sirena* sonrió.
 - Sólo si aceptan la asimilación, y sólo si ustedes quieren.
 - ¿Y Martín y María? - dijo Ana - ¿Ellos querían?
 - Lo quisieron en cuanto pidieron ayuda para ellos y sus familias.
+La pareja guardó silencio.
+- Entiendo - dijo Ana -. Bueno, en marcha -. Empezó a caminar con paso decidido hacia la aldea.
+- ¡Espera! - dijo Lucas, intentando alcanzarla -. ¿Por dónde iremos entonces?
+- Sigue siendo tu responsabilidad.
+Lucas dejó escapar un suspiro.
+- Está bien, espera al menos antes de salir de los árboles.
+Ana asintió. Lucas se concentró.
+"En fin, vamos allá"
+Al instante volvía a ser Martín. Estaba oculto en su casa bajo una mesa, abrazando a sus hijos.
+- Sólo voy a asomarme a la ventana. Será un momento - no sólo hablaba con los niños, sino también con su huésped, en caso de que lo escuchara.
+- ¡No, papá! - gritó uno de los niños en un susurro.
+- ¡No! - se le aferró el otro.
+Martín se libró del agarre con suavidad pero con firmeza.
+- Sólo será un momento - dijo Martín, ya liberado e incorporándose. No pudo evitar que se le hiciera un nudo en el estómago al escuchar los sollozos de sus criaturas.
+"¿Los niños no están asimilados?"
+"La asimilación debe ser aceptada por un ser adulto"
+"Entiendo", dijo Lucas, corriendo las cortinas con sumo cuidado.
+Desde su piso en la planta calle no llegaba a ver a gran distancia.
+"Quizás pueda subir a una de las plantas superiores y pedirle a los vecinos que..."
+"Ni hablar", dijo la voz del verdadero Martín, "no pienso separarme de mis hijos otra vez".
+Asintió y miró hacia la derecha. Nada.
+Entonces miró hacia la izquierda. El grupo de violentos que había visto antes estaba llegando hasta su ventana. Portaban tuberías, palas y otros objetos contundentes.
+Tanto las armas como ellos mismos estaban cubiertos de sangre.
+Uno de ellos miró hacia él y Martín se ocultó rápidamente intentando no hacer ruido.
+- ¿Papá...? - comenzó a decir uno de sus hijos.
+Martín hizo aspavientos con las manos exigiéndoles silencio.
+Pasaron unos instantes en los que el único ruido que podía escuchar Martín eran los latidos de su corazón, acelerándose.
+- ¡Hay gente aquí! - gritó alguien desde la calle.
+Una fuerza empujó a Lucas y lo devolvió a su cuerpo. Se tambaleó ligeramente, mareado, pero enseguida comenzó a correr hacia la aldea, sin apenas observar los alrededores en busca de enemigos o trampas.
+- ¡Lucas! - gritó Ana a sus espaldas, poniéndose en movimiento - ¿Qué ocurre?
+- ¡Tenemos que salvar a mi familia!
+- ¡Espera!
