@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2374
+charCount:      6190
 
 
 Lucas irrumpió corriendo en la aldea, con sus pasos y los de Ana sobre el asfalto resonando en las calles desiertas.
@@ -39,3 +39,42 @@ Lucas asintió ligeramente y alzó la cabeza con igual suavidad. Frente a él el
 - No hay nadie.
 - Muy bien - dijo Ana asomándose al pasillo -. Levántate.
 El joven obedeció y se incorporó pesadamente.
+Tan acostumbrado como estaba al familiar ruido metálico que lo curaba, se sintió abrumado por la presión del pecho que no desaparecía.
+Durante un segundo pensó en volver rápidamente a la calle para curarse, pero entonces un grito lo devolvió a la realidad.
+Era el grito de su hijo.
+Se dispuso a correr pasillo adentro pero una mano lo detuvo. Ana lo arrastró hacia ella, a un lado de la puerta.
+- ¿Qué haces? ¡Mi hijo...!
+- ¡No es tu hijo! - gritó Ana.
+La joven cerró los ojos y suspiró, manteniendo la presa sobre su amigo.
+- Yo también he sentido que tengo una familia aquí dentro, pero no es real. Son las vidas de otras personas.
+- ¡Pero...!
+- Escucha, Lucas. No los vamos a abandonar, pero necesito que mantengas la cabeza fría. Ese gordo de ahí no te hubiera derribado tan fácilmente si hubieras recordado tu entrenamiento.
+El joven la miró a los ojos y suspiró.
+Ana lo soltó.
+- Está bien, vamos.
+La pareja se internó en el piso y avanzó los pocos metros del pasillo de la entrada.
+Ana, en cabeza, redujo la marcha cuando llegaban a lo que parecía ser el salón. Entraron en una amplia estancia, presidido por un un sofá de 3 plazas volcado en el suelo, y dos sillones a los lados, con un pequeño mueble frente a ellos. Frente al mueble, una tele yacía rota en el suelo.
+- ¡Estamos en la cocina! - gritó una voz que Lucas reconoció como la suya propia, pero que era la de Martín.
+La voz provenía de la puerta que se encontraba en el extremo de la estancia opuesto al por el que habían entrado.
+Lucas miró a su amiga, esperando su permiso. Esta asintió y ambos avanzaron hasta situarse a cada lado de la puerta que daba a la cocina.
+Ana se asomó a la cocina y a duras penas paró con el brazo el cuchillo que se dirigía hacia su cabeza.
+- ¡Hijo de puta! - espetó - ¡detrás tuya!
+Lucas dejó escapar un grito cuando el acero se le clavó en la espada. Pegó un codazo hacia atrás y su codo tembló cuando encontró la carne de su atacante.
+Una mujer de unos cincuenta años cayó de culo, con la cara ensangrentada. Lucas sintió un gran mareo y se tambaleó, pero logró apuntar el arma hacia la mujer.
+- Quieta - dijo Lucas con un suspiro.
+Pero la mujer se puso en pie de un salto y corrió hacia él.
+El joven resopló y le pegó dos tiros en el pecho, haciendo que la mujer se desplomara.
+Otro disparo se escuchó a sus espaldas. Ana había conseguido disparar a su atacante en el muslo derecho y este había caído también sobre el suelo de la cocina pero, ignorando el dolor, se puso en pie y cojeaba hacia Ana.
+Ana le lanzó un puñetazo pero otra mujer apareció desde la cocina y le lanzó un ataque con un bate de baseball. Ana retrocedió y Lucas se apartó a duras penas para no tropezar con ella.
+En ese momento sintió un dolor inmenso recorrer todo su cuerpo cuando alguien extrajo el cuchillo de su espalda.
+Lucas volvió a lanzar otro codazo al tiempo que se daba la vuelta, pero su ataque fue esquivado. El nuevo atacante se encontraba a dos metros de él y le lanzó un cuchillazo hacia el pecho. Lucas lo esquivó y disparó a la cabeza, haciendo que el hombre se desplomara.
+Ana efectuó otro disparo a la mujer, que soltó el bate antes de caer muerta. Lucas apuntó al hombre que cojeaba.
+- ¡No! - gritó Ana, antes de lanzar un puñetazo que dejó al violento inconsciente.
+- Necesitamos a uno vivo, ¿recuerdas? - dijo Ana, girándose hacia él - ¡Lucas!
+Lucas abrió los ojos como platos. Ni siquiera recordaba haber soltado la pistola.
+- Me han... - comenzó a decir Lucas, fallándole las palabras - me han apuñalado en la espalda.
+Ana se acercó a él y lo agarró antes de que se desplomara.
+- Vamos fuera.
+- Mis hi- - comenzó a decir. Suspiró -. ¿Los hijos de Martín están bien?
+Una segunda persona agarró a Lucas por el otro lado. Entre Ana y él lo llevaron hacia la salida.
+- Sí, están bien - dijo Martín, llorando - Gracias.
