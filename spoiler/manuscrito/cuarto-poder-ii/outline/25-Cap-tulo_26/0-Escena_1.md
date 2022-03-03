@@ -2,10 +2,9 @@ title:          Escena 1
 ID:             128
 type:           md
 summaryFull:    Ana y Lucas transportan al violento hasta una ciudad cercana. Cuando llegan a las puertas de la ciudad escuchan las {W:16:Notas de xilófono}. Parte del pueblo les abre la puerta y sale a recibirles de manera amistosa. Les invitan a pasar.
-                ---> **He unido las escenas, pero a lo mejor puedo separarlas en otro punto**
-                Los habitantes de la *Burbuja* ayudan a a Ana y Lucas a llevar al violento a la plaza y usan las {W:16:Notas de xilófono} con él. La Sirena indica a Lucas cómo infectarlo y pide un tiempo para "entrar en él".
+                
+                -> **¿La Sirena no puede simplemente mentirle?**
 POV:            0
-notes:          - Mientras lo llevan a la plaza la Sirena les explica que se trata de una *Burbuja* desactivada. Allí han convergido antiguos ciudadanos de la misma "para construir un pequeño paraíso" usando la señal que los de RIO emitía para controlar la red.
 label:          4
 status:         1
 compile:        2
