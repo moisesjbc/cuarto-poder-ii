@@ -16,7 +16,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2868
+charCount:      4346
 
 
 Los altos muros empezaron a vislumbrarse en la distancia frente a ellos.
@@ -53,4 +53,22 @@ Las tres mujeres sonrieron al vehículo que se marchaba. La más joven desaparec
 A los pocos segundos, el portón comenzó a cerrarse pesadamente.
 - Puede que sea "inmortal" - dijo Lucas -. Pero esto no me gusta nada.
 - Te entiendo - respondió Ana -. Lo que viviste en la *Burbuja* no fue una experiencia para repetir.
-El vehículo continuó su marcha en solitario por la avenida de un carril. A ambos lados de la carretera habían unos pocos coches aparcados. No había ninguna persona a la vista, salvo unas pocas que empezaban a verse al fondo, donde la carretera parecía bicurcarse para dejar paso a una plaza.
+El vehículo continuó su marcha en solitario por la avenida de un carril. A ambos lados de la carretera habían unos pocos coches aparcados. No había ninguna persona a la vista, salvo unas pocas que empezaban a verse al fondo, donde la carretera parecía bifurcarse para dejar paso a una plaza.
+Había un pequeño grupo de unas veinte personas de todas las edades reunido allí. Todos miraban hacia la furgoneta y sonreían.
+- ¿No son pocos? - dijo Lucas, mirándolos fijamente para luego mirar a los alrededores.
+- ¿Pocos?
+- La *Burbuja* no es muy grande, pero aquí deberían vivir más de veinte personas.
+- Pues ahora que lo dices...
+- Los demás permanecen en sus casas - dijo la voz de la *Sirena* en sus cabezas - No era necesario que estuvieran aquí.
+Lucas pegó un respingo en su asiento. Ana cerró los ojos y agarró con fuerza el volante.
+- ¡No hagas eso!
+- Lo sentimos.
+"Me pregunto sí...", comenzó a pensar Lucas, cuando de repente se encontraba sentado viendo la tele con su familia. Era Lucía y vivía pegada a la plaza, con vistas a esta.
+Se sobresaltó en su asiento, pero su marido, a su izquierda, apenas se inmutó. Limitándose a sonreír. Sus hijos de tres y cuatro años y sentados a su derecha, sin embargo, pegaron un salto. El pequeño empezó a llorar.
+- ¡Lo siento mi vida! - dijo con voz femenina. Se inclinó hacia su hijo para acariciarlo pero entonces volvió a ser Lucas,  sentado en el puesto del copiloto junto a Ana. Resopló y sonrió para sus adentros. Segundos después era Luís, vecino de Lucía, y luego Marcos. Segundos después era Lidia.
+- Vaya saltos has dado - dijo Ana -. ¿No estás mareado?
+- No, qué raro. ¿Tú sí?
+- Un poco.
+- Lo siento - dijo Lucas sin mirar a Ana -. Tenía que asegurarme.
+- Lo comprendemos - dijo la *Sirena* -. Cuando quieran.
+721
