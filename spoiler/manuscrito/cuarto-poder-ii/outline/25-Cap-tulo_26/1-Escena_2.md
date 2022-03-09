@@ -6,17 +6,20 @@ summaryFull:    Los habitantes de la *Burbuja* ayudan a a Ana y Lucas a llevar a
                 Ana y Lucas charlan sobre lo ocurrido y Ana se plantea si el virus puede tener realmente buenas intenciones cuando de repente Ana empieza a sangrar por la nariz y se desmaya.
 POV:            0
 notes:          - Mientras lo llevan a la plaza la Sirena les explica que se trata de una *Burbuja* desactivada. Allí han convergido antiguos ciudadanos de la misma "para construir un pequeño paraíso" usando la señal que los de RIO emitía para controlar la red.
+                    - Si la Sirena puede comunicarse en cualquier momento con ellos ¿tiene sentido que lo haga ahora "de sopetón"?
                 - Durante la conversación ambos muestran más empatía el uno por el otro, casi como si pudieran hablar sin palabras y la Sirena les habla de la mente enjambre y la unidad.
                 - Lucas se plantea si realmente puede tener privacidad con la Sirena escuchando todo a través de él.
                 - ¿Es la primera vez que Ana dice que no culpa a Lucas? Si ya lo ha hecho, reformular el "No te culpo, Lucas".
                 - **Si están llevando a un violento no deberían poder acceder a la *Sirena*. Corregir esto en el capítulo de Martín para que la *Sirena* no tenga problema en vigilar a los violentos ni Lucas en comunicarse con Martín**
                 - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
                 - Tenéis / tienen para la segunda persona -> ajustar en toda la historia según el hablante sea canario o no.
+                - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
+                	- ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4346
+charCount:      6747
 
 
 Los altos muros empezaron a vislumbrarse en la distancia frente a ellos.
@@ -71,4 +74,32 @@ Se sobresaltó en su asiento, pero su marido, a su izquierda, apenas se inmutó.
 - Un poco.
 - Lo siento - dijo Lucas sin mirar a Ana -. Tenía que asegurarme.
 - Lo comprendemos - dijo la *Sirena* -. Cuando quieran.
-721
+Sin dejar de echar miradas furtivas a los congregados en la plaza, Lucas acompañó a Ana hasta la parte de atrás de la furgoneta. Imitando a su amiga, preparó su arma  en caso de que el violento hubiera despertado.
+Siguiendo otra indicación de Ana, Lucas abrió la puerta de la furgoneta con cuidado y ambos miraron dentro.
+No pudo evitar dejar escapar un suspiro de alivio cuando comprobó que el violento seguía inconsciente.
+La pareja se metió en la parte de atrás de la furgoneta. El joven esperó a que Ana comprobara las esposas.
+- Están bien.
+Agarraron al violento de los brazos y lo auparon. El movimiento, más brusco de lo que Lucas hubiera deseado, tampoco lo despertó.
+Llevaron al esposado fuera y lo encaminaron por la pequeña plaza, escoltados a ambos lados por sendos grupos de tres personas.
+Cuando llegaron al centro, un hombre los esperaba con una jeringuilla en la mano.
+Se la ofreció a Lucas.
+- ¿Qué es eso?
+- Es una colonia concentrada de nuestras crías. La transmisión aérea es insuficiente para entrar en él.
+Lucas hizo una mueca. La jeringuilla contenía lo que parecía ser un líquido muy espeso y negro.
+El hombre volvió a ofrecerle la jeringuilla. Lucas se quedó mirándola.
+- Miedo a las jeringuillas. Ya veo.
+- Bueno, tanto como miedo...
+Ana sonrió.
+- Vaya con el inmortal.
+Tomó la inyección y la acercó al inconsciente.
+Una explosión cercana los lanzó por los aires. Lucas dejó escapar un grito cuando golpeó el suelo. Un pitido ensordecedor le taladraba los oídos, y la visión borrosa apenas le dejaba distinguir a las personas corriendo de un lado a otro.
+Se incorporó pesadamente.
+Se sentía gritar el nombre de Ana una y otra vez pero no escuchaba la voz que debía estar saliendo de él.
+Miró a su lado y la localizó tumbada a unos metros de él. Sin dejar de mirar a su alrededor intentando interpretar en vano el caos reinante, se acercó lentamente a ella.
+Las piernas apenas le respondían, y no había ningún sonido metálico que le curara las heridas.
+- ¿Dónde...? ¿Dónde estás? - preguntó, esperando que la *Sirena* le hablara.
+Pero no obtuvo respuesta.
+Ana comenzó a incorporarse pesadamente y Lucas esbozó una pequeña sonrisa, pero esta desapareció cuando vio la cara de su amiga.
+Borbotones de sangre le manaban de la nariz.
+Ana miró a Lucas y se llevó la mano a la nariz. Entonces se miró la mano cubierta en sangre.
+Dijo algo que Lucas no pudo escuchar y cayó inconsciente.
