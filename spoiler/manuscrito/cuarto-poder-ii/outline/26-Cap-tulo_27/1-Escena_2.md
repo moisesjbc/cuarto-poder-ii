@@ -1,8 +1,10 @@
 title:          Escena 2
-ID:             135
+ID:             136
 type:           md
-summaryFull:    Lucas intenta huir con Ana de la *Burbuja* pero todas las salidas están bloqueadas. Entonces consigue llegar al centro de control y hacer sonar las {W:16:Notas de xilófono} pero no ocurre nada. Ana continúa empeorando y Lucas decide pedir ayuda a {W:0:RIO}.
+summaryFull:    Lucas consigue resistir a duras penas cuando es rescatado por los de RIO. Estos estabilizan a Ana y están transportándolos cuando el convoy es atacado y la ambulancia en la que viajan se sale de la carretera.
 POV:            0
+notes:          - Meter en alguna parte que los de RIO o alguien le enseña a Lucas el cerebro de un asimilado lleno de insectos ("destruyen el cerebro hasta que no queda nada").
+                - "¿Por qué no preguntas a Jonás si mentimos?"
 label:          4
 status:         1
 compile:        2

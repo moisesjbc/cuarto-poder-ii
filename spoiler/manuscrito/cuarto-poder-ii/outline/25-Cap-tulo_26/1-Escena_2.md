@@ -6,7 +6,7 @@ summaryFull:    Los habitantes de la *Burbuja* ayudan a a Ana y Lucas a llevar a
                 Ana y Lucas charlan sobre lo ocurrido y Ana se plantea si el virus puede tener realmente buenas intenciones cuando de repente Ana empieza a sangrar por la nariz y se desmaya.
 POV:            0
 notes:          - Mientras lo llevan a la plaza la Sirena les explica que se trata de una *Burbuja* desactivada. Allí han convergido antiguos ciudadanos de la misma "para construir un pequeño paraíso" usando la señal que los de RIO emitía para controlar la red.
-                    - Si la Sirena puede comunicarse en cualquier momento con ellos ¿tiene sentido que lo haga ahora "de sopetón"?
+                - Si la Sirena puede comunicarse en cualquier momento con ellos ¿tiene sentido que lo haga ahora "de sopetón"?
                 - Durante la conversación ambos muestran más empatía el uno por el otro, casi como si pudieran hablar sin palabras y la Sirena les habla de la mente enjambre y la unidad.
                 - Lucas se plantea si realmente puede tener privacidad con la Sirena escuchando todo a través de él.
                 - ¿Es la primera vez que Ana dice que no culpa a Lucas? Si ya lo ha hecho, reformular el "No te culpo, Lucas".
@@ -14,7 +14,7 @@ notes:          - Mientras lo llevan a la plaza la Sirena les explica que se tra
                 - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
                 - Tenéis / tienen para la segunda persona -> ajustar en toda la historia según el hablante sea canario o no.
                 - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
-                	- ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
+                - ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
 label:          4
 status:         1
 compile:        2
