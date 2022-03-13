@@ -15,7 +15,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2631
+charCount:      5126
 
 
 - ¡Ana! ¡Ana! ¡Ana!
@@ -46,3 +46,30 @@ Con la otra mano giró el pomo y la puerta se abrió.
 "Imbécil", sonrío para sus adentros.
 Empujó la puerta y entró rápidamente en el edificio.
 Avanzó unos metros y dejó a Ana en el suelo. Se dirigió a la puerta abierta para cerrarla, pero en ese momento una joven de unos treinta años empujó la puerta, embistiendo a Lucas.
+Cayeron sobre la espalda de él y ella le le comenzó a arañar la cara, los ojos inyectados en sangre.
+El joven le dio un rodillazo en la barriga y la tiró hacia atrás. La mujer se puso de pie de un salto, al igual que Lucas. Este último se abalanzó hacia su pistola y apuntó hacia su atacante y apretó el gatillo.
+No pasó nada.
+- ¡Mierda!
+La mujer corrió hacia él y Lucas le tiró el arma a la cara con toda la fuerza que pudo. El golpe surtió efecto y la mujer cayó al suelo inconsciente.
+Lucas corrió hacia la puerta y la cerró, no sin antes ver que un numeroso grupo avanzaba hacia la iglesia.
+Cerca de la puerta localizó un soporte alargado con unas velas. Lo agarró y bloqueó la puerta con él.
+Pocos segundos después comenzó a escuchar los golpes en la puerta junto con los gritos de ira.
+Llegó hasta donde estaba Ana, se la cargó y caminó hasta el altar.
+"¡Por favor, por favor, por favor"
+Subió los escalones y dio la vuelta a la pesada mesa de madera. Sonrió al ver la trampilla abierta tras esta.
+Una escalera de caracol bajaba hacia las negras profundidades. Se obligó a esperar unos segundos, en silencio, pero era incapaz de distinguir cualquier ruido que proviniera desde las profundidades. Lo único que escuchaba era los golpes y gritos provenientes del exterior de la iglesia.
+Lucas resopló.
+"No me queda otra"
+Comenzó a bajar las escaleras con Ana a hombros y no tardó en sumirse en la más completa oscuridad.
+En cualquier momento se veía dando un paso en falso y cayendo con su amiga de manera torpe.
+Por suerte no fue así.
+Los golpes y los gritos comenzaron a escucharse cada vez más ahogados sobre su cabeza, pero un ruido resaltó sobre todos los demás: unas puertas cediendo a los ataques.
+Siguió bajando completamente a oscuras hasta que la negrura se convirtió en penumbra.
+- Ya llegamos, Ana, ¡aguanta! - dijo por lo bajo.
+Pero no hubo respuesta alguna.
+Llegó a una puerta metálica abierta por completo que daba a una pequeña sala alargada y estrecha. Había escritorios metálicos a ambos lados con ordenadores, y grandes pantallas colgaban de las paredes sobre estos.
+Delante de cada ordenador había una silla de oficina ocupada por un cadáver.
+Cada uno de los presentes tenía un agujero de bala en la cabeza. Lucas avanzó hacia la primera silla de la derecha y empujó el cadáver con la pierna. Cuando este calló al suelo, colocó a Ana en la silla.
+Seguía inconsciente.
+Corrió hacia la puerta e intentó cerrarla, pero la cerradura estaba completamente reventada.
+- Cómo no.
