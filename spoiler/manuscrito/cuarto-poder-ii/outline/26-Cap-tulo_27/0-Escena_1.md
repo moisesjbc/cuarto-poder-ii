@@ -15,7 +15,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5126
+charCount:      6482
 
 
 - ¡Ana! ¡Ana! ¡Ana!
@@ -67,9 +67,28 @@ Los golpes y los gritos comenzaron a escucharse cada vez más ahogados sobre su 
 Siguió bajando completamente a oscuras hasta que la negrura se convirtió en penumbra.
 - Ya llegamos, Ana, ¡aguanta! - dijo por lo bajo.
 Pero no hubo respuesta alguna.
-Llegó a una puerta metálica abierta por completo que daba a una pequeña sala alargada y estrecha. Había escritorios metálicos a ambos lados con ordenadores, y grandes pantallas colgaban de las paredes sobre estos.
+Llegó a una puerta metálica abierta por completo que daba a un pequeño pasillo de hormigón, alargado y estrecho. Lo recorrió rápidamente hasta llegar a otra puerta metálica abierta que daba a una estancia cuadrada. Había escritorios metálicos a lo largo de las paredes laterales y del fondo, y grandes pantallas colgaban de las paredes sobre estos.
 Delante de cada ordenador había una silla de oficina ocupada por un cadáver.
 Cada uno de los presentes tenía un agujero de bala en la cabeza. Lucas avanzó hacia la primera silla de la derecha y empujó el cadáver con la pierna. Cuando este calló al suelo, colocó a Ana en la silla.
 Seguía inconsciente.
 Corrió hacia la puerta e intentó cerrarla, pero la cerradura estaba completamente reventada.
 - Cómo no.
+Comenzó a empujar los escritorios cercanos contra la puerta con bastante esfuerzo.
+"Esto no va a ser suficiente", se dijo.
+Al otro lado de la puerta y hacia arriba escuchó gritos ahogados.
+Había otra pequeña puerta en la estancia pero daba a un pequeño aseo.
+"Sin salida", resopló Lucas.
+"Tendré que pedir ayuda"
+Dio unas zancadas hasta Ana e intentó hablar por su radio, pero no hubo respuesta alguna.
+Miró las pesadas paredes y techo de hormigón que lo envolvía y asintió lentamente.
+"¿Y ahora qué hago?
+Comenzó a caminar por la estancia observando los alrededores
+"¿Qué hago? ¿qué hago? ¿qué hago?"
+Entonces reparó en un pequeño armario sobre uno de los escritorios del fondo de la estancia. Tenía un candado de combinación reventado.
+Lo abrió.
+"Jamás imaginé sentirme feliz por esto", sonrió para sí.
+El armario contenía pistolas y munición.
+Unos gritos se escucharon al otro lado de la puerta bloqueada y se acercaban rápidamente a esta. Lucas dio un respingo cuando empezaron a golpear el metal con furia.
+Lucas corrió hacia Ana y arrastró su silla hacia el fondo de la sala.
+Seguía sin responder.
+Escuchó el tumulto al otro lado de la puerta y miró la pistola en su mano y la munición sobre el escritorio cercano.
