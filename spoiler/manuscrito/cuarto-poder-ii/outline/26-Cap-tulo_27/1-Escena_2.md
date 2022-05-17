@@ -6,11 +6,12 @@ POV:            0
 notes:          - Meter en alguna parte que los de RIO o alguien le enseña a Lucas el cerebro de un asimilado lleno de insectos ("destruyen el cerebro hasta que no queda nada").
                 - "¿Por qué no preguntas a Jonás si mentimos?"
                 - ¿Liberar algún gas?
+                - ¿Lucas pregunta por máscaras de gas pero no están o la llave ha desaparecido?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1451
+charCount:      2617
 
 
 "Estaremos ahí en quince minutos" había dicho la chica de la videoconferencia antes de colgar sin dar tiempo a responder.
@@ -32,3 +33,21 @@ Tecleó algo en su ordenador y se recostó en su asiento, mirando fijamente a Lu
 En toda la estancia resonaron tres notas graves y cortas de xilófono, seguida de una larga y aguda.
 No tuvo ningún efecto. Los gritos y golpes al otro lado de la puerta no cesaron en ningún momento.
 - ¿Contento?
+El joven no respondió.
+- Hay un mecanismo de emergencia que libera un gas en el exterior de la estancia en la que te encuentras. Debería dormirlos en pocos segundos.
+- Pero la puerta está abierta y no puedo cerrarla.
+- Pues me temo que tendrás que buscar un sitio cómodo.
+Lucas miró la puerta.
+"Si no he conseguido cerrarla hasta ahora..."
+Volvió a mirar a Ana unos instantes y luego a cámara.
+- Está bien.
+Su interlocutora le guió por los pasos necesarios hasta que llegó a una pantalla que pedía confirmación para liberar el gas.
+Lucas negó con la cabeza.
+"Mierda"
+Pulsó el botón y se acomodó en su silla. Se quito la camiseta y se la colocó tapándose boca y nariz.
+- Dulces sueños.
+La mujer sonrió antes de cortar la conexión.
+El joven se quedó mirando la pantalla unos instantes con una mueca de disgusto.
+Una pequeña alarma comenzó a sonar en la estancia. A los pocos segundos, los golpes en la puerta comenzaron a remitir rápidamente y fueron sustituidos por el ruido de cuerpos cayéndose.
+Pasaron otros segundos hasta que la vista de Lucas se comenzó a nublar. Se tambaleó en su sitio y se acomodó sobre el respaldo de su silla.
+No tardó en verlo todo negro.
