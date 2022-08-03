@@ -7,11 +7,12 @@ notes:          - Meter en alguna parte que los de RIO o alguien le enseña a Lu
                 - "¿Por qué no preguntas a Jonás si mentimos?"
                 - ¿Liberar algún gas?
                 - ¿Lucas pregunta por máscaras de gas pero no están o la llave ha desaparecido?
+                - **Pensar mejor la distribución de la ambulancia (¿u otro vehículo?) y sus ocupantes**
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2617
+charCount:      3652
 
 
 "Estaremos ahí en quince minutos" había dicho la chica de la videoconferencia antes de colgar sin dar tiempo a responder.
@@ -51,3 +52,14 @@ El joven se quedó mirando la pantalla unos instantes con una mueca de disgusto.
 Una pequeña alarma comenzó a sonar en la estancia. A los pocos segundos, los golpes en la puerta comenzaron a remitir rápidamente y fueron sustituidos por el ruido de cuerpos cayéndose.
 Pasaron otros segundos hasta que la vista de Lucas se comenzó a nublar. Se tambaleó en su sitio y se acomodó sobre el respaldo de su silla.
 No tardó en verlo todo negro.
+- - -
+El tambaleo lo despertó, quién sabe cuánto tiempo después.
+Lucas abrió los ojos solo para cerrarlos al instante, cegado por la luz.
+Dejó escapar un suspiro de disgusto al tiempo que se tapaba la cara con el dorso de la mano.
+Fue abriendo los ojos y retirando la mano al unísono, poco a poco, como si temiera quedarse ciego.
+Se encontraba sentado en la parte de atrás de una amplia ambulancia, bañada por un potente foco colgado del techo.
+Frente a él, Ana yacía inconsciente sobre una camilla.
+Lucas trató de incorporarse rápidamente, pero dos pares de manos lo retuvieron. Sendos militares con pasamontañas lo sujetaban sin apenas esfuerzo y lo obligaron a sentarse de nuevo.
+- Tranquilo - dijo una voz femenina -. Ya te hubiéramos matado si no fueras tan valioso ahora mismo.
+Miró a su izquierda. Sentada sobre un pequeño asiento en la pared delantera de la ambulancia se encontraba una joven esbelta. Vestida de militar pero sin pasamontañas, su larga cabellera ondulada y castaña caía libre sobre sus hombros.
+Era Elizabeth.
