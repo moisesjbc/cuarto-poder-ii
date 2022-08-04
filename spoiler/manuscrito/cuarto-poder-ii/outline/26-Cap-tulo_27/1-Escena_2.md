@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3652
+charCount:      3611
 
 
 "Estaremos ahí en quince minutos" había dicho la chica de la videoconferencia antes de colgar sin dar tiempo a responder.
@@ -58,8 +58,8 @@ Lucas abrió los ojos solo para cerrarlos al instante, cegado por la luz.
 Dejó escapar un suspiro de disgusto al tiempo que se tapaba la cara con el dorso de la mano.
 Fue abriendo los ojos y retirando la mano al unísono, poco a poco, como si temiera quedarse ciego.
 Se encontraba sentado en la parte de atrás de una amplia ambulancia, bañada por un potente foco colgado del techo.
-Frente a él, Ana yacía inconsciente sobre una camilla.
-Lucas trató de incorporarse rápidamente, pero dos pares de manos lo retuvieron. Sendos militares con pasamontañas lo sujetaban sin apenas esfuerzo y lo obligaron a sentarse de nuevo.
-- Tranquilo - dijo una voz femenina -. Ya te hubiéramos matado si no fueras tan valioso ahora mismo.
-Miró a su izquierda. Sentada sobre un pequeño asiento en la pared delantera de la ambulancia se encontraba una joven esbelta. Vestida de militar pero sin pasamontañas, su larga cabellera ondulada y castaña caía libre sobre sus hombros.
+Frente a él, Ana yacía inconsciente sobre una camilla. Una mujer de unos cincuenta años se encontraba de pie a su lado, observándola.
+Lucas trató de incorporarse rápidamente pero entonces sintió una pistola en la sien.
+- Tranquilo - dijo una voz femenina -. Ya te hubiéramos matado si no fueras tan valioso ahora mismo. Pero tampoco tientes la suerte.
+Miró a su izquierda. Sentada a su lado se encontraba una joven esbelta. Vestida de militar pero sin pasamontañas, su larga cabellera ondulada y castaña caía libre sobre sus hombros.
 Era Elizabeth.
