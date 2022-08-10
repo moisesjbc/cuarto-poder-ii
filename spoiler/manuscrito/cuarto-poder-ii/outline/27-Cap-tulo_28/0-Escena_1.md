@@ -4,12 +4,13 @@ type:           md
 summaryFull:    Un grupo ataca la caravana y los de RIO y Lucas son rápidamente superados. En medio de la confusión una chica se acerca a Ana y Lucas la mata. Entonces descubre que se trata de un médico de la Resistencia.
 POV:            0
 notes:          - La Resistencia quiere evitar a toda costa que Ana sea capturada por RIO.
-                
+                - Elizabeth le habla de resistencia natural, ella tiene más como Jonás y pronto empezarán las jaquecas. Lucas tiene menos y morirá antes
+                - Mencionar la bolsa de cadáveres del suelo.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      895
+charCount:      2742
 
 
 Lucas miró a Elizabeth fijamente antes de volver a mirar a Ana y la doctora.
@@ -24,5 +25,21 @@ Lucas frunció el ceño. Elizabeth miró a la doctora y asintió. Esta última p
 - ¡¿Qué haces?!
 El joven se incorporó, pero su captora le propinó un fuerte puñetazo en la cara. Un ardor le inundó la boca y Lucas se limpió la sangre, mareado.
 La doctora extrajo una pequeña muestra de sangre de Ana y se dirigió a una mesita en una las esquinas traseras de la ambulancia. Liberó una pequeña parte bajo un microscopio.
-Permaneció de pie y miró a Lucas. Este miró a Elizabeth.
+Permaneció de pie y miró a Lucas. Este último dudó y miró a Elizabeth.
 - Adelante.
+Se levantó mirando de reojo a Elizabeth, con el sabor a sangre todavía muy presente.
+Avanzó hacia el microscopio y antes de mirar por este, ya notó algo raro: la pequeña muestra de sangre situada en este tenía un tono grisáceo.
+Con una mueca, miró a través del instrumento.
+Flotando junto a los glóbulos rojos se encontraban infinidad de diminutos insectos metálicos. Algunos se movían con gran rapidez esquivando los glóbulos rojos, mientras otros se adherían a ellos.
+Lucas apartó la cabeza y negó con la cabeza, parpadeando. Luego miró otra vez para confirmar.
+- ¿Qué te parece? - preguntó Elizabeth, recostada en su asiento.
+El joven esperó unos segundos antes de contestar. Entonces recordó su conversación con la *Sirena*.
+- Esto no quiere decir nada - Lucas no estaba seguro de si estaba intentando convencer a Elizabeth a o a si mismo -. La *Sirena* ya nos explicó que nos anida, pero el objetivo...
+- "Hacernos alcanzar nuestro mayor esplendor" - lo interrumpió Elizabeth -. Ya. ¿Y cómo pretende hacerlo si nos mata antes?
+- ¿De qué hablas?
+- ¿No te parecieron muchos insectos para una muestra tan pequeña de sangre? La *Sirena* sólo está interesada en reproducirse cuanto más mejor, y la salud del huésped le da igual mientras cumpla su objetivo. ¿Crees acaso que te queda mucho de vida?
+A Lucas se le hizo un nudo en la garganta.
+- ¿Qué...?
+Elizabeth miró a la doctora y asintió. Esta se agachó junto a la bolsa de cadáveres y la abrió, dejando al descubierto la cabeza de una mujer poco mayor que Lucas. De sus ojos, nariz, orejas y boca  brotaba un líquido gris oscuro.
+Lucas retrocedió unos pasos y se llevó una mano al estómago. Sintió náuseas.
+Entonces se llevó una mano temblorosa a la boca. Introdujo dos dedos por donde recibió el puñetazo y los sacó cubiertos de un rojo grisáceo más oscuro que la sangre de Ana.
