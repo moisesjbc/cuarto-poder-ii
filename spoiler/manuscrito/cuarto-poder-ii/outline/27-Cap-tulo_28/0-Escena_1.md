@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2742
+charCount:      3637
 
 
 Lucas miró a Elizabeth fijamente antes de volver a mirar a Ana y la doctora.
@@ -43,3 +43,16 @@ A Lucas se le hizo un nudo en la garganta.
 Elizabeth miró a la doctora y asintió. Esta se agachó junto a la bolsa de cadáveres y la abrió, dejando al descubierto la cabeza de una mujer poco mayor que Lucas. De sus ojos, nariz, orejas y boca  brotaba un líquido gris oscuro.
 Lucas retrocedió unos pasos y se llevó una mano al estómago. Sintió náuseas.
 Entonces se llevó una mano temblorosa a la boca. Introdujo dos dedos por donde recibió el puñetazo y los sacó cubiertos de un rojo grisáceo más oscuro que la sangre de Ana.
+- ¿Me crees ahora?
+- No... no puede ser.
+- No todo el mundo es capaz de reconocer que se ha metido en una secta suicida, ¿a que  no? - sonrió Elizabeth.
+- No... no te creo. ¡Mienten!
+- ¿De verdad crees eso?
+- Vendieron al mundo que Inglaterra planeaba invadir Estados Unidos.
+Ambos se miraron a los ojos unos segundos. Elizabeth asintió.
+- Ahí debo reconocer que me has pillado - esperó un instante antes de seguir -. Escucha, no te voy a vender que somos los buenos. Nuestras intenciones sean puras. Pero es mejor un mundo con *RIO* que un mundo infectado donde la gente no pasa de los 50 años. Tienes que...
+- ¿Voy a morir a los 50?
+- Tendrás suerte si pasas de los 35 años.
+El joven negó con la cabeza. "5 años...".
+- Pero acabas de decir 50.
+- 50 años es una estimación de lo máximo que puede resistir alguien el virus. Por desgracia para ti, eres especial, Lucas. Pero especial en lo malo.
