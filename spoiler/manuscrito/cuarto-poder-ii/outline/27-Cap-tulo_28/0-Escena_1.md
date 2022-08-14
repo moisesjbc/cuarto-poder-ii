@@ -5,13 +5,13 @@ summaryFull:    Un grupo ataca la caravana y los de RIO y Lucas son rápidamente
 POV:            0
 notes:          - La Resistencia quiere evitar a toda costa que Ana sea capturada por RIO.
                 - Elizabeth le habla de resistencia natural, ella tiene más como Jonás y pronto empezarán las jaquecas. Lucas tiene menos y morirá antes
-                	- Recordar que Elizabeth se lo explique, que aquí se interrumpe.
+                - Recordar que Elizabeth se lo explique, que aquí se interrumpe.
                 - Mencionar la bolsa de cadáveres del suelo.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4497
+charCount:      6455
 
 
 Lucas miró a Elizabeth fijamente antes de volver a mirar a Ana y la doctora.
@@ -64,5 +64,32 @@ El vehículo comenzó a girar hacia un lateral.
 Lucas buscó algo a lo que agarrarse pero fue tarde. El impacto lo lanzó por los aires y chocó violentamente contra una de las paredes del vehículo.
 Había logrado cubrirse la cabeza a duras penas, pero los brazos y el tronco se llevaron un buen golpe. Un ardor seguido por una oleada de dolor recorrió todo su cuerpo.
 No hubo sonido sanador.
-Aturdido, miró a su alrededor.
-Elizabeth y la doctora también yacían en el suelo, inmóviles. La primera se levantó con esfuerzo y abrió las puertas traseras. Varios disparos impactaron contra estas, pero la joven respondió a los disparos y salió al exterior.
+Cayó sobre su pecho en el suelo. Dejó escapar un quejido y se obligó a mantenerse consciente. Abrió los ojos con esfuerzo.
+Se encontraba orientado hacia las puertas traseras. Una papelera había volcado y expulsado sus contenidos por todo el suelo de la ambulancia.
+Lucas distinguió  un objeto alargado frente a él. Era un bisturí.
+Alargó la mano y...
+- ¿Estás bien? - dijo Elizabeth a su espalda.
+Lucas permaneció inmóvil.
+- Sí - dijo la doctora -. Eso creo.
+- Vamos, levántate.
+El joven terminó de alargar la mano, rápidamente pero en silencio, y alcanzó el bisturí. Lo ocultó bajo su mano y permaneció quieto.
+"¿Me habrán visto?"
+Notó a las dos mujeres incorporarse tras ella.
+- Yo voy a cubrir la salida - dijo Elizabeth -. No pueden recuperar a Ana, ¿ok? SI la cosa se tuerce...
+- Entendido.
+Lucas refrenó su impulso de incorporarse y permaneció inmóvil. Unos pasos resonaron a su lado y se encaminaron hacia las puertas traseras.
+Elizabeth abrió una de la puertas y asomó la cabeza, pero la ocultó rápidamente cuando unos disparos impactaron sobre la ambulancia. Lucas entrecerró los ojos cuando esta volvió a mirar hacia atrás.
+- Prepárate.
+Elizabeth volvió a girarse y comenzó a disparar para responder al fuego enemigo.
+- ¡Queremos hablar!
+Pero los disparos no cesaron.
+Lucas se movió lo más cuidadosamente que pudo para mirar tras suya. Ana yacía en el suelo. La doctora permanecía agachada a su lado rebuscando por el suelo. Se hizo con una jeringuilla y un pequeño bote. Se incorporó y comenzó a preparar la inyección.
+No había reparado en Lucas.
+Sin pensarlo dos veces, Lucas se incorporó tan rápido que un gran mareo se apoderó de él. Corrió tambaleándose hacia la doctora, que dio un respingo al ver al joven.
+- ¡No!
+Lucas se chocó contra la doctora y le clavó el bisturí en el cuello. Consiguió mantener el equilibrio y se tiró sobre Ana, tapándola.
+Miró a Elizabeth, que los estaba apuntando con la pistola. Miró a Lucas y soltó una maldición, bajando el arma.
+Un quejido ahogado se escuchó tras lucas.
+La doctora mantenía una mano ensangrentada tapándose el cuello pero poco podía hacer para detener la hemorragia. Liberó la mano y miró fijamente a Lucas.
+- Te... te perdono.
+Y entonces se desplomó.
