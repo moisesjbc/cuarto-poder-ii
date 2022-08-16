@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4040
+charCount:      4038
 
 
 - Parece que te subestimé - dijo Elizabeth, asintiendo con la cabeza.
@@ -51,7 +51,7 @@ Lucas miró hacia atrás. El soldado lloraba desconsoladamente, abrazándose al 
 A Lucas se le hizo un nudo en el estómago.
 - Era una espía de la resistencia.
 Miró al soldado que lo apuntaba. Este asintió, enfadado.
-- Deberíamos matarte. Nos has condenado a todos - dijo la superiora, dirigiéndose a Lucas pero sin dejar de apuntar a Ana -. Esos locos han destruido multitud de bases de la Resistencia - entonces se dirigió a un pequeño grupo de soldados que acercaba -. Cojan a Ana.
+- Deberíamos matarte. Nos has condenado a todos - dijo la superiora, dirigiéndose a Lucas pero sin dejar de apuntar a Ana -. Esos locos han atacado multitud de bases de la Resistencia - entonces se dirigió a un pequeño grupo de soldados que acercaba -. Cojan a Ana.
 Lucas abrió los ojos como platos. Dejó pasar a los soldados y tragó antes de preguntar.
 - ¿Noemí? ¿Lara...?
 - Han desaparecido. Su base también fue atacada.
