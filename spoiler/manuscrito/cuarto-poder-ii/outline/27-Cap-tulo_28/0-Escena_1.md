@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6455
+charCount:      6468
 
 
 Lucas miró a Elizabeth fijamente antes de volver a mirar a Ana y la doctora.
@@ -58,7 +58,7 @@ El joven negó con la cabeza. "5 años...".
 - Pero acabas de decir 50.
 - 50 años es una estimación de lo máximo que puede resistir alguien el virus. Por desgracia para ti, eres especial, Lucas. Pero especial en lo malo.
 - ¿A qué te...?
-Un disparo resonó con fuerza y rompió un cristal cercano. Los presentes se agacharon rápidamente, mientras Elizabeth se dirigía hacia las ventanillas de las puertas traseras.
+Un disparo resonó con fuerza y rompió un cristal cercano. Los presentes se agacharon rápidamente, mientras Elizabeth se dirigía hacia la pequeña ventanilla que daba al asiento del piloto.
 El vehículo comenzó a girar hacia un lateral.
 - ¡Agárrense! - gritó.
 Lucas buscó algo a lo que agarrarse pero fue tarde. El impacto lo lanzó por los aires y chocó violentamente contra una de las paredes del vehículo.
