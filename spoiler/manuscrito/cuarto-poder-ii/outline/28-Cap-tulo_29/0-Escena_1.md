@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1512
+charCount:      2137
 
 
 La silueta de la base comenzó a aparecer y acapararlo todo a medida que los furgones llegaban y se detenían frente a ella.
@@ -23,4 +23,13 @@ Siguió a los dos que transportaban a Ana y entró en la base. Avanzaron por pas
 De vez en cuando se cruzaban con otro efectivo de RIO que miraba a Lucas y apartaban la vista con desprecio. Otros avanzaban hacia él pero entonces sacudían la cabeza y se marchaban, acelerando el paso.
 "No les culpo"
 Cuando se acercaban a la enfermería Lucas escuchó unos pasos tras suya que corrían hacia él.
-Se giró justo a tiempo de esquivar el puñetazo de Jonás.
+Se giró justo a tiempo de esquivar el puñetazo de Jonás. También le realizó una llave y lo inmovilizó, pero lo soltó enseguida en cuanto lo reconoció.
+- Lo siento.
+Jonás lo miró durante unos instantes, sorprendido. Entonces volvió a apretar los puños.
+- ¡¿Se puede saber en qué estabas pensando?! ¡Nos has mandado a todos a la mierda!
+- ¿Se... se sabe algo de Noemí y Lara?
+- ¡No! ¡No sabemos dónde están y si están vivas o muertas! ¡Por tu culpa!
+- Yo lo... no sabía lo que estaba haciendo.
+- ¡Ya lo creo que no lo sabías! - lo interrumpió Jonás - ¡No tenías ni puta idea!
+Lucas esperó antes de continuar.
+- Ajani, Kasim y yo intentábamos contactar con el planeta de mis visiones.
