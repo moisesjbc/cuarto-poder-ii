@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2137
+charCount:      2855
 
 
 La silueta de la base comenzó a aparecer y acapararlo todo a medida que los furgones llegaban y se detenían frente a ella.
@@ -32,4 +32,16 @@ Jonás lo miró durante unos instantes, sorprendido. Entonces volvió a apretar 
 - Yo lo... no sabía lo que estaba haciendo.
 - ¡Ya lo creo que no lo sabías! - lo interrumpió Jonás - ¡No tenías ni puta idea!
 Lucas esperó antes de continuar.
-- Ajani, Kasim y yo intentábamos contactar con el planeta de mis visiones.
+- Ajani, Kasim y yo intentábamos contactar con el planeta de mis visiones. Parecía ser clave para acabar con RIO.
+Jonás rió con desprecio.
+- ¡No se puede acabar con RIO! ¡Ya deberías saberlo!
+- No... no lo creo. Tienen miedo y...
+- Has liberado un virus que va a acabar con todos nosotros, no solo con RIO - bufó -. Inhabilitar el Mástil, ¡qué gran plan maestro!
+Aplaudió sarcástico. Lucas hizo una mueca.
+- ¿Qué es el Mástil?
+Jonás calló unos segundos y negó con la cabeza. Lucas intentó desviar el tema.
+- He oído que estás buscando a tu hermana y a Noemí. Quiero ayudar.
+Jonás volvió a negar con la cabeza sin decir nada.
+- Por favor - dijo Lucas -. Necesito encontrarlas y saber que están bien.
+Jonás suspiró.
+- Dudo que lo estén - Tras unos instantes añadió -: salimos en veinte minutos.
