@@ -6,15 +6,11 @@ POV:            0
 notes:          - **¿O no le cuenta nada y la única confesión de su pasado en RIO es en el capítulo 26 cuando la Resistencia debate sobre si colaborar con RIO o no?**
                 - **Lucas puede preguntarle por lo que Elizabeth le dijo en el {T:127:Capítulo 22}: "¿Por qué no le preguntas a Jonás si mentimos?**
                 - Jonás le recalca lo peligrosa que es la Sirena.
-                
-                
-                
-                Jonás y su equipo es tentado por RIO y por la Sirena misma para estudiar el efecto del virus en personas. El equipo comienza a seguir esta línea de investigación, sentando el origen de las primeras *Burbujas* (2022), pero Jonás comienza a sufrir jaquecas casi a diario. Durante uno de los experimentos de control, el equipo es afectado por este y RIO descubre que están infectados. Al darse cuenta de que Jonás parece resistirse al virus y que incluso parece tener la capacidad de interactuar con él empiezan a investigar con él, amenazando con dañar a Lara, ahora secuestrada, si no coopera. Sospechando que la resistencia a la Sirena pueda ser cosa de familia, {W:0:RIO} infecta a Lara en secreto y la observa. Al mismo tiempo RIO inyecta nanomáquinas en el cerebro de Jonás para monitorizarlo.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4165
+charCount:      5856
 
 
 El denso bosque se extendía en todas las direcciones hasta donde alcanzaba la vista. Lucas bajaba con cuidado por una pendiente con barro, aferrándose a cada tronco que se le acercaba.
@@ -63,4 +59,16 @@ Cuando empecé a investigar la *Sirena* hace años, RIO sólo podía sospechar e
 - ¡Nunca!
 Lucas dio un respingo. Los otros efectivos se pararon y miraron para Jonás, pero este puso las manos en alto. No había ni rastro del gas.
 Jonás continuó caminando.
-- Nunca hubiera infectado a Lara. Pero durante los experimentos mi equipo y yo nos infectamos sin querer.
+- Nunca hubiera infectado a Lara. Pero durante los experimentos mi equipo y yo nos infectamos sin querer. Y resultó que no solo yo tenía una resistencia mayor al virus, sino que podía interactuar con él.
+- ¿Interactuar con él?
+- Una especie de interfaz humano - mente colmena. Si inhibíamos la comunicación de una pequeña colonia de esos insectos con el resto, podíamos *hackear* la señal y ser yo el que les diera las órdenes.
+- ¿El "humo negro" son esos insectos?
+- En una mitad, sí. La otra mitad son nanomáquinas que inhiben la señal y actúan como esa interfaz que comentaba. También recolectan datos para aprender a comportarse como los insectos de la *Sirena* y así pudiéramos dejar de depender de esta.
+- Entiendo. Entonces Lara...
+- Una vez vi que me estaba empezando a afectar personalmente fue cuando empecé a negarme a colaborar con RIO, y entonces fueron a por mi hermana. También sospechaban, como yo, que mi resistencia al virus podría ser cosa de familia - Jonás calló unos instantes, cabizbajo -. Entonces fue cuando la secuestraron y la infectaron. Y yo pasé "ascendí" de investigador jefe a investigador cobaya.
+- ...ya veo... lo siento - Lucas también esperó unos instantes antes de continuar -. Lo que has dicho de esas nanomáquinas inhibiendo la comunicación y ofreciendo esa interfaz persona - mente colmena... ¿es lo que sucede en las *Burbujas*?
+- Así es. Los... sujetos, son inyectados con esas nanomáquinas, y estas "escuchan" al centro de control de la *Burbuja*. Entonces nanomáquinas y *Sirena* trabajan codo con codo para someter a los infectados a hacer lo que desee RIO.
+- Pero entonces... ¡oh!
+Lucas se frenó en seco. El resto de los presentes se detuvieron y lo observaron. El joven miraba fijamente a un árbol cercano.
+- Hijas...
+Una lágrima cayó por su rostro.
