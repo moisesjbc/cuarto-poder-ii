@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5856
+charCount:      7255
 
 
 El denso bosque se extendía en todas las direcciones hasta donde alcanzaba la vista. Lucas bajaba con cuidado por una pendiente con barro, aferrándose a cada tronco que se le acercaba.
@@ -72,3 +72,26 @@ Jonás continuó caminando.
 Lucas se frenó en seco. El resto de los presentes se detuvieron y lo observaron. El joven miraba fijamente a un árbol cercano.
 - Hijas...
 Una lágrima cayó por su rostro.
+Jonás miró el árbol e hizo una mueca.
+- Sólo son rayones sin sentido.
+Lucas negó con la cabeza, sonriente.
+- No, no lo son. En la *Burbuja* Noemí y yo inventamos un código para señalizar caminos. Jugábamos a esconder cualquier chorrada en un lugar del pueblo y dejábamos señales ocultas que llevaban a ello. Intentamos que Lara lo aprendiera, pero le parecía una tontería - rió.
+Jonás sin embargo, estaba cabizbajo y con semblante serio.
+- ¿Qué ocurre, Jonás?
+Este último se agachó y movió las hojas de una pequeña planta para que Lucas lo viera.
+Había gotas de sangre reseca en algunas de las hojas.
+- Date prisa.
+- ¡Sí! Lucas miró los cortes en el tronco del árbol.
+- Sigamos recto.
+Continuaron unos cien metros atentos a todos los árboles hasta que uno de los efectivos que lo acompañaban se detuvo.
+- ¡Aquí!
+- Gracias - dijo Lucas, acercándose al árbol -. Derecha.
+El grupo siguió esa y otras señales durante diez minutos.
+- ¡Espera, nos dejamos una atrás! - gritó Jonás desde atrás.
+Lucas negó con la cabeza y siguió caminando.
+- ¿Cuántos puntos tiene la señal? Cuenta sólo los puntos, no las rayas.
+- Tres.
+- Si el dibujo tiene un número impar de puntos, es una señal falsa.
+- Ya veo.
+Continuaron siguiendo las pistas otros veinte minutos donde todos los integrantes del grupo aprendieron las señales por repetición.
+O así fue hasta que se detuvieron ante una señal que no habían visto antes.
