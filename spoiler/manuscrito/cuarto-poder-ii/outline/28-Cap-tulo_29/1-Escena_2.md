@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7255
+charCount:      7817
 
 
 El denso bosque se extendía en todas las direcciones hasta donde alcanzaba la vista. Lucas bajaba con cuidado por una pendiente con barro, aferrándose a cada tronco que se le acercaba.
@@ -95,3 +95,10 @@ Lucas negó con la cabeza y siguió caminando.
 - Ya veo.
 Continuaron siguiendo las pistas otros veinte minutos donde todos los integrantes del grupo aprendieron las señales por repetición.
 O así fue hasta que se detuvieron ante una señal que no habían visto antes.
+Lucas se detuvo ante el tronco del árbol y observó la señal. Rápidamente alzó la cabeza mientras decía:
+- Arriba.
+El resto lo imitó. La densa copa del árbol no mostraba más que un entramado de diferentes tonos verdes y marrones. Los presentes pasearon la vista de extremo a extremo durante unos instantes que parecieron una eternidad. De repente, uno gritó.
+- ¡Allí!
+El resto siguió con la mirada su dedo índice hasta una sección de la copa donde a simple vista no había nada. Hasta que vieron lo mismo que él.
+De una de las ramas colgaba un brazo.
+No se movía.
