@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1332
+charCount:      2620
 
 
 Jonás materializó un disco del gas negro y lo usó para alzarse rápidamente hasta la rama.
@@ -31,3 +31,23 @@ Lucas miró a Jonás. Este se había quedado quieto mirando a su hermana.
 Los demás miraron hacia arriba. Desde la rama se asomaba una chica poco más joven que Lara, de cara redondeada y mechones rubios y rizados colgando. Tenía la cara sucia y también con algunos cortes, pero sonreía.
 Hasta que vio a Lucas.
 Noemí lo miró unos segundos con el semblante serio hasta que Jonás la alcanzó.
+Jonás le dijo algo que no escucharon desde abajo. La adolescente asintió y se situó de un salto al lado de él, sobre el disco negro.
+La pareja descendió mientras el corazón de Lucas empezaba a latir cada vez más rápido.  
+El disco se deshizo nuevamente al tocar el suelo. Jonás se agachó rápidamente junto a Lara, visiblemente preocupado. Noemí también se acercó a Lara, ignorando a Lucas.
+- Uno de esos locos la apuñaló en el costado - dijo -. Contuve la hemorragia como pude.
+- Lo has hecho muy bien, Noemí - le contestó el médico que observaba a Lara.
+Los demás se unieron a las felicitaciones.
+- ¡Muy bien, Noemí!
+- ¡Así se hace!
+- ¡Perfecto!
+Cuando terminaron las felicitaciones, Lucas esperó unos segundos y añadió:
+- Lo... lo has hecho muy bien, Noemí.
+Pero la adolescente no dijo nada.
+- Las hemos encontrado - oyeron decir a uno de los efectivos de la *Resistencia*. Hablaba por radio.
+Comenzó a afirmar a intervalos irregulares hasta que de repente hizo una mueca.
+- ¿Y es seguro...? Entiendo. Vamos para allá.
+Entonces se dirigió a los presentes.
+- Hora de volver a la base. Los de *RIO* deben estar a punto de llegar.
+Los "¿Cómo?" y los "¿Qué?" se agolparon entre los presentes. Jonás se quedó de piedra.
+- Ni hablar - negó con la cabeza.
+- Elizabeth ha contactado con ellos.
