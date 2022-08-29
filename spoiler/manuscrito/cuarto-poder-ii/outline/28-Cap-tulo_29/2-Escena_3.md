@@ -7,12 +7,12 @@ notes:          - **Para que no quede tan justo puedo hacer que avisen de la vis
                 -
                 - Enfado de Noemí por sentirse abandonada por Lucas y los demás.
                 - ¿Se abrazan igualmente?
-                
+                - "dijo entonces la líder": ya he dicho que la líder es una mujer, ¿no?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2620
+charCount:      3757
 
 
 Jonás materializó un disco del gas negro y lo usó para alzarse rápidamente hasta la rama.
@@ -50,4 +50,18 @@ Entonces se dirigió a los presentes.
 - Hora de volver a la base. Los de *RIO* deben estar a punto de llegar.
 Los "¿Cómo?" y los "¿Qué?" se agolparon entre los presentes. Jonás se quedó de piedra.
 - Ni hablar - negó con la cabeza.
-- Elizabeth ha contactado con ellos.
+- Elizabeth ha contactado con ellos. Quieren...
+- Ni hablar - repitió Jonás, quien entonces miró a su hermana - ¿Puedes caminar?
+- ¿Qué? - dijo el médico -. ¿Qué quieres hacer?
+- Ni loco me voy a acercar a los de RIO otra vez.
+- ¿Sabes detener a la *Sirena* sin RIO? - dijo entonces la líder, mirándolo fijamente -. Porque si es así somos todo oídos.
+- No estoy diciendo que no vayan ustedes - dijo, paseando la mirada por los presentes -. Sólo digo que no cuenten conmigo para estar en la misma habitación que ellos.
+Entonces miró a la líder.
+- Con respecto a tu pregunta: no, no seriamos capaz de detener a la *Sirena* a tiempo sin la ayuda de *RIO*.
+- Bueno, lo primero: ¿te vale si nos acompañas pero el médico se queda con Lara, Noemí y contigo en un edificio cercano? Me quedaría mucho más tranquilo - dijo, señalando a Lara.
+Jonás negó con la cabeza inicialmente pero entonces se detuvo y meditó durante unos instantes en silencio. Finalmente asintió.
+- Está bien.
+- Perfecto. Ustedes dos, cojan a Lara.
+- Creo... - dijo esta -. Creo que puedo caminar...
+Se levantó con la ayuda de Jonás, que la miraba atentamente.
+- Yo quiero ir a la reunión - dijo entonces Noemí.
