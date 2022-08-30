@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3757
+charCount:      4861
 
 
 Jonás materializó un disco del gas negro y lo usó para alzarse rápidamente hasta la rama.
@@ -65,3 +65,17 @@ Jonás negó con la cabeza inicialmente pero entonces se detuvo y meditó durant
 - Creo... - dijo esta -. Creo que puedo caminar...
 Se levantó con la ayuda de Jonás, que la miraba atentamente.
 - Yo quiero ir a la reunión - dijo entonces Noemí.
+Algunos se giraron hacia ella y la miraron sin decir nada. Fue la líder quien lo verbalizó:
+- No creo que sea buena idea. Quiero pensar que *RIO* está obligado a colaborar con nosotros, pero el peligro aún existe.
+"Tiene razón", pensó Lucas.
+Sin embargo, fue otra cosa lo que dijo:
+- Va a estar en peligro, esté con nosotros o no. Al menos con nosotros seriamos más para defendernos en caso de una trampa.
+- Pero... - empezó a decir la líder. Sin embargo, cayó -. Está bien.
+Entonces se dirigió a todos.
+- Bueno, ya hemos perdido suficiente tiempo. ¡En marcha!
+El grupo comenzó a caminar en fila india por el bosque a excepción de dos efectivos que iban a cierta distancia a los laterales.
+Lucas iba hacia el final de la fila, justo detrás de Noemí. Dudoso, se acercó hasta quedarse al lado de ella.
+- Noemí...
+- ¿Por qué no te has opuesto a que vayan con ustedes? - preguntó esta, sin dejar de caminar mirando al frente.
+- Si te soy sincero, pensaba negarme. Pero he comprendido que no tengo ningún derecho a ello y menos después de... - cerró los ojos -. después de abandonarte.
+- ¿Por qué lo hiciste?
