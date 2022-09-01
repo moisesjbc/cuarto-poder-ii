@@ -8,11 +8,13 @@ notes:          - **Para que no quede tan justo puedo hacer que avisen de la vis
                 - Enfado de Noemí por sentirse abandonada por Lucas y los demás.
                 - ¿Se abrazan igualmente?
                 - "dijo entonces la líder": ya he dicho que la líder es una mujer, ¿no?
+                - Confirmar lo de las visiones "durante uno o dos días".
+                - 
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4861
+charCount:      5992
 
 
 Jonás materializó un disco del gas negro y lo usó para alzarse rápidamente hasta la rama.
@@ -79,3 +81,22 @@ Lucas iba hacia el final de la fila, justo detrás de Noemí. Dudoso, se acercó
 - ¿Por qué no te has opuesto a que vayan con ustedes? - preguntó esta, sin dejar de caminar mirando al frente.
 - Si te soy sincero, pensaba negarme. Pero he comprendido que no tengo ningún derecho a ello y menos después de... - cerró los ojos -. después de abandonarte.
 - ¿Por qué lo hiciste?
+- Después de que nos rescataran de la *Sirena* tuviste visiones, ¿no?
+- Sí, durante uno o dos días, como todos.
+- Yo las seguí teniendo después de eso.
+- ¿Y eso?
+- No tenía ni idea, pero cuando fui a liberar la *Burbuja* nos tendieron una emboscada y... - Lucas se detuvo y sonrió a Noemí -. Lo siento, pero no sé exactamente qué es lo que sabes para no repetirme.
+- Después de eso huiste y no sé cómo encontraste a Ajani y Kasim. Entonces te quedaste con ellos.
+Lucas pudo notar el resentimiento en la última frase.
+- Recibí un disparo mientras huía y estuve a punto de morir. Ajani me encontró entonces.
+Noemí paseó la mirada por Lucas.
+- ¿Te curó Ajani?
+- Me curó la *Sirena*
+- ¿Quién?
+"Cada vez le va a costar más creerme", pensó Lucas.
+- La mente colmena... o el virus que liberé y que nos causaba las visiones. Me curaba las heridas casi al instante. Sé que es difícil de creer pero...
+- La puñalada que recibió Lara. Yo también recibí una. Aquí.
+Se levantó la camiseta y señaló la zona del apéndice. No había rastro de herida alguna.
+- ¿También te curaba? ¿Hablaba contigo?
+Noemí negó con la cabeza.
+- No, solo la curación.
