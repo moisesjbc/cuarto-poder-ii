@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6468
+charCount:      6474
 
 
 Lucas miró a Elizabeth fijamente antes de volver a mirar a Ana y la doctora.
@@ -51,7 +51,7 @@ Entonces se llevó una mano temblorosa a la boca. Introdujo dos dedos por donde 
 - ¿De verdad crees eso?
 - Vendieron al mundo que Inglaterra planeaba invadir Estados Unidos.
 Ambos se miraron a los ojos unos segundos. Elizabeth asintió.
-- Ahí debo reconocer que me has pillado - esperó un instante antes de seguir -. Escucha, no te voy a vender que somos los buenos. Nuestras intenciones sean puras. Pero es mejor un mundo con *RIO* que un mundo infectado donde la gente no pasa de los 50 años. Tienes que...
+- Ahí debo reconocer que me has pillado - esperó un instante antes de seguir -. Escucha, no te voy a vender que somos los buenos ni que nuestras intenciones sean puras. Pero es mejor un mundo con *RIO* que un mundo infectado donde la gente no pasa de los 50 años. Tienes que...
 - ¿Voy a morir a los 50?
 - Tendrás suerte si pasas de los 35 años.
 El joven negó con la cabeza. "5 años...".

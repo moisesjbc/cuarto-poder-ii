@@ -9,12 +9,12 @@ notes:          - **Para que no quede tan justo puedo hacer que avisen de la vis
                 - ¿Se abrazan igualmente?
                 - "dijo entonces la líder": ya he dicho que la líder es una mujer, ¿no?
                 - Confirmar lo de las visiones "durante uno o dos días".
-                - 
+                -
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5992
+charCount:      7321
 
 
 Jonás materializó un disco del gas negro y lo usó para alzarse rápidamente hasta la rama.
@@ -100,3 +100,19 @@ Se levantó la camiseta y señaló la zona del apéndice. No había rastro de he
 - ¿También te curaba? ¿Hablaba contigo?
 Noemí negó con la cabeza.
 - No, solo la curación.
+- Según Elizabeth... - ante la mueca de Noemí, aclaró: - una agente de RIO, hay distintos niveles de resistencia al virus. ¿Quizás por eso ella se cura más lento?
+- Así es - intervino Jonás, que caminaba delante de ellos mirando al frente -. Lara y yo tenemos mayor resistencia a la influencia de la *Sirena* pero también a su curación.
+- Ya veo - dijo Lucas.
+Siguieron caminando en silencio durante un tiempo. Lucas no sabía si disculparse otra vez con Noemí. En su lugar optó por preguntarle otra cosa que le carcomía.
+- ¿Qué... qué opinas Noemí? ¿He hecho bien o nos he condenado a todos?
+Jonás bufó sonoramente pero no dijo nada.
+Noemí, en cambio, se abalanzó sobre Lucas y lo abrazó.
+El joven soltó una exclamación al tiempo que trataba de mantener el equilibrio.
+"¿Por qué?", pensó Lucas. Pero en lugar de verbalizarlo correspondió al abrazo de Noemí en silencio.
+La vocecilla que le decía que Noemí era su hija apenas intervenía ya, pero no por ello dejaba de sentirse unido a ella.
+Tras un instante, Noemí se separó y lo miró a los ojos.
+- Gracias.
+- De nada - dijo instintivamente -. Esto... ¿por qué? - sonrió.
+Noemí rió.
+- Por tratarme como una adulta. Eres la única persona que me pregunta qué pienso en lugar de simplemente darme órdenes todo el rato.
+- Bueno - Lucas sonrió tristemente -, te han obligado a crecer.
