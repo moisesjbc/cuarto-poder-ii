@@ -14,7 +14,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7321
+charCount:      8484
 
 
 Jonás materializó un disco del gas negro y lo usó para alzarse rápidamente hasta la rama.
@@ -116,3 +116,24 @@ Tras un instante, Noemí se separó y lo miró a los ojos.
 Noemí rió.
 - Por tratarme como una adulta. Eres la única persona que me pregunta qué pienso en lugar de simplemente darme órdenes todo el rato.
 - Bueno - Lucas sonrió tristemente -, te han obligado a crecer.
+Noemí asintió.
+- Lo siento, Noemí. De verdad.
+- Lo sé. Todo esto es una mierda.
+- Pues sí.
+Caminaron en silencio otro tramo hasta que la líder les informó.
+- Bueno, hora de separarnos - suspiró -. Buena suerte.
+El médico asintió.
+- Buena suerte.
+Lucas observó a su alrededor. Seguía viendo bosque hacia todos los lados y no adivinó ninguna señal que indicara que había edificios cercanos.
+"Ellos sabrán", pensó.
+El médico se despidió y comenzó a internarse en los árboles de la derecha. Jonás y Lara pasearon la vista por el resto del grupo asintiendo hasta que ambos detuvieron la mirada en Jonás.
+- Suerte - dijo Lara, sonriendo.
+- Gracias. Lo... lo siento que apenas habláramos.
+- Siempre la favorita - sonrió de nuevo.
+Lucas se encogió de hombros y sonrió.
+Jonás, en cambio, se mantuvo serio. Analizó a Lucas con la mirada durante un instante.
+- Elige el mal menor. Ella depende de ello.
+Entonces se giró sin dar tiempo a Lucas de responder.
+- Vamos - le dijo a su hermana.
+Lara miró a Lucas con una mueca y se apresuró a seguir a su hermano, desapareciendo entre los árboles.
+- Qué críptico - se burló la líder -. En fin, en marcha. A ver qué se cuenta RIO.
