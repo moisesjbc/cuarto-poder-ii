@@ -22,7 +22,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3113
+charCount:      4672
 
 
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
@@ -60,5 +60,16 @@ Pero Lucas no se movió. Ignoró las miradas clavadas.
 - Sí - suspiró su interlocutor -. Sigue inconsciente, pero estable.
 Aquello no bastó a Lucas. Quería correr hacia donde estaba su amiga, pero gestos mucho menos bruscos podrían desatar un tiroteo en aquella situación.
 Obligó a sus piernas a moverse y estas obedecieron a regañadientes, pesando una tonelada a cada paso.
-
-536
+Navegaron por pasillos familiares llenos de desconocidos, tanto de una alianza como de  otra. Una o dos personas montaban guardia cada pocos metros.
+Pocos les regalaban una sonrisa. Lo que más abundaba eran caras enfadadas, molestas, tensas o, si había suerte, simplemente serias.
+Siguieron vagos gestos de mano y cabeza hasta que llegaron a uno de los comedores, con las puertas abiertas de par. Dentro, un nutrido grupo central se encontraba sentado alrededor a una de las largas mesas de metal. El resto de las mesas se habían movido hacia los extremos de la sala, aunque debido a su gran tamaño, solo un pequeño pasillo improvisado las separaba de la mesa central. Un segundo grupo de personas se encontraba de pie en el pasillo o sentados sobre las mesas exteriores. Miraban al grupo central y se miraban los unos a otros con sus armas preparadas.
+Un miembro de la resistencia, una mujer de unos cuarenta años, se les acercó desde un lateral de la puerta.
+- Por aquí.
+Y cuando el grupo recién llegado se dispuso a moverse, la mujer los interrumpió.
+- Sólo Lucas. Lo siento.
+El joven frunció el ceño, gesto compartido por sus compañeros.
+- Si no soy más que un... - empezó a decir Lucas.
+- ,,,una pieza fundamental del plan - terminó la mujer -. Vamos.
+Algunas cabezas del grupo central se giraron hacia Lucas. Se escucharon unos murmullos y las personas más cercanas a este le hicieron un hueco junto a la mesa.
+Lucas se sentó, perplejo, y miró a los presentes. Todas caras desconocidas menos una.
+Desde el otro extremo de la mesa, Elizabeth le guiñó un ojo.
