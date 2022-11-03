@@ -22,7 +22,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4672
+charCount:      6246
 
 
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
@@ -72,4 +72,12 @@ El joven frunció el ceño, gesto compartido por sus compañeros.
 - ,,,una pieza fundamental del plan - terminó la mujer -. Vamos.
 Algunas cabezas del grupo central se giraron hacia Lucas. Se escucharon unos murmullos y las personas más cercanas a este le hicieron un hueco junto a la mesa.
 Lucas se sentó, perplejo, y miró a los presentes. Todas caras desconocidas menos una.
-Desde el otro extremo de la mesa, Elizabeth le guiñó un ojo.
+Desde el otro extremo de la mesa, Elizabeth le sonrió y le guiñó un ojo. No parecía estar retenida, sino más bien una invitada más al a mesa.
+Una mezcla de miedo y asco se le asentó en el estómago. Intentó ignorar dicha sensación.
+Desperdigados sobre toda la mesa se encontraba múltiples fotos y mapas, siendo gran parte de ellos meros duplicados. Lucas alargó la mano y se acercó algunos de los documentos: un mapa de lo que parecía ser un amplio complejo, así como fotos del extenso valle desértico que lo albergaba.
+- Bueno - dijo una voz femenina que lo sobresaltó -. Al fin estamos todos.
+Elizabeth se levantó y paseó su mirada por todos los presentes, aunque Lucas juraría que se paraba más de lo necesario sobre él. Continuó hablando.
+- Aquí nuestro amigo - dijo, señalando a Lucas -. Ha liberado la perdición sobre la raza humana y parece que tenemos que colaborar para resolver el entuerto.
+Lucas sintió algunas miradas clavarse sobre él. Ni miembros de la Resistencia de RIO parecían tener sonrisas para él. Se obligó a mirar a regañadientes a la presentadora.
+- Hace unos años un peligroso ente llegó a nuestro planeta. A pesar de parecer una inteligencia superior que prometía un futuro brillante a nuestra raza, en *RIO* no tardamos en verlo como lo que realmente es: un peligroso virus cuyo único objetivo es su supervivencia y perpetuación por encima de todo. Para ello infecta nuestros cuerpos y nos hace alucinar con ese futuro perfecto mientras en la realidad nos consume hasta convertirnos en poco más que cascarones sin libertad y...
+- No difiere de lo que RIO hace en las *Burbujas* - espetó uno de los presentes.
