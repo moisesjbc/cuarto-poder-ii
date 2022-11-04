@@ -16,13 +16,17 @@ notes:          - Se limpia el nombre de Lucas.
                 - **La Sirena ha "taponado" accesos a la cámara con sus insectos. Por eso Lucas es necesario**.
                 - **¿Pero entonces no le basta con bombardear el sitio y a tomar por saco?**
                 - Muy subterráneo y la Sirena no tiene poder de fuego suficiente aún.
+                - **Añadir *Mástiles* bastante aparatosos que los de RIO "venden" como la solución, y que es lo mismo que usan en las *Burbujas*, obviando los micromástiles que Elizabeth y otros tienen implantados**
+                	- ¿Y por qué no llevan ese mástil a lo de África?
+                	
+                
                 
                 
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6246
+charCount:      7383
 
 
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
@@ -81,3 +85,10 @@ Elizabeth se levantó y paseó su mirada por todos los presentes, aunque Lucas j
 Lucas sintió algunas miradas clavarse sobre él. Ni miembros de la Resistencia de RIO parecían tener sonrisas para él. Se obligó a mirar a regañadientes a la presentadora.
 - Hace unos años un peligroso ente llegó a nuestro planeta. A pesar de parecer una inteligencia superior que prometía un futuro brillante a nuestra raza, en *RIO* no tardamos en verlo como lo que realmente es: un peligroso virus cuyo único objetivo es su supervivencia y perpetuación por encima de todo. Para ello infecta nuestros cuerpos y nos hace alucinar con ese futuro perfecto mientras en la realidad nos consume hasta convertirnos en poco más que cascarones sin libertad y...
 - No difiere de lo que RIO hace en las *Burbujas* - espetó uno de los presentes.
+- Así es - dijo Elizabeth, mirando fijamente al hombre -. Vimos que podíamos usar a la *Sirena* para nuestros propósitos y lo hicimos.
+- Entonces, ¿cuál es la diferencia? - cuestionó otra persona -. ¿Si RIO nos va a hacer lo msimo, por qué no dejar que la *Sirena* lo haga y a tomar por culo?
+- Porque con nosotros se puede luchar. La *Sirena* le quita toda la emoción.
+Hubo unos segundos de silencio.
+- ¿Acaso te parece una broma? - dijo otra persona.
+Elizabeth negó con la cabeza, al tiempo que sonreía.
+- No, por eso intentamos proponer un plan para detener a este enemigo en común. Y podría hacerlo si no dejaran de demostrar su elevación moral sobre nosotros. Somos los malos - dijo, llevándose la mano al pecho -. Si conseguimos acabar con la *Sirena* volveremos a las andadas. Volveremos a ser enemigos. RIO seguirá intentando dominar el mundo. Si lo conseguimos, una parte del mundo habrá ganado. Si por el contrario la noble *Resistencia* es la que finalmente vence, habrá ganado la otra parte del mundo. Una buena guerra de las de siempre Pero si esa... "cosa" gana, fin de la partida. Todos moriremos en las próximas décadas.
