@@ -17,8 +17,8 @@ notes:          - Se limpia el nombre de Lucas.
                 - **¿Pero entonces no le basta con bombardear el sitio y a tomar por saco?**
                 - Muy subterráneo y la Sirena no tiene poder de fuego suficiente aún.
                 - **Añadir *Mástiles* bastante aparatosos que los de RIO "venden" como la solución, y que es lo mismo que usan en las *Burbujas*, obviando los micromástiles que Elizabeth y otros tienen implantados**
-                	- ¿Y por qué no llevan ese mástil a lo de África?
-                	
+                - ¿Y por qué no llevan ese mástil a lo de África?
+                
                 
                 
                 
@@ -26,7 +26,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7383
+charCount:      9023
 
 
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
@@ -92,3 +92,19 @@ Hubo unos segundos de silencio.
 - ¿Acaso te parece una broma? - dijo otra persona.
 Elizabeth negó con la cabeza, al tiempo que sonreía.
 - No, por eso intentamos proponer un plan para detener a este enemigo en común. Y podría hacerlo si no dejaran de demostrar su elevación moral sobre nosotros. Somos los malos - dijo, llevándose la mano al pecho -. Si conseguimos acabar con la *Sirena* volveremos a las andadas. Volveremos a ser enemigos. RIO seguirá intentando dominar el mundo. Si lo conseguimos, una parte del mundo habrá ganado. Si por el contrario la noble *Resistencia* es la que finalmente vence, habrá ganado la otra parte del mundo. Una buena guerra de las de siempre Pero si esa... "cosa" gana, fin de la partida. Todos moriremos en las próximas décadas.
+- Ya bueno - comenzó a decir uno -. Cualquier cosa mejor que...
+- ¡Cierra la puta boca! - espetó uno de los agentes de RIO, levantándose súbitamente. Los presentes se llevaron las manos a sus armas.
+- ¿Qué tal si intentamos no matarnos al menos durante la siguiente hora? - propuso Elizabeth, ordenando con la mano que bajaran las armas.
+Los presentes obedecieron a regañadientes.
+- Eso está mejor - dijo la falsa reportera de RIO -. Continuemos.
+Tomó respiro antes de continuar.
+- Lo que Lucas destruyó en un acto de heroicidad sin límites es lo que llamamos *Mástil*, el resultado de la investigación de Jonás y... ¿Dónde está Jonás?
+Los presentes se miraron unos a otros.
+- Bueno, no importa. Jonás y su equipo descubrieron la forma de interceptar la señal que usan los insectos portadores del virus para comunicarse entre ellos y nublar nuestro juicio como harían las..
+Señaló a un compañero de RIO y permaneció callada, el semblante serio.
+El aludido salió de su distraimiento y tosió antes de contestar.
+- Como harían las *Sirenas*.
+Elizabeth sonrió, ignorando el ambiente de funeral reinante.
+- Exacto. Entonces nos apresuramos a lanzar un satélite al espacio que emitía la señal inhibidora, o *Mástil*, sobre todo el planeta, salvando a la humanidad.
+- Gracias - dijo alguien en tono sarcástico.
+- ¡De nada! Una vez Lucas - y dijo esto mirándolo fijamente y señalándolo con la mano - destruyó nuestra única defensa contra la amenaza, la *Sirena* se afanó en reiniciar su plan de exclavizarnos a todos, al tiempo que comenzaba a destruir todas nuestras instalaciones donde guardábamos satélites auxiliares o antenas con el *Mástil*.
