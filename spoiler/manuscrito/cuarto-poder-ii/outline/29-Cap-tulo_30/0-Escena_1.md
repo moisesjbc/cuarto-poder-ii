@@ -26,7 +26,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9023
+charCount:      10575
 
 
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
@@ -108,3 +108,19 @@ Elizabeth sonrió, ignorando el ambiente de funeral reinante.
 - Exacto. Entonces nos apresuramos a lanzar un satélite al espacio que emitía la señal inhibidora, o *Mástil*, sobre todo el planeta, salvando a la humanidad.
 - Gracias - dijo alguien en tono sarcástico.
 - ¡De nada! Una vez Lucas - y dijo esto mirándolo fijamente y señalándolo con la mano - destruyó nuestra única defensa contra la amenaza, la *Sirena* se afanó en reiniciar su plan de exclavizarnos a todos, al tiempo que comenzaba a destruir todas nuestras instalaciones donde guardábamos satélites auxiliares o antenas con el *Mástil*.
+Entonces señaló las fotos y mapas desplegados sobre la mesa.
+- Esa es una de las pocas instalaciones que permanece en pie y con capacidad de lanzar un *Mástil* al espacio... o eso creemos.
+- ¿"O eso creemos"? - repitió alguien.
+- Ayer se encontraban en plenos preparativos para preparar y lanzar el *Mástil* en la atmósfera, cuando las comunicaciones se perdieron. Esto fue lo último que recibimos.
+Hasta entonces Lucas no había reparado en la *tablet* que tenía frente a ella, sobre la mesa. Un dispositivo pequeño y azul que Elizabeth alzó a la vista de todos antes de pulsar "Reproducir".
+- ¡Nos atacan! - gritó una voz femenina, sobresaltando a los presentes - ¡La *Sirena* nos ha descubierto! ¡No podemos iniciar el lanzamiento!
+- ¡Van a entrar! - gritó una voz masculina en el fondo. Unos golpes restallaban sobre metal.
+- ¡Activa el Mástil!
+- ¡Pero...!
+- ¡Actívalo!
+Entonces escucharon un estruendo como de un gran metal cayendo sobre el suelo, seguido de los gritos de la pareja.
+- ¡Está activándose! ¡Está... AHG!
+- ¡Marcos! ¡Dejénlo en...!
+Ruidos de disparos y gritos pero entonces se produce un gran silencio. Unos segundos después la comunicación se corta.
+Elizabeth volvió a dejar el dispositivo sobre la mesa.
+- Tal como han podido oír, creemos que consiguieron activar el *Mástil* en el propio laboratorio - dijo, alzando el mapa más cercano a ella y señalando una habitación de este -. Pero no quedó nadie vivo para llevarlo hasta la zona de lanzamiento - concluyó, al tiempo que trazaba con el dedo un camino hasta otra zona del mapa.
