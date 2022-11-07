@@ -26,7 +26,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      10575
+charCount:      12085
 
 
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
@@ -124,3 +124,18 @@ Entonces escucharon un estruendo como de un gran metal cayendo sobre el suelo, s
 Ruidos de disparos y gritos pero entonces se produce un gran silencio. Unos segundos después la comunicación se corta.
 Elizabeth volvió a dejar el dispositivo sobre la mesa.
 - Tal como han podido oír, creemos que consiguieron activar el *Mástil* en el propio laboratorio - dijo, alzando el mapa más cercano a ella y señalando una habitación de este -. Pero no quedó nadie vivo para llevarlo hasta la zona de lanzamiento - concluyó, al tiempo que trazaba con el dedo un camino hasta otra zona del mapa.
+Y ahora - dijo tras unos segundos -. Dejénme hablarles de la *gymkana* para llenar.
+Cogió una foto de satélite y la mostró a todos los presentes. Mostraba, supuso Lucas, la región exterior que contenía las instalaciones.
+- Estos cráteres que ven aquí, aquí, aquí, ... - empezó a señalarlos uno a uno con el índice -. ...en fin, por todas partes. Son causados por misiles lanzados por nuestra amiga la *Sirena*. Por suerte, nuestros satélites los desactivan antes de llegar al destino, pero las bases que controlan dichos satélites se encuentran bajo ataque.
+- ¿Y todo eso? - dijo alguien - ¿son personas?
+Infinidad de puntos poblaban cada centímetro del valle, apenas dejando ver el suelo.
+- Así es, aunque se trata de *asimilados* - La *Sirena* no se molesta en retirarlos cuando caen los misiles. ¿Qué les parece lo mucho que nos quiere?
+Lucas sintió la mirada de Elizabeth clavada en él mientras decía esto último.
+No dijo nada y fingió mirar el duplicado de la foto que quedaba más cerca de él.
+Entonces reparó en algo.
+- ¿Están dentro de la instalaciones?
+Elizabeth le sonrió.
+- Así es. Han logrado entrar pero no pueden acercarse a 100 metros de la señal del Mástil.
+-¿Y los generadores? - dijo alguien -. Podrían cortar el suministro, si no lo han hecho ya.
+"No creo", pensó Lucas. "Ya hubieran destruido el Mástil en ese..."
+- Eso ya lo han hecho - dijo de repente Elizabeth, sacándolo de su ensimismamiento -. El Mástil cuenta con un generador auxiliar acoplado, aunque no creemos que dure mucho más.
