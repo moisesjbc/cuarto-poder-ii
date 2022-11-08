@@ -26,7 +26,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      12085
+charCount:      14409
 
 
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
@@ -138,4 +138,21 @@ Elizabeth le sonrió.
 - Así es. Han logrado entrar pero no pueden acercarse a 100 metros de la señal del Mástil.
 -¿Y los generadores? - dijo alguien -. Podrían cortar el suministro, si no lo han hecho ya.
 "No creo", pensó Lucas. "Ya hubieran destruido el Mástil en ese..."
-- Eso ya lo han hecho - dijo de repente Elizabeth, sacándolo de su ensimismamiento -. El Mástil cuenta con un generador auxiliar acoplado, aunque no creemos que dure mucho más.
+- Eso ya lo han hecho - dijo de repente Elizabeth, sacándolo de su ensimismamiento -. El *Mástil* cuenta con un generador auxiliar acoplado, aunque no creemos que dure mucho más.
+- Así que el plan es meternos en un valle lleno de asimilados violentos y con misiles cayendo sobre nuestras cabezas - empezó a decir una chica de la *Resistencia* -. Y si sobrevivimos a eso, confiar en que el *Mástil* aún funcione para llevarlo desde un lugar de la instalación a otro sin que nos despedacen.
+- Más o menos es la idea - asintió Elizabeth -. Aunque claro, iríamos con un pequeño Mástil protegiendo a nuestro equipo. Sólo tenemos que asegurarnos de proteger ese otro *Mástil* a toda costa, porque como lo destruyan a distancia fin de la partida. Estaba pensando en que Jonás, esté donde esté, podría ayudarnos con sus nanomáquinas.
+- No creo que le haga mucha gracia colaborar con RIO - adivinó Lucas.
+Elizabeth se encogió de hombros.
+- Ya bueno, no creo que tenga mucha opción si no quiere que la *Sirena* acabe licuando su cerebro y el de su hermana.
+"Lara", la recordó Lucas, a la vez que una voz en su interior la llamaba "hija" y otra la corregía.
+- Y a todo esto - dijo entonces Lucas -. ¿Dónde entro yo en este plan suicida?
+- Eres nuestro canario en la mina.
+"Cómo no"
+- La *Sirena* ha puesto trampas que tengo que detectar, ¿no?
+- Así es. Ya hemos enviado algún equipo que ha tenido bastante éxito llegando a las instalaciones (no sin algunas bajas), pero una vez dentro el suelo ha cedido bajo ellos, haciéndolos caer a su muerte.
+- ¿No llevaban uno de esos *Mástiles* portátiles? ¿No debería evitar que la *Sirena* active esas trampas?
+- Esas trampas ya han recibido la orden de la *Sirena* de no dejar pasar a nadie. Pueden operar de manera autónoma aunque pierdan la comunicación.
+- Espera, ¿no pasaría lo mismo con los *asimilados*? Aunque pierdan la comunicación con la *Sirena* seguirían adelante con su objetivo de destruir el *Mástil*.
+- Veo que estás en todo - sonrió Elizabeth -. La *Sirena* siente cuándo comienza a perder la comunicación con un sujeto y da marcha atrás. Aún así, aunque no lo consiguiera con alguno, controlar a una persona requiere comunicación constante porque necesita más "potencia" de la que la joven colonia dentro del huésped dispone. Los *asimilados* recientes que se exponen al *Mástil* se quedan "abotargados". Pueden llegar a escuchar pequeños "susurros" pero la *Sirena* no tiene mayor poder sobre ellos.
+Lucas meditó la respuesta unos segundos.
+- Ya veo.
