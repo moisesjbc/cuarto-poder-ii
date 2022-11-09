@@ -26,7 +26,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14409
+charCount:      16292
 
 
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
@@ -156,3 +156,21 @@ Elizabeth se encogió de hombros.
 - Veo que estás en todo - sonrió Elizabeth -. La *Sirena* siente cuándo comienza a perder la comunicación con un sujeto y da marcha atrás. Aún así, aunque no lo consiguiera con alguno, controlar a una persona requiere comunicación constante porque necesita más "potencia" de la que la joven colonia dentro del huésped dispone. Los *asimilados* recientes que se exponen al *Mástil* se quedan "abotargados". Pueden llegar a escuchar pequeños "susurros" pero la *Sirena* no tiene mayor poder sobre ellos.
 Lucas meditó la respuesta unos segundos.
 - Ya veo.
+- Pues creo que está más o menos todo - dijo Elizabeth, paseando la mirada por todos los presentes -. ¿Alguna pregunta?
+Durante unos segundos reinó el silencio, hasta que una joven de la *Resistencia* lo rompió.
+- Sí, ¿cómo sabemos que todo esto no es una trampa para que RIO se quite de encima a dos enemigos a la vez, la *Sirena* y la Resistencia?
+- Sería un buen plan maestro - asintió Elizabeth -. Lo reconozco. Sin embargo, ahora manda la necesidad de acabar con un enemigo común. Si no fuera por eso no tendría problema en matar a los presentes para conseguir mis objetivos.
+Varios murmuros nacieron y murieron casi al unísono.
+- RIO ha acumulado más poder del que pueden imaginar en la Resistencia - reconoció la falsa reportera de la corporación -. Pero no tanto poder como para sembrar el caos en todo el mundo, como habrán podido comprobar sin nuestra ayuda. Además, el caos que generamos debe ser localizado y servir un propósito. Esto no es ninguna de las dos cosas.
+Otros murmuros. Los presentes no parecían muy convencidos.
+Un agente de RIO nombró a Elizabeth. Cuando esta lo miró, negó con la cabeza sutilmente, pero el hombre asintió enérgicamente.
+- Hay que hacerlo.
+Entonces miró a otra agente de RIO sentada frente a él. Esta recibió la mirada fija de todos los presentes pero sólo correspondió a la de Elizabeth.
+Su expresión parecía decir "lo siento" con la mirada.
+Se llevó la mano a la pequeña radio de su pecho, haciendo que algunos de los miembros de la *Resistencia* presentes se llevaran las manos a la a sus armas.
+La agente de RIO abrió la comunicación y sin esperar respuesta del otro lado, dijo:
+- Libera la información.
+Los miembros de la *Resistencia* empezaron a mirarse unos a otros y a moverse en el sitio, incómodos.
+- ¿Qué acaban de hacer? - preguntó entonces uno de ellos.
+Elizabeth suspiró.
+- Clavarnos un buen puñal como muestra de buena fe.
