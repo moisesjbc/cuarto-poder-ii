@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1882
+charCount:      3918
 
 
 El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores. Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
@@ -22,3 +22,21 @@ Cada uno de los presentadores de noticias, fuera un novato al que el puesto aún
 Internet echaba fuego con los documentos liberados. Lucas podía visualizar perfectamente a los redactores de los medios *online* echando humo por las manos mientras escribían a toda prisa y le daban a enviar sin pararse a revisar lo recién escrito en busca de errores.
 La corporación RIO había confesado sus crímenes.
 Al menos una generosa lista de ellos que los presentes, incluido Lucas, suponían que no eran ni la mitad de todo el daño que había causado RIO pero que, aún así, la ponía en una situación muy delicada de cara al público.
+- Bueno gente - dijo uno de los presentes, al tiempo que bajaba el volumen del televisor -. Tenemos un par de horas para decidir qué hacer, ¿recuerdan?
+Ese era tiempo que RIO les había dado para decidir si se unían al plan suicida.
+"Dos horas para decidir si avisas al demonio", pensó Lucas.
+- RIO no habría hecho esto si la situación no fuera tan jodida - replicó una joven.
+- Ya, ¿pero jodida para quién? - planteó otro, mientras paseaba su mirada por todos los presentes -. La *Resistencia* lleva años intentando acabar con ellos, ¿y ahora vamos a sacarles las castañas del fuego?
+- Lo que está en juego parece ser un virus mortal que podría acabar con todos nosotros - dijo una mujer de unos 50 años -. Entiendo tu punto, Marcos, pero tenemos que asegurarnos de no estar remplazando un mal por otro mayor. Ya has visto lo que está pasando ahí fuera. La gente está enloquecida matándose los unos a los otros.
+-  ¿Y? - Marcos se encogió de hombros -. Has estado en las *Burbujas*, Celia. ¿No se te parece lo que está pasando bastante a una *Burbuja* en su "hora feliz"?
+- ¿Insinúas... - comenzó a decir ella - que es otro montaje de RIO?
+- Eso es lo que creo, sí. ¿Qué pasa con los supervivientes de las *Burbujas*? Prácticamente casi ninguno de ellos se ha vuelto violento.
+- Por ahora - puntualizó otra persona.
+- Sí claro, por ahora - cedió Marcos.
+- Los casos que conocemos son los que han unido con nosotros - dijo Celia -. ¿Puedes asegurar lo mismo de los cientos que han pasado de unirse a la *Resistencia*
+- Insinúas que...
+- ¡Lucas! - gritó de repente Noemí, sobresaltando a los presentes - ¡Sales en la tele!
+Lucas miró al televisor y vio a una versión más joven de si mismo, al tiempo que el poseedor del mando subía el volumen.
+El Lucas del pasado hablaba a cámara, pero no era su voz la que se escuchaba, sino la de un narrador invisible.
+
+**El narrador culpa a gente que lejos de falsear la información, creyó a Lucas. Esto da pie al "están confesando sus crímenes, pero no están mostrando a los verdaderos culpables***
