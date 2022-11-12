@@ -5,11 +5,13 @@ summaryFull:    Los de la Resistencia debaten sobre si colaborar con RIO o no. J
 POV:            0
 notes:          - Lara lo mira mal.
                 - Ajani y Kasim sabotean los coches pero no se revelan.
+                
+                **El narrador culpa a gente que lejos de falsear la información, creyó a Lucas. Esto da pie al "están confesando sus crímenes, pero no están mostrando a los verdaderos culpables***
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3918
+charCount:      5767
 
 
 El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores. Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
@@ -38,5 +40,17 @@ Ese era tiempo que RIO les había dado para decidir si se unían al plan suicida
 - ¡Lucas! - gritó de repente Noemí, sobresaltando a los presentes - ¡Sales en la tele!
 Lucas miró al televisor y vio a una versión más joven de si mismo, al tiempo que el poseedor del mando subía el volumen.
 El Lucas del pasado hablaba a cámara, pero no era su voz la que se escuchaba, sino la de un narrador invisible.
-
-**El narrador culpa a gente que lejos de falsear la información, creyó a Lucas. Esto da pie al "están confesando sus crímenes, pero no están mostrando a los verdaderos culpables***
+- Lucas, reportero de RIO, había destapado un supuesto plan de Reino Unido para atacar a Estados Unidos aprovechando sus guerras internas. La comunidad internacional condenó la acción, imponiendo grandes embargos al país anglosajón que lo sumieron en una profunda crisis que hoy, tres años después, sigue asolándolo.
+El Lucas 2022 desapareció para dar paso al narrador invisible, que ahora se presentaba ante cámara como un joven atlético de unos 30 años enfundado en un traje a medida.
+- Repetimos. El supuesto ataque que Reino Unido planeaba sobre Estados Unidos resulta ser otra de las mentiras de la corporación RIO a tenor de la documentación liberada. Lucas, lejos de ser culpable, sería otra víctima que, de hecho, intentó avisar al mundo de que no había tal ataque, como se puede ver en la grabación real.
+El Lucas de 2022 volvió a aparecer en pantalla, en el mismo lugar donde la magia de de los ordenadores le había hecho acusar a Reino Unido de un intento de invasión que jamás existió. Sin embargo, ahora era él de verdad, contando la verdad. El Lucas de hace una eternidad le contaba al mundo que allí no se preparaba un ataque, sino un desfile.
+El vídeo incluía una entrevista al coronel Cooper. El general inglés, de rostro afable pero curtido en la vida militar, explicaba la situación a las cámaras con una gran naturalidad.
+"Al final lo conseguimos", dijo Lucas para sí, recordando a su fuente y aliado, "aunque RIO haya acabado contigo antes"
+Entonces recordó algo y rápidamente se giró hacia Noemí.
+Estaba llorando.
+Lucas la abrazó.
+- Esta es la cinta que vieron tus padres, ¿no?
+- Esto no me los devuelve - dijo ella, apretando a Lucas entre sus brazos -. Pero al menos demuestran que decían la verdad.
+Los verdaderos padres de Noemí, trabajadores de RIO, habían visto la cinta de verdad y planeaban escapar con ella, pero RIO acabó con ellos antes, metiendo a su hija en una *Burbuja*.
+"Otra familia destrozada", pensó Lucas, sin dejar de abrazar a la adolescente.
+Volvieron a bajar el volumen del televisor.
