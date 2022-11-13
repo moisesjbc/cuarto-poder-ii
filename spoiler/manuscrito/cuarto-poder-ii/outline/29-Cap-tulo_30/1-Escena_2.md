@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5767
+charCount:      7990
 
 
 El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores. Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
@@ -54,3 +54,17 @@ Lucas la abrazó.
 Los verdaderos padres de Noemí, trabajadores de RIO, habían visto la cinta de verdad y planeaban escapar con ella, pero RIO acabó con ellos antes, metiendo a su hija en una *Burbuja*.
 "Otra familia destrozada", pensó Lucas, sin dejar de abrazar a la adolescente.
 Volvieron a bajar el volumen del televisor.
+- Bueno - dijo el poseedor del mando a distancia -, ya es suficiente. Tenemos una decisión que tomar.
+Reanudaron las discusiones sobre si debían ayudar a RIO, a la *Sirena* o, simplemente, no hacer nada. Lucas intentaba seguir los argumentos, aunque de vez en cuando no resistía la tentación de mirar el televisor, con el morbo expectante de verse otra vez a si mismo en las noticias. Sin embargo, la cara que eventualmente apareció junto a un encabezado "búsqueda y captura" y un nombre no fue la suya.
+- Hijos de puta - dejó escapar. No fue un grito, sino una mera observación a voz normal que hay que soltar tal como viene, casi más para uno mismo que para los demás.
+Los demás, sin embargo, sí que lo escucharon. Se hizo el silencio y todas las caras se giraron hacia él. Algunas siguieron su mirada hacia el televisor, pero entonces veían a un desconocido y miraban de nuevo a Lucas, interrogantes.
+- ¿Qué ha pasado? - dijo uno de ellos - ¿quién es ese?
+Lucas no esperaba ser el centro de atención. Carraspeó antes de hablar.
+- Ese chico - dijo, señalando a la pantalla justo en el momento en el que la imagen desaparecía para dar paso al narrador -. El chico que acaba de aparecer. Era compañero mío en RIO. No era más que un becario que estuvo unos meses y no pasó el corte. Lo están usando como chivo expiatorio.
+- ¿Estás seguro? Puede que fuera un agente de RIO encubierto.
+- Es posible - Lucas se encogió de hombros -. Pero lo dudo.
+- Puede que tengas razón - dijo una joven. Tenía una *tablet* y *escroleaba* rápidamente en alguna lista de datos -. Luís Martínez, Luis Martínez, Luis... ¡aquí está! Luis Martínez estuvo en una las *Burbujas* liberadas. Le ofrecimos unirse a nosotros pero lo rechazó y le perdimos el rastro.
+- No descarta que fuera un agente de RIO al que quisieran "despedir" - dijo el hombre.
+- No, no lo hace - convino la joven -. Pero piénsalo: esos cabrones están confesando sus crímenes, pero no a los verdaderos culpables. Y si nos están mintiendo en esto...
+La conversación volvió al tira y afloja entre los que planteaban colaborar con RIO, a regañadientes, eso sí, y los que defendían el "no". Este último grupo parecía estar ganando terreno hasta que alguien más intervino.
+- ¡Basta!
