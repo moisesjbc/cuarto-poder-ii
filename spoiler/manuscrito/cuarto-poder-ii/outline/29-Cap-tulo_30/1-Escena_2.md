@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7990
+charCount:      9310
 
 
 El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores. Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
@@ -68,3 +68,18 @@ Lucas no esperaba ser el centro de atención. Carraspeó antes de hablar.
 - No, no lo hace - convino la joven -. Pero piénsalo: esos cabrones están confesando sus crímenes, pero no a los verdaderos culpables. Y si nos están mintiendo en esto...
 La conversación volvió al tira y afloja entre los que planteaban colaborar con RIO, a regañadientes, eso sí, y los que defendían el "no". Este último grupo parecía estar ganando terreno hasta que alguien más intervino.
 - ¡Basta!
+Todos los presentes se giraron hacia el origen de la voz. Jonás los miraba con "¿en serio están discutiendo esto?" escrito en la frente.
+Lara lo miraba fijamente, preocupada.
+- ¿Jonás...?
+El antiguo vagabundo la ignoró y siguió mirando a los presentes, desafiante.
+- RIO... RIO debe ser destruida, pero no a costa de mi... de tanta gente. Lo que dicen de la *Sirena* es cierto. Sólo busca nuestra destrucción.
+- ¿Cómo estás tan seguro? - dijo una voz proveniente del tumulto.
+- ¿Y acaso RIO no busca nuestra destrucción? - se mofó otra.
+- Estuviste capturado por ellos, Jonás - dijo una tercera voz -. Sólo has escuchado la versión de RIO.
+- El enemigo de mi enemigo... - intervino otra.
+La discusión volvió a ser un partido entre dos equipos que se resistían a permitirle un tanto al otro.
+Lucas se fijó en Jonás. Ya no miraba a los demás, sino sólo a Lara, quien a su vez le devolvía la mirada, confusa.
+Tras unos instantes Jonás bajo la cabeza, cerró los ojos y resopló.
+- ¡Silencio! - ordenó -. Yo... - volvió a mirar a Lara unos segundos antes de seguir -. Yo trabajaba para RIO como investigador, voluntariamente.
+Primero se hizo el silencio. Entonces empezó la cascada de preguntas.
+Esta vez fue otra voz la que pidió silencio. la mujer que gritó miró entonces a Lucas y asintió, como diciendo "Ahora, continúa".
