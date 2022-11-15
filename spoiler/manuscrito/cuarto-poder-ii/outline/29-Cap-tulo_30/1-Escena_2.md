@@ -7,11 +7,12 @@ notes:          - Lara lo mira mal.
                 - Ajani y Kasim sabotean los coches pero no se revelan.
                 
                 **El narrador culpa a gente que lejos de falsear la información, creyó a Lucas. Esto da pie al "están confesando sus crímenes, pero no están mostrando a los verdaderos culpables***
+                
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9310
+charCount:      11246
 
 
 El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores. Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
@@ -83,3 +84,18 @@ Tras unos instantes Jonás bajo la cabeza, cerró los ojos y resopló.
 - ¡Silencio! - ordenó -. Yo... - volvió a mirar a Lara unos segundos antes de seguir -. Yo trabajaba para RIO como investigador, voluntariamente.
 Primero se hizo el silencio. Entonces empezó la cascada de preguntas.
 Esta vez fue otra voz la que pidió silencio. la mujer que gritó miró entonces a Lucas y asintió, como diciendo "Ahora, continúa".
+- Era un biotecnólogo trabajando para una empresa controlada en secreto por RIO. Hace cinco años recibimos una muestra de la *Sirena* y comenzamos a estudiarla. Nuestros avances llamaron la atención de la corporación, que ahora sí se presentó ante mi equipo y yo sin tapaderas para ofrecernos continuar la investigación buscando ciertas... aplicaciones.
+- ¡Hijo de puta! - gritó alguien. Un hombre corpulento se abalanzó corriendo hacia Jonás pero varias personas lo retuvieron.
+Una nube negra había empezado a formarse sobre Jonás y Lara. Esta última alternaba una mirada de ojos como platos entre su hermano y Lucas. En la mano de Jonás, el guante negro parpadeaba, luminoso.
+Los de la resistencia retrocedieron unos pasos alejándose de Jonás, pero no mucho.
+"Parece que se han acostumbrado", pensó Lucas, sin dejar de mirar la nube.
+- ¿Qué te ocurre, Manuel? - dijo uno de los que retenían al hombre corpulento.
+- ¡Este hijo de puta está detrás de las *Burbujas*!
+Las miradas se giraron hacia Jonás. Este miró a su hermana, quién a su vez lo miró fijamente.
+- ¿Lucas...?
+- Así es - dijo Jonás, con una mirada vacía posada sobre su hermana pero que de vez en cuando miraba a su alrededor en busca de amenazas -. Mi equipo y yo sentamos las bases de las *Burbujas* - dijo, levantando la voz para que lo escucharan todos.
+Miró hacia arriba, hacia la nube que flotaba sobre sus cabezas. Suspiró.
+- También encontramos aplicaciones replicando el comportamiento de los insectos de la *Sirena* en nanomáquinas.
+- Pero... - comenzó a decir una joven -. Ajani te había rescatado de unas instalaciones de RIO, ¿no? Estabas capturado por ellos, no colaborando con ellos.
+- La *Sirena* me infectó pero tengo cierta resistencia natural a ella. Sin embargo, me causa bastante dolor.
+- ¡Poco será comparado con el que has causado en tus malditas *Burbujas*! - esta vez no fue el corpulento el que habló, sino un hombre mucho más delgado tras este.
