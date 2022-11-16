@@ -1,7 +1,7 @@
 title:          Escena 2
 ID:             94
 type:           md
-summaryFull:    Los de la Resistencia debaten sobre si colaborar con RIO o no. Jonás acaba confesando su pasado en RIO y los convence para que acepten. Cuando los de RIO se disponen a marcharse sus coches explotan y se produce un tiroteo. Lucas corre a donde está Ana y se encuentra con un grupo de asimilados junto a su cama.
+summaryFull:    Los de la Resistencia debaten sobre si colaborar con RIO o no. Jonás acaba confesando su pasado en RIO y los trata de convencer para que acepten, pero entonces se escuchan explosiones y disparos.
 POV:            0
 notes:          - Lara lo mira mal.
                 - Ajani y Kasim sabotean los coches pero no se revelan.
@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      11246
+charCount:      11673
 
 
 El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores. Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
@@ -99,3 +99,7 @@ Miró hacia arriba, hacia la nube que flotaba sobre sus cabezas. Suspiró.
 - Pero... - comenzó a decir una joven -. Ajani te había rescatado de unas instalaciones de RIO, ¿no? Estabas capturado por ellos, no colaborando con ellos.
 - La *Sirena* me infectó pero tengo cierta resistencia natural a ella. Sin embargo, me causa bastante dolor.
 - ¡Poco será comparado con el que has causado en tus malditas *Burbujas*! - esta vez no fue el corpulento el que habló, sino un hombre mucho más delgado tras este.
+- ¡Hijo de puta! - gritó otra.
+Algunos empezaron a avanzar hacia Jonás. Poco parecía importarles ya la nube negra que flotaba sobre su cabeza y que obedecía toda sus órdenes. Tampoco les importaba Lara, a quien Jonás hacia retroceder con un brazo sin dejar de mirar a los presentes.
+- ¡Escuchénme! - gritó este último, paseando su mirada por todos los presentes.
+Entonces empezaron a escucharse los disparos y las explosiones.
