@@ -13,7 +13,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2831
+charCount:      5488
 
 
 En cuestión de pocos segundos quedaron sumidos en el caos de una zona de guerra. Las explosiones y disparos parecían acercarse desde todos los lados, con sus ecos rebotando por toda la estancia.
@@ -37,7 +37,36 @@ Noemí había tomado la delantera. Lucas corrió para acercarse a ella y le habl
 El padre que Lucas había sido en la *Burbuja* afloró y se preguntó qué había pasado con su hija, con un arma en la mano y corriendo hacia una posible muerte.
 La pareja se desvió sin que nadie se molestara en decirles nada y se dirigieron hacia la zona sur. 
 Varios efectivos de la *Resistencia* se encontraban protegiendo la puerta sur, asomándose alternativamente a puertas y ventanas para disparar. Noemí se acercó a ellos, seguida de cerca por Lucas.
-La adolescente intentó acercarse a la puerta, pero antes de que Lucas pudiera decirle nadie, uno de los compañeros presentes le gritó.
+La adolescente intentó acercarse a la puerta, pero antes de que Lucas pudiera decirle nadie, uno de los compañeros presentes, un señor de unos 50 años, le gritó.
 - ¡Eh! ¡¿Qué haces?!
 Noemí retrocedió y miró al hombre, manteniendo la calma.
 - Nos han ordenado comprobar el estado de Ana - mintió.
+- Te han ordenado defender la zona norte - dijo el efectivo de la *resistencia* sin dejar de disparar a algún enemigo invisible -. Estás preocupado por Ana, ¿no? - dijo, mirando de reojo a Lucas.
+Lucas asintió. Entonces cayó en que su interlocutor ya no lo estaba mirando.
+- ¡Sí! - se hizo oír por encima del ruido de disparos.
+El señor disparó un par de veces más antes de contestar.
+- Está bien, de todas formas tenemos que enviar refuerzos al edificio principal. Siganos. Y Noemí...
+La adolescente dio un respingo.
+- ¿Sí?
+- No vuelvas a mentir a tus compañeros - dijo, sin dejar asomar sonrisa alguna.
+- Está bien - aceptó ella -. Lo siento.
+El señor sonrió.
+- Bueno, hora de avanzar hacia el edificio principal. Quedan unos pocos *asimilados* en el patio. No parecen llevar armas de fuego pero ya hemos visto a alguno que otro que se ha inmolado. Mucho cuidado, ¿ok?
+- ¡Sí! - asintió el resto de los presentes: Lucas, Noemí, y dos efectivos más de la *resistencia*.
+- Muy bien, ¡vamos allá!
+El señor salió al patio enérgicamente y el resto lo imitó: primero los dos compañeros de la *resistencia* y luego Noemí y Lucas.
+Salieron a una noche cálida y apacible, trastocada por los disparos, explosiones y gritos de fondo. Parecían provenir tanto del edificio principal como del exterior de los altos muros de cemento.
+El suelo del patio estaba cubierto por hojas secas, hierba reseca y tierra. Grandes árboles se distribuían sin ningún patrón aparente por toda la zona. El grupo intentó avanzar sin hacer ruido, pero las hojas crujían bajo sus pies.
+Por suerte las hojas también servían como una suerte de alerta de proximidad. Muchas de ellas empezaron a crujir cada vez más cerca.
+- ¡Derecha! - gritó Lucas.
+Un joven vestido de chándal corría hacia ellos, con los ojos inyectados en sangre.
+Lucas apuntó su pistola hacia el *asimilado* pero a pesar de que aquel ser parecía querer despedazarlo era tan joven...
+Un disparo pasó silbando por la izquierda de Lucas e impactó en el pecho del joven, que cayó al suelo. Lucas confirmó que el disparo fue efectuado por Noemí, que lo miraba.
+- ¡Dispárales! - gritó esta.
+Lejos de permanecer en el suelo, el joven se incorporó rápidamente y reanudó el *sprint*.
+Lucas alzó el arma y dudó durante una fracción de segundo. Hasta que imaginó lo que el joven les haría a todos, incluida su "hija", si les echaba las manos encima.
+"¡Mierda!"
+Lucas apretó el gatillo.
+Nada.
+Con el rubor calentándole las mejillas rápidamente quitó el seguro y apretó de nuevo el gatillo.
+Un segundo disparo voló e impactó nuevamente en el pecho del *asimilado*, haciéndolo caer a apenas dos metros de ellos.
