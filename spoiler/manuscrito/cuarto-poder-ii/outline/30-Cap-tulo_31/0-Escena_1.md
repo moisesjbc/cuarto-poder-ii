@@ -5,7 +5,7 @@ summaryFull:    Cuando los de RIO se disponen a marcharse sus coches explotan y 
                 
                 Parte del grupo de asimilados retiene a Lucas e intenta razonar con este pero es imposible. El grupo insta a Lucas a destruir el nuevo mástil si quiere recuperar a Ana. Entonces se la lleva atravesando el suelo en una nube negra. Se escucha la señal que indica la explosión inminente de la base.
 POV:            0
-notes:          - Aclarar que están en un edificio cercano.
+notes:          - Aclarar que están en un edificio cercano separados por un bosque
                 - Le dice que no puede acceder a los de RIO de la zona, "¿por qué será?".
                 - **¿Y Noemí y los demás? ¿Lucas no se acuerda de ellos?, ¿o es que ve por el camino que están bien?**
                 - Esta señal la puedo indicar en el primer cuarto cuando explotan la segunda base.
@@ -13,7 +13,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5488
+charCount:      7595
 
 
 En cuestión de pocos segundos quedaron sumidos en el caos de una zona de guerra. Las explosiones y disparos parecían acercarse desde todos los lados, con sus ecos rebotando por toda la estancia.
@@ -60,6 +60,8 @@ El suelo del patio estaba cubierto por hojas secas, hierba reseca y tierra. Gran
 Por suerte las hojas también servían como una suerte de alerta de proximidad. Muchas de ellas empezaron a crujir cada vez más cerca.
 - ¡Derecha! - gritó Lucas.
 Un joven vestido de chándal corría hacia ellos, con los ojos inyectados en sangre.
+- ¡Por aquí también vienen! - gritó uno de los jóvenes.
+Una pareja de asimilados corría hacia ellos desde el frente y desde la izquierda. La misma expresión de rabia inconsciente presidía sus caras.
 Lucas apuntó su pistola hacia el *asimilado* pero a pesar de que aquel ser parecía querer despedazarlo era tan joven...
 Un disparo pasó silbando por la izquierda de Lucas e impactó en el pecho del joven, que cayó al suelo. Lucas confirmó que el disparo fue efectuado por Noemí, que lo miraba.
 - ¡Dispárales! - gritó esta.
@@ -70,3 +72,19 @@ Lucas apretó el gatillo.
 Nada.
 Con el rubor calentándole las mejillas rápidamente quitó el seguro y apretó de nuevo el gatillo.
 Un segundo disparo voló e impactó nuevamente en el pecho del *asimilado*, haciéndolo caer a apenas dos metros de ellos.
+El asimilado comenzó a levantarse de nuevo. Noemí avanzó hacia él para dispararle, pero Lucas se adelantó y le disparó en la cabeza. Los sesos se desperdigaron por la hierba y Lucas apartó la mirada, pero no por la visión, sino para mirar a Noemí.
+Esta lo miró durante un instante sin mediar palabra.
+- ¡Vamos! - les instó el señor, líder de la columna.
+La pareja de asimilados yacía muerta a escasos metros de ellos. Lucas y Noemí obedecieron y el pequeño grupo y se puso en marcha nuevamente.
+Avanzaron unos cincuenta metros, abatiendo otros asimilados por el camino. Pronto comenzaron a vislumbrar el edificio destino por entre los árboles.
+El líder empezó a hablar.
+- Ahí está el... ¡buf!
+Un asimilado había salido de entre los árboles cercanos y se avalanzó sobre él, cayendo ambos al suelo.
+Uno de los jóvenes disparó y dio muerte al asimilado. Se acercó al señor para ayudar a levantarlo mientras el resto vigilaba los alrededores.
+- ¡Mierda!
+Lucas miró rápidamente hacia el joven, quien ya se estaba incorporando sin ayudar al señor a levantarse. Este último permanecía tirado en el suelo, con sangre brotando de la nuca y cayendo sobre la roca que había golpeado al caer.
+- No hagan ruido y atentos a los árboles cercanos! - dijo en voz baja el joven, asumiendo el rol de líder. Ninguno de los presentes lo discutió. Al contrario; se limitaron a asentir.
+Los cuatro reanudaron la marcha, dejando los cadáveres atrás. El edificio comenzó a destacar cada vez más, a medida que se acercaban y los árboles iban dejando paso a la construcción. Ellos, sin embargo, habían aprendido la lección: no perder de vista el bosque a su alrededor.
+Otro asimilado salió de entre los árboles y lanzó una cuchillada contra Lucas. Este último apenas tuvo tiempo de apartarse cuando varios disparos restallaron en el pecho del enemigo.
+Noemí se acercó a Lucas, sin dejar de apuntar el arma al asimilado.
+- ¿Estás bien?
