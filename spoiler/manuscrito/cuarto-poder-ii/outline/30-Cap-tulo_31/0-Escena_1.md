@@ -13,7 +13,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7595
+charCount:      10569
 
 
 En cuestión de pocos segundos quedaron sumidos en el caos de una zona de guerra. Las explosiones y disparos parecían acercarse desde todos los lados, con sus ecos rebotando por toda la estancia.
@@ -88,3 +88,23 @@ Los cuatro reanudaron la marcha, dejando los cadáveres atrás. El edificio come
 Otro asimilado salió de entre los árboles y lanzó una cuchillada contra Lucas. Este último apenas tuvo tiempo de apartarse cuando varios disparos restallaron en el pecho del enemigo.
 Noemí se acercó a Lucas, sin dejar de apuntar el arma al asimilado.
 - ¿Estás bien?
+"Mi hija ha matado a alguien", escuchó el eco de Mario, el padre ficticio de Noemí en la *Burbuja*.
+- Sí... - dijo, intentando acallar la voz -. Gracias.
+Noemí sonrió y volvió a centrarse en sus alrededores.
+Una bala silbó sobre sus cabezas. El cuarteto se agachó y apuntó sus armas hacia la procedencia: el edificio que tenían delante.
+Desde una de las ventanas rotas, un agente de RIO les apuntaba con su fusil.
+Alguien de la *resistencia* apareció por su izquierda y le empujó, gritándole algo que Lucas sólo pudo imaginar como "¡¿Qué coño te pasa?! ¡Son de los nuestros".
+El de RIO bajó la cabeza, asintiendo, sin apenas poder disimular su enfado.
+El de la *resistencia* miró al grupo y estuvo a punto de decir algo, pero entonces abrió los ojos como platos y apuntó su fusil en la dirección del grupo, imitado por otros apostados en las ventanas.
+- ¡Detrás!
+El grupo de Lucas, que había empezado a incorporarse, se agachó rápidamente de nuevo y se giró hacia la amenaza.
+Varios *asimilados* corrían hacia ellos pero una lluvia de disparos cayó sobre ellos, dándoles muerte a escasos metros de Lucas y Noemí, que se encontraban más atrás.
+Uno de los muertos soltó algo que rodó hacia ellos. Mientras Lucas intentaba adivinar qué era, Noemí se abalanzó sobre él y ambos cayeron al suelo.
+La granada explotó, proyectando tierra y fragmentos de rocas en todas direcciones. Con la cara sobre la tierra y ensordecido por la explosión, Lucas se sintió aislado de la  situación y de su propio cuerpo. Temió que en cualquier momento algún superviviente lo matara mientras estaba en el suelo, pero fue la perspectiva de que eso mismo le pudiera pasar a Noemí lo que lo hizo levantar la cabeza e intentar incorporarse lo más rápido que pudiera.
+Noemí se encontraba a su lado, también alzando la cabeza en ese momento. Se ayudaron mutuamente a levantarse y fue entonces cuando Lucas vio la sangre en el brazo de la adolescente.
+- ¡No es nada! - gritó, también aturdida y ensordecida - ¡me he raspado el brazo!
+Una sombra apareció tras ella y Lucas la empujó a un lado, cayendo ambos al suelo. El *asimilado* blandió un palo astillado y ensangrentado hacia ellos pero una nueva ráfaga de disparos lo hizo desplomarse en el acto.
+- ¡Por aquí! ¡Rápido!
+La pareja volvió a incorporarse y miró hacia el edificio. Un pequeño grupo había salido a su encuentra, pero el que gritaba era el joven que había venido con ellos. El otro joven yacía malherido en el suelo, con fragmentos de roca clavados por todo su cuerpo.
+Sin camilla para transportarlo, un miembro de RIO y otro de la resistencia cogieron como pudieron al herido y lo llevaron adentro zarandeándolo tanto que este último empezó a chillar de dolor hasta que se desmayó. Si fue un desmayo temporal o permanente, Lucas no podía saberlo, aunque se temía lo segundo.
+Todos los presentes corrieron y entraron en el edificio, cubiertos por los efectivos que disparaban desde las ventanas a los asimilados que corrían a sus espaldas.
