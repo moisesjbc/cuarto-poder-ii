@@ -9,11 +9,13 @@ notes:          - Aclarar que están en un edificio cercano separados por un bos
                 - Le dice que no puede acceder a los de RIO de la zona, "¿por qué será?".
                 - **¿Y Noemí y los demás? ¿Lucas no se acuerda de ellos?, ¿o es que ve por el camino que están bien?**
                 - Esta señal la puedo indicar en el primer cuarto cuando explotan la segunda base.
+                - Aclarar si el Mástil está en la azotea o fuera. Sincronizar con lo que digo en el capítulo anterior (si digo algo) y en este (explosión en la azotea).
+                	- Aclarar el alcance del Mástil con algo como que los asimilados se mantienen a distancia o algo.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      10569
+charCount:      12748
 
 
 En cuestión de pocos segundos quedaron sumidos en el caos de una zona de guerra. Las explosiones y disparos parecían acercarse desde todos los lados, con sus ecos rebotando por toda la estancia.
@@ -108,3 +110,14 @@ Una sombra apareció tras ella y Lucas la empujó a un lado, cayendo ambos al su
 La pareja volvió a incorporarse y miró hacia el edificio. Un pequeño grupo había salido a su encuentra, pero el que gritaba era el joven que había venido con ellos. El otro joven yacía malherido en el suelo, con fragmentos de roca clavados por todo su cuerpo.
 Sin camilla para transportarlo, un miembro de RIO y otro de la resistencia cogieron como pudieron al herido y lo llevaron adentro zarandeándolo tanto que este último empezó a chillar de dolor hasta que se desmayó. Si fue un desmayo temporal o permanente, Lucas no podía saberlo, aunque se temía lo segundo.
 Todos los presentes corrieron y entraron en el edificio, cubiertos por los efectivos que disparaban desde las ventanas a los asimilados que corrían a sus espaldas.
+Dentro del edificio las personas de ambos bandos se gritaban unos a otros, intentando coordinarse. Sin una jerarquía clara que aunara las propias de ambas facciones, muchas órdenes se encontraban con reticencias, negativas o incluso insultos. No obstante, la gravedad de la situación mantenía unos mínimos de colaboración, al menos mientras hubiera un enemigo común.
+Lucas creyó identificar al superior de la *resistencia* entre los más cercanos, pero este había ignorado a los recién llegados.
+"Bastante hizo cubriéndonos hasta que entramos", supuso Lucas.
+El joven le hizo una señal a Noemí para que siguieran a la pareja de efectivos que transportaban al herido, suponiendo que lo llevarían a la improvisada enfermería de la base, la cuál se encontraba cerca de donde descansaba Ana.
+Noemí asintió y se pusieron en marcha, acompañados por el joven que había llegado con ellos al edificio principal. Este último no apartaba la mirada del herido y le gritaba palabras de ánimo mientras avanzaban a paso rápido.
+"¿Habrá despertado?", se preguntó Lucas, pensando en Ana.
+Callejearon por pasillos por los que de vez en cuando se cruzaban con alguna que otra persona que corría en un sentido u otro. Lucas supuso que la mayoría debía estar ya cubriendo las puertas y ventanas exteriores.
+Estaban llegando al pasillo de la enfermería cuando escucharon una gran explosión sobre sus cabezas. El impacto fue tan grande que Lucas y los demás no pudieron evitar mirar hacia el techo, temiendo que este cediera sobre ellos.
+El techo, sin embargo, aguantó la explosión de la azotea. Sin que hiciera falta que nadie dijera nada, el grupo continuó la marcha y enfiló el último pasillo. Los que transportaban al herido y el compañero de este entraron rápidamente en la primera puerta de la derecha, donde se encontraba la enfermería. De allí escapaban el bullicio de malheridos quejándose y nuevamente órdenes y réplicas cruzadas, supuso Lucas, entre personal de ambas facciones.
+Lucas no se detuvo a ojear la enfermería y su lugar apremió a Noemí para llegar a la siguiente puerta a la izquierda.
+- **Aclarar quién se la lleva. No puede ser los asimilados directamente por el Mástil de Ana**
