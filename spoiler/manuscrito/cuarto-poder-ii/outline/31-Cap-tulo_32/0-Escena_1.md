@@ -9,5 +9,9 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
+charCount:      426
 
 
+Lucas se guardó el mapa en el bolsillo y se dispuso a ir al sitio de contacto, pero Noemí lo convenció a duras penas de que era una misión suicida mientras durara el ataque, y más teniendo en cuenta que habían llegado a duras penas al edificio actual.
+El joven no atendió a razones hasta que Noemí le juró que iría con él, fuera un suicidio o no.
+Fuera instinto paternal o simple amistad, Lucas aceptó esperar a regañadientes.

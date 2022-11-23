@@ -10,12 +10,13 @@ notes:          - Aclarar que están en un edificio cercano separados por un bos
                 - **¿Y Noemí y los demás? ¿Lucas no se acuerda de ellos?, ¿o es que ve por el camino que están bien?**
                 - Esta señal la puedo indicar en el primer cuarto cuando explotan la segunda base.
                 - Aclarar si el Mástil está en la azotea o fuera. Sincronizar con lo que digo en el capítulo anterior (si digo algo) y en este (explosión en la azotea).
-                	- Aclarar el alcance del Mástil con algo como que los asimilados se mantienen a distancia o algo.
+                - Aclarar el alcance del Mástil con algo como que los asimilados se mantienen a distancia o algo.
+                - **Aclarar quién se la lleva. No puede ser los asimilados directamente por el Mástil de Ana**
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      12748
+charCount:      14036
 
 
 En cuestión de pocos segundos quedaron sumidos en el caos de una zona de guerra. Las explosiones y disparos parecían acercarse desde todos los lados, con sus ecos rebotando por toda la estancia.
@@ -119,5 +120,22 @@ Noemí asintió y se pusieron en marcha, acompañados por el joven que había ll
 Callejearon por pasillos por los que de vez en cuando se cruzaban con alguna que otra persona que corría en un sentido u otro. Lucas supuso que la mayoría debía estar ya cubriendo las puertas y ventanas exteriores.
 Estaban llegando al pasillo de la enfermería cuando escucharon una gran explosión sobre sus cabezas. El impacto fue tan grande que Lucas y los demás no pudieron evitar mirar hacia el techo, temiendo que este cediera sobre ellos.
 El techo, sin embargo, aguantó la explosión de la azotea. Sin que hiciera falta que nadie dijera nada, el grupo continuó la marcha y enfiló el último pasillo. Los que transportaban al herido y el compañero de este entraron rápidamente en la primera puerta de la derecha, donde se encontraba la enfermería. De allí escapaban el bullicio de malheridos quejándose y nuevamente órdenes y réplicas cruzadas, supuso Lucas, entre personal de ambas facciones.
-Lucas no se detuvo a ojear la enfermería y su lugar apremió a Noemí para llegar a la siguiente puerta a la izquierda.
-- **Aclarar quién se la lleva. No puede ser los asimilados directamente por el Mástil de Ana**
+Lucas no se detuvo a ojear la enfermería y en su lugar apremió a Noemí para llegar a la siguiente puerta a la izquierda.
+La puerta estaba abierta, pero la cerradura estaba reventada.
+A Lucas se le hizo un nudo en el estómago.
+Dentro de la pequeña oficina no había nadie. En la pared del fondo había un gran agujero circular de unos dos metros de diámetro.
+Vieron a un miembro de la resistencia pasar corriendo por el pasillo del otro lado del agujero, sin prestar atención a este. Parecía que ya no era una noticia para él.
+Encima del sofá que hacía de camilla de Ana sólo había un pequeño charco de sangre.
+Lucas corrió hacia el agujero de la pared y asomó la cabeza a ambos lados del pasillo que había al otro lado. Sólo algunos miembros de RIO y la *resistencia* corriendo de un lado a otro.
+"¿Hacia dónde se la habrán llevado?", pensó Lucas, mirando a un lado y otro del pasillo, esperando ciegamente ver algo distinto, alguna pista.
+- Lucas.
+"¿Por qué haría esto la *Sirena*?"
+- Lucas.
+"¿O habrá sido RIO? ¿Quizás la hayan llevado a la enfermería?"
+- Lucas.
+"Pero la cerradura..."
+- ¡Lucas!
+El joven miró a Noemí. Esta había levantado los cojines del sofá y sostenía un papel en la mano.
+Lucas se acercó a ella, aceptó el papel doblado mientras decía "lo siento" y lo abrió.
+Se trataba de un mapa de la zona. El joven enseguida localizó los dos edificios ocupados por la *resistencia* cerca del centro. A unos dos kilómetros al este había una equis con un nombre debajo escrito con sangre.
+"Ana"
