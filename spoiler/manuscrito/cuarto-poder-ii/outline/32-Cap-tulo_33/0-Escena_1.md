@@ -11,11 +11,12 @@ notes:          - Ajani infiltrado. ¿Alguna pista?
                 - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
                 - ¿Mencionar aquí los intentos de RIO por intentar descubrir más "sensibles"?
                 - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
+                - **Aclarar los múltiples camiones y la "antena" en medio del camión desde el principio**
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3644
+charCount:      5654
 
 
 Lucas abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -62,3 +63,30 @@ Lucas dirigió una rápida mirada a Elizabeth, sentada frente a ellos. Esta se l
 Lucas la abrazó y ella le correspondió estrechándolo entre sus brazos con fuerza.
 - No nos perderás.
 Lucas sintió que le estaba mintiendo, pero continuó igualmente.
+- Hemos sobrevivido a una *Burbuja*, como una familia. Creo que podremos con esto.
+- Estuvimos a punto de morir - dijo ella -. Si no fuera porque *estallaron la Burbuja* cuando lo hicieron...
+- Bueno, la misma suerte que tuvimos entonces podemos tenerla ahora.
+- ¿Vamos a depender de la suerte?
+- Tienes razón, es un plan de mierda.
+Noemí no pudo evitar reír ligeramente.
+- Ahora tenemos refuerzos, y tenemos a Jonás.
+- Bueno... algo hará. Supongo.
+Los dos permanecieron en silencio unos instantes. Lucas se giró hacia el otro lado. Una joven de *RIO* examinaba su arma sin prestar atención a nada más.
+- Perdón - dijo él -. Perdón - repitió.
+La joven por fin le hizo caso.
+- ¿Sí?
+- ¿Sabes cuánto queda hasta nuestro destino?
+- ¿La muerte de todos nosotros, incluyendo a tu adorable hijita? Unos diez minutos.
+Lucas volvió a mirar a Noemí. Esta última lo miró y se obligó a sonreír, negando con la cabeza.
+- Gracias - respondió secamente.
+Pasaron unos minutos más en silencio cuando una figura esbelta se puso en pie frente a él. 
+- ¿Recuerdas el plan, dormilón? - se burló Elizabeth.
+"Meternos en unas instalaciones rodeadas de asimilados violentos y explosiones y lanzar un satélite para que RIO vuelva a estar en control" pensó Lucas, pero no quería decirlo delante de Noemí y que la poca confianza que tenía en el plan traicionara su voz.
+Así que se limitó a asentir.
+- Sí.
+- Perfecto. Montaremos varios grupos, uno por cada camión. En nuestro caso, tú simplemente mantente cerca de Jonás - señaló al susodicho y este la miró, perspicaz - y *Mástil* - señaló entonces a la antena. ¿Entendido?
+- Parece sencillo.
+- Ya, la parte difícil va a ser no morir - hizo un amago de sonrisa antes de volver a una expresión seria -. Ahora escucha. Las trampas parecen estar todas dentro de las instalaciones, pero no nos confiemos. Desde que te empieces a sentir mal en lo más mínimo nos avisas, ¿ok?
+Lucas asintió, pero no pareció ser suficiente para ella.
+- ¿Lo entiendes Lucas? Cualquier cosa, ¿ok?
+- Sí sí, joder.
