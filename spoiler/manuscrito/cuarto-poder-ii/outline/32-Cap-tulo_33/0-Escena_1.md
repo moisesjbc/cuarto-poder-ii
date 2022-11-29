@@ -12,11 +12,12 @@ notes:          - Ajani infiltrado. ¿Alguna pista?
                 - ¿Mencionar aquí los intentos de RIO por intentar descubrir más "sensibles"?
                 - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
                 - **Aclarar los múltiples camiones y la "antena" en medio del camión desde el principio**
+                - **¿Quitar a Lara?**
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5654
+charCount:      7536
 
 
 Lucas abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -90,3 +91,29 @@ Así que se limitó a asentir.
 Lucas asintió, pero no pareció ser suficiente para ella.
 - ¿Lo entiendes Lucas? Cualquier cosa, ¿ok?
 - Sí sí, joder.
+Elizabeth se dio por satisfecha. Entonces alzó la voz para dirigirse a todos los presentes.
+- ¡Diez minutos, gente! ¡Prepárense!
+Para gran parte de los presentes la noticia no les supuso ningún cambio en su comportamiento. Se habían preparado con antelación y se limitaban a mirar el paisaje. Unos pocos, sin embargo, se apresuraron a revisar sus armas y equipo.
+"¡Mierda! ¡Mi pistola!"
+Lucas se llevó la mano a su cartuchera y, tal como temía, la encontró vacía.
+- Toma.
+Noemí le alcanzó una pistola al tiempo que se permitía sonreír ligeramente.
+El joven aceptó el arma y comprobó la munición. Cuando se percató en que Noemí lo miraba fijamente, sonrió él también.
+- No, no me fío de ti.
+La adolescente le dio un puñetazo suave en el brazo. Estuvo a punto de decir algo, pero entonces clavó la mirada en algún punto fuera del vehículo, que comenzaba a detenerse. Se levantó para mirar mejor.
+- ¿Esos son... asimilados?
+Lucas se incorporó ligeramente y entonces los vio también.
+Decenas de personas corrían ciegamente hacia algún lugar más adelante del camión, a duras penas esquivando la caravana de vehículos, y los árboles aquellos que corrían por fuera de la carretera.
+La misma ira asesina nublaba sus miradas.
+Elizabeth, visiblemente molesta se llevó la mano a la radio que colgaba de un lado de su cintura y se la llevó a la boca.
+- Aquí Elizabeth, ¡respondan!
+Pasaron unos instantes. No hubo respuesta.
+- Aquí Elizabeth - repitió -. ¡Respondan!
+Nada.
+Ajustó la frecuencia antes de volver a hablar.
+- ¿Tienes comunicación con base?
+- ¡Negativo!
+- ¡Mierda! Pues nada, vamos a ciegas. Dile a los demás que avancen, a ver si podemos llegar al borde.
+- ¡Sí!
+Cortaron la comunicación y Elizabeth se guardó la radio al tiempo que se dirigía a los presentes.
+- Muy bien, vamos a intentar acercarnos lo que podamos al valle, pero no pierdan de vista a los *asimilados*. ¿Entendido?
