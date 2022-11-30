@@ -17,7 +17,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7536
+charCount:      9427
 
 
 Lucas abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -117,3 +117,18 @@ Ajustó la frecuencia antes de volver a hablar.
 - ¡Sí!
 Cortaron la comunicación y Elizabeth se guardó la radio al tiempo que se dirigía a los presentes.
 - Muy bien, vamos a intentar acercarnos lo que podamos al valle, pero no pierdan de vista a los *asimilados*. ¿Entendido?
+Los presentes asintieron y el camión continuó la marcha, subiendo una cuesta cada vez más empinada y peor asfaltada.
+Mientras llegaban a la cima vieron que cada vez la afluencia de asimilados era mayor. Algunos empezaban a chocar contra el camión, pero continuaban corriendo, visiblemente heridos pero aún presas de una ira incontrolable.
+El conductor abrió la pequeña ventana que separaba la cabina de la trasera del camión.
+- Vamos a tener que alejarnos si queremos poder bajar tranquilamente.
+Elizabeth se acercó a la ventanilla antes de hablar.
+- Muy bien.
+El *convoy* llegó a prácticamente al borde del precipicio antes de continuar por un camino de tierra paralelo a este. Lucas, Noemí y algunos más que estaban sentados en el lado contrario se levantaron y se dirigieron al otro lateral para poder ver algo.
+Frente a ellos pero unos cien metros más abajo se encontraba una base militar situada en el centro mismo del valle. Las instalaciones debían ser imponentes en una situación normal, estimó Lucas, pero ahora no parecía tan grande.
+Miles de personas inundaban el valle, asemejando las instalaciones a una diminuta roca aguantando como podía los envites de un rio violento, indómito.
+Las personas se atacaban unas a otras, ya fuera con cualquier herramienta que trajeran de casa, rocas del lugar, o sus propias manos.
+También se escuchaban algunos disparos: unos menos audibles que provenían de la multitud y que parecían provenir de pistolas y armas de pequeño calibre; y otros mucho más fuertes que provenían de las montañas cercanas.
+El camión pasó cerca de uno de los francotiradores apostados en la misma montaña. Junto a él, dos efectivos de RIO cubrían sus espaldas con semiautomáticas. El  francotirador se permitió mirar a los camiones durante un instante.
+- Joder, ¡ya era hora!
+Y continuó disparando.
+Elizabeth ordenó parar a los camiones y se bajó a hablar con ellos.
