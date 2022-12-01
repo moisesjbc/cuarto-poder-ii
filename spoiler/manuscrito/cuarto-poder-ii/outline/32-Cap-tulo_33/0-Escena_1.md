@@ -17,7 +17,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9427
+charCount:      11229
 
 
 Lucas abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -131,4 +131,15 @@ También se escuchaban algunos disparos: unos menos audibles que provenían de l
 El camión pasó cerca de uno de los francotiradores apostados en la misma montaña. Junto a él, dos efectivos de RIO cubrían sus espaldas con semiautomáticas. El  francotirador se permitió mirar a los camiones durante un instante.
 - Joder, ¡ya era hora!
 Y continuó disparando.
-Elizabeth ordenó parar a los camiones y se bajó a hablar con ellos.
+Elizabeth ordenó parar a los camiones y se bajó a hablar con ellos. En poco más de un minuto sincronizaron frecuencias de radio y la joven obtuvo indicaciones para llegar un camino para bajar al valle menos transitado.
+Cuando Lucas quiso darse cuenta, Elizabeth ya había subido al camión y el *convoy* había reanudado la marcha.
+Avanzaron tan poco que Lucas se preguntó si realmente hizo falta movilizar los camiones pero descartó comentarlo en voz alta.
+- Muy bien - anunció Elizabeth -. ¡Todo el mundo abajo!
+Los grupos de cada uno de los 3 camiones se apearon de los vehículos. Cuatro personas de cada uno hicieron fuerza para bajar sus respectivos *Mástiles* bajo quejas de "¡Joder!" y "¡Cómo pesa!".
+Dejaron los *Mástiles* en el suelo y uno de los porteadores se sacó un pequeño mando con el que controlaba las ruedas montadas bajo los armatostes.
+Los tres grupos avanzaron hacia el borde del precipicio y localizaron el camino de tierra que bajaba, empinado, hasta la base de la montaña.
+Caminando pegados a la trasera del *Mástil*, Lucas y Noemí no podían evitar mirar a la pesada antena motorizada con morbo.
+"En cualquier momento se va a despeñar", pensó Lucas tras varios amagos de tropezarse él mismo. Por la mirada de Noemí, estimó que estaba pensando lo mismo. Ambos se miraron y sonrieron.
+Llegaron sin más percances a la base de la montaña y su visión se redujo al muro impenetrable de personas que se extendía en todas direcciones y al edificio militar que se alzaba sobre sus cabezas a unos quinientos metros.
+El grupo se pegó al Mástil y avanzaron al unísono con este. Los asimilados corrían de un lado a otro y se atacaban los unos a otros, esquivando a la la procesión de los *Mástiles* como si fueran dioses intocables.
+Los tres grupos no tardaron en ser engullidos por la multitud, que seguía masacrándose a si misma sin importarle los visitantes.
