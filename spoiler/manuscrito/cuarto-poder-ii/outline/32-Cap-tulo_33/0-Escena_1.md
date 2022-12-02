@@ -13,11 +13,12 @@ notes:          - Ajani infiltrado. ¿Alguna pista?
                 - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
                 - **Aclarar los múltiples camiones y la "antena" en medio del camión desde el principio**
                 - **¿Quitar a Lara?**
+                - **Aclarar que Lucas va en el grupo del centro**
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      11229
+charCount:      14107
 
 
 Lucas abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -143,3 +144,31 @@ Caminando pegados a la trasera del *Mástil*, Lucas y Noemí no podían evitar m
 Llegaron sin más percances a la base de la montaña y su visión se redujo al muro impenetrable de personas que se extendía en todas direcciones y al edificio militar que se alzaba sobre sus cabezas a unos quinientos metros.
 El grupo se pegó al Mástil y avanzaron al unísono con este. Los asimilados corrían de un lado a otro y se atacaban los unos a otros, esquivando a la la procesión de los *Mástiles* como si fueran dioses intocables.
 Los tres grupos no tardaron en ser engullidos por la multitud, que seguía masacrándose a si misma sin importarle los visitantes.
+Los *asimilados* no gritaban cuando eran golpeados, apuñados o disparados, con lo cuál sólo estos sonidos, junto con el de pasos, era lo que ensordecía a los recién llegados.
+Sin dejar de mirar a la miriada de caras, los pensamientos fatalistas empezaron a agolparse en la mente de Lucas.
+"¿Qué pasa si el *Mástil* deja de funcionar (¿cuánta dura su batería?)? ¿Qué pasa si lo destruyen? ¿Qué pasa si todo esto es una trampa de RIO? ¿Qué pasa si los asimilados atacan a Noemí?
+Fue con este último pensamiento que Lucas negó con la cabeza enérgicamente, intentando sacudirse así ese indeseado intangible.
+- ¿Qué ocurre?
+La adolescente lo miraba sin dejar de caminar.
+- No te preocupes - dijo Lucas -. No pasa nada - mintió -.
+La que habló ahora, fue Elizabeth, delante del Mástil. Seguía mirando al frente.
+- ¿Qué ocurre? ¿Has notado algo, Lucas?
+- No es nada - insistió el joven -.
+Siguieron avanzando en silencio, intentando ignorar la autentica carnicería que ocurría a su alrededor.
+Llegaron a mitad del camino cuando un disparo resonó en todo el valle. El proyectil silbó cerca de ellos e impactó en algún punto de la multitud a escasos metros por delante del grupo de Lucas. El impacto sonó a metal y electricidad.
+- ¡Mierda! - gritó alguien - ¡Se han cargado el *Mástil*!
+Lucas creyó ver entre la multitud al otro grupo, pero este no tardó en ser engullido por los *asimilados*. Los pocos disparos que lograron disparar no evitaron los gritos de auxilio que rápidamente fueron silenciados igualmente.
+Elizabeth cogió rápidamente su radio.
+- ¡¿Qué cojones están haciendo?!
+Pero no hubo respuesta. Entonces se dirigió a los presentes.
+- ¡Rápido! ¡Correr hacia la base!
+El grupo se puso en marcha apresuradamente
+Sin embargo, un segundo disparo resonó en el valle. El mismo silbido, esta vez más cerca aún de ellos, acabó arancando el mismo sonido a metal y electricidad cuando impactó directamente en el *Mástil* situado delante de Lucas y Noemí.
+- ¡Mierda! ¡Mierda! ¡Mierda! - gritó alguien del grupo.
+Los *asimilados* cercanos se les echaron encima rápidamente. Los miembros de RIO y de la *Resistencia* apenas tuvieron tiempo de reaccionar cuando los *asimilados* comenzaron a destrozarlos a golpes. Elizabeth intentaba abatir a los *asimilados* pero estos la ignoraban, esquivándola para atacar al resto del grupo.
+"¿Pero qué...?", pensó Lucas.
+- ¡Lucas! - le gritó Noemí - ¡tenemos que...! ¡Cuidado!
+Noemí no tuvo tiempo de agarrar a Lucas, pero no fue necesario. El *asimilado* más cercano a Lucas esquivó a este y se dirigió a atacar directamente a Noemí. Lucas apuntó al *asimilado* y le disparó en la espalda.
+El atacante cayó al suelo pero en vez de chocar con este, el suelo cedió bajo su pie, tragándose también a la adolescente.
+- ¡Noe-...!
+El grito quedó ahogado cuando el suelo también cedió bajo los pies de Lucas, internándolo en la oscuridad más absoluta.
