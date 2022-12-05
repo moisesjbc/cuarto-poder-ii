@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4537
+charCount:      6660
 
 
 Lucas se encontraba suspendido en el negro infinito. Se sentía bajar como si estuviera tomando un ascensor.
@@ -74,4 +74,24 @@ Jonás habló con un hilillo de voz.
 - ¡Que nos subas!
 Lucas no supo decir si gritó con más fuerza para imponerse a Jonás o para alejar de su mente la idea de que despedazaran a Noemí delante de él.
 El suelo empezó a bailar bajo Lucas.
-El ascensor comenzaba a subir.
+El ascensor comenzaba a subir, pero parecía que iba cada vez más lento, mientras que más y más tierra empezaba a caer del techo, obligándolos a bajar la cabeza y taparse nariz y boca con el brazo.
+Noemí habló a duras penas, con la tos poniéndoselo difícil.
+- Jonás, ¡aguanta!
+Lucas intentó animarlo pero el mareo le volvió como un torrente, y como un torrente salió por su boca.
+No era su intención vomitarle la pierna a Jonás, pero tuvo un efecto positivo. Pues este pareció despertar de golpe.
+- ¡Hijo de...!
+- ¡Lo siento, lo siento, lo...!
+- ¡Ni se te ocurra!
+Lucas se tapó la boca y sintió el vómito cayendo sobre ella, al tiempo que las mejillas le ardían.
+El ascensor aceleró, aunque la cara de Jonás indicaba que no sería por mucho tiempo. La penumbra que dispersaba la luz de la linterna mostraba una cara inerte y completamente ensangrentada que a Lucas le recordó a tantos *zombies* de películas y videojuegos.
+Entonces, un segundo foco de luz comenzó a inundar rápidamente el habitáculo: el sol. Lucas miró instintivamente hacia arriba, pero la tierra y piedras que le cayeron encima le impidieron continuar haciéndolo.
+Volvió a bajar la mirada, pero entonces Jonás gritó.
+- ¡Atentos arriba, joder!
+Lucas y Noemí obedecieron, cubriéndose cada uno la cara con la mano izquierda y con la mano derecha apuntando casi a ciegas salvo por los pequeños huecos entre los dedos.
+El joven tuvo un primer plano del vómito sobre sus manos cayéndole sobre la cara. Intentó reprimir un segundo vómito.
+A la luz del sol, las paredes del ascensor eran de un gris traslúcido. Lucas intentó adivinar dónde se encontraban, y a los posibles enemigos, a través del gris, pero este desapareció rápidamente.
+Se encontraban dentro de una cancha de baloncesto descubierta, con altos muros en dos de los laterales y vallas en los otros dos.
+No parecía haber nadie cerca.
+- ¡Lucas!
+El joven se giró rápidamente y vio a Noemí sujetando como podía a un inconsciente Jonás. Lucas alargó las manos pero no pudo agarrarlo; ya Noemí estaba esforzándose por dejarlo lo más suavemente posible en el suelo.
+- ¡No te preocupes! - exclamó la adolescente - ¡Vigila los alrededores!
