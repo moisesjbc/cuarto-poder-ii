@@ -5,12 +5,12 @@ summaryFull:    Obligan a Jonás a usar el {W:4:Nanoguante} para hacerles un tú
 POV:            0
 notes:          - Lucas se percata del bulto en la pierna de uno de los efectivos de RIO, similar al que Ajani lleva por su camiseta (**¿entonces van encapuchados?**).
                 - No pueden lanzar un ataque aéreo. Han perdido esa capacidad.
-                
+                - **¿Por qué atacan a Lucas pero no a Elizabeth**?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6660
+charCount:      10023
 
 
 Lucas se encontraba suspendido en el negro infinito. Se sentía bajar como si estuviera tomando un ascensor.
@@ -95,3 +95,33 @@ No parecía haber nadie cerca.
 - ¡Lucas!
 El joven se giró rápidamente y vio a Noemí sujetando como podía a un inconsciente Jonás. Lucas alargó las manos pero no pudo agarrarlo; ya Noemí estaba esforzándose por dejarlo lo más suavemente posible en el suelo.
 - ¡No te preocupes! - exclamó la adolescente - ¡Vigila los alrededores!
+El joven obedeció y estudió la situación.
+Al otro lado de las dos vallas, un amplio pasillo exterior de asfalto, y tras este, dos imponentes edificios de dos plantas.
+Había algunos camiones aparcados cortando la carretera y personas tendidas a ambos lados de los mismos. A la izquierda (desde el punto de vista del joven), cuerpos de personas vestidas de militar. A la derecha, gente vestida de civil. Lucas imaginó que por este último lado estaría una de las salidas de la base.
+- Voy a asomarme - anunció Lucas.
+- Ten cuidado - solicitó Noemí.
+El joven asintió con una sonrisa y caminó el hueco que hacía de puerta en la valla frente a ellos. No dejaba de mirar los cuerpos tendidos sobre el suelo, preguntándose si realmente estarían muertos. A medida que fue acercándose a la valla pudo comprobar que, efectivamente, la carretera del lado de derecho continuaba recta hasta desembocar en un gran portón de metal. O lo que quedaba de ello, pues alguien había provocado una gran explosión y el portón y el muro superior no eran más que un amasijo de escombros.
+Del otro lado venía el sonido de las matanzas.
+Lucas volvía sobre sus pasos hacia la cancha de baloncesto cuando una de las ventanas del edificio de su derecha reventó. Un *asimilado* la había atravesado y cayó sobre Lucas, ensangrentado.
+- ¡Lucas! - gritó Noemí desde la cancha.
+- ¡Estoy bien! - mintió Lucas mientras forcejeaba con el enemigo, un joven de su misma edad pero más corpulento y barbudo.
+Sin saber muy bien cómo, consiguió quitárselo de encima y tirarlo hacia un lado. El barbudo se dispuso a abalanzarse otra vez sobre él, pero Lucas lo abatió de un disparo certero en la cabeza.
+Lucas sintió otras ventanas reventar y nuevos *asimilados* aparecieron en escena, dándose de bruces contra el suelo.
+Se dispuso a correr hacia la cancha pero delante de él se topó con una niña de unos diez años.
+La niña vestía un vestido a cuadros y sujetaba un osito de peluche en una de sus manos. Tenía dos trenzas en el pelo, decoradas con lazos rojos. Miraba a Lucas con ojos llorosos.
+Lucas intentó agarrarle la mano para llevarla junto a Noemí e intentar mantenerla a salvo, también sin saber cómo.
+Sin embargo, el rostro de la niña cambió en un instante, tornándose agresivo. Se sacó la otra mano de detrás de la espalda y con una velocidad sobrehumana le asestó un par de puñaladas a Lucas en la barriga.
+El joven se desplomó en el suelo, boca arriba.
+- ¡No! - gritó Noemí desde la cancha.
+Los otros *asimilados* que habían atravesado las ventanas ya se habían incorporado y corrían a ambos lados de Lucas.
+Se dirigían hacia la cancha.
+- No-e-mí - tartamudeó Lucas, ronco. Su voz un hilillo.
+Empezó a escuchar disparos volando sobre él, pero el ruido era cada vez más ahogado a medida que iba perdiendo la consciencia.
+Entonces, una sombra se proyectó sobre él.
+La niña lo miraba fijamente, con el osito de peluche en una mano y el cuchillo ensangrentado en la otra.
+Alzó la mano para apuñalar a Lucas al tiempo que este la encañonaba con su pistola.
+"No... no puedo", pensaba Lucas.
+La niña bajó el brazo con rapidez pero entonces recibió un disparo en el pecho que la hizo caer hacia atrás.
+Otros disparos volaron por encima de Lucas pero esta vez iban hacia la cancha.
+Una segunda sombra se proyectó sobre el joven.
+El rostro de Elizabeth fue lo último que vio antes de perder la consciencia.
