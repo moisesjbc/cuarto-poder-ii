@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3795
+charCount:      5530
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -47,3 +47,21 @@ Lucas miró a Elizabeth expectante, pero al ver que no contestaba, intervino.
 - ¿Qué es el *Mástil* portátil?
 - Nos estamos quedando sin tiempo para... - dijo Elizabeth, pero entonces Jonás gritó.
 - ¡Contesta!
+Elizabeth resopló.
+- Son nanomáquinas que se inyectan en el cuerpo y emiten la señal del *Mástil* dentro de este. Es como tener tu propio *Mástil* - Entonces miró a Jonás -. ¿Contento?
+- ¿Y por qué no nos inyectaron a todos los que participamos en la misión? - inquirió Lucas, pensando más en Noemí que en si mismo.
+- No es particularmente barato y...
+- A otro perro con ese collar - espetó Jonás -. Querían asegurarse de tener el control, ¿no?
+- Queríamos asegurarnos de tener el control - repitió Elizabeth con una mueca -. Ahora si no les importa...
+- Pero hemos accedido a la misión - replicó Lucas -. Si el objetivo es acabar con la *Sirena* no hace falta que nos tengan "atados".
+Entonces Elizabeth miró a Lucas fijamente a los ojos.
+- ¿De verdad quieres detener a la *Sirena*?
+Lucas hizo una mueca y tardó en contestar, ganándose un gesto de impaciencia de Elizabeth como diciendo "¡Venga! ¡habla!"
+- ¿A qué te refieres?
+- Eres el esclavo perfecto para la *Sirena*. ¿Quién sabe si no estás planeando sabotear el plan para hacerle el gusto a tu líder?
+- En primer lugar... - comenzó a decir Lucas - ...hace tiempo que la *Sirena* no se comunica conmigo.
+- Ya bueno, suponiendo que no estés mintiendo, quién sabe cuánto tardarás en traicionar a los tuyos cuando lo vuelva a hacer.
+- ...y en segundo lugar - la ignoró Lucas -, si tanto desconfías de mi, más razón para inyectarme ese *Mástil* personal, ¿no?
+- Fue una de las primeras cosas que pensamos - reconoció Elizabeth -. Pero has "estrechado lazos" tan fuertes con la *Sirena* que dudo que hubiera hecho algún bien.
+Lucas frunció el ceño y entonces miró a Jonás. Este se llevó la mano a la nariz ensangrentada antes de hablar.
+- Podría haber sido peor que esto - reconoció.
