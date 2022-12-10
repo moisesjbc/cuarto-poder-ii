@@ -7,11 +7,13 @@ notes:          - "Bueno, a partir de aquí podemos seguir nosotros. Lucas, un p
                 - Jonás extrañado porque no se siente diferente.
                 - Recordar referencias a que la *Sirena* no asimila niños.
                 - Confirmar la posición del "bulto" que tiene Ajani.
+                	- O que no aparezca todavía, ¿que tiene, una careta para que no lo reconozca Lucas?
+                - Hacer mención a la herida de Lucas.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5530
+charCount:      7335
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -65,3 +67,21 @@ Lucas hizo una mueca y tardó en contestar, ganándose un gesto de impaciencia d
 - Fue una de las primeras cosas que pensamos - reconoció Elizabeth -. Pero has "estrechado lazos" tan fuertes con la *Sirena* que dudo que hubiera hecho algún bien.
 Lucas frunció el ceño y entonces miró a Jonás. Este se llevó la mano a la nariz ensangrentada antes de hablar.
 - Podría haber sido peor que esto - reconoció.
+- Un detector de trampas del que no te fías - dijo entonces Lucas.
+Elizabeth se limitó a asentir antes de hablar.
+- ¿Y bien? ¿Podemos ponernos en marcha o...?  
+- Cuando todo esto acabe - dijo Jonás, mirando fijamente a Elizabeth -, acabaré contigo.
+- Estoy impaciente - replicó ella al tiempo que caminaba hacia la puerta -. Lucas irá delante conmigo detrás, Marcos y Javier irán atrás y el resto en el centro.
+No esperó respuesta. Tampoco hizo falta, pues los presentes no tardaron en seguir sus órdenes.
+Cuando la fila estuvo formada, Elizabeth abrió la puerta y salió rápidamente al pasillo.
+El corredor era bastante amplio, de unos tres metros de anchura. Paredes y techos eran de cemento blanco, y el suelo de madera vieja, como el de la oficina, crujía bajo sus pies. El pasillo avanzaba unos cincuenta metros, con puertas a ambos lados, hasta desembocar en otro pasillo que discurría perpendicular a este.
+Corrieron pendientes de cualquier movimiento hasta que algunas puertas comenzaron abrirse de par en par. *Asimilados* salían de uno y otro lado, corriendo hacia el núcleo del grupo e ignorando a Elizabeth y los dos efectivos de RIO. Estos últimos aprovechaban su invisibilidad para acabar con los enemigos, ya fuera a base de cuchillo o de pistola, según la situación.
+Lucas y Noemí abatieron a sendos *asimilados* que lograron atravesar la primera línea de defensa y los cadáveres cayeron a sus pies.
+El joven miró a Jonás sin decir nada.
+- Voy a tardar un poco en poder usar las nanomáquinas - dijo este último entre jadeos.
+- No es eso, es que...
+- ¡Lucas!
+El joven reaccionó al grito de Noemí y abatió a otro *asimilado* que estuvo a punto de apuñalarlo.
+- ¡Atento, joder! - le espetó Elizabeth, sin dejar de avanzar. Tras unos segundos añadió - ¿Notas algo?
+- No.
+- Muy bien, ¡sigamos!
