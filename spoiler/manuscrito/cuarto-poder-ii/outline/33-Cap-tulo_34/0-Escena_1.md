@@ -7,13 +7,13 @@ notes:          - "Bueno, a partir de aquí podemos seguir nosotros. Lucas, un p
                 - Jonás extrañado porque no se siente diferente.
                 - Recordar referencias a que la *Sirena* no asimila niños.
                 - Confirmar la posición del "bulto" que tiene Ajani.
-                	- O que no aparezca todavía, ¿que tiene, una careta para que no lo reconozca Lucas?
+                - O que no aparezca todavía, ¿que tiene, una careta para que no lo reconozca Lucas?
                 - Hacer mención a la herida de Lucas.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7335
+charCount:      9430
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -85,3 +85,30 @@ El joven reaccionó al grito de Noemí y abatió a otro *asimilado* que estuvo a
 - ¡Atento, joder! - le espetó Elizabeth, sin dejar de avanzar. Tras unos segundos añadió - ¿Notas algo?
 - No.
 - Muy bien, ¡sigamos!
+Pero tras unos pasos Lucas se detuvo de repente, provocando que Noemí chocara con él.
+- ¡Perdón!
+Pero el joven se limitó a resoplar.
+- Uff.
+- ¿Lucas? - Elizabeth lo miraba fijamente.
+- Mareos - asintió Lucas.
+- Bien, el resto retrocedan - ordenó antes de volver a mirar al joven -. Camina hacia los lados. Mira a ver si también sientes los mareos.
+El joven obedeció y caminó perpendicular al pasillo. Primero a izquierda, y luego a derecha. Llegando a la pared tuvo que sujetarse a esta.
+- Siento los mareos en todo el pasillo - dijo, entre sudores.
+- ¡Mierda! - Elizabeth se sacó un móvil del bolsillo y empezó a mirar algo.
+- Podemos retroceder y bajar por la escalera de servicio de la esquina sureste - dijo entonces Jonás.
+Elizabeth, sin embargo, continuó mirando su dispositivo.
+- Ya lo han oído - dijo finalmente -. Lucas y yo primero.
+La columna de gente se dio la vuelta y retrocedió sobre sus pasos, esquivando como podían los cadáveres de los asimilados tirados por el suelo.
+- ¿No estará llena de *asimilados* como la escalera suroeste? - preguntó entonces Elizabeth.
+- Sólo hay una manera de saberlo - contestó Jonás.
+Llegaron hasta el final del pasillo, donde este también acababa en un pasillo que lo cruzaba perpendicularmente.
+- Izquierda - dijo Elizabeth, que detuvo a Lucas con la mano cuando este se disponía a obedecer -. Yo primero.
+La joven asomó poco a poco la cabeza a izquierda. Entonces miró a derecha.
+- Mierda - susurró, al tiempo que con la mano obligaba al grupo a volver sobre sus pasos - está lleno. A ambos lados.
+Llegaron hasta la mitad del pasillo, casi a la altura de la oficina donde había despertado Lucas (o lo habían despertado).
+- ¿Ideas?
+Elizabeth los miraba fijamente. Silencio durante unos instantes hasta que Jonás resopló.
+- Podemos atravesar el suelo - dijo finalmente, alzando su mano enguantada - Pero tienen que darme un rato.
+- No hay tiempo - dijo Elizabeth -. Tiene que ser ya.
+- Mala suerte - dijo Jonás -. Esto requiere tiempo - se señaló entonces la sangre reseca bajo su nariz.
+Y sin atender a razones, se sentó en el suelo del pasillo.
