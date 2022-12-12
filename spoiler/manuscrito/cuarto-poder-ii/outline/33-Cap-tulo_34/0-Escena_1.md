@@ -13,7 +13,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9430
+charCount:      11226
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -111,4 +111,22 @@ Elizabeth los miraba fijamente. Silencio durante unos instantes hasta que Jonás
 - Podemos atravesar el suelo - dijo finalmente, alzando su mano enguantada - Pero tienen que darme un rato.
 - No hay tiempo - dijo Elizabeth -. Tiene que ser ya.
 - Mala suerte - dijo Jonás -. Esto requiere tiempo - se señaló entonces la sangre reseca bajo su nariz.
-Y sin atender a razones, se sentó en el suelo del pasillo.
+Y sin atender a razones, se metió en la misma oficina donde habían despertado hacía un rato.
+El grupo lo siguió dentro y lo vieron sentarse en la gran silla de cuero que presidía la oficina, tras el escritorio de madera.
+- Tienes que estar de coña - dijo Elizabeth.
+Pero Jonás no daba señales de estar de broma. Sin mediar palabra, se llevó la mano al bolsillo, lo que puso en alerta a los efectivos de RIO, que tensaron sus manos alrededor de sus armas.
+Entonces Jonás se sacó una pequeña botella de plástico, la abrió y se echó un buen trago.
+Elizabeth soltó un bufido.
+- No me lo puedo creer.
+Lucas se acercó e intentó adivinar qué líquido contenía el recipiente.
+El antiguo vagabundo se dio cuenta de esto y giró la botella para que Lucas viera claramente la etiqueta.
+- No es más que un batido de proteínas - anunció este.
+Elizabeth rio incrédula, antes de decidir que ya tenía bastante y montar guardia en la puerta.
+Jonás se recostó en la silla y cerró los ojos.
+Si no tuviera claramente presente que estaban en un edificio lleno de *asimilados* furiosos que quieren acabar con ellos, Lucas hubiera adivinado que el hermano de Lara estaba descansando tranquilamente en su casa, completamente despreocupado de todo y sin temer lo más mínimo por su vida.
+Noemí señaló la silla frente a Jonás y miró a los presentes con expresión expectante. Los que la vieron, Lucas y uno de los efectivos de RIO, negaron con la cabeza y la adolescente se sentó.
+Antes de que Elizabeth lo preguntara de una manera mucho menos diplomática, Lucas aprovechó. De todas formas también sentía curiosidad.
+- ¿No tardará mucho en hacer efecto? Es decir... tienes que digerirlo y eso lleva tiempo.
+- En un par de minutos estará - se limitó a decir Jonás, sin abrir los ojos.
+- Pero eso... ah, ¿las nanomáquinas?
+- El maldito virus - le corrigió -. Algo bueno tenía que tener.
