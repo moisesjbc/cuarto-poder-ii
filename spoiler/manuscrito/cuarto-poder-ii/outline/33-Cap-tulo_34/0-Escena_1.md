@@ -8,12 +8,13 @@ notes:          - "Bueno, a partir de aquí podemos seguir nosotros. Lucas, un p
                 - Recordar referencias a que la *Sirena* no asimila niños.
                 - Confirmar la posición del "bulto" que tiene Ajani.
                 - O que no aparezca todavía, ¿que tiene, una careta para que no lo reconozca Lucas?
-                - Hacer mención a la herida de Lucas.
+                - Hacer mención a la herida de Lucas y lo rápido que se cura.
+                - El Mástil de Lucas trabaja directamente en el cerebro pero mantiene las funciones de curación aunque reducidas.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      11226
+charCount:      13150
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -130,3 +131,29 @@ Antes de que Elizabeth lo preguntara de una manera mucho menos diplomática, Luc
 - En un par de minutos estará - se limitó a decir Jonás, sin abrir los ojos.
 - Pero eso... ah, ¿las nanomáquinas?
 - El maldito virus - le corrigió -. Algo bueno tenía que tener.
+- Ya veo.
+Entonces estimó que era mejor no seguir molestándolo y se sentó en la mesa mirando hacia la puerta, al lado de Noemí.
+- ¡Cuidado! - le dijo esta última, inclinándose hacia él.
+- ¿Eh? ¿Qué ocurre?
+Noemí se quedó mirándolo.
+- ¿De verdad que no te duele nada?
+Entonces Lucas recordó a la niña y la puñalada que le propinó. Se tocó la zona y estuvo a punto de emitir un quejido pero fue más de anticipación que porque sintiera algún dolor realmente.
+- Pues... no - entonces miró hacia la puerta, donde Elizabeth seguía montando guardia. Alzó la voz -: ¿Por qué no me duele la puñalada?
+- ¡Shhh! - la mencionada hizo aspavientos con la mano, antes de hablar en voz baja, apenas audible desde la posición del joven -. ¿Quieres que nos maten?
+Al ver que Lucas no decía nada, soltó un suspiro y siguió hablando en voz baja.
+- Sigues infectado hasta las cejas. Imagino que a la *Sirena* le interesa mantenerte vivo por si te encuentra uso más adelante - espetó.
+- La *Sirena* no me controla.
+- Si tú lo dices...
+Lucas decidió ignorarla. Se preguntó si realmente las intenciones de la *Sirena* de dejarlo vivo eran buenas.
+No obstante estimó que no era recomendado lanzar la pregunta en una habitación con tres efectivos de RIO y Jonás. No esperaba un debate marcado por la tolerancia, precisamente.
+Entonces volvió a mirar a Noemí.
+- ¿Y tú?
+- ¿Uhm?
+- ¿Qué tal?
+- Pues tengo algo de hambre pero por lo demás bien. De hecho...
+Sin acabar la frase, se llevó la mano a uno de los bolsillos del pantalón y sacó una pequeña barra de proteínas. Abrió el paquete con cuidado y estiró el brazo para acercarla a Lucas.
+- ¿Quieres?
+- No, gracias.
+- Bien - dijo, mientras le lanzaba un buen mordisco a la barrita -. De todas formas te dejé otra en tu bolsillo antes de venir. A no ser que la perdieras.
+- No, no. Está aquí - sonrió mientras se palpaba el bolsillo del pantalón -. Gracias.
+Noemí asintió y siguió engullendo su barrita.
