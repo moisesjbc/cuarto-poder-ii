@@ -9,12 +9,13 @@ notes:          - "Bueno, a partir de aquí podemos seguir nosotros. Lucas, un p
                 - Confirmar la posición del "bulto" que tiene Ajani.
                 - O que no aparezca todavía, ¿que tiene, una careta para que no lo reconozca Lucas?
                 - Hacer mención a la herida de Lucas y lo rápido que se cura.
+                - Hacer que los infectados se vean a través de varias puertas o algo porque si están tal cuál en las escaleras hubieran escuchado los disparos.
                 - El Mástil de Lucas trabaja directamente en el cerebro pero mantiene las funciones de curación aunque reducidas.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      13150
+charCount:      14890
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -150,10 +151,28 @@ Entonces volvió a mirar a Noemí.
 - ¿Y tú?
 - ¿Uhm?
 - ¿Qué tal?
-- Pues tengo algo de hambre pero por lo demás bien. De hecho...
+- Pues tengo algo de hambre pero por lo demás bien - entonces pareció reparar en algo -. Bueno, de hecho...
 Sin acabar la frase, se llevó la mano a uno de los bolsillos del pantalón y sacó una pequeña barra de proteínas. Abrió el paquete con cuidado y estiró el brazo para acercarla a Lucas.
 - ¿Quieres?
 - No, gracias.
 - Bien - dijo, mientras le lanzaba un buen mordisco a la barrita -. De todas formas te dejé otra en tu bolsillo antes de venir. A no ser que la perdieras.
 - No, no. Está aquí - sonrió mientras se palpaba el bolsillo del pantalón -. Gracias.
 Noemí asintió y siguió engullendo su barrita.
+- ¿Quieres la mía? - le preguntó Lucas cuando acabó.
+- ¿No la quieres?
+Lucas permaneció en silencio unos segundos. Noemí sonrió.
+- Cómetela, hombre. Estaré bien.
+El joven sonrió y se comió su barrita. No era especialmente fan de las nueces, pero el hambre mandaba.
+Entonces Lucas se limitó a mirar alrededor para hacer tiempo, aunque de vez en cuando fijaba temporalmente la mirada en Noemí.
+"Una parte de mí sigue viéndola como si fuera mi hija", pensó, recordando su vida en la *Burbuja* como Mario, padre de Lara y Noemí. "¿Siempre la veré así? ¿Qué pasará con nosotros cuando todo esto acabe?"
+"Morirás pronto. Si no hoy, mañana o pasado", le dijo entonces esa voz agorera que siempre lo acompañaba.
+Se sacudió la cabeza mentalmente e intentó pensar en otra cosa, pero siempre volvía a los mismos pensamientos. También volvió a dudar sobre si estaban haciendo lo correcto ayudando a RIO. Noemí tenia claro que la prioridad era acabar con la *Sirena* para proteger a Lara, su hermana ficticia. ¿Pero podía estar seguro de que la *Sirena* era peor para la que fuera su hija mayor que RIO?
+Entonces recordó a Ana.
+"¿Dónde estará? ¿Estará bien?"
+Los pensamientos empezaban a agolparse en su cabeza y su foco saltaba de uno a otro sin orden, generando con cada salto más dudas y ninguna certeza.
+"Por esto intento no quedarme a solas con mis pensamientos", se dijo Lucas, sonriendo para si.
+- Estoy listo - dijo entonces Jonás tras él, sobresaltándolo.
+- Ya era hora - respondió Ana, alejándose de la puerta y acercándose a la mesa.
+Lucas se bajó de la mesa y Noemí se levantó de la silla. Los dos efectivos de RIO se giraron, y todos miraron hacia Jonás.
+Elizabeth fue la que habló:
+- En marcha.
