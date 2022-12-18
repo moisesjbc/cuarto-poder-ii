@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3700
+charCount:      7048
 
 
 Con un rápido gesto de su mano enguantada, Jonás ordenó a la nube de nanomáquinas hacer un agujero en el suelo del ancho justo para que cupiera una persona con cierta holgura.
@@ -66,3 +66,37 @@ Volvió a mirar la puerta. Parecía seguir aguantando los envites.
 Llegó hasta el centro del baño, y miró hacia el círculo perfecto tallado en el techo, a través del cuál Elizabeth y Jonás lo miraban fijamente.
 Levantó la mano y con esta el pulgar en señal de "Ok".
 - Es seguro - recalcó verbalmente.
+Entonces el resto del grupo empezó a bajar uno por uno, empezando por Elizabeth. A medida que iban bajando, se iban colocando, armas preparadas, frente a la puerta, que seguía recibiendo golpes.
+Y cada vez se escuchaban más gritos, furiosos y de dolor, al otro lado.
+Mientras bajaba el segundo efectivo de RIO, la puerta se abrió de par en par. En primera fila cayeron varios cadáveres demacrados, manchando el suelo de sangre cuando llegaban a su encuentro.
+Tras los cadáveres, varias personas con la mirada perdida y espuma en la boca intentaban esquivar los cadáveres y se golpeaban unos a otros. Otras se quedaban en la puerta, pegándose entre ellas.
+Dos asimilados tropezaron con los cadáveres  y cayeron en el suelo delante de ellos. Se levantaron rápidamente y corrieron hacia ellos pero fueron abatidos a tiros.
+- ¡Lucas! - gritó Noemí desde el techo.
+Lucas intentó hacerse oír entre los gritos y los disparos.
+- ¡Estoy bien!
+Otros dos *asimilados* intentaron entrar por la puerta pero se chocaron entre ellos y empezaron a matarse a golpes.
+- El pelotón de fusilamiento que tenían delante se quedó expectantes, sin bajar las armas.
+- ¡Bajad de una vez! - gritó Elizabeth.
+El grito alertó a uno de los luchadores, una mujer de 40 años, que fijó la vista en ellos, empujó a su adversario hacia el pasillo y corrió por encima de los cadáveres de la puerta. Recibió un disparo de Lucas en el pecho pero siguió corriendo hasta que Elizabeth le acertó en la cabeza.
+El hombre que luchaba con ella y otro *asimilado* comenzaron a entrar por la puerta, tropezándose con los cadáveres.
+Noemí se puso al lado de Lucas y se unió a la línea defensiva. Sonrió brevemente a Lucas pero entonces recibió una pedrada en el pecho y retrocedió con un grito.
+- ¡Noemí
+Lucas comenzó a disparar contra el lanzador, que acababa de atravesar la puerta y corría hacia ellos. No tardó en escuchar el *clic* de un arma descargada.
+- ¡Recarga y no malgaste la munición! - le ordenó Elizabeth.
+El joven, sin embargo, retrocedió hacia donde estaba Noemí, que se cubría el pecho con la mano.
+- ¿Estás bien? - preguntó Lucas, con el corazón en un puño.
+- Sí - tosió -. Creo que sí - tosió de nuevo.
+- ¡Aparténse! - gritó Jonás sobre ellos.
+Lucas se negaba a mover a Noemí, pero esta obedeció y se apartó a un lado, seguida por el joven.
+Jonás aterrizó en el suelo y miró la puerta, luego miró alrededor. Lucas percibió un hilillo de sangre asomando por su nariz.
+- ¡Por aquí!
+Corrió hacia el cubículo más cercano y abrió un agujero en la pared tras este. Entonces miró a Lucas.
+- ¡Mira a ver si es seguro!
+- Pero...
+- ¡Hazle caso! - le aseguró Noemí, a su lado. Ya no se tenía la mano en el pecho, y no parecía haber heridas visibles - ¡Estoy bien!
+Lucas bajó la tapa del retrete, se subió a este y se agachó para pasar por el agujero de la pared.
+Empezó a internarse en lo que parecía ser el aula de un instituto, cuando alguien le lanzó una puñalada en el brazo derecho que le hizo soltar la pistola y gritar de dolor.
+Lucas tropezó con el retrete cayó hacia delante. Se giró en el momento justo en el que el joven de 20 años le lanzaba otra puñalada. Interceptó el arma y le propinó una patada en el pecho, haciéndole caer hacia atrás contra uno de los pupitres.
+Lucas se abalanzó sobre su pistola y disparó al atacante que ya se encontraba de pie.
+*Clic*.
+- ¡Mierda!
