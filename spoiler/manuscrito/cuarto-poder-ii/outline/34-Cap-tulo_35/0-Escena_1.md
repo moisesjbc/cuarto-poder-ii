@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7048
+charCount:      8942
 
 
 Con un rápido gesto de su mano enguantada, Jonás ordenó a la nube de nanomáquinas hacer un agujero en el suelo del ancho justo para que cupiera una persona con cierta holgura.
@@ -97,6 +97,18 @@ Corrió hacia el cubículo más cercano y abrió un agujero en la pared tras est
 Lucas bajó la tapa del retrete, se subió a este y se agachó para pasar por el agujero de la pared.
 Empezó a internarse en lo que parecía ser el aula de un instituto, cuando alguien le lanzó una puñalada en el brazo derecho que le hizo soltar la pistola y gritar de dolor.
 Lucas tropezó con el retrete cayó hacia delante. Se giró en el momento justo en el que el joven de 20 años le lanzaba otra puñalada. Interceptó el arma y le propinó una patada en el pecho, haciéndole caer hacia atrás contra uno de los pupitres.
-Lucas se abalanzó sobre su pistola y disparó al atacante que ya se encontraba de pie.
+Lucas se abalanzó sobre su pistola y disparó desde el suelo al atacante que ya se encontraba de pie.
 *Clic*.
 - ¡Mierda!
+Al instante una bala voló al lado de Lucas y abatió al *asimilado*. Noemí lo miraba con los ojos como platos desde el agujero en la pared, apoyada sobre el retrete.
+- ¿Estás...?
+Pero el grito de Elizabeth la sobresaltó.
+- ¡Muévete! ¡Lucas! ¡¿Es seguro?!
+Noemí empezó a entrar en la estancia mientras Lucas se ponía en pie y recorría la estancia, notando el suelo firme bajo sus pies y las paredes duras al tacto.
+Entonces corrió hacia la puerta y echó el pestillo. Luego corrió a la pared donde se había practicado el orificio, el cuál ya habían atravesado Elizabeth y Noemí. Lucas le dijo a la primera, con voz normal, tirando a baja, que era seguro.
+Esta última estuvo a punto de gritarle, pero entonces miró a la puerta y luego al joven. Se limitó a asentir con la cabeza.
+Elizabeth se asomó al agujero y le hizo una seña con la mano a Jonás, el cuál gritó: "¡Vámonos!", imaginó Lucas, a los dos efectivos de RIO. Este último se encogió instintivamente al escuchar el grito y miró a la puerta del aula. Las siluetas seguían corriendo, sin detenerse, hacia la izquierda. El joven dejó escapar un suspiro, hasta que recordó que seguía con el arma descargada. Se sacó un cargador del cinturón y cargó la pistola.
+- Estaba a punto de decírtelo - sonrió Noemí, que entonces soltó una exclamación.
+- ¡Aparta! - le gritó Jonás, moviéndola a un lado.
+Este último terminó de atravesar el agujero con gran rapidez y se apartó rápidamente a un lado. Al otro lado del orificio vieron a los dos efectivos de RIO disparando hacia la puerta del baño. Cuando el más cercano al túnel se percató de que Jonás ya lo había atravesado, le dio un toque en el brazo a su compañero.
+Este último se sacó una granada y la tiró a la puerta, mientras su compañero se metía por el orificio. Una vez lanzó el artefacto explosivo, el segundo efectivo de RIO corrió hacia el túnel y lo atravesó rápidamente.
