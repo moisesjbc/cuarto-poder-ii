@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8942
+charCount:      10674
 
 
 Con un rápido gesto de su mano enguantada, Jonás ordenó a la nube de nanomáquinas hacer un agujero en el suelo del ancho justo para que cupiera una persona con cierta holgura.
@@ -111,4 +111,21 @@ Elizabeth se asomó al agujero y le hizo una seña con la mano a Jonás, el cuá
 - Estaba a punto de decírtelo - sonrió Noemí, que entonces soltó una exclamación.
 - ¡Aparta! - le gritó Jonás, moviéndola a un lado.
 Este último terminó de atravesar el agujero con gran rapidez y se apartó rápidamente a un lado. Al otro lado del orificio vieron a los dos efectivos de RIO disparando hacia la puerta del baño. Cuando el más cercano al túnel se percató de que Jonás ya lo había atravesado, le dio un toque en el brazo a su compañero.
-Este último se sacó una granada y la tiró a la puerta, mientras su compañero se metía por el orificio. Una vez lanzó el artefacto explosivo, el segundo efectivo de RIO corrió hacia el túnel y lo atravesó rápidamente.
+Este último se sacó una granada y la tiró a la puerta, mientras su compañero se metía por el orificio y gritó:
+- ¡Granada!
+Una vez lanzó el artefacto explosivo, el segundo efectivo de RIO corrió hacia el túnel y lo atravesó rápidamente.
+La explosión resonó en la estancia. Lucas o pudo evitar hacer el gesto de cubrirse, algo que fue imitado por Noemí.
+El resto del grupo, sin embargo, ya se encontraba en movimiento y rápidamente fueron imitados por la pareja.
+Avanzaron hasta la pared contraria del aula, donde Jonás practicó otro agujero en la pared con el humo negro.
+- ¡Vamos! - apremió Elizabeth a Lucas.
+El túnel era mayor que el anterior pero seguía sin ser tan grande como para que Lucas pudiera pasar sin agacharse ligeramente. Una vez atravesado, Lucas se encontró en otra aula pero esta estaba desierta.
+"Menos mal", dijo para sus adentros.
+Repitió su ritual de recorrer la estancia, tocando paredes y techos. El recorrido lo hizo en el sentido contrario a las agujas del reloj, para asegurarse de pasar primero por la puerta de salida, pero esta estaba abierta de par en par y la cerradura estaba reventada.
+"¡Mierda!", maldijo.
+En ese momento la sombra de un *asimilado* se proyectó sobre el suelo delante de la puerta y Lucas a duras penas consiguió ocultarse tras uno de los laterales. La sombra caminó de manera errática hasta detenerse delante de la puerta.
+"Joder"
+- ¿Lucas? - llamó entonces Noemí, mientras se asomaba por el túnel de la pared.
+El *asimilado* profirió un grito femenino y una mujer de unos sesenta años entró corriendo en la estancia, directa hacia Noemí.
+- ¡Mierda! - exclamó esta última.
+Lucas corrió hacia la anciana y la empujó hacia un lado, que cayó aparatosamente sobre el suelo. Sin embargo, a los pocos segundos volvía a estar de pie y se dispuso a correr otra vez hacia la adolescente. El joven se preparó para una nueva embestida pero entonces Noemí disparó y la anciana se desplomó.
+- ¡Vamos! ¡Vamos!
