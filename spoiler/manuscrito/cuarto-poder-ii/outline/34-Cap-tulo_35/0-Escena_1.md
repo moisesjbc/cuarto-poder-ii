@@ -5,11 +5,14 @@ summaryFull:    Ana dispara a Ajani, hiriéndolo de gravedad, mientras Lucas se 
 POV:            0
 notes:          - **Pensar muy bien por qué Ajani no ha podido atacar antes sin ponerse en peligro. ¿Cuál es su verdadero objetivo?**
                 - Laboratorio subterráneo. ¿Zona de lanzamiento también en el subsuelo con sólo un hueco del tamaño de un misil a la superficie? Ajustar capítulo donde ven el plano.
+                
+                - **Si estaban en el segundo piso ¿cómo llegaron hasta allí con Lucas y Jonás inconscientes sin que lo siguieran los asimilados? Si están en la planta calle, ¿cómo tienen aulas en el sótano?**
+                - Ajustar resúmenes de estas partes con lo que estoy contando realmente.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      10674
+charCount:      13689
 
 
 Con un rápido gesto de su mano enguantada, Jonás ordenó a la nube de nanomáquinas hacer un agujero en el suelo del ancho justo para que cupiera una persona con cierta holgura.
@@ -128,4 +131,29 @@ En ese momento la sombra de un *asimilado* se proyectó sobre el suelo delante d
 El *asimilado* profirió un grito femenino y una mujer de unos sesenta años entró corriendo en la estancia, directa hacia Noemí.
 - ¡Mierda! - exclamó esta última.
 Lucas corrió hacia la anciana y la empujó hacia un lado, que cayó aparatosamente sobre el suelo. Sin embargo, a los pocos segundos volvía a estar de pie y se dispuso a correr otra vez hacia la adolescente. El joven se preparó para una nueva embestida pero entonces Noemí disparó y la anciana se desplomó.
-- ¡Vamos! ¡Vamos!
+- ¡Vamos! ¡Vamos! - le apremió Jonás.
+Lucas comenzó a correr hacia la pared opuesta a aquella por la que habían entrado en el aula, pero esta vez el humo negro practicó el agujero en el suelo, en el centro de la estancia.
+El joven corrió entre las dos filas centrales de pupitres mientras las personas frente a él formaban una línea recta y preparaba sus armas como si de un pelotón de fusilamiento se tratara. Tras de sí escuchó gruñidos y gritos de personas agolpándose en la entrada y entrando en el aula.
+Hizo el amago de girarse, el arma preparada, pero Elizabeth le gritó.
+- ¡Qué cojones haces! ¡Al agujero!
+Lucas obedeció y desistió de girarse. Corriendo mientras las balas volaban a sus lados.
+"Te necesitan", se repetía para sus adentros mientras pensaba en que tres de los tiradores eran de RIO y lo tenían muy fácil para "errar" uno o varios de los tiros.
+Llegando al agujero miró a Noemí y asintió. Entonces se detuvo un segundo a mirar a través.
+- ¡La plataforma está lista! - le gritó Jonás, el más cercano al agujero - ¡Corre!
+Sin darse pie a mentalizarse sobre el mareo que estaba a punto de sentir o si era cierto lo de la plataforma, Lucas se dejó escurrir a través del orificio del suelo. No tardó en sentir un segundo suelo bajo sus pies, pero este era un suelo inestable, que bailaba y lo zarandeaba con él hacia un lado y otro.
+Las nauseas aparecieron como un rayo y Lucas volvió a sentirse como si hiciera horas que viajaba en un barco presa de una tormenta.
+"Date prisa", suplicó, mientras la plataforma inestable comenzaba a bajar.
+Esta vez, sin embargo, no bastó con atravesar unos centímetros de suelo para estar en el piso inferior. Lucas seguía atravesando metros y metros de subsuelo, con la oscuridad poco a poco embargándolo todo.
+Empezó a buscarse a tientas la pequeña linterna mientras aguantaba como podía las ganas de vomitar. Sobre su cabeza perdió de vista a todos los presentes menos a Jonás, cuya cara difuminada lo miraba desde las alturas mientras los disparos no dejaban de escucharse a su alrededor.
+Cuando encontró la linterna y estuvo a punto de encenderla, la luz empezó a bañar el angosto túnel desde abajo.
+Lucas, con el vómito amenazando con escapar en cualquier momento, sonrió.
+"Bien, bien, ¡date prisa!", repitió para sus adentros.
+Pero entonces la plataforma no solo se detuvo, sino que empezaba a subir tímidamente.
+- ¡No, no, no! - gritó Jonás en la lejanía.
+La plataforma desapareció rápidamente bajo los pies de Lucas y este se precipitó al vacío.
+Intentó agarrarse en vano a las paredes del túnel, dejando caer la linterna y la pistola, pero fue en vano.
+Cayó unos metros, esperando un impacto que en el mejor de los casos le partiría los tobillos.
+Cayó, sin embargo, sobre blando.
+Lucas, boca abajo, se incorporó pesadamente, sacudiéndose la cabeza. Fue entonces cuando reparó en que estaba sobre al menos dos personas que se movían entre quejidos.
+Con el corazón en un puño, Lucas alzó la vista.
+Cientos de personas agolpaban el pasillo, inmóviles, con la mirada perdida.
