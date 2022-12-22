@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      13689
+charCount:      13655
 
 
 Con un rápido gesto de su mano enguantada, Jonás ordenó a la nube de nanomáquinas hacer un agujero en el suelo del ancho justo para que cupiera una persona con cierta holgura.
@@ -156,4 +156,4 @@ Cayó unos metros, esperando un impacto que en el mejor de los casos le partirí
 Cayó, sin embargo, sobre blando.
 Lucas, boca abajo, se incorporó pesadamente, sacudiéndose la cabeza. Fue entonces cuando reparó en que estaba sobre al menos dos personas que se movían entre quejidos.
 Con el corazón en un puño, Lucas alzó la vista.
-Cientos de personas agolpaban el pasillo, inmóviles, con la mirada perdida.
+Cientos de personas agolpaban el pasillo.
