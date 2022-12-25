@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3915
+charCount:      7236
 
 
 - Sígueme - dijo Ajani.
@@ -59,3 +59,29 @@ La agente de RIO colgaba de una cuerda que salía del túnel y se encontraba sus
 - En ese caso también serían malas noticias para ella - dijo, señalando con la pistola hacia arriba.
 Noemí también se estaba descolgando por la cuerda en ese momento, justo asomando por el túnel.
 "Hija de puta", pensó el joven, mientras asentía seriamente.
+La agente de RIO continuó el descenso, seguida por Noemí. La primera, según tocó el suelo, se dirigió hacia la compuerta que había visto Lucas antes. Noemí, sin embargo, lo primero que hizo fue buscar con la mirada a Lucas.
+Este último, aún cerca de Ajani, se obligó a no mirar al africano y alzó la mano para que la adolescente lo viera, al tiempo que se acercaba a ella.
+- ¿Estás bien? - dijeron ambos al unísono.
+Ambos asintieron y sonrieron, también al unísono. Esto transportó a Lucas a la *Burbuja*, donde ambos vivieron plácida pero brevemente como padre e hija.
+El recuerdo pronto se empañó por la matanza posterior, y la posibilidad de revivirla más temprano que tarde.
+"¿Qué pasa si destruimos el *Mástil* y toda esta gente se vuelve homicida?", temió Lucas mientras miraba alrededor. De nuevo, evitando mirar hacia donde debía estar Ajani.
+- ¿Ocurre algo? - dijo Noemí, mirándolo fijamente.
+- No - mintió Lucas -. Mucha gente para mi gusto.
+Noemí sonrió.
+- Como padre tampoco eras de multitudes - bromeó, aunque su sonrisa pronto se difuminó.
+"Está recordando a su verdadero padre", adivinó Lucas.
+- Con Lara y contigo peleándose ya tenía bastante multitud - bromeó él, evitando decir la palabra "familia".
+- ¡Lucas, ven aquí! - gritó Elizabeth desde el otro extremo del pasillo.
+El joven soltó un suspiro y siguió a Noemí hacia donde se encontraba la agente de RIO. Mientras pasaba por debajo del túnel excavado en el techo, Lucas echó un vistazo hacia arriba. Hacia mitad del mismo, una plataforma negra y traslúcida acercaba un borrón poco a poco.
+"Si disparara a Elizabeth ahora", imaginó Lucas, "Noemí estaría a salvo."
+"Pero faltarían los dos agentes de RIO y Jonás.", le dijo otra voz en su interior. Cuando empezó a imaginarse a ambos, sobre todo a Lara, desangrándose por el efecto de la *Sirena*", Lucas se sacudió la cabeza mentalmente. 
+"Si la mato ahora no tendría el código para acceder al laboratorio donde está el *Mástil*", recapacitó, "Y eso contando con que realmente quiera destruir el *Mástil*. ¿Realmente quiero eso?".
+"¿Quiero destruir el *Mástil*?". La pregunta le golpeaba una y otra vez.
+Estaban llegando a donde estaba Elizabeth.
+"Matarla ahora, suponiendo que pueda, está descartado hasta que esté junto al *Mástil*", pensó Lucas, agradeciendo el tiempo extra. "¿Pero cómo esperan que decida sobre el futuro de la humanidad en pocos minutos?"
+Lucas empezaba a desvariar, recordando una época más sencilla en la que las decisiones eran blanco y negro y no una amalgama de grises, cuando Elizabeth lo sacó de su ensimismamiento.
+- Es posible que las defensas estén desactivadas igual que nuestros amigos - dijo esta última señalando primero a la puerta y luego a los *asimilados* -, pero no quiero arriesgarme. Noemí y yo nos quedaremos atrás y te dictaré el código, ¿entendido?
+- ¿Qué? ¿Y qué pasa conmigo?
+- ¿Recuerdas la *Burbuja* que tu gente y tú pensaban que iba a ser tan fácil de capturar? La puerta hacia el centro de control tenía el mismo mecanismo.
+Entonces Lucas lo recordó: en su primera y única misión (fallida) intentando *estallar una burbuja*, al intentar abrir la trampilla que llevaba al centro de control, algún gas había neutralizado a sus compañeros pero no a él.
+No terminaba den fiarse de Elizabeth, pero no se veía en posición de discutir, así que obedeció.
