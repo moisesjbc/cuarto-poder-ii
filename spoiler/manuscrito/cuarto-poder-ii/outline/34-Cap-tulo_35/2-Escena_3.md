@@ -3,13 +3,12 @@ ID:             41
 type:           md
 summaryFull:    Lucas decide si iniciar el lanzamiento o no. Finalmente destruye el Mástil.
 POV:            0
-notes:          
-                
+notes:          - ¿Por qué Jonás los baja de dos en dos?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7236
+charCount:      9424
 
 
 - Sígueme - dijo Ajani.
@@ -84,4 +83,28 @@ Lucas empezaba a desvariar, recordando una época más sencilla en la que las de
 - ¿Qué? ¿Y qué pasa conmigo?
 - ¿Recuerdas la *Burbuja* que tu gente y tú pensaban que iba a ser tan fácil de capturar? La puerta hacia el centro de control tenía el mismo mecanismo.
 Entonces Lucas lo recordó: en su primera y única misión (fallida) intentando *estallar una burbuja*, al intentar abrir la trampilla que llevaba al centro de control, algún gas había neutralizado a sus compañeros pero no a él.
-No terminaba den fiarse de Elizabeth, pero no se veía en posición de discutir, así que obedeció.
+No terminaba de fiarse de Elizabeth, pero no se veía en posición de discutir, así que obedeció.
+Se situó frente al panel numérico situado al lado de la gran puerta acorazada y enseguida Elizabeth comenzó a dictarle un código numérico muy largo.
+Cuando terminó de introducir la secuencia no ocurrió nada.
+Lucas permaneció en silencio y se giró para mirar a Elizabeth.
+- Dale al verde, hombre.
+- Ah, claro.
+Tras pulsar el botón, se escuchó un ruido como a gas escapando de un *spray* que Lucas sintió envolverlo, pero no olía a nada.
+- Esperad - le dijo, con la mano en alto, a Elizabeth y Noemí.
+El sonido a gas escapando terminó, pero aquél que había rociado a Lucas era completamente invisible e inodoro, así que el joven no sabía en qué momento se habría disipado.
+- ¿Ha terminado de expulsar el gas? - preguntó Elizabeth, a sus espaldas.
+- Sí, hace nada.
+- Bien, en unos diez segundos debería ser seguro continuar.
+Mientras esperaban, empezaron a escuchar gritos provenir del túnel abierto en mitad del pasillo. Del orificio empezó a caer tierra, y al poco tiempo apareció uno de los agentes de RIO, seguido por Jonás. Este último miraba hacia arriba y mantenía el brazo estirado, con la palma enguantada mirando hacia el techo.
+Volvía a sangrar con intensidad por la nariz.
+- ¡Ya no está! - gritó Jonás - ¡Mierda!
+- ¡Balancéate! - le gritó el agente de RIO - ¡Hacia el otro lado!.
+De manera tosca, ambos se movieron hacia un lado y luego al otro.
+- ¡Salta! - ordenó el agente.
+La pareja se soltó de la cuerda y aterrizó sobre varios *asimilados* que cayeron bajo su peso.
+Del agujero del techo empezaron a caer personas vivas. Según salían del túnel, su mirada asesina se transformaba casi al instante en una mirada perdida, confundida.
+Cayeron como un peso muerto, sin ni siquiera poner las manos delante instintivamente para evitar golpear con zonas vitales el suelo.
+Empezaron a impactar con los *asimilados* que se encontraban en el pasillo, tirándolos también al suelo. Tras los primeros *asimilados* que cayeron del túnel llegaron otros, que cayeron sobre los primeros.
+Muy pocos caían ilesos. Otros *asimilados* salían del túnel ensangrentados. Otros, directamente muertos.
+En total unas diez personas cayeron del túnel.
+Jonás y el agente de RIO se levantaron con esfuerzo.
