@@ -4,11 +4,12 @@ type:           md
 summaryFull:    Lucas decide si iniciar el lanzamiento o no. Finalmente destruye el Mástil.
 POV:            0
 notes:          - ¿Por qué Jonás los baja de dos en dos?
+                - Aclarar nombres y apariencia de los efectivos de RIO. Aquí llamo Marcos al muerto.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9424
+charCount:      12088
 
 
 - Sígueme - dijo Ajani.
@@ -102,9 +103,29 @@ Volvía a sangrar con intensidad por la nariz.
 De manera tosca, ambos se movieron hacia un lado y luego al otro.
 - ¡Salta! - ordenó el agente.
 La pareja se soltó de la cuerda y aterrizó sobre varios *asimilados* que cayeron bajo su peso.
-Del agujero del techo empezaron a caer personas vivas. Según salían del túnel, su mirada asesina se transformaba casi al instante en una mirada perdida, confundida.
+La pesada puerta comenzó a abrirse tras Lucas, lo que lo hizo retroceder unos pasos y girarse de un respingo. Al otro lado había un laboratorio a oscuras, con varias sombras humanas desperdigadas por el suelo.
+No parecía haber supervivientes.
+Lucas se puso de lado. Alternando la mirada entre el laboratorio y lo que sucedía en el pasillo, sin saber qué hacer. Preparó su arma.
+Del agujero del techo del pasillo empezaron a caer personas vivas. Según salían del túnel, su mirada asesina se transformaba casi al instante en una mirada perdida, confundida.
 Cayeron como un peso muerto, sin ni siquiera poner las manos delante instintivamente para evitar golpear con zonas vitales el suelo.
 Empezaron a impactar con los *asimilados* que se encontraban en el pasillo, tirándolos también al suelo. Tras los primeros *asimilados* que cayeron del túnel llegaron otros, que cayeron sobre los primeros.
 Muy pocos caían ilesos. Otros *asimilados* salían del túnel ensangrentados. Otros, directamente muertos.
-En total unas diez personas cayeron del túnel.
-Jonás y el agente de RIO se levantaron con esfuerzo.
+En total unas diez personas cayeron del túnel. Los que estaban vivos se pusieron en pie y se quedaron paralizados y con la mirada perdida, como el resto.
+Jonás y el agente de RIO se levantaron con esfuerzo. Buscaron con la mirada al resto del grupo y cuando lo localizaron se dirigieron hacia allí.
+El antiguo vagabundo se miraba las manos y movía los ojos de un lado a otro, visiblemente confundido.
+- ¿Qué ocurre? - le preguntó Elizabeth.
+- Nada... - dijo, sin mirarla -. No ocurre nada.
+- Bah - espetó ella, no convencida. Se giró hacia el efectivo de RIO -. ¿Y Marcos?
+- Murió cubriéndonos - dijo su interlocutor sin inmutarse.
+- Entiendo.
+Entonces Elizabeth se giró hacia Lucas.
+- Bueno, adelante.
+El joven se giró hacia la puerta. Tras unos segundos de duda, puso un pie dentro del laboratorio y este se iluminó por arte de magia.
+Las sombras humanas tiradas por el suelo se revelaron como cadáveres, entre científicos con batas blancas y vestimentas de toda índole: casual, trajes de fiesta, ropa de trabajo, ... También distinguió Lucas a algunos vestidos de militar, que supuso, serían también de RIO.
+Científicos y militares parecían haber muerto a golpes, mientras que los *asimilados* habían muerto a disparos.
+Aunque los cadáveres regaban todo el laboratorio, la mayoría se agolpaban en el centro, alrededor de una gruesa columna de hormigón circular, que a metro y medio de altura se transformaba daba paso a una cristalera dentro de la cuál descansaba una esfera metálica de un metro de diámetro, de un color gris  uniforme.
+Una franja de metal cruzaba la vitrina por el lado más cercano a la puerta y disponía de un pequeño teclado bajo una pantalla rectangular.
+Varios anillos concéntricos de mesas rodeaban la columna central donde reposaba el *Mástil*, llenas de ordenadores y sillas. Cuatro pasillos cruzaban los anillos desde cada extremo de la sala y llevaban directamente a la columna central.
+Lucas caminó por el pasillo que iba desde la puerta, seguido de cerca por Elizabeth, Noemí, Jonás y, en último lugar, el efectivo de RIO.
+Todos miraban a su alrededor en busca de amenazas pero no parecía haber más vivos que ellos.
+Cuando iban acercándose a la columna con el *Mástil*, Lucas distinguió dos cosas: la pequeña pantalla sobre la franja metálica rezaba "*Mástil* activado", y el teclado y la franja estaban manchados con salpicaduras de sangre. 
