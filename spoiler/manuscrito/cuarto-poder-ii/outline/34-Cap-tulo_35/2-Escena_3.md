@@ -5,11 +5,12 @@ summaryFull:    Lucas decide si iniciar el lanzamiento o no. Finalmente destruye
 POV:            0
 notes:          - ¿Por qué Jonás los baja de dos en dos?
                 - Aclarar nombres y apariencia de los efectivos de RIO. Aquí llamo Marcos al muerto.
+                - 
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      12088
+charCount:      14945
 
 
 - Sígueme - dijo Ajani.
@@ -128,4 +129,37 @@ Una franja de metal cruzaba la vitrina por el lado más cercano a la puerta y di
 Varios anillos concéntricos de mesas rodeaban la columna central donde reposaba el *Mástil*, llenas de ordenadores y sillas. Cuatro pasillos cruzaban los anillos desde cada extremo de la sala y llevaban directamente a la columna central.
 Lucas caminó por el pasillo que iba desde la puerta, seguido de cerca por Elizabeth, Noemí, Jonás y, en último lugar, el efectivo de RIO.
 Todos miraban a su alrededor en busca de amenazas pero no parecía haber más vivos que ellos.
-Cuando iban acercándose a la columna con el *Mástil*, Lucas distinguió dos cosas: la pequeña pantalla sobre la franja metálica rezaba "*Mástil* activado", y el teclado y la franja estaban manchados con salpicaduras de sangre. 
+Cuando iban acercándose a la columna con el *Mástil*, Lucas distinguió dos cosas: la pequeña pantalla sobre la franja metálica rezaba "*Mástil* activado", y el teclado y la franja estaban manchados con salpicaduras de sangre.
+- Lucas - lo llamó Elizabeth -. Por aquí.
+El joven siguió las indicaciones de Elizabeth y bordeó la columna, asegurando que el suelo era firme a cada paso. Por la parte trasera, un carro motorizado con una plataforma regulable en altura descansaba contra una pila de cadáveres pegada a la columna.
+Elizabeth quitó el cadáver de un científico que descansaba sobre la plataforma y lo tiró a un lado sin ningún tipo de miramiento. Entonces apretó un botón en el panel del carro y este emitió un pequeño ritmo antes de volver a quedar en silencio. Entonces la agente agarró la **manivela** y giró uno de los lados. El carro retrocedió ligeramente en respuesta.
+- Perfecto
+Ordenó a Lucas apartarse y bordeó la columna con el carro, situándolo delante de la franja con la pantalla y el teclado.
+Elizabeth se llevó una mano al bolsillo del pantalón y se sacó un teléfono móvil. Estuvo navegando por sus pantallas con gestos rápidos de mano hasta que llegó a la información deseada.
+- Perfecto. Lucas, introduce este código: 82 73 79.
+El joven obedeció. Cuando el código estuvo introducido (y el botón verde pulsado), las paredes de la vitrina de cristal subieron en un silencio casi absoluto hasta ocultarse en el techo, dejando el *Mástil* libre.
+- Vale, ahora quiero que se pongan todos detrás del *Mástil* - y a mi señal lo empujan. ¿Entendido?
+Los presentes asintieron.
+- ¿Jonás?
+El mencionado estaba mirándose las manos.
+- ¿Jonás? - repitió Elizabeth.
+Estaba vez el hermano de Lara reaccionó.
+- Oh sí. Voy.
+"¿Qué le ocurre?" se preguntó Lucas.
+El grupo se puso en marcha y bordeó la columna. Una vez estaban en posición, pusieron las manos sobre el *Mástil*. Lucas se sorprendió al notarlo cálido, pero también notó algo más.
+- ¿Qué ocurre? - preguntó Noemí.
+- ¡Ahora!
+El grupo comenzó a empujar el *Mástil*, pero inicialmente no consiguieron moverlo ni un milímetro.
+- ¡Bien, sigan!
+Esta vez el *Mástil* comenzó a rodar, con tal velocidad que Lucas ya se preparaba para correr al otro lado, imitado por Noemí.
+El *Mástil*, sin embargo, se quedó completamente pegado a la plataforma del carrito nada más tocarlo.
+- ¿Imanes? - preguntó en voz alta.
+- Así es - confirmó Elizabeth, mientras comenzaba a bajar la plataforma del carrito y a girarla para encarar la puerta del laboratorio.
+- ¿Qué te pasó al tocar el *Mástil*? - repitió Noemí.
+- Oh - reaccionó Lucas - ¿no lo notaste como si no fuera sólido? ¿como si fuera un fluido?
+La adolescente negó con la cabeza.
+- *Nope*. Totalmente sólido.
+Lucas giró la cabeza hacia Jonás, al lado de ellos. Seguía mirándose las manos, pero esta vez habló:
+- El *Mástil* tiene en su cara exterior nanomáquinas y colonias de la *Sirena*. Eso es lo que notas.
+- Entiendo - mintió Lucas -. Esto... ¿a ti qué te pasa? - preguntó a su vez, lamentando lo brusco que había quedado.
+Jonás por su parte no tuvo quejas por el tono.
