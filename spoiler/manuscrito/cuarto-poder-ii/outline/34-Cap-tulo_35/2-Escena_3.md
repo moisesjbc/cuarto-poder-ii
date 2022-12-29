@@ -4,13 +4,12 @@ type:           md
 summaryFull:    Lucas decide si iniciar el lanzamiento o no. Finalmente destruye el Mástil.
 POV:            0
 notes:          - ¿Por qué Jonás los baja de dos en dos?
-                - Aclarar nombres y apariencia de los efectivos de RIO. Aquí llamo Marcos al muerto.
-                - 
+                - Aclarar nombres y apariencia de los efectivos de RIO. Aquí llamo Marcos al muerto y Luís al vivo. ¿Usé nombres cuando aparecieron?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14945
+charCount:      15365
 
 
 - Sígueme - dijo Ajani.
@@ -163,3 +162,8 @@ Lucas giró la cabeza hacia Jonás, al lado de ellos. Seguía mirándose las man
 - El *Mástil* tiene en su cara exterior nanomáquinas y colonias de la *Sirena*. Eso es lo que notas.
 - Entiendo - mintió Lucas -. Esto... ¿a ti qué te pasa? - preguntó a su vez, lamentando lo brusco que había quedado.
 Jonás por su parte no tuvo quejas por el tono.
+- El dolor de cabeza... ha desaparecido - se limitó a decir, sin añadir nada más.
+- Vaya. Me... me alegro.
+- Bueno - anunció Elizabeth -, ¡en marcha! Lucas, delante. Luís y Jonás, ayúdenle a apartar a los *asimilados*.
+Los tres obedecieron y se pusieron al frente de la fila, justo delante del carro empujado por Elizabeth.
+"Unos treinta metros", pensó Lucas, "para tomar una decisión que afectará a toda la humanidad".
