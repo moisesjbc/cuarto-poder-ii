@@ -5,7 +5,7 @@ POV:            0
 label:          4
 status:         2
 compile:        2
-charCount:      4161
+charCount:      6215
 
 
 El grupo abandonó el laboratorio y empezó a caminar por el pasillo, con Lucas, Jonás y Luís a la cabeza, apartando a los *asimilados* hacia los lados para que Elizabeth pudiera pasar con el carro. Detrás de todos ellos, Noemí se movía entre el enfado de haber sido relegada al final y la tensión de que en cualquier momento los *asimilados* dejaran de ser amistosos y comenzaran a atacar.
@@ -49,3 +49,21 @@ Ajani corrió hacia allí, seguido por Lucas.
 Nuevamente embistieron a Lucas, pero esta vez fue Jonás. Ambos cayeron sobre otros tantos *asimilados*.
 - ¡No dejaré que mates a Lara! - le gritó Jonás.
 Lucas alzó su pistola, sin creerse capaz de apretar el gatillo, pero el antiguo vagabundo la apartó de un golpe y le lanzó un puñetazo que restalló en la mejilla del joven.
+Una mancha de sangre gris brotó de su cara.
+- ¡Eres un asimilado! ¡¿no?! ¡Quieres destruirnos a todos!
+Jonás lanzó otro puñetazo pero esta vez Lucas lo esquivó a duras penas. El joven consiguió colar la rodilla entre ambos y lanzar a Jonás hacia atrás. Este último intentó aferrarse de cualquier manera a Lucas y lo agarró de los testículos. De manera instintiva, Lucas le pegó una coz y el hermano de Lara cayó de culo.
+Lucas recuperó su pistola del suelo y se puso en pie. Jonás empezaba a ponerse de pie también, los ojos inyectados en sangre clavados en él.
+- ¡Sólo intento salvar a Noemí! - gritó Lucas, mientras corría en dirección a la puerta del laboratorio.
+- ¡Pues la vas a matar! ¡Nos vas a matar a todos! - gritó Jonás a sus espaldas.
+Lucas corrió tropezándose con todos los *asimilados* que encontraba en su camino mientras maldecía su torpeza.
+"¡Joder, joder, joder!"
+En el pasillo no veía más que *asimilados*, o mejor dicho, borrones que parecían *asimilados*. La parte consciente le decía "Más despacio. Busca posibles amenazas mientras avanzas", pero había una voz que chillaba y acallaba a la anterior:
+"Están en el laboratorio. Tienen que estar allí. Si tardo Noemí morirá"
+Ella y Lara eran la única familia que le quedaba. Aunque fuera falsa.
+Se escucharon varios disparos en el laboratorio y Lucas esprintó, logrando esta vez esquivar a varios *asimilados*.
+Una bala rozó el hombro de Lucas y este dio un respingo, tropezándose y cayendo contra un asimilado y contra el suelo. Esta vez puedo levantarse rápidamente. Se giró y disparó varias veces hacia el techo, esperando que eso frenara a Jonás.
+Volvió a girarse y realizó un último sprint hacia la puerta del laboratorio.
+Nada más entrar, tuvo que detenerse.
+Detrás de una de las filas de mesas, Elizabeth agarraba a Noemí delante de ella y la encañonaba con su pistola pegada a la cabeza.
+A pocos metros frente a ellas, Ajani apuntaba a Elizabeth con su pistola.
+- Me alegro de que hayas logrado venir - dijo Elizabeth, mirando a Lucas -. Quizás puedes hacerle entrar en razón.
