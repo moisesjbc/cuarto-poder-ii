@@ -5,7 +5,7 @@ POV:            0
 label:          4
 status:         2
 compile:        2
-charCount:      4334
+charCount:      6080
 
 
 Elizabeth alternaba su vista entre Lucas, en la puerta, y Ajani, frente a ella. Cuando miraba a este último, movía a Noemí y se movía a si misma.
@@ -55,4 +55,32 @@ La puerta se abrió y Lucas se hizo a un lado.
 - ¡Hijo de puta! - espetó, apuntando su pistola hacia Lucas - ¡Te mataré...!
 - ¡No! - ordenó Elizabeth, apuntando a Jonás.
 - ¡Pero...!
-785
+- He dicho que no - dijo ella sin alzar la voz.
+Jonás soltó un bufido y bajó el arma.
+- ¿Y Ajani? ¿Dónde está?
+- Por allí - dijo Elizabeth, señalando en dirección al africano -. Está inconsciente.
+- Bien - entonces miró a Lucas -. Si vuelves a intentar algo te mato.
+Lucas se limitó a asentir sin decir nada.
+- Caminen - les dijo entonces Elizabeth a Lucas y Noemí-. Hacia el *Mástil*.
+Jonás dejó pasar a la pareja, que fue en cabeza, seguido de cerca por los dos armados.
+- Hay una trampa de la *Sirena* en medio del pasillo, ¿no? - preguntó entonces Elizabeth, a espaldas de Lucas.
+- Sí.
+- ¿Se puede bordear?
+- No lo he probado, pero imagino que no.
+- Pues ya tienes algo que confirmar cuando lleguemos. Si no lo conseguimos habrá que pensar alguna alternativa.
+- ¿Y desactivar temporalmente el *Mástil*? - propuso Jonás -. Así no se activaría la trampa.
+- ¿Desactivar el *Mástil* una sala llena de *asimilados*?
+- Tendríamos que matarlos primero, claro.
+Lucas y Noemí se miraron. Ambos decían "¿lo está diciendo en serio?" con los ojos.
+- No hay suficientes balas - repuso Elizabeth, sin inmutarse.
+- Podemos acceder a la armería.
+- Mmmm. La armería estaba enlazada a la zona de lanzamiento, ¿no?
+- Sí... creo.
+- ¿"Crees"? ¿Qué ha pasado con la super memoria que te regalamos?
+Hubo un silencio que Lucas imaginó acompañado por una mirada asesina de Jonás.
+Este último se limitó a contestar.
+- Así es. Parece que el *Mástil* también afecta a mis otras capacidades.
+- Entiendo. Bueno, confirmemos primero que la trampa ocupa todo el ancho del pasillo.
+Recortaron los pocos metros que faltaban para llegar a la susodicha.
+- Adelante Lucas - dijo Elizabeth.
+El joven suspiró y avanzó unos pasos antes de comenzar a caminar de lado a lado del pasillo.
