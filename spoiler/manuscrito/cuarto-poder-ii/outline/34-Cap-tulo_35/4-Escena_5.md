@@ -2,10 +2,14 @@ title:          Escena 5
 ID:             100
 type:           md
 POV:            0
+notes:          - Añadir que Elizabeth cierra la puerta del laboratorio para que Ajani no los siga.
+                - Especificar si atraviesan la zona de lanzamiento o el pasillo lo bordea.
+                - ¿No hay caminos alternativos?
+                - ¿Por dónde bajaron Ajani y Kasim?
 label:          4
 status:         2
 compile:        2
-charCount:      6080
+charCount:      7762
 
 
 Elizabeth alternaba su vista entre Lucas, en la puerta, y Ajani, frente a ella. Cuando miraba a este último, movía a Noemí y se movía a si misma.
@@ -84,3 +88,33 @@ Este último se limitó a contestar.
 Recortaron los pocos metros que faltaban para llegar a la susodicha.
 - Adelante Lucas - dijo Elizabeth.
 El joven suspiró y avanzó unos pasos antes de comenzar a caminar de lado a lado del pasillo.
+- Ocupa todo el ancho - dijo, aguantando las ganas de vomitar.
+- ¿Y de largo?
+Otro suspiro. Lucas comenzó a caminar en dirección a la zona de lanzamiento.
+Avanzó por tierras movedizas hasta que diez metros más adelante volvió a pisar suelo firme.
+- Hasta aquí.
+- De acuerdo - asintió Elizabeth -. Jonás y Lucas, vayan a la armería. Yo esperaré con Noemí aquí.
+- Pero... - comenzó a decir Lucas.
+- ¿Alguna queja? - preguntó Elizabeth mientras apuntaba a Noemí con su arma.
+- Poca cosa. Sólo me pregunto cuánto tardará Jonás en matarme si nos dejas a solas.
+- ¿Y te extrañaría? - espetó el susodicho - ¡Es lo que...!
+- Silencio - lo interrumpió Elizabeth, antes de mirar a Lucas -. Tienes razón. Iré contigo. Jonás, quédate con Noemí.
+- Pero...
+- Si Ajani logra salir del laboratorio, acaba con él.
+Silencio.
+- Si Ajani aparece...
+- Sí sí, está bien. Joder.
+- Pues listo, ¡en marcha!
+Elizabeth pasó a apuntar a Lucas y le indicó con la pistola que caminara delante. Jonás por su parte, se acercó a Noemí y la apuntó con su arma.
+- Ella no... - comenzó a decir Lucas.
+- Calla. Continúa. - le ordenó Elizabeth.
+Lucas sonrió a Noemí.
+"Siento todo esto"
+Noemí le devolvió la sonrisa.
+"No pasa nada"
+Las parejas se separaron. Lucas continuó caminando, seguido por Elizabeth.
+- No intentas nada gracioso - dijo ella.
+- Jamás se me ocurriría - espetó él.
+"Aunque... sigo sin saber qué hacer", reconoció para si mismo.
+El intenso debate se intensificó en su cabeza, con argumentos a favor de ayudar a RIO y argumentos a favor de la *Sirena*.
+Como temía, no alcanzó ninguna conclusión cuando llegaron a la puerta de la zona de lanzamiento y giraron hacia la derecha para continuar el pasillo.
