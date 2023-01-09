@@ -9,7 +9,7 @@ notes:          - Añadir que Elizabeth cierra la puerta del laboratorio para qu
 label:          4
 status:         2
 compile:        2
-charCount:      7762
+charCount:      10598
 
 
 Elizabeth alternaba su vista entre Lucas, en la puerta, y Ajani, frente a ella. Cuando miraba a este último, movía a Noemí y se movía a si misma.
@@ -116,5 +116,35 @@ Las parejas se separaron. Lucas continuó caminando, seguido por Elizabeth.
 - No intentas nada gracioso - dijo ella.
 - Jamás se me ocurriría - espetó él.
 "Aunque... sigo sin saber qué hacer", reconoció para si mismo.
-El intenso debate se intensificó en su cabeza, con argumentos a favor de ayudar a RIO y argumentos a favor de la *Sirena*.
+El intenso debate se reanudó en su cabeza, con argumentos a favor de ayudar a RIO y argumentos a favor de la *Sirena*.
 Como temía, no alcanzó ninguna conclusión cuando llegaron a la puerta de la zona de lanzamiento y giraron hacia la derecha para continuar el pasillo.
+Otro pasillo ancho y lleno de *asimilados* inmóviles, igual que el anterior.
+Mientras serpenteaban entre las estatuas, Lucas se planteó una posible vía de acción.
+"Si me moviera rápido podría usarlos como escudos humanos", dijo una voz interior.
+"¿Te imaginaste alguna vez planteándote siquiera la idea de matar a alguien para salvarte?", le reprochó otra. Sin embargo, esta voz quedó anulada por la siguiente.
+"¿Y qué piensas hacer tras cubrirte, genio? ¿Acaso Elizabeth va a dudar? ¿Acaso le va a costar reducirte?"
+Lucas no pudo más que asentir mentalmente.
+"Además", añadió la voz, "todavía faltaría Jonás, que está encañonando a Noemí. ¿Vas a reducirlos a ambos y salvar a Noemí sin armas? Buena suerte con eso".
+Prácticamente podía sentir la burla y el asco que desprendía sus propias palabras.
+"Habrá que esperar por el arsenal", se dijo entonces.
+"Y cuando lleguemos al arsenal esperará a que vuelvas junto al *Mástil*, y entonces esperarás a que se lance, y..."
+- Aquí es - lo interrumpió Elizabeth.
+Sin darse cuenta habían llegado a una pequeña puerta en un lateral del pasillo, también protegida por un panel numérico.
+Lucas esperó con la cabeza hecha un lío hasta que Elizabeth localizó el código en su dispositivo móvil y se lo dictó.
+Tras introducirlo, la puerta se desbloqueó. Lucas agarró la fría manecilla y abrió, revelando una estancia alargada con filas de armas.
+- Llegó la navidad - dijo Elizabeth a sus espaldas, sin cambiar para ello el tono serio de su voz -. Vamos.
+Entraron en la estancia y Elizabeth le hizo callejear entre los pasillos de armas hasta localizar un pequeño carrito con un amplio cesto metálico. Entonces empezó a cargar armas en el cesto bajo la orden y la atenta mirada de Elizabeth.
+"Me quedo sin tiempo", pensaba Lucas mientras cargaba un verdadero arsenal delante suya.
+"Si voy a hacer algo no creo que tenga mejor oportunidad que en este lugar"
+Las manos empezaron a temblarle ligeramente, cosa que esperó haber ocultado de Elizabeth.
+"Noemí va a morir haga lo que haga. Sólo puedo decidir el tiempo", pensó, cabizbajo.
+Entonces algo apareció en el rango de visión de Lucas. Frente a ellos, en uno de los laterales, los estantes estaban cubiertos de granadas.
+Lucas empezó a ir más lentamente cuando llegaba a ellas e, igualmente evitando cualquier gesto brusco, alargó la mano hacia las granadas.
+- ¡Eh! ¿Qué haces? - sintió a Elizabeth detrás de él.
+Lucas alzó las manos y se giró hacia ella.
+"Por favor, que no me tiemblen las manos"
+- ¿Piensas...? - carraspeó - ¿Piensas limpiar un pasillo lleno de personas a disparos?
+- Es más divertido - dijo ella, sin dejar de apuntarle.
+Sin embargo, tras unos instantes. Elizabeth asintió y apuntó con las pistolas hacia las granadas.
+- Cógelas.
+Lucas cargó algunas granadas en el carro. Asegurándose de dejar algunas por el lado más cercano a él.
