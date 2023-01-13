@@ -8,12 +8,14 @@ notes:          - Añadir que Elizabeth cierra la puerta del laboratorio para qu
                 - ¿Por dónde bajaron Ajani y Kasim?
                 - La idea original era que desactivaran el *Mástil* temporalmente, pero entonces la trampa podía simplemente convertirse en humo que fuera hacia ellos.
                 - **Lo del suelo es una trampa de nanomáquinas activada por control remoto por Ajani**
-                    - **¿Por qué la iba a poner en el suelo si Lucas puede detectarla?**
+                - **¿Por qué la iba a poner en el suelo si Lucas puede detectarla?**
                 - **Ajani y Lucas están tras una de las filas de mesas**.
+                - Mencionar el gesto de la pierna en el capítulo.
+                - ¿Lo había llegado a apuñalar?
 label:          4
 status:         2
 compile:        2
-charCount:      4199
+charCount:      5882
 
 
 Elizabeth alternaba su vista entre Lucas, en la puerta, y Ajani, frente a ella. Cuando miraba a este último, movía a Noemí y se movía a si misma.
@@ -63,7 +65,24 @@ Lucas se limitó a sonreír, a pesar del sudor frío.
 - Ya has detectado la trampa. Ya no te necesito.
 - ¿Crees que Ajani habrá puesto una única trampa? ¿De verdad?
 Elizabeth dudó.
-- No - reconoció -. Pero tampoco está en condiciones para activarlas, ¿verdad?
+- No - reconoció -. Pero tampoco está en condiciones para activarlas, ¿verdad
 - Él no - dijo una voz desde el otro extremo de la sala que centró todas las atenciones. Kasim caminaba hacia ellos despacio pero sin pausa. Apuntaba a Elizabeth -. Pero yo sí.
 Esta última no pudo disimular una mueca de desagrado, pero rápidamente se obligó a sonreír.
 - Bienvenido, Kasim. Me preguntaba cuánto tardarías en venir.
+- Gracias.
+Silencio.
+- Quizás tú puedas entrar en razón - dijo Elizabeth, mirando fijamente a Kasim -. De los aquí presentes eres el más razonable.
+- No era muy difícil.
+- No, no lo era - reconoció la agente de RIO -. Pero entenderás el peligro que supone dejar libre a la *Sirena*. Ya has visto las masacres que está provocando en todo el mundo.
+- No lo sé. Se parecen bastantes a la que provocó RIO en nuestra aldea.
+Elizabeth dudó unos segundos. Kasim aprovechó para terminar de acercarse hasta el cuerpo inconsciente de su hermano pequeño y lo miró de reojo.
+- No era personal, Kasim.
+- Para ti no lo sería.
+Otro silencio.
+- Mira - dijo entonces Kasim -. No me fío de RIO ni de ti y nunca lo haré - hizo una pausa -. Pero quién sabe, siempre puede haber algo peor.
+- Tendremos que conformarnos con eso - aceptó Elizabeth -. ¿Qué tal si acabamos con esto y termino de llevar a rastras a esta maldita niña?
+"Niña..."
+Lucas recordó entonces a la niña que **lo había apuñalado**. El gesto de la inocencia borrada por el cuchillo en la mano y la intención de matarlo sin miramientos lo transportó a otro recuerdo.
+Ana ("¿dónde está? ¿está bien?") y él habían viajado a una ciudad cercana donde se habían reportado casos de violentos y se habían encontrado una ciudad sumida en el caos. Entonces la *Sirena* le había permitido controlar temporalmente a Martín, un padre de familia que se escondía junto con sus hijos. Fue entonces cuando Lucas, fijándose en los niños preguntó: "¿Los niños no están asimilados?"
+"La asimilación debe ser aceptada por un ser adulto", había sido la respuesta de la *Sirena*.
+Sin terminar de pensar lo que estaba a punto de hacer, Lucas apretó el gatillo.
