@@ -1,0 +1,34 @@
+title:          Escena 6
+ID:             101
+type:           md
+POV:            0
+label:          4
+status:         1
+compile:        2
+charCount:      1743
+
+
+Elizabeth abrió los ojos como platos cuando la bala le atravesó la cara, arrancando trozos de carne y haciéndole golpear la cabeza contra la pared tras ella. Automáticamente liberó la presa y tanto ella como Noemí cayeron al suelo.
+Lucas corrió hacia ellas. Ambas yacían inertes, con la agente de RIO sobre la adolescente.
+Había sangre sobre el pelo de Noemí.
+"No... no, no, no..."
+Lucas se llevó las manos a la cara.
+"No, no, no..."
+Entonces escuchó un quejido.
+- ¡Noemí!
+La que había sido su hija tosió antes de hablar.
+- ¿Puedes quitarme a la guarra esta de encima?
+Lucas dejó escapar una lágrima mientras se apresuraba a levantar el cadáver de Elizabeth. Kasim llegó a su lado y entre ambos lo levantaron.
+El joven apartó la mirada cuando vio el destrozo en lo que había sido la cara de la agente de RIO. Kasim, sin embargo, se limitó a asentir.
+- Buen disparo.
+Lucas resopló.
+- No quiero volver a verme en esa situación.
+- Ya somos dos - dijo Noemí, ya incorporada, llevándose la mano al pelo -. Qué asco.
+Tenía la mano empapada en sangre que, para alegría de Lucas, no era suya.
+- Yo... - comenzó a decir el joven -. Lo siento.
+- Yo no - respondió la adolescente mientras se acariciaba el cuello y tosía de nuevo -. Pero espero que podamos acceder a la sala de lanzamiento sin necesitar a esa - añadió, señalando el cadáver de Elizabeth.
+- Sobre eso... no lo haremos - dijo Lucas.
+Noemí lo miró fijamente
+- ¿A qué te...? ¡Cuidado!
+La adolescente empujó a Lucas hacia un lado con todas su fuerzas pero sólo consiguió moverlo ligeramente. Sin embargo, fue lo suficiente para recibir ella el disparo en el pecho.
+Lucas apenas tuvo un segundo de ver a Noemí cayendo al suelo cuando Kasim le tiró del brazo y lo obligó a agacharse junto a él.
