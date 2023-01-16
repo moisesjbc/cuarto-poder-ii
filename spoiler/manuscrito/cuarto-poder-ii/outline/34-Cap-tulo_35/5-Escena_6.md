@@ -5,7 +5,7 @@ POV:            0
 label:          4
 status:         1
 compile:        2
-charCount:      1743
+charCount:      3430
 
 
 Elizabeth abrió los ojos como platos cuando la bala le atravesó la cara, arrancando trozos de carne y haciéndole golpear la cabeza contra la pared tras ella. Automáticamente liberó la presa y tanto ella como Noemí cayeron al suelo.
@@ -32,3 +32,26 @@ Noemí lo miró fijamente
 - ¿A qué te...? ¡Cuidado!
 La adolescente empujó a Lucas hacia un lado con todas su fuerzas pero sólo consiguió moverlo ligeramente. Sin embargo, fue lo suficiente para recibir ella el disparo en el pecho.
 Lucas apenas tuvo un segundo de ver a Noemí cayendo al suelo cuando Kasim le tiró del brazo y lo obligó a agacharse junto a él.
+- Es Jonás - dijo Kasim tras asomar la cabeza lentamente sobre la mesa y los ordenadores.
+Efectuó unos disparos y volvió a cubrirse a tiempo de esquivar los disparos de respuesta.
+- ¡No...! - gritó Noemí, con la sangre brotando del pecho, la cara blanca, y Lucas arrodillado a su lado - ¡No lo maten!
+- Pero... - comenzó a decir Lucas, sujetando la mano de Noemí.
+- Sólo trata de proteger a su familia - dijo ella agarrando su mano. Tosió antes de continuar -. La *Sirena* matará a Lara.
+- Creo... creo que no será así.
+- Lucas, necesitaría ayuda aquí.
+- Ve con él. Estoy bien - mintió ella -. Pero por favor, no lo mates. No dejes a Lara sin un hermano.
+"Y cómo se supone que voy a hacer eso"
+Lucas soltó a regañadientes la mano de la que había sido su hija y se volvió a situar junto a Kasim.
+- No veo muy viable lo de no matarlo - le susurró este último -. No está dando mucha tregua. ¿Alguna idea?
+Lucas negó con la cabeza pero entonces sonrió súbitamente. Efectuó algunos disparos a ciegas antes de hablar.
+- Voy a destruir el *Mástil*.
+- No... - empezó a quejarse Noemí tras ellos, pero tuvo un ataque de tos.
+- Espero que sepas lo que haces - dijo Kasim, que efectuó unos disparos antes de continuar - Toma.
+"No", pensó Lucas, aceptando un pequeño explosivo con detonador. "No lo sé.
+- Asegúrate de alejarte a bastante distancia.
+- ¿Con esto es suficiente? - dudó Lucas, evaluando lo pequeño que era el explosivo.
+- Lo será. ¡Rápido!
+- Sí, cúbreme.
+Se giró hacia Noemí para despedirse pero la adolescente se había desmayado.
+- Aguanta - dijo, besándole la frente.
+Lucas comenzó entonces a correr agachado siguiendo la curvatura de la sala mientras iba dejando los disparos atrás.
