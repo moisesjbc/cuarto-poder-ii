@@ -5,7 +5,7 @@ POV:            0
 label:          4
 status:         1
 compile:        2
-charCount:      3430
+charCount:      5222
 
 
 Elizabeth abrió los ojos como platos cuando la bala le atravesó la cara, arrancando trozos de carne y haciéndole golpear la cabeza contra la pared tras ella. Automáticamente liberó la presa y tanto ella como Noemí cayeron al suelo.
@@ -55,3 +55,13 @@ Lucas negó con la cabeza pero entonces sonrió súbitamente. Efectuó algunos d
 Se giró hacia Noemí para despedirse pero la adolescente se había desmayado.
 - Aguanta - dijo, besándole la frente.
 Lucas comenzó entonces a correr agachado siguiendo la curvatura de la sala mientras iba dejando los disparos atrás.
+Cuando llegó hacia donde la fila de mesas dejaba paso al pasillo que cruzaba el centro de la estancia hacia la puerta, se detuvo y se obligó a respirar tranquilamente, pero el aire se afanaba en correr hacia dentro y hacia fuera como un niño pequeño.
+Esperó apenas unos segundos y asomó poco a poco la cabeza por un lateral de la mesa. No vio a Jonás directamente desde su posición, pero los disparos parecían provenir del centro de la sala, justo en la esquina con el pasillo.
+"Va a asomarse en cualquier momento a este pasillo", temió Lucas.
+Sin darle tiempo a las dudas a ganar, se obligó a salir al pasillo, siempre agachado. Corrió hacia atrás manteniendo la pistola en alto y maldiciéndose cada vez que se incorporaba instintivamente para entonces agacharse rápidamente.
+Llegó hasta la puerta sin sobresaltos y se ocultó tras una de las mesas del círculo exterior de la sala. Miró hacia el panel de la puerta, frente al pasillo. Resopló.
+Se incorporó rápidamente y pulsó el botón de la puerta, sin perder de vista el pasillo. La puerta comenzó a abrirse tras sus espaldas.
+- ¡Hijo de puta!
+Lucas se sobresaltó cuando la voz de Jonás se escuchó en el lado opuesto del pasillo central y apenas tuvo tiempo de reaccionar cuando el hermano de Lara se asomó y le disparó, alcanzándole en el pecho.
+La bala atravesó su pecho izquierdo y abandonó su espalda dejando tras de sí una oleada de fuego y dolor que lo aturdió, al tiempo que la fuerza del impacto lo hizo retroceder y golpear la pared.
+Lucas comenzó a caer pero la imagen de Noemí desangrándose acudió a su cabeza. Hincó la rodilla en el suelo y se agarró con la mano izquierda en la mesa que tenía delante. Disparó alrededor de Jonás, tratando de cumplir la promesa que le había hecho a la que fuera su hija de mantenerlo con vida.
