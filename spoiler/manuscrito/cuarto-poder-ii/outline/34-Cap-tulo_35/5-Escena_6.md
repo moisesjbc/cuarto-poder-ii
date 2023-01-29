@@ -2,10 +2,12 @@ title:          Escena 6
 ID:             101
 type:           md
 POV:            0
+notes:          - "No debía de separarlo más de 30 metros", **confirmar**.
+                
 label:          4
 status:         1
 compile:        2
-charCount:      5222
+charCount:      8721
 
 
 Elizabeth abrió los ojos como platos cuando la bala le atravesó la cara, arrancando trozos de carne y haciéndole golpear la cabeza contra la pared tras ella. Automáticamente liberó la presa y tanto ella como Noemí cayeron al suelo.
@@ -65,3 +67,26 @@ Se incorporó rápidamente y pulsó el botón de la puerta, sin perder de vista 
 Lucas se sobresaltó cuando la voz de Jonás se escuchó en el lado opuesto del pasillo central y apenas tuvo tiempo de reaccionar cuando el hermano de Lara se asomó y le disparó, alcanzándole en el pecho.
 La bala atravesó su pecho izquierdo y abandonó su espalda dejando tras de sí una oleada de fuego y dolor que lo aturdió, al tiempo que la fuerza del impacto lo hizo retroceder y golpear la pared.
 Lucas comenzó a caer pero la imagen de Noemí desangrándose acudió a su cabeza. Hincó la rodilla en el suelo y se agarró con la mano izquierda en la mesa que tenía delante. Disparó alrededor de Jonás, tratando de cumplir la promesa que le había hecho a la que fuera su hija de mantenerlo con vida.
+Se tambaleó hacia el control de la puerta y pulsó el botón de cerrar. Esprintó tambaleándose y salió a duras penas, con la puerta rozándole y las balas silbando a su alrededor.
+Cayó al suelo del pasillo y sintió que todo el aire del cuerpo se le escapaba con el golpe. Puso las manos sobre el suelo y con brazos temblorosos se incorporó primero algo más rápido pero luego más lento, al sentir que la visión se le nublaba.
+La sangre brotaba de su herida abierta y goteaba en el suelo, dejando un rastro de vida tras de si.
+Consiguió incorporarse y dar unos pasos vacilantes pero entonces le fallaron las piernas y volvió a caer, quedando relegado a un bebé al que la capacidad de caminar sobre dos piernas le queda aún lejos.
+Sin fuerzas para apartar a ninguno de los titanes inmóviles que se alzaban a su alrededor, Lucas gateó esquivándolos como pudo, mientras tosía y se intentaba tapar el pecho con una mano distinta cada vez.
+No debía de separarlo más de 30 metros de su objetivo, pero cada paso amenazaba con ser el último.
+"Tengo que salvar a Noemí", se decía, "Tengo que salvarla", repetía.
+Por momentos la vida se le escapaba y empezaba a verlo todo negro. Flotaba en el aire, al merced de una infinita oscuridad. Al instante siguiente, seguía desangrándose sobre el suelo de un pasillo mientras avanzaba entre piernas que no se inmutaban ante la presencia de un moribundo.
+Sintió un pequeño golpe en la cabeza que lo teletransportó nuevamente al reino de las sombras. Lucas agitó la cabeza y se obligó a abrir los ojos.
+Había llegado hasta el carro que sujetaba el *Mástil*.
+Aferrándose al pequeño vehículo, comenzó a incorporarse mientras nuevas olas de dolor e inconsciencia lo zarandeaban. Cuando pudo incorporarse sobre sus piernas temblorosas se aferró a los mandos del carro.
+Se aclaró la vista varias veces hasta que pudo localizar los controles que buscaba. Agarró con fuerza el manillar y activó el carro.
+Lucas sintió un latigazo en el cuello cuando el pequeño vehículo comenzó a acelerar con gran rapidez. Sus piernas apenas llegaban a dar un par de zancadas en el suelo cada tantos metros.
+Unos disparos comenzaron a impactar en el carro mientras unos silbaban a ambos lados de las piernas de Lucas.
+El origen de dichos disparos estaba muy cerca.
+Lucas empezaba a desmayarse otra vez cuando la imagen de Noemí, Ana y los demás empezaron a aparecerse delante suya. También comenzó a dudar nuevamente si lo que estaba haciendo no era condenar a la raza humana.
+Y entonces Lucas hizo lo único que podía hacer.
+Comenzó a gritar.
+Era un grito ahogado por el dolor y la sequedad, pero era lo suficientemente fuerte como para alejar las dudas y, con un poco de suerte, a la Parca.
+Cuando el origen de los disparos estuvo a poco menos de un metro de él, Lucas pegó un último apretón al acelerador y se dejó caer hacia el lado del que provenían los disparos.
+Su cuerpo inerte cayó sobre un sorprendido Jonás y ambos cayeron al suelo, con Lucas vomitando un pequeño chorro de sangre.
+Con el impacto ambos perdieron sus armas. Jonás sin embargo, comenzó a golpear a Lucas mientras le gritaba algo que no lograba comprender. El joven, sin embargo, ya apenas sentía el dolor mientras perdía el conocimiento, inseguro sobre si volvería a abrir los ojos.
+Lo último que vio fue cómo el carro avanzaba unos pocos metros a toda velocidad antes de empezar a detenerse rápidamente. Cuando estaba a punto de detenerse por completo, el suelo cedió y con él cayeron varios *asimilados* y el *Mástil*. 
