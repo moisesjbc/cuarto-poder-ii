@@ -13,11 +13,12 @@ notes:          - ¿Mover a otro capítulo?
                 - Especificar que Jonás y Lara tenían más resistencia pero no iban a morir porque...
                 - ¿La interacción de las nanomáquinas con la Sirena era lo que causaba las jaquecas?
                 - **Mencionar a Ajani y Kasim**
+                - **Decir el tiempo que ha pasado desde el capítulo anterior**.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3716
+charCount:      5807
 
 
 La luz del amanecer se coló por entre las cortinas blancas y regó la cara del joven. Este último se dejó embargar de la energía que calentaba su cara y dejó escapar una sonrisa antes de abrir los ojos.
@@ -36,6 +37,7 @@ Lucas sintió el estómago de ella. Estaba rugiendo.
 Lucas se desperezó nuevamente y se levantó de la cama. Se vistió con la primera ropa que vio y caminó descalso por el cálido suelo de madera hasta llegar al baño, donde hizo sus necesidades y se aseó rápidamente.
 Mientras bajaba pos las escaleras al piso inferior, se preguntó por las últimas noticias del mundo y estas volaron frente a su ojo mental.
 En un abrir y cerrar de ojos Lucas ya conocía lo que hace unos años hubiera ocupado un noticiario de una hora y varias horas más para extender y asimilar por completo la información. Lejos quedaba también la siempre presente duda de estar ante un bulo o una manipulación. Las noticias surgían de los directamente afectados y podían revivirse como si le estuvieran ocurriendo a uno mismo.
+"Nada que ver con cuando existía RIO", recordó Lucas con una sonrisa para si mismo.
 Lucas llegó al piso de abajo y comenzó a preparar un desayuno digno de un chef, consultando en la *mente colmena* todo lo necesario: desde la receta vivida por el autor original hasta *tips* de las miles de personas que ya la habían preparado anteriormente y aportado su toque.
 "El desayuno está listo", pensó entonces, proyectando dicho pensamiento hacia sus convivientes.
 "Voy", respondió Ana.
@@ -57,4 +59,24 @@ Noemí se sacudió el polvo y se sentó a la mesa, al lado de Jonás. Lara se se
 - *Yep* - respondió Noemí - Lo he consultado con el resto de la humanidad, pero no hay un nombre mejor que “Revuélvele el pelo a tu hermana la coqueta”
 - Es que es difícil de superar - bromeó Lucas.
 En ese momento Jonás entró en la cocina, vestido con un albornoz.
-- Buenos días.
+- Buenos días - mientras recibía saludos en respuesta, se sentó al lado de Lara - Gracias.
+- De nada.
+Al poco tiempo se les unió Ana. Resopló y se sentó en la única silla libre.
+Comenzaron a engullir la comida frente a ellos mientras charlaban de trivialidades.
+- Dentro de poco será el lanzamiento, ¿verdad? - preguntó Noemí al cabo de un rato.
+- No tendrías ni que hacer esa pregunta teniendo toda la información del mundo en tu cabeza - bromeó Jonás -. Pero si, en unos quince minutos.
+- Es más divertido así - Y al rato añadió -: Gracias.
+- ¿Estás bloqueando los agradecimientos otra vez, Lucas? - Ana lo señaló con un dedo acusador.
+Lucas levantó las palmas de las manos.
+- Es que son demasiadas.
+- Creo que la *Colmena* podrá aguantarlo.
+- Bueno... está bien.
+Lucas "abrió el grifo" y una cascada de agradecimientos empezaron a llegarle de todos los lugares del mundo. "Gracias por acabar con RIO", "Gracias por liberar la *Sirena*", "Gracias por salvarnos", ...
+Lucas proyectó su pensamiento hacia toda la *Colmena*, o "red mental de asimilados". Como en otras ocasiones no pudo evitar dejar escapar cierta incomodidad ante tanta atención, lo cuál sólo servía para añadir una disculpa antes o después de cada agradecimiento.
+"Esto no fue sólo cosa mía. El general Cooper, la *Resistencia*, Ajani, Kasim, Jonás, ... Todos han sido decisivos."
+"En mi caso no..."
+"Estabas protegiéndote a ti y a Lara", lo interrumpió Lucas. "Además, de no ser por ti ni hubiera salido vivo del AT de Gran Canaria cuando Cooper lo asaltó"
+"Sí, pero..."
+Pero Lucas le cerró la puerta en las narices, bloqueando sus pensamientos. Jonás se hizo el ofendido y siguió comiendo.
+Entonces Lucas pensó en Kasim y Ajani. El primero respondió a la llamada y Lucas pasó a ver lo que veían sus ojos y sentir lo que sentían el resto de sus sentidos. Estaba sentado junto a una hoguera junto con Ajani. Tenían un par de conejos cocinándose al fuego.
+"Sí, estamos bien", pensó Kasim sin darle tiempo a decir (o pensar) nada. Ajani lo miró y asintió.
