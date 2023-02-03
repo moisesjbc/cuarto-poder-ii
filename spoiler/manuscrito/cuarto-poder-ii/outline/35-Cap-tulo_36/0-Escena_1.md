@@ -14,11 +14,12 @@ notes:          - ¿Mover a otro capítulo?
                 - ¿La interacción de las nanomáquinas con la Sirena era lo que causaba las jaquecas?
                 - **Mencionar a Ajani y Kasim**
                 - **Decir el tiempo que ha pasado desde el capítulo anterior**.
+                	- Lucas ha sobrevivido y a pesar de la edad y la mentira de que moriría pronto se mantiene muy bien.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5807
+charCount:      7747
 
 
 La luz del amanecer se coló por entre las cortinas blancas y regó la cara del joven. Este último se dejó embargar de la energía que calentaba su cara y dejó escapar una sonrisa antes de abrir los ojos.
@@ -80,3 +81,24 @@ Lucas proyectó su pensamiento hacia toda la *Colmena*, o "red mental de asimila
 Pero Lucas le cerró la puerta en las narices, bloqueando sus pensamientos. Jonás se hizo el ofendido y siguió comiendo.
 Entonces Lucas pensó en Kasim y Ajani. El primero respondió a la llamada y Lucas pasó a ver lo que veían sus ojos y sentir lo que sentían el resto de sus sentidos. Estaba sentado junto a una hoguera junto con Ajani. Tenían un par de conejos cocinándose al fuego.
 "Sí, estamos bien", pensó Kasim sin darle tiempo a decir (o pensar) nada. Ajani lo miró y asintió.
+Ajani apenas dejaba que otros entraran en su mente. Lucas siempre tenía que verlo a través de Kasim.
+Y no solía durar mucho.
+"Bueno, hasta la próxima, Lucas", dijo al poco tiempo Kasim "Gracias por pasarte".
+"Gracias por dejarme entrar", dijo Lucas con una sonrisa mental compartida por su huésped.
+La conexión se cerró y Lucas volvía a estar en su cuerpo.
+- ¿Están bien? - preguntó Lara.
+- Están bien - confirmó Lucas.
+- Guay.
+Terminaron de comer y permanecieron sentados a la mesa hablando de trivialidades.
+- ¡Es la hora! - dijo entonces Noemí.
+Todos asintieron y se transportaron mentalmente a los cuerpos de algunos integrantes de un nutrido grupo de personas a miles de kilómetros de allí.
+Se encontraban en pleno centro de África, de pie o sentados sobre un verde césped. A unos pocos cientos de metros de ellos, sin ninguna valla o medida de protección, una esfera metálica de 10 metros de diámetro descansaba sobre un claro de tierra, inmóvil sin necesidad de topes.
+Lucas y los demás estaban a la vez en su casa, entre los curiosos cerca del meteorito y dentro del propio meteorito. Y si quisieran podrían estar en muchos más sitios a la vez.
+Cada vez que lo pensaba, el joven se maravillaba de que le resultara tan... natural. Y por lo que sentía cuando se "conectaba" a la *Colmena*, no era el único.
+Un hombre mayor le dio un suave golpe en el hombro a Lucas. Era Noemí quien lo controlaba, y quien le hizo giró la cabeza hacia el meteorito, que empezaba a elevarse sobre una nube grisácea.
+Rápidamente comenzó a ganar velocidad hasta que atravesó los cielos como un Fórmula 1 y se perdió de su vista.
+De su vista física, porque todos viajaban en aquel meteorito rumbo a otro mundo.
+Lucas y los demás volvieron a estar sentados en círculo alrededor de la mesa del comedor.
+- ¿Cómo creen que será el siguiente mundo a asimilar? - preguntó entonces Noemí.
+Lucas sonrió.
+- Esperemos que uno con mejor recibimiento que el nuestro.
