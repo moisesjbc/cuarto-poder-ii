@@ -10,47 +10,49 @@ notes:          - **¿Momento del día?**
                 - Lucas tiene un flashback de "un adolescente malherido en un callejón".
                 - Le dan una pistola. A Lucas le entra en temblique pero está dispuesto a usarla.
                 - Ana recordará esta decisión más adelante y Lucas aclarará que era por su conciencia. Ana le dice que siempre la obedezca.
-                
-                
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5047
+charCount:      5217
 
 
+La voz comenzó como un eco lejano en el límite de la consciencia.
 - ¡Lucas!
-La voz comenzó como un eco lejano en el límite de la consciencia y que rápidamente iba aumentando su intensidad.
+La siguiente vez se escuchó mucho más intenso, como si la fuente hubiera corrido y ahora estuviera a pocos pasos de él.
 - ¡Lucas!
-El joven sintió que algo tiraba de su brazo hacia arriba. 
+Sintió que algo tiraba de su brazo hacia arriba. Una segunda voz resonó a su lado. 
 - ¡Voy a soltarlo!
 - ¡No! ¡Por favor, no lo hagas! ¡Lucas!
-La hierba del misterioso planeta desapareció bajo sus pies. Estos ya no estaban desnudos.
+Ya no se encontraba de pie sobre la hierba de un planeta extraño. Sus pies ya no estaban desnudos tampoco.
 - ¡Lucas!
-El dolor surgió de repente, martilleándole la frente. Lucas apretó los ojos con fuerza antes de abrirlos. 
+El dolor surgió de repente, martilleándole la frente. Apretó los ojos con fuerza antes de abrirlos. 
 Todo cuanto vio fue negro.
-Se preguntó si realmente había abierto los ojos cuando comenzó a recordar. Entre el dolor entrevió la imagen del suelo cediendo a sus pies y de él precipitándose hacia el vacío y golpeándose la cabeza. Estaba contra la pared.
+Se preguntó si realmente había abierto los ojos cuando comenzó a recordar. Entre las punzadas de dolor se coló el recuerdo del suelo cediendo bajo sus pies y de él precipitándose hacia el vacío y golpeándose la cabeza.
 - ¡Maldita sea, Lucas! - espetó Jonás - ¡Lara, voy a soltarlo! ¡Tenemos que irnos!
 - Pero...
 - ¡Los demás están bien!
 - ¿Los... demás? - balbuceó Lucas - ¿Ana?
-- ¡Por fin! ¡Ahora sube!
+- ¡Por fin! ¡Ahora sube de una maldita vez!
 - ¡Estoy aquí abajo! - gritó Ana, bajo sus pies.
 - ¡Eh tío! ¡Ayúdame a subir a mi! - gritó otra persona bajo él.
 - ¡Quiero salir de aquí! - chilló otro.
 Una mano se aferró al pie de Lucas. Del susto, el joven lo movió con violencia y la mano se soltó.
-Jonás miró hacia arriba. Jonás estaba tendido sobre el suelo, al borde del precipicio y lo sujetaba con una mano. Su otra mano estaba fuera de la vista de Lucas, presumiblemente aferrándose a algo para evitar caer con él.
-Al lado de Jonás, agachada, estaba Lara. Le dedicó una sonrisa nerviosa.
+Entonces miró hacia arriba. Jonás estaba tendido sobre el suelo, al borde del precipicio y lo sujetaba con una mano. Su otra mano estaba fuera de la vista de Lucas, presumiblemente aferrándose a algo para evitar caer con él.
+Al lado de Jonás, agachada, estaba Lara. Esta última le dedicó una sonrisa nerviosa.
 Una sombra ascendió a la derecha de Lucas. Un hombre mayor que él, de complexión atlética, saltó y se agarró al saliente del que colgaba Lucas. Se impulsó y subió rápidamente. Al otro lado del joven, otras personas menos ágiles se ayudaban con más lentitud para intentar encaramarse.
 - ¡Vamos! - le apremió Jonás.
-El hombre atlético se dispuso a correr hacia el exterior. Un proyectil lo alcanzó en la espalda y el hombre se desplomó en el suelo, fuera de la vista de Lucas.
-Los gritos estallaron en el gran foso bajo sus pies. La adrenalina golpeó a Lucas con fuerza y este comenzó a encaramarse con la ayuda de Jonás mientras otros pocos valientes hacían lo propio. Se avergonzó de sí mismo al darse cuenta de que Ana y Noemí no formaban parte de sus planes inmediatos, sino simplemente salvar el pellejo.
-La visión lo asaltó de repente. Un adolescente malherido en un callejón, la sangre cubre su cara. Mira a Lucas en silencio, con desprecio.
+El hombre atlético comenzó correr alejándose, cuando un proyectil lo alcanzó en la espalda. Se desplomó en el suelo, fuera de la vista de Lucas.
+Los gritos estallaron en el gran foso bajo sus pies. La adrenalina golpeó a Lucas con fuerza y este comenzó a encaramarse con la ayuda de Jonás mientras otros pocos valientes imitaban al hombre abatido.
+El joven se avergonzó de sí mismo al darse cuenta de que su instinto de salvar el pellejo le hiciera ignorar a Ana y Noemí.
+La visión lo asaltó de repente. Un adolescente malherido en un callejón, con la sangre cubriendo su cara. Mira a Lucas en silencio, con desprecio.
 - ¡Suéltame! - gritó el joven.
 - ¿Qué? - respondió Jonás.
 - ¡Qué me sueltes!
-- ¡Joder! ¡Con mucho gusto!
-La mano soltó a Lucas y este cayó. La caída no fue muy grande, pero bastó para que Lucas derribara a alguien que se encontraba directamente bajo él. Lucas cayó de espaldas y se cubrió instintivamente la parte trasera de la cabeza, preveyendo el golpe. No obstante, unas manos lo sujetaron con fuerza y lo ayudaron a tocar suelo de manera segura.
+- ¡No me jodas!
+- ¡No! - gritó Lara.
+No obstante, Jonás ya había soltado a Lucas y este cayó. La caída fue corta, unos pocos metros, pero bastó para que Lucas derribara a alguien que se encontraba directamente bajo él. Cayó de espaldas y se cubrió instintivamente la parte trasera de la cabeza, previendo el golpe. No obstante, unas manos lo sujetaron con fuerza y lo ayudaron a tocar suelo de manera segura.
+**POR AQUÍ**
 - ¿Estás bien? - preguntó Ana.
 Lucas apenas la distinguía en la penumbra, pero podía ver que su amiga lo miraba fijamente.
 - Sí - mintió Lucas, intentando ocultar el dolor de cabeza.

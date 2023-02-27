@@ -14,7 +14,7 @@ notes:          - ¿Mover a otro capítulo?
                 - ¿La interacción de las nanomáquinas con la Sirena era lo que causaba las jaquecas?
                 - **Mencionar a Ajani y Kasim**
                 - **Decir el tiempo que ha pasado desde el capítulo anterior**.
-                	- Lucas ha sobrevivido y a pesar de la edad y la mentira de que moriría pronto se mantiene muy bien.
+                - Lucas ha sobrevivido y a pesar de la edad y la mentira de que moriría pronto se mantiene muy bien.
 label:          4
 status:         1
 compile:        2
