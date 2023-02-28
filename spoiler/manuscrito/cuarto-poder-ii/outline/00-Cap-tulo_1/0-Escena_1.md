@@ -14,7 +14,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5217
+charCount:      5606
 
 
 La voz comenzó como un eco lejano en el límite de la consciencia.
@@ -52,18 +52,26 @@ La visión lo asaltó de repente. Un adolescente malherido en un callejón, con 
 - ¡No me jodas!
 - ¡No! - gritó Lara.
 No obstante, Jonás ya había soltado a Lucas y este cayó. La caída fue corta, unos pocos metros, pero bastó para que Lucas derribara a alguien que se encontraba directamente bajo él. Cayó de espaldas y se cubrió instintivamente la parte trasera de la cabeza, previendo el golpe. No obstante, unas manos lo sujetaron con fuerza y lo ayudaron a tocar suelo de manera segura.
-**POR AQUÍ**
 - ¿Estás bien? - preguntó Ana.
-Lucas apenas la distinguía en la penumbra, pero podía ver que su amiga lo miraba fijamente.
+Sus ojos lo miraban fijamente bajo mechones de pelo ondulado.
 - Sí - mintió Lucas, intentando ocultar el dolor de cabeza.
-Noemí, al lado de Ana, comenzó a acercarse a Lucas para abrazarle, pero Ana la detuvo. Esta avanzó hacia Lucas y este esperó un abrazo que nunca llegó. Su amiga lo bordeó y se agachó rápidamente junto al cuerpo sobre el que había aterrizado. Cogió algo de él y se lo ofreció a Lucas. 
-- **¿No es muy bestia que lo haya dejado inconsciente? ¿Y que no se preocupen más por él?**
+Noemí, al lado de Ana, comenzó a acercarse a Lucas para abrazarle, pero Ana la detuvo. Esta última avanzó hacia Lucas y este esperó un abrazo que nunca llegó. En lugar de eso, su amiga lo bordeó y se agachó rápidamente junto al cuerpo sobre el que había aterrizado.
+- ¿Estás bien? - preguntó.
+Lucas enrojeció.
+- Oh, ¡lo siento!
+Un hombre de unos cuarenta años, calvo, emitió un quejido, al tiempo que aceptaba la ayuda de Ana para levantarse.
+- No pasa nada - dijo - uff.
+- Dame - dijo entonces Ana.
+Sin mediar palabra, el hombre le entregó algo a Ana, antes de avanzar y perderse en la penumbra.
+La joven volvió junto a Lucas.
 - Toma.
-Lucas tomó la pistola.
+El joven tomó la pistola que se le ofrecía.
 - Pero yo... - balbuceó.
 - Apunta hacia la puerta y dispara. No preguntes.
 Lucas alzó la vista. A unos 3 metros de altura sobre sus cabezas, en el otro extremo de la sala se encontraba la puerta que daba, presumiblemente, al andén.
-Ana repartió algunas órdenes al grupo congregado junto a ellos y otras tantas por un pequeño micrófono sujeto a su oreja derecha. Los destinatarios asintieron y se colocaron en distintos puntos de la sala, forcejeando con la masa de civiles que se revolvía presa del pánico. Alzaron sus pistolas a las dos puertas y las múltiples ventanas de la pequeña estación.
+Ana comenzó a repartir órdenes al grupo congregado junto a ellos y otras tantas por un pequeño micrófono sujeto a su oreja derecha. Les ordenaba colocarse en distintos extremos de la sala, a lo que sus destinatarios obedecían en el acto. A medida que se perdían entre la pequeña multitud, todo lo que se percibía de ellos era sus voces y su forcejeo exigiendo paso a su alrededor.
+Los que quedaron a la vista de Lucas alzaron sus pistolas a las dos puertas y las múltiples ventanas de la pequeña estación.
+**VOY POR AQUÍ**
 Lucas hizo lo propio, sintiendo que la pistola se resbalaba en sus manos sudorosas. Los latidos de su corazón se intensificaron y parecían seguir el ritmo del dolor que presionaba su sien.
 En cualquier momento iban a entrar en la sala. Lucas no se creía capaz de apretar el gatillo.
 Un pequeño objeto atravesó la ventana a la izquierda de la puerta del andén. Otros más lo siguieron atravesando otras ventanas y cayendo también en el foso.
