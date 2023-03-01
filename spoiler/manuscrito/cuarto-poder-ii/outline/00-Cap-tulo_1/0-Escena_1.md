@@ -14,7 +14,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5606
+charCount:      5635
 
 
 La voz comenzó como un eco lejano en el límite de la consciencia.
@@ -71,14 +71,15 @@ El joven tomó la pistola que se le ofrecía.
 Lucas alzó la vista. A unos 3 metros de altura sobre sus cabezas, en el otro extremo de la sala se encontraba la puerta que daba, presumiblemente, al andén.
 Ana comenzó a repartir órdenes al grupo congregado junto a ellos y otras tantas por un pequeño micrófono sujeto a su oreja derecha. Les ordenaba colocarse en distintos extremos de la sala, a lo que sus destinatarios obedecían en el acto. A medida que se perdían entre la pequeña multitud, todo lo que se percibía de ellos era sus voces y su forcejeo exigiendo paso a su alrededor.
 Los que quedaron a la vista de Lucas alzaron sus pistolas a las dos puertas y las múltiples ventanas de la pequeña estación.
-**VOY POR AQUÍ**
-Lucas hizo lo propio, sintiendo que la pistola se resbalaba en sus manos sudorosas. Los latidos de su corazón se intensificaron y parecían seguir el ritmo del dolor que presionaba su sien.
-En cualquier momento iban a entrar en la sala. Lucas no se creía capaz de apretar el gatillo.
-Un pequeño objeto atravesó la ventana a la izquierda de la puerta del andén. Otros más lo siguieron atravesando otras ventanas y cayendo también en el foso.
+El joven hizo lo propio, apuntando su pistola hacia la puerta del otro extremo de la estancia. Sentía el arma resbalarse en sus manos sudorosas y los latidos de su corazón se intensificaron. Parecían seguir el ritmo del dolor que presionaba su sien.
+En cualquier momento iban a entrar en la sala.
+"¿Qué hago?"
+Lucas no se creía capaz de apretar el gatillo.
+Un pequeño objeto atravesó la ventana a la izquierda de la puerta que daba al andén. Otros más lo siguieron atravesando otras ventanas y cayendo también en el foso.
 - Era de esperar - se limito a decir Ana.
 - ¿...qué?
-Pequeñas explosiones se sucedieron por toda la estancia y lo que parecía ser un gas empezó a cubrirlo todo rápidamente.
+Pequeñas explosiones se sucedieron por toda la estancia, esparciendo gas alrededor.
 Noemí se abrazó a Lucas. Ana se acercó a ellos y les obligó a agacharse junto con ella. Los otros efectivos de la Resistencia hicieron lo mismo mientras intentaban que la masa de personas asustadas hiciera lo mismo, sin mucho éxito.
 - Tranquilos - les susurró Ana -. Saldremos de esta.
 Lucas intentó contestar pero el gas lo envolvió y le arrebató las palabras junto con la conciencia.
-El joven se desplomó.
+Todo se volvió negro.
