@@ -18,13 +18,13 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3000
+charCount:      3004
 
 
 Cuando todos abandonaron el foso, los efectivos de la Resistencia dirigieron a los dos grupos de civiles hacia un lateral de la estación. Allí yacían muertos ocho cuerpos vestidos con ropas militares y otros dos con el uniforme de la Resistencia.
 A unos diez metros del edificio en ruinas de la estación descansaban cinco camiones enormes de transporte de mercancías, custodiados por un grupo de unos quince miembros de la Resistencia.
-- ¡Por favor! ¡Dividanse en cinco grupos y suban a uno de los camiones! - gritó uno de los efectivos.
-Se trata de hombre mayor, delgado y con el pelo blanco, pero que parecía gozar de buena salud. Cuando vio que la gente dudaba y no se movía con la suficiente celeridad, añadió:
+- ¡Por favor! ¡Dividios en cinco grupos y subid a uno de los camiones! - gritó uno de los efectivos.
+Se trataba de un hombre mayor, delgado y con el pelo blanco, pero que parecía gozar de buena salud. Cuando vio que la gente dudaba y no se movía con la suficiente celeridad, añadió:
 - ¡Necesitamos que se den prisa! ¡Los de RIO pueden llegar en cualquier momento!
 Las palabras surtieron el efecto deseado y los presentes se apresuraron a subir a la trasera de los camiones. No faltaron las quejas.
 - ¿Acaso somos ganado?
