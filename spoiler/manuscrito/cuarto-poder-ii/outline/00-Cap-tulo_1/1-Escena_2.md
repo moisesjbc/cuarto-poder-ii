@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4382
+charCount:      4307
 
 
 Lucas abrió los ojos y sólo vio tierra frente a su cara. La pistola seguía en su mano.
@@ -21,7 +21,7 @@ Noemí le tendió la mano y lo ayudó a levantarse con una sonrisa. Seguían est
 Ana, de pie frente a ellos, lo miró fugazmente, antes de volver a mirar hacia la puerta del andén, en el otro extremo de la estancia y a tres metros sobre sus cabezas.
 El joven hizo lo mismo y observó a varias personas en el exterior de la puerta, con sus fusiles apuntando al foso. Lucas fue a alzar su pistola instintivamente, pero Ana lo detuvo.
 - Son aliados.
-Los hombres y mujeres de la puerta vestían un chandal azul de una pieza, con un pequeño logotipo sobre el pecho izquierdo. El uniforme de la Resistencia.
+Los hombres y mujeres de la puerta vestían de militares, igual que los de RIO.
 - ¿Cómo sabes que no es una trampa? - susurró Lucas, sin dejar de mirar a los nuevos.
 - "¡La suerte sonríe a los humildes!" - parafraseó Ana.
 - ¿Qué?

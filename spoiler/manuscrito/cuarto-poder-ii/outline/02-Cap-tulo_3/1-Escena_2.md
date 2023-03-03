@@ -6,7 +6,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3669
+charCount:      3665
 
 
 La visión apenas duró unos pocos segundos. Lucas volvía a encontrarse tendido sobre la tierra rojiza del patio.
@@ -22,7 +22,7 @@ Los reclutas, no sin cierta reticencia, volvieron a sus puestos. Lucas se sinti�
 El joven permaneció en su puesto. Lucía le dirigió una rápida mirada y sonrió, antes de proseguir con la instrucción.
 El entrenamiento continuó sin más percances y tardó una hora. Tras este hubo un descanso de media hora en el que Lucas apenas pudo moverse y posteriormente hubo otro entrenamiento de una hora, también con Lucía.
 - ¡Y esto es todo por ahora! - concluyó esta tras el segundo entrenamiento. -¡Felicidades! Ahora pueden ducharse y descansar hasta la hora del almuerzo.
-El grupo de rescatados de las *Burbujas* caminó como un ejército zombie hasta sus habitaciones, donde les esperaba a cada uno unas vestimentas muy sencillas encima de sus camas. Lucas tenía un pequeño chándal azul y una camiseta blanca sin decoraciones, pero sus vecinos tenían chándales y camisetas de otros colores. "¿Qué habrá pasado con el chándal completo que le vi a Ana en el AT de Gran Canaria?"
+El grupo de rescatados de las *Burbujas* caminó como un ejército zombie hasta sus habitaciones, donde les esperaba a cada uno unas vestimentas muy sencillas encima de sus camas. Lucas tenía un pantalón militar y una camiseta blanca sin decoraciones, pero sus vecinos tenían chándales y camisetas de otros colores. "¿Qué habrá pasado con el chándal completo que le vi a Ana en el AT de Gran Canaria?"
 Los de la habitación de Lucas acudieron a las duchas comunitarias en dos grandes salas, donde tuvieron que hacer cola para poder ducharse. Lucas apenas pudo reprimir un suspiro cuando el agua fría cayó sobre él.
 Noemí acudió a su cabeza. "Tengo que andar con cuidado esta vez", pensó. "No quiero meter la pata otra vez".
 Lucas liberó la ducha a regañadientes para que la pudiera usar otra persona. A continuación se vistió con las ropas que había dejado en un gran banco de hierro verde, en un extremo de la estancia.
