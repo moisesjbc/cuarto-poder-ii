@@ -7,19 +7,21 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3636
+charCount:      3753
 
 
 Lucas, Ana, y cuatro efectivos de la resistencia rodeaban a Jonás y Lara, situados estos últimos contra la pared. Algunos intentaron acercarse a la pareja, pero entonces la nube de humo negro se revolvía, furiosa, y todos permanecían en su sitio.
-- Jonás... ¿qué es eso? - dijo Lara tras su hermano. La voz le temblaba. Sujetaba el brazo izquierdo de su hermano, sin dejar de mirar a la nube negra.
+- Jonás... ¿qué es eso? - dijo Lara tras su hermano.
+La voz le temblaba. Sujetaba el brazo izquierdo de su hermano, sin dejar de mirar a la nube negra.
 Jonás no respondía.
-- Jonás - dijo Ana, frente a él -. ya oíste a Miriam. No estamos en un lugar seguro. No me cabe duda de que sabes cuidarte. Ya lo has demostrado de sobra. Pero ahora tienes que pensar en tu hermana.
-- ¡Ja! - exclamó Jonás - ¿Y acaso está más segura aquí, en primera línea de lucha contra RIO? No lo creo.
+- Jonás - dijo Ana, situada frente a él -. ya oíste a Miriam. No estamos en un lugar seguro. No me cabe duda de que sabes cuidarte. Ya lo has demostrado de sobra. Pero ahora tienes que pensar en tu hermana.
+- ¡Ja! - espetó Jonás - ¿Y acaso está más segura aquí, en primera línea de tu guerra perdida contra RIO? No lo creo.
 - Ningún menor lucha en la Resistencia - contestó la joven -. Al más mínimo peligro ellos serán los primeros a los que protegeremos.
-Lucas tosió, aclarándose la garganta. Intentaba mirar a Jonás, pero su mirada le traicionaba y se escapaba de vez en cuando con Lara.
+Lucas tosió, aclarándose la garganta. Intentaba mirar a Jonás, pero su mirada le traicionaba y se escapaba de vez en cuando con Lara. Se obligó a hablar sin terminar de tener claro lo que diría.
 - Además... si huyes eso no quita a RIO de la ecuación. Seguirá persiguiéndoles a ambos. Aquí al menos tenemos una posibilidad.
 - ¡No los conoces como yo! ¡Nadie tiene ninguna posibilidad contra RIO!
-- Es... es posible, ¿pero no merece la pena aprovechar todas las oportunidades que tengamos para proteger a mi...? Quiero decir, ¿a Lara?. Aquí tenemos comida, alojamiento y protección.
+**VOY POR AQUÍ**
+- Es... es posible - coincidió Lucas -. ¿Pero no merece la pena aprovechar todas las oportunidades que tengamos para proteger a mi...? Quiero decir, ¿a Lara?. Aquí tenemos comida, alojamiento y protección.
 Lara miró a Lucas a los ojos.
 - Jonás, quiero quedarme.
 - Pero... - su hermano resopló, sin dirigirle la mirada. Seguía mirando hacia todas las personas que tenía delante. Atento a cualquier movimiento - ... ¿estás segura?
