@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4924
+charCount:      4983
 
 
 El despertador sonó, invadiendo toda la estancia con su estridente sonido.
@@ -47,6 +47,7 @@ Lara, de espaldas a Lucas comenzó a extender el brazo lentamente, pero Jonás s
 Otros miembros de la resistencia aparecieron en el pasillo y avanzaron al lado de la cola hacia los gritos. Estaban armados, pero no desenfundaron sus pistolas. Se acercaban lentamente a Jonás. Este se llevó la mano al bolsillo y se puso algo en su mano derecha. 
 Lucas vio un brillo parpadear en esta última. De la nada se materializó una nube de humo negra sobre la cabeza de Jonás. Los miembros de la Resistencia retrocedieron, llevándose las manos hacia sus armas. El grupo de civiles también retrocedió.
 Jonás iba posando su mirada sobre todos, atento. De su nariz brotaba un hilo rojo.
-Ana apareció en el pasillo avanzando con paso firme hacia Jonás. Lucas quiso mantenerse al margen pero un pensamiento cruzó su mente como una flecha. Sabía que era falso, una mentira que alguien introdujo en su cabeza. Que nada lo unía a Lara.
+Ana apareció en el pasillo avanzando con paso firme hacia Jonás. Volvía a tener el pelo de su pelirrojo anaranjado natural.
+Lucas quiso mantenerse al margen pero un pensamiento cruzó su mente como una flecha. Sabía que era falso, una mentira que alguien introdujo en su cabeza. Que nada lo unía a Lara.
 No obstante, sintió que su hija estaba en peligro.
 El joven se unió a Ana y avanzó hacia Jonás.
