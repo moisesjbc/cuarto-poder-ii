@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9332
+charCount:      9359
 
 
 Lucas se encontraba descansando en su litera, dándole vueltas y más vueltas a su conversación con Noemí. Tan distraído como estaba, no se percató cuando Lucía, la instructora, entró en la habitación y se acercó a él con paso decidido.
@@ -19,7 +19,7 @@ Lucas se encontraba descansando en su litera, dándole vueltas y más vueltas a 
 - ... ¿perdón?
 La joven rubia se rió.
 - ¿Te importaría venir conmigo?
-- No, claro que no.
+- ¿A dónde...? No, claro que no.
 Lucas la siguió fuera de la habitación y comenzaron a recorrer los pasillos de las instalaciones. La mayoría de la gente debía estar descansando, pues los pasillos estaban prácticamente desiertos a excepción de alguna patrulla o algún recluta esporádicos.
 - Bueno - dijo la joven sin dejar de caminar con la vista al frente -. ¿Qué te pareció el entrenamiento?
 - ¿Sinceramente?
@@ -29,12 +29,12 @@ Lucas la siguió fuera de la habitación y comenzaron a recorrer los pasillos de
 - Ya veo.
 Siguieron caminando unos segundos en silencio. Lucas estuvo a punto de preguntarle cuánto tiempo llevaba en la Resistencia para romper el silencio, pero la joven se detuvo de repente.
 - ¡Hemos llegado!
-Lucía tocó la puerta de metal verde situada a su derecha. A los pocos segundos esta se abrió y en el marco apareció un joven. Era un poco más alto que Lucas y tan delgado como él. Tenía el pelo negro rapado y una generosa barba. Lucas lo conocía de algo, pero no sabía decir de qué.
+Lucía tocó en la puerta de metal verde situada a su derecha. A los pocos segundos esta se abrió y en el marco apareció un joven. Era un poco más alto que Lucas y tan delgado como él. Tenía el pelo negro rapado y una generosa barba. Lucas lo conocía de algo, pero no sabía decir de qué.
 - Adelante - se limitó a decir el joven de la puerta, al tiempo que se apartaba y los dejaba pasar.
 La pareja entró en una habitación pequeña. El mobiliario se reducía a una pequeña mesa y una silla de hierro situadas en la esquina situada a la izquierda de la entrada. Sobre la mesa reposaba un portátil con unos casos conectados desde los que emanaba una ligera distorsión rítmica que Lucas supuso, era música.
-Frente a ellos, en el centro de la estancia, había una pequeña cámara casera situada sobre un trípode y un foco a cada lado. Apuntaban hacia la pared del fondo, desprovista de cualquier decoración y de color blanco.
+Frente a ellos, en el centro de la estancia, había una pequeña cámara casera situada sobre un trípode y un foco a cada lado. Apuntaban hacia la pared del fondo, de color blanco y desprovista de cualquier decoración.
 A Lucas se le comenzó a acelerar el pulso.
-- Muy bien, Lucas - dijo el barbudo de la resistencia -. Tengo bastante grabado sobre ti de cuando estallamos la *Burbuja*, pero falta la guinda del pastel - y tras una breve pausa añadió -. Me llamo Óscar, por cierto.
+- Muy bien, Lucas - dijo el barbudo de la Resistencia -. Tengo bastante grabado sobre ti de cuando estallamos la *Burbuja*, pero falta la guinda del pastel - y tras una breve pausa añadió -. Me llamo Óscar, por cierto.
 "Así que de ahí lo recuerdo", pensó Lucas.
 - ¿De qué... ? ¿De qué se trata? - respondió, aunque ya temía la respuesta.
 - Queremos grabarte dirigiendo unas palabras a RIO. Queremos dejar claro que no sólo has sido rescatado, sino que estás dispuesto a luchar contra esos cabrones.
@@ -42,18 +42,19 @@ A Lucas se le comenzó a acelerar el pulso.
 - ... entiendo.
 Óscar y Lucía se miraron durante un segundo sin decir nada.
 - ¿Y bien? - preguntó el primero dirigiéndose a Lucas -. ¿Te animas?
-- No... no estoy acostumbrado a salir en cámara. Esto... quiero decir, puedo intentarlo, pero ni siquiera sabría qué decir.
+- Hace bastante que no salgo ante una cámara. Esto... quiero decir, puedo intentarlo, pero ni siquiera sabría qué decir.
 - No te preocupes. Iremos improvisando - Óscar le hizo un gesto hacia el espacio frente a la cámara -. Por aquí.
-Lucas obedeció y se situó frente a la cámara. Sin más dilaciones, el barbudo encendió la cámara.
+Lucas obedeció y se situó frente a la cámara. Sin más dilaciones, el barbudo encendió el dispositivo.
 - Ve diciendo lo que se te ocurra.
 - ¿Y-ya estás grabando?
 - Sí, mejor no perder nada por si resultas ser un orador excelente - bromeó Óscar.
 - No te preocupes. No es en directo - Lucía, situada al lado del cámara, se rió.
-Las dos miradas y la luz roja bastaron para que Lucas sintiera su pierna derecha temblando y la boca secándose a marchas forzadas.
+Las dos miradas fijas y la luz roja bastaron para que Lucas sintiera su pierna derecha temblando y la boca secándose a toda velocidad.
 - Cuando quieras - dijo Óscar.
 - Ehm...
 Lucas se quedó en blanco durante unos segundos, pero las dos personas frente a él permanecieron en silencio. Lucía lo miraba fijamente con una sonrisa en la cara, mientras Óscar ajustaba el encuadre.
-"¿Estará asegurándose de que no aparece mi pierna temblando?" - bromeó Lucas para sus adentros, antes de volver a su estado de pánico.  "¿Qué digo?", comenzó a repetirse una y otra vez.
+"¿Estará asegurándose de que no aparece mi pierna temblando?" - se preguntó Lucas mientras permanecía en estado de pánico.  "¿Qué digo?", comenzó a repetirse una y otra vez.
+**VOY POR AQUÍ**
 - Esto... - comenzó a decir con un hilillo de voz -. Soy Lucas, antiguo trabajador de la corporación RIO. Mmmm, ellos me capturaron y me tuvieron... varios meses en una *Burbuja* donde nos manipulaban para que nos matáramos unos a los otros. Y antes... y antes de eso ya habían usado mi imagen para difundir mentiras sobre Inglaterra y sus intenciones para con Estados Unidos, supuestamente aprovechando... ya saben, su caos interno...
 Lucas dudó unos segundos, con los latidos golpeándole el pecho y la sien. Sin apenas sentirse en control de si mismo, alzó el puño y gritó a media voz.
 - ¡Voy a detenerlos!

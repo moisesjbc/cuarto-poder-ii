@@ -6,30 +6,33 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3665
+charCount:      3784
 
 
-La visión apenas duró unos pocos segundos. Lucas volvía a encontrarse tendido sobre la tierra rojiza del patio.
+La visión apenas duró unos pocos segundos, tras los cuales Lucas volvía a encontrarse tendido sobre la tierra rojiza del patio.
 Se dio la vuelta y vio un círculo de rostros mínimamente conocidos alrededor suya. Más allá de ellos, el cielo nublado de la mañana parecía conservar el tono azul verdoso de su visión. El joven parpadeó y el cielo recuperó el color azul que siempre había recordado.
 - ¿Estás bien? - se interesó Lucía, la instructora.
 - Sí... creo que sí.
 - ¡Lo siento! - se disculpó el chico que lo había tirado. Su frondosa cabellera y bigote negros ocultaban solo parcialmente su preocupación.
-- No pasa nada - respondió Lucas, incorporándose poco a poco -. Por suerte pude poner las manos.
+- No pasa nada - respondió Lucas, incorporándose poco a poco sin poder disimular un ligero mareo -. Por suerte pude poner las manos.
 - ¡Y por eso! - continuó Lucía, dirigiéndose a todos los presentes - ¡Es importante liberar rápidamente la presa sobre nuestros oponentes cuando entrenamos! Con los de RIO, sin embargo... - sonrió - pueden hacer lo que ha hecho nuestro compañero...
+Se quedó mirando al joven, expectante.
 - ¿Eh? ¡Ah! Luís. Me llamo Luís.
 - ¡Luís! - repitió ella - ¡Bueno! ¡Sigamos!
-Los reclutas, no sin cierta reticencia, volvieron a sus puestos. Lucas se sintió tentado de aprovechar su pequeño percance como excusa para no seguir entrenando, al menos por ahora. No obstante, la visiones de un niño sentado en el suelo mirándolo fijamente y, del enfado de Noemí en el almuerzo le impidieron hacerlo.
+Los reclutas, no sin cierta reticencia, volvieron a sus puestos. Lucas se sintió tentado de aprovechar su pequeño percance como excusa para no seguir entrenando, al menos por ahora. No obstante, la visiones de un niño sentado en el suelo mirándolo fijamente y el recuerdo del enfado de Noemí en el almuerzo le impidieron hacerlo.
 El joven permaneció en su puesto. Lucía le dirigió una rápida mirada y sonrió, antes de proseguir con la instrucción.
 El entrenamiento continuó sin más percances y tardó una hora. Tras este hubo un descanso de media hora en el que Lucas apenas pudo moverse y posteriormente hubo otro entrenamiento de una hora, también con Lucía.
 - ¡Y esto es todo por ahora! - concluyó esta tras el segundo entrenamiento. -¡Felicidades! Ahora pueden ducharse y descansar hasta la hora del almuerzo.
-El grupo de rescatados de las *Burbujas* caminó como un ejército zombie hasta sus habitaciones, donde les esperaba a cada uno unas vestimentas muy sencillas encima de sus camas. Lucas tenía un pantalón militar y una camiseta blanca sin decoraciones, pero sus vecinos tenían chándales y camisetas de otros colores. "¿Qué habrá pasado con el chándal completo que le vi a Ana en el AT de Gran Canaria?"
+El grupo de rescatados de las *Burbujas* caminó como un ejército zombie hasta sus habitaciones, donde les esperaba a cada uno unas vestimentas muy sencillas encima de sus camas. Lucas tenía un pantalón militar y una camiseta blanca sin decoraciones, pero sus vecinos tenían chándales y camisetas de otros colores.
+"¿Qué habrá pasado con el chándal completo que le vi a Ana en el AT de Gran Canaria?", se preguntó.
 Los de la habitación de Lucas acudieron a las duchas comunitarias en dos grandes salas, donde tuvieron que hacer cola para poder ducharse. Lucas apenas pudo reprimir un suspiro cuando el agua fría cayó sobre él.
-Noemí acudió a su cabeza. "Tengo que andar con cuidado esta vez", pensó. "No quiero meter la pata otra vez".
+Noemí acudió a su cabeza.
+"Tengo que andar con cuidado esta vez", pensó. "No quiero meter la pata otra vez".
 Lucas liberó la ducha a regañadientes para que la pudiera usar otra persona. A continuación se vistió con las ropas que había dejado en un gran banco de hierro verde, en un extremo de la estancia.
-Lucas acudió al comedor y esperó pacientemente en la cola mientras buscaba con la mirada a Noemí entre el mar de cabezas. La localizó en el mismo sitio, hacia el centro de la sala. Frente a ella volvían a sentarse Lara y Jonás. A ambos lados de Noemí había un puesto libre. No había rastro de Ana.
+Acudió entonces al comedor y esperó pacientemente en la cola mientras buscaba con la mirada a Noemí entre el mar de cabezas. La localizó en el mismo sitio, hacia el centro de la sala. Frente a ella volvían a sentarse Lara y Jonás. A ambos lados de Noemí había un puesto libre. No había rastro de Ana.
 Cuando llegó su turno, Lucas pasó de largo a la mujer que se había negado a servirle en el desayuno y esperó a que le atendiera el hombre. Recibió una bandeja con un caldo de verduras, pan y agua.
 Lucas se encaminó hasta la mesa donde se sentaban Noemí, Lara y Jonás. Este último miró de reojo a Lucas y continuó comiendo. Lara le sonrió. Noemí no dijo nada, aunque Lucas no sabía si realmente lo habría visto. Quería pensar que no.
 Se sentó al lado de Noemí.
-- Hola - saludó. Sonriendo tímidamente a los presentes.
+- Hola - saludó, sonriendo tímidamente a los presentes.
 - ¡Hola! - respondió Lara, devolviéndole la sonrisa.
 - ...hola - respondió Noemí, sin levantar la vista de su plato.
