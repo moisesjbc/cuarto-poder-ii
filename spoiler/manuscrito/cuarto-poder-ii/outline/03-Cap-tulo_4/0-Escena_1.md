@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9359
+charCount:      9467
 
 
 Lucas se encontraba descansando en su litera, dándole vueltas y más vueltas a su conversación con Noemí. Tan distraído como estaba, no se percató cuando Lucía, la instructora, entró en la habitación y se acercó a él con paso decidido.
@@ -58,9 +58,9 @@ Lucas se quedó en blanco durante unos segundos, pero las dos personas frente a 
 - Esto... - comenzó a decir con un hilillo de voz -. Soy Lucas, antiguo trabajador de la corporación RIO. Mmmm, ellos me capturaron y me tuvieron... varios meses en una *Burbuja* donde nos manipulaban para que nos matáramos unos a los otros. Y antes... y antes de eso ya habían usado mi imagen para difundir mentiras sobre Inglaterra y sus intenciones para con Estados Unidos, supuestamente aprovechando... ya saben, su caos interno...
 Lucas dudó unos segundos, con los latidos golpeándole el pecho y la sien. Sin apenas sentirse en control de si mismo, alzó el puño y gritó a media voz.
 - ¡Voy a detenerlos!
-Lucía estalló en risas mientras Óscar la miraba fijamente sin decir palabra. Este último intentaba permanecer serio, pero Lucas, rojo como un tomate, podía percibir un asomo de sonrisa en su cara.
+Se hizo el silencio durante unos segundos. Entonces Lucía estalló en risas mientras Óscar la miraba fijamente sin decir palabra. Este último intentaba permanecer serio, pero Lucas, rojo como un tomate, podía percibir un asomo de sonrisa en su cara.
 - ¡Lo siento! ¡Lo siento! - dijo la joven instructora sin dejar de reírse - ¡Es que me ha parecido tan tierno!
-Lucas quería echar a correr y alejarse cuánto más mejor de aquel sitio.
+Lucas quería echar a correr y alejarse todo lo posible de aquel sitio.
 - Bueno, bueno - dijo Óscar, volviendo a mirar hacia Lucas - Un par de puntos a mejorar...
 - ¿Qué ha sido del Coronel Cooper y su unidad? - interrumpió Lucas.
 - Oh... - respondió Óscar - seguimos buscándolos.
@@ -68,23 +68,24 @@ Lucas quería echar a correr y alejarse cuánto más mejor de aquel sitio.
 - Como iba diciendo...
 - ¿Puedo...? - volvió a interrumpir Lucas - Lo siento. ¿Puedo beber algo de agua?
 - Oh, sí. Claro - respondió Óscar - ¿Lucía?.
-- ¡En seguida! - dijo esta. Se marchó por la puerta sin dejar de reírse por lo bajo.
+- ¡En seguida! - dijo esta con una sonrisa. Se marchó por la puerta sin dejar de reírse por lo bajo.
 - Bueno... - continuó Óscar. Miró a Lucas unos instantes antes de continuar -. Como iba diciendo, hay algunos puntos a mejorar. En primer lugar, creo que es mejor seguir un orden cronológico. Has mencionado las "mentiras sobre Inglaterra". Yo sé de lo que hablas y, permíteme decir que es un gran acierto. Si no lo hubieras mencionado te lo hubiera sugerido sin dudarlo.
 - ¿Lo sabes? - dijo Lucas, los ojos abiertos como platos.
-- Todos en la resistencia lo saben. Es una de las mentiras notables de RIO.
+- Todos en la Resistencia lo saben. Es una de las mentiras más notables de RIO.
 - Ya veo.
-- El problema es que la gente de calle no lo sabe. Emitimos pruebas de la mentira cuando la lanzaron, pero RIO nos silenció enseguida, y la gente es muy olvidadiza. No obstante...
+- El problema es que la gente "de la calle" no lo sabe. Emitimos pruebas de la mentira cuando la lanzaron, pero RIO nos silenció enseguida, y la gente es muy olvidadiza. No obstante...
 - ...ahora me tienen a mi.
-- Exacto. Bien, ¿puedes contarme con tus palabras qué sucedió?
+- Exacto - sonrió Óscar -. Bien, ¿puedes contarme con tus palabras qué sucedió?
 Lucas notó que la cámara seguía grabando y dudó sobre si mirar hacia ella o hacia Óscar. Miró a este último.
 - Bueno, sucedió en 2022. Yo trabajaba como reportero para RIO...
-- ¡El agua! - gritó Lucía desde la puerta. Se acercó ignorando la mirada de Óscar y le ofreció la botella a Lucas.
-- Gracias - dijo este. Bebió un trago antes de continuar -. Bueno, como iba diciendo, ehm... sucedió en 2022. Yo trabajaba como reportero para RIO y me mandaron a Inglaterra. Habíamos recibido rumores, o eso me hicieron creer, de que Inglaterra planeaba lanzar un ataque sorpresa a los Estados Unidos aprovechando su guerra civil. Viajé con un cámara de la corporación al sur de Reino Unido, donde encontramos una gran flota de barcos. Intentamos colarnos pero fuimos descubiertos y llevados ante el coronel Cooper. Pensé que iba a acabar en prisión para el resto de mi vida, ¿saben?
-Óscar y Lucía sonrieron.
-- Pero el coronel se limitó a informarnos de lo que sucedía realmente. ¡Preparaban una exhibición para la reina! Contestó a todas nuestras preguntas y nos dejó marchar.
-Lucas recordó lo buena persona que le pareció Cooper y sus hombres desde el primer momento. "Ojalá estén bien...", pensó.
+- ¡El agua! - gritó Lucía desde la puerta. Se acercó ignorando la mirada reprochadora de Óscar y le ofreció la botella a Lucas.
+- Gracias - dijo este. Bebió un trago antes de continuar -. Bueno, como iba diciendo... sucedió en 2022. Yo trabajaba como reportero para RIO y me mandaron a Inglaterra. Habíamos recibido rumores, o eso me hicieron creer, de que Inglaterra planeaba lanzar un ataque sorpresa a los Estados Unidos aprovechando su guerra civil. Viajé con un cámara de la corporación al sur de Reino Unido, donde encontramos una gran flota de barcos. Intentamos colarnos pero fuimos descubiertos y llevados ante el coronel Cooper. Pensé que iba a acabar en prisión para el resto de mi vida, ¿saben?
+Óscar y Lucía asintieron.
+- Pero el coronel se limitó a informarnos de lo que sucedía realmente. ¡Preparaban una exhibición para el rey! Contestó a todas nuestras preguntas y nos dejó marchar.
+Lucas recordó entonces lo buenas personas que le pareció Cooper y sus hombres desde el primer momento.
+"Ojalá estén bien...", pensó.
 - ¿Y qué pasó luego? - preguntó Óscar.
-- Volvimos al AT de Gran Canaria y me felicitaron por el trabajo. Esos cabrones... No sé cómo lo hicieron, pero alteraron el vídeo y mi voz en off afirmaba que los rumores del inminente ataque eran cierto - Lucas apretó el puño.
+- Volvimos al AT de Gran Canaria y me felicitaron por el trabajo. Esos cabrones... No sé cómo lo hicieron, pero alteraron el vídeo y pasé a afirmar que los rumores del inminente ataque eran cierto - Lucas apretó el puño.
 - ¿Intentaste denunciarlos?
 - ¡Por supuesto! Pero la policía me tomó por loco, otros medios lo intentaron pero fueron silenciados, ...
 - Lo de siempre con RIO, vamos.
@@ -100,7 +101,7 @@ Lucas volvió a hablar directamente a la cámara, volviendo a contar su historia
 Lucas siguió repitiendo su historia ante la cámara y ante Óscar. Tras un número de repeticiones en el que el joven perdió la cuenta varias veces, Óscar sonrió.
 - Bueno - resopló -. ¡Hemos terminado!
 - Por fin - añadió Lucas, agotado.
-- Muchas gracias, Lucas. Voy a preparar el vídeo para la emisión. Me quedan algunas horas... Bueno, ¡eres libre!
+- Muchas gracias, Lucas. Voy a preparar el vídeo para la emisión. Me quedan algunas horas... - suspiró - Bueno, ¡eres libre!
 Lucas se despidió del cámara y salió de la habitación.
 Una vez en el pasillo, solo, el joven sintió que por fin había hecho algo contra RIO después de varios años, aunque fuera algo simbólico. No obstante, otro pensamiento acudió rápidamente a su cabeza.
-"Esto no va a servir de nada", pensó.
+"Esto no va a servir de nada".
