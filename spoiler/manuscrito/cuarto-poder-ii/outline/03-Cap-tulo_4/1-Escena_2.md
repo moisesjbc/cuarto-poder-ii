@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6658
+charCount:      6869
 
 
 Lucas se encaminó hacia el patio para retomar el entrenamiento, pero este último había terminado.
@@ -58,17 +58,19 @@ Lucas, efectivamente, reconoció vagamente algunas de las caras de cuando fueron
 - ¡A cualquier sitio lejos de aquí!
 - Shhh - le reprendió una joven detrás de ella.
 - Lo siento - miró hacia Lucas -. Esta gente nos prepara para morir. Prefiero morir huyendo del matadero, no corriendo hacia él.
-**VOY POR AQUÍ**
 - Pero...
 - ¡No tenemos tiempo que perder! Pueden venir tras nosotros en cualquier momento.
-"No somos prisioneros", quiso decir Lucas, pero entonces lo vio. El grupo atravesó la carretera hacia el bosque del otro lado. Llevaban mochilas cargadas a sus espaldas.
-- ¿Les habéis robado? - Lucas los miró, boquiabiertos.
+"No somos prisioneros", quiso decir Lucas, pero no le salieron las palabras.
+El grupo atravesó la carretera hacia el bosque del otro lado, la mayoría ignorando al joven. Llevaban mochilas cargadas a sus espaldas.
+- ¿Les habéis robado? - preguntó Lucas con un hilo de voz.
 - Necesitamos provisiones - dijo la mujer que iba en cabeza. El grupo terminó de cruzar la carretera y se adentró en los árboles.
 - ¿Te vienes? - gritó uno de los chicos que iba en la retaguardia, mirando hacia Lucas desde los árboles.
 Lucas dio un paso hacia adelante. Estuvo a punto de dar un segundo, pero entonces se obligó a detenerse.
-- No - dijo en voz baja -.
+Cuando pensó en que no podía abandonar a sus hijas sintió una punzada en la cabeza.
+- ¿Estás bien? - le dijeron desde los árboles.
+- Sí - dijo en voz baja. Tras unos segundos añadió -: No voy.
 - ¿Qué?
-- ¡No!
-- Ok - dijo el joven al tiempo que se adentraba más entre los árboles para unirse al resto del grupo - ¡suerte!
+- ¡Que no voy!
+- Ok - dijo su interlocutor al tiempo que se adentraba más entre los árboles para unirse al resto del grupo - ¡suerte!
 Lucas escuchó los pasos entre los árboles durante unos instantes hasta que volvió a quedarse solo con sus pensamientos.
 "¿Hasta cuando?", se dijo, mirándose los pies. Apuntaban hacia donde el grupo se había ido "¿Hasta cuando voy a fingir ser quien no soy?"

@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9467
+charCount:      9469
 
 
 Lucas se encontraba descansando en su litera, dándole vueltas y más vueltas a su conversación con Noemí. Tan distraído como estaba, no se percató cuando Lucía, la instructora, entró en la habitación y se acercó a él con paso decidido.
@@ -81,7 +81,7 @@ Lucas notó que la cámara seguía grabando y dudó sobre si mirar hacia ella o 
 - ¡El agua! - gritó Lucía desde la puerta. Se acercó ignorando la mirada reprochadora de Óscar y le ofreció la botella a Lucas.
 - Gracias - dijo este. Bebió un trago antes de continuar -. Bueno, como iba diciendo... sucedió en 2022. Yo trabajaba como reportero para RIO y me mandaron a Inglaterra. Habíamos recibido rumores, o eso me hicieron creer, de que Inglaterra planeaba lanzar un ataque sorpresa a los Estados Unidos aprovechando su guerra civil. Viajé con un cámara de la corporación al sur de Reino Unido, donde encontramos una gran flota de barcos. Intentamos colarnos pero fuimos descubiertos y llevados ante el coronel Cooper. Pensé que iba a acabar en prisión para el resto de mi vida, ¿saben?
 Óscar y Lucía asintieron.
-- Pero el coronel se limitó a informarnos de lo que sucedía realmente. ¡Preparaban una exhibición para el rey! Contestó a todas nuestras preguntas y nos dejó marchar.
+- Pero el coronel se limitó a informarnos de lo que sucedía realmente. ¡Preparaban una exhibición para la reina! Contestó a todas nuestras preguntas y nos dejó marchar.
 Lucas recordó entonces lo buenas personas que le pareció Cooper y sus hombres desde el primer momento.
 "Ojalá estén bien...", pensó.
 - ¿Y qué pasó luego? - preguntó Óscar.
