@@ -3,11 +3,6 @@ ID:             8
 type:           md
 summaryFull:    Al día siguiente, {C:4:Jonás} se niega a que su hermana {C:27:Lara} sea "marcada como ganado", y se enfrenta a los de la Resistencia.
 POV:            0
-notes:          - Jonás quiere marcharse, pero Lara no se siente segura con esa opción. Ana y Lucas aprovechan esto como argumento.
-                - ¿Se fuga gente?
-                - **¿Cuántos son inicialmente?**
-                
-                - Indicar que Lucas (¿y quién más?) usará el uniforme de la resistencia (¿tienen recursos para tener uniforme?).
 label:          4
 status:         1
 compile:        2

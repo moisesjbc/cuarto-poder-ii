@@ -6,8 +6,6 @@ POV:            0
 notes:          - **¿Momento del día?**
                 - "El segundo grupo abandonará el pueblo en el tren de las 19:12, una hora después del primero."
                 - La decisión debe ocurrir en pocos segundos (¿y antes de que empiecen los disparos?). Muy forzado si tarda más y están en peligro.
-                - - Jonás lo deja caer "con gusto" para intentar huir con Lara.
-                - Lucas tiene un flashback de "un adolescente malherido en un callejón".
                 - Le dan una pistola. A Lucas le entra en temblique pero está dispuesto a usarla.
                 - Ana recordará esta decisión más adelante y Lucas aclarará que era por su conciencia. Ana le dice que siempre la obedezca.
 label:          4

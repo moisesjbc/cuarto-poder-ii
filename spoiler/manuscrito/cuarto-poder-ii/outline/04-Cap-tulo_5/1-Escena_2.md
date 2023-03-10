@@ -15,9 +15,10 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3139
+charCount:      3156
 
 
+**VOY POR AQUÍ**
 Lucas se despertó de repente. Lejos de encontrarse acostado cómodamente en su litera, estaba de pie en mitad de la estancia. La sorpresa lo mareó y estuvo a punto de caerse.
 - ¡Cuidado!
 Frente a él, un hombre corpulento lo sujetó.

@@ -3,16 +3,11 @@ ID:             16
 type:           md
 summaryFull:    Los informativos de RIO desacreditan los vídeos publicados y tachan a Lucas de terrorista.
 POV:            0
-notes:          - ¿Qué ha pasado con la Resistencia tras el {P:2:Asalto al AT de Gran Canaria}?
-                - Consecuencias para Inglaterra.
-                - RIO puede "meter a Lucas en el mismo saco" con los "terroristas" de Cooper.
-                - ¿Puedo meter aquí alguna referencia a que Cooper ha muerto? ¿O lo dejo todo para los fast-fowards de más adelante?
-                - Mencionar incidente de Inglaterra: **- Qué pasa en el vídeo original y en el que vio Noemí.**
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3876
+charCount:      3864
 
 
 Lucas regresó poco después al campamento, intentando convencerse de que hacía lo correcto.
@@ -41,7 +36,6 @@ Una figura alta y delgada se encontraba de pie ante él. Lucas reconoció la eno
 - ¿Eh?
 Lucas pensó sobre a qué podría referirse, hasta que por fin cayó. Se ruborizó ligeramente.
 "El vídeo"
-**VOY POR AQUÍ**
 Acompañó Óscar a una estancia cercana, una gran sala con bancos verdes de hierro dispuestos en fila. Pegada a la pared del fondo se encontraba una mesa de madera que apenas se mantenía en pie, y sobre ella descansaba un televisor enorme con un portátil a su lado.
 Los bancos estaban llenos de personas.
 - Toda esta gente... - empezó a decir.
@@ -52,5 +46,5 @@ El cámara de la Resistencia se despidió para ir a sentarse ante el portátil. 
 Grupos de personas aquí y allá hablaban entre susurros, cuidándose con mucho recelo de ser escuchados por otros. Lucas se preguntó si estarían planificando fugarse.
 Óscar encendió el gran televisor y zapeó entre varios canales en Árabe hasta llegar a uno en español. Estaban emitiendo las noticias de la noche. Las personas congregadas miraron la tele pero continuaron hablando por lo bajo.
 - Muy bien, ¡vamos allá! - gritó Óscar, logrando un mayor silencio en la estancia.
-La imagen que mostraba a dos presentadores en unos lujosos estudios de televisión dieron paso abruptamente a un escenario mucho más humilde. Una figura permanecía de pie sobre una pared desnuda.
+La imagen que mostraba a dos presentadores en unos lujosos estudios de televisión dieron paso abruptamente a un escenario mucho más humilde. Una figura permanecía de pie delante de una pared desnuda.
 Era Lucas.
