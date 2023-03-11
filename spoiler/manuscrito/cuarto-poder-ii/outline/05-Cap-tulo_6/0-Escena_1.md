@@ -9,14 +9,15 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5019
+charCount:      5037
 
 
-Lucas se levantó de un salto. En la habitación aparte de ellos sólo quedaban Lara y Jonás. Los hermaos se encontraban en el centro de la estancia.
+Lucas se levantó de un salto. En la habitación aparte de ellos sólo quedaban Lara y Jonás. Los hermanos se encontraban en el centro de la estancia.
 Lara dejó escapar un suspiro de alivio.
 - ¡Por fin!.
 Tras ella, Jonás miraba a Lucas con una mueca. Agarró a Lara del brazo.
 - Muy bien, ¿ya podemos irnos?
+**VOY POR AQUÍ**
 Los cuatro salieron al pasillo, donde vieron a algunos rezagados abandonarlo por la esquina situada a su izquierda.
 Lucas frunció el ceño.
 - ¿La entrada principal no está hacia el otro lado? - preguntó Lara.

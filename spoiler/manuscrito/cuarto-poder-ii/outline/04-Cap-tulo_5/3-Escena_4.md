@@ -3,25 +3,16 @@ ID:             22
 type:           md
 summaryFull:    Lucas habla con Ana sobe las fugas y sobre el enfado de Noemí. Acaban discutiendo por la inacción de Lucas.
 POV:            0
-notes:          - "La gente que queda tiene que ser gente de fiar. No nos valen los reclutados por el miedo"
-                - Lucas suelta algo en plan "No a todo el mundo le resulta tan fácil jugarse la vida" o algo así y la caga.
-                
-                - **Revisar. Poner aquí (puede que muy forzado) o en otra discusión**: Lucas y Ana discuten, pero se abrazan a pesar de las diferencias.
-                
-                - "{C:1:Ana}, viendo cómo Lucas no está tan seguro de pertenecer a la Resistencia, lo lleva aparte y le dice que si va a entrar en la {W:1:Resistencia} debe hacerlo convencido, puesto que las vidas de sus compañeros dependerán de él. Lucas recuerda cuando huyó de una paliza a su amigo (o no)."
-                
-                Lucas en la primera parte:
-                "Ahora estoy seguro de que RIO nunca me dejará en paz, y todo lo que le ha hecho a esta gente... Quiero luchar contra ellos."
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5685
+charCount:      5714
 
 
 A la mañana siguiente Lucas se despertó completamente agotado. No sabía decir a qué hora sucedió el incidente en la madrugada, pero podía notar las consecuencias del sueño interrumpido.
 - Perfecto - dijo una voz cercana, masculina -. Si recuerdas algo más no dudes en avisarnos.
-Lucas se incorporó en la cama hasta quedarse sentado contra la pared de detrás y echó un vistazo a la habitación. La voz parecía ser de un joven miembro de la resistencia, de una estatura muy baja pero de facciones experimentadas. El hombrecillo se despidió de una chica joven que dormía en una de las literas frente a Lucas y comenzó a hablar con el hombre que dormía en la cama de arriba.
+Lucas se incorporó en la cama hasta quedarse sentado contra la pared de detrás, y echó un vistazo a la habitación. La voz parecía ser de un joven miembro de la Resistencia, de una estatura muy baja pero de facciones experimentadas. El hombrecillo se despidió de una chica joven que dormía en una de las literas frente a Lucas y comenzó a hablar con el hombre que dormía en la cama de arriba.
 Lucas giró la cabeza. La entrenadora Lucía también estaba allí, hablando con Jonás. El joven no podía escuchar de lo que hablaban. Se limitó a observar el contraste entre el buen ánimo de la joven, que acompañaba todas sus frases con una sonrisa, y la seriedad de Jonás. Este último parecía responder a todo con escasas palabras; si podían ser monosílabos, mejor.
 - Hola Ana - dijo de repente el miembro de la resistencia, mirando hacia la puerta hacia la izquierda de Lucas.
 Ana asintió con la cabeza y avanzó hasta la cama de Lucas. Este último se alegró de verla y no pudo dejar escapar una sonrisa. Ella se limitó a saludarlo con la cabeza.
@@ -70,7 +61,7 @@ Qué equivocado estaba.
 - ¿Cómo que si ya está? ¿Te parece poco?
 - Sí.
 Lucas levantó la mirada nuevamente. Empezó a sonreír para responder a la sonrisa de su amiga.
-Pero Ana no estaba sonriendo. Sus labios formaban una línea recta. Sus ojos seguían clavados en Lucas, impasibles bajo su flequillo lacio y pelirrojo.
+Pero Ana no estaba sonriendo. Sus labios formaban una línea recta. Sus ojos seguían clavados en Lucas, impasibles bajo su flequillo ondulado y pelirrojo.
 - ¿No te parece un buen motivo quedarse a proteger a las personas que quieres?
 - ¿Y por qué no usaste ese motivo en la habitación con los fugados?
 Lucas permaneció en silencio unos segundos.
@@ -94,6 +85,7 @@ A Lucas se le hizo un nudo en la garganta.
 - ¿Acaso es delito tener miedo de morir? Me parece una reacción muy sana.
 - Lo es, pero si estás con nosotros asumes un compromiso. Luchar contra RIO, cueste lo que cueste.
 - ¿Dando mi vida por n-?
+Se mordió el labio.
 - Ibas a decir "por nada", ¿verdad?
 - ...
 Ana resopló.
@@ -103,6 +95,6 @@ Ana resopló.
 - ¡No a todo el mundo le resulta tan fácil jugarse la vida!.
 Sus palabras salieron con más fuerza de lo que esperaba, pero murieron en el silencio de la mañana tan pronto como abandonaron su boca. Ana bajó la mirada por primera vez.
 - Vete a la mierda.
-Ana avanzó y pasó a su lado sin mirarlo.
+La joven avanzó y pasó a su lado sin mirarlo.
 - Ana...
 Pero la joven lo apartó sin esfuerzo con el hombro y entró en las instalaciones.
