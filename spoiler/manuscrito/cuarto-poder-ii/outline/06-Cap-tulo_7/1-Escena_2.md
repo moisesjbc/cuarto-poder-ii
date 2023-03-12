@@ -15,9 +15,10 @@ notes:          Lucas: sigo sin estar seguro.
 label:          4
 status:         1
 compile:        2
-charCount:      9094
+charCount:      9111
 
 
+**VOY POR AQUÍ**
 El grupo de supervivientes capaces de tomar un arma tomó posiciones formando un círculo alrededor de los heridos. Se protegían tras los árboles y rocas más cercanos y vigilaban con recelo el bosque alrededor de ellos.
 La luz de la luna bañaba los claros producidos por los disparos del helicóptero. Las llamas del cadáver metálico también ayudaban a iluminar la otrora noche cerrada.
 Novatos y veteranos se alternaban a lo largo de la circunferencia. A Lucas le tocó en el lateral más alejado de la base rebelde, de la cuál sólo veían una gran columna de humo ascendiendo al cielo sobre los árboles.

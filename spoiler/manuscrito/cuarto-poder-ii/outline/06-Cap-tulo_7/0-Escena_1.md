@@ -3,14 +3,11 @@ ID:             27
 type:           md
 summaryFull:    Los de la Resistencia hacen explotar toda la base, matando a casi todos los de RIO. Se producen discusiones, peleas y bajas. Lucas se debate nuevamente entre quedarse o irse. Decide quedarse.
 POV:            0
-notes:          - ¡¿Hemos estado durmiendo sobre bombas?!  
-                - ¡Estaban desactivadas! ¡El peligro es mucho mayor si somos capturados!
-                - Lara, acojonada, ya no sabe si irse con su hermano no.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3669
+charCount:      3702
 
 
 Jonás estuvo a punto de desplomarse sobre el suelo como los pedazos del aparato que acababa de destruir y que caían a pocos metros de ellos. Lara agarró a su hermano y lo mantuvo a duras penas en pie.
@@ -34,7 +31,7 @@ La mujer fue a decir algo, pero calló.
 - No podemos asegurar que no queden efectivos de RIO en la zona - Continuó Ana -. Tenemos que movernos.
 - Yo me voy de aquí - dijo la mujer. Se marchó sin esperar respuesta.
 - Muy bien -. Ana miró al resto de los presentes -. ¿el resto se viene con nosotros?
-Los novatos se miraban unos a otros. Parecían esperar a que alguien hablara y los terminara de convencer. En un sentido o en el otro. Lucas miró hacia Jonás y Lara. Esta última seguía sirviendo de apoyo para que su hermano no se desplomara. La adolescente temblaba, y no dejaba de mirar a la mujer que se marchaba y a Jonás.
+Los novatos se miraban unos a otros. Parecían esperar a que alguien hablara y los terminara de convencer, en un sentido o en el otro. Lucas miró hacia Jonás y Lara. Esta última seguía sirviendo de apoyo para que su hermano no se desplomara. La adolescente temblaba, y no dejaba de mirar a la mujer que se marchaba y a Jonás.
 Noemí, al lado de Lucas, miraba a Ana. Asintió con la cabeza.
 Lucas seguía temiendo a la muerte más que a nada, y sabía que que si continuaba en la Resistencia  la encontraría más temprano que tarde. Pero esta vez sintió, además, algo distinto.
 Se recordó corriendo hacia Noemí, sin nada más en la cabeza que el instinto de protegerla. Fue su propia decisión, en contra de un instinto de supervivencia que le exigía que no abandonara su cobertura. Lucas sintió... orgullo. Sentía que podía levantar la cabeza y decir que había actuado en lugar de acobardarse.
@@ -45,4 +42,4 @@ Cuando se fueron, Ana esperó un rato antes de hablar.
 - Ahora.
 Los pocos veteranos que quedaban asintieron y entregaron armas a los novatos. Ana le entregó una pistola a Lucas y este se quedó mirando el arma.
 - ¿Y ahora? - dijo, mirando a su amiga.
-- Ahora toca esperar un poco - sonrió esta -. Los refuerzos tienen que estar al caer. No vamos a abandonar a los heridos.
+- Ahora toca defender la zona. Los refuerzos tienen que estar al caer - abarcó la tierra a su alrededor con la mano -. No vamos a abandonar a los heridos.
