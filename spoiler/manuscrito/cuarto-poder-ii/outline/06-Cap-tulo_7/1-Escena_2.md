@@ -12,44 +12,47 @@ notes:          Lucas: sigo sin estar seguro.
                 - Lo apunto aquí, pero mover a donde corresponda: ¿Lucas no pregunta en todo este tiempo de qué lo conoce Jonás? ¿Y Ajani?
                 - Mover a donde corresponda: hablar de "veteranos" y "novatos" en capítulos anteriores.
                 - ¡Y los uniformes! Que ya dejaron de usar lo del chándal y usan camuflaje.
+                
+                
+                - 15 portando armas, ¿cuántos heridos?, vienen 10 con 4 camillas y hacen 4 viajes -> calcular bien todos los números.
 label:          4
 status:         1
 compile:        2
-charCount:      9111
+charCount:      8956
 
 
-**VOY POR AQUÍ**
-El grupo de supervivientes capaces de tomar un arma tomó posiciones formando un círculo alrededor de los heridos. Se protegían tras los árboles y rocas más cercanos y vigilaban con recelo el bosque alrededor de ellos.
+Los supervivientes capaces de tomar un arma, unos quince, tomaron posiciones formando un círculo alrededor de los heridos. Se cubrieron tras los árboles y rocas más cercanos y comenzaron a vigilar con recelo el bosque alrededor de ellos.
 La luz de la luna bañaba los claros producidos por los disparos del helicóptero. Las llamas del cadáver metálico también ayudaban a iluminar la otrora noche cerrada.
-Novatos y veteranos se alternaban a lo largo de la circunferencia. A Lucas le tocó en el lateral más alejado de la base rebelde, de la cuál sólo veían una gran columna de humo ascendiendo al cielo sobre los árboles.
+Novatos y veteranos se alternaban a lo largo de la circunferencia. A Lucas le tocó en el lateral más alejado de la base rebelde, de la cuál sólo veían una gran columna de humo ascendiendo hacia el cielo sobre los árboles.
 A pesar de lo peligroso de perder de vista cualquier movimiento enemigo, Lucas no pudo evitar que su mirada buscara a sus conocidos.
-Noemí, Lara y Jonás se encontraban en el centro del círculo junto con los heridos. Noemí, de pie miraba a su alrededor. Oteaba en busca de actividad enemiga. Lara se encontraba sentada en el suelo junto a su hermano y miraba fijamente a este último. Jonás, sentado con la espalda apoyada en una roca, seguía visiblemente exhausto. Miraba a su hermana y hablaba con ella en susurros que apenas llegaban hasta Lucas. Jonás se miraba de vez en cuando el guante de su mano.
-Ya no brillaba.
+Noemí, Lara y Jonás se encontraban en el centro del círculo junto con los heridos.
+Noemí, de pie, miraba a su alrededor buscando actividad enemiga en el horizonte. Lara se encontraba sentada en el suelo junto a su hermano y miraba fijamente a este último. Jonás, sentado con la espalda apoyada en una roca, seguía visiblemente exhausto. Miraba a su hermana y hablaba con ella en susurros. También se miraba de vez en cuando el guante de su mano, el cuál ya no brillaba
 Una pareja de veteranos se movía entre los heridos mirándolos con preocupación e intentando consolarlos. No había mucho más que pudieran hacer.
 Al otro extremo del círculo, Ana vigilaba en el sentido contrario.
-El tiempo comenzó a pasar sin novedades. El cielo empezó a aclararse ligeramente, pero el amanecer continuaba sin llegar.
-Un crujido se escuchó en el bosque que se extendía frente a Lucas. Con la mayor rapidez que pudo, escondió lo máximo posible de su cuerpo tras la roca, asomando únicamente su arma y su cabeza.
-No se produjo más sonido. No hubo movimiento. No se veía nada a través de los árboles, ni humano ni animal.
+El tiempo comenzó a discurrir sin novedades. El cielo empezaba a aclararse ligeramente, pero el amanecer continuaba sin llegar.
+Un crujido se escuchó en el bosque que se extendía frente a Lucas. Con la mayor rapidez que pudo, escondió la mayor parte posible de su cuerpo tras la roca, asomando únicamente su arma y la cabeza.
+No se produjo ningún otro sonido. No hubo movimiento. No se veía nada a través de los árboles, ni humano ni animal.
 Lucas comenzó a preguntarse si no habría sido su imaginación, pero se percató de que los veteranos a sus lados también apuntaban fijamente hacia el bosque con sus armas.
 Varios destellos de luz de una linterna se sucedieron entre los árboles, siguiendo un patrón. Tres destellos cortos seguidos de uno largo. Tras un segundo, volvieron a repetirse: tres destellos cortos acabados en uno largo.
 El veterano a la derecha de Lucas se sacó la linterna y respondió con su propio patrón de destellos. Dos destellos largos, dos cortos y uno largo. También lo repitió una segunda vez.
 - ¡No disparen! - ordenó el veterano - ¡Son de los nuestros!
-Lucas hizo el amago de bajar el arma, pero se fijó en que los veteranos a ambos lados continuaban apuntando sus armas hacia el bosque. Hizo lo mismo.
-De entre los árboles surgió un grupo de unas 10 personas. Los dos que iban en cabeza alzaban los brazos con sus armas bien visibles. El resto de los recién llegados también portaban armas, pero estas descansaban en cartucheras o colgadas sobre el pecho según fueran pistolas o fusiles.
-Las ocho personas que iban en la retaguardia iban por parejas, portando una rudimentaria camilla cada una.
+Lucas hizo el amago de bajar el arma, pero se fijó en que los veteranos a ambos lados continuaban apuntando sus armas hacia el bosque, así que los imitó.
+De entre los árboles surgió un grupo de unas diez personas. Alzaban los brazos con sus armas bien visibles.
+Salvo los dos primeros, el resto del grupo iban por parejas, portando una rudimentaria camilla cada una.
 "¿Tan pocas?", pensó Lucas. No se había detenido a contar a los heridos, pero indudablemente eran más de cuatro. "¿Piensan dar varios viajes?"
-El nuevo grupo avanzó lentamente pero sin pausa hacia ellos. Sonrieron a los presentes sin detenerse y estos últimos les dejaron pasar hacia el centro del círculo.
-Lucas observó a los recién llegados. Hablaban con los veteranos mientras atendían a los heridos más graves.
+El grupo recién llegado avanzó lentamente pero sin pausa hacia ellos. Sonrieron a los presentes sin detenerse y estos últimos les dejaron pasar hacia el centro del círculo.
+Lucas observó a los nuevos. Hablaban con los veteranos mientras atendían a los heridos más graves.
 - ¡Eh!
 Lucas se sobresaltó y miró al veterano situado a su derecha: un hombre de unos 40 años bastante delgado pero musculoso. Este último le hacía señas para que no perdiera de vista el bosque frente a ellos.
 - Lo siento - susurró Lucas.
-El joven permaneció vigilando el bosque, con su atención dividida. Por un lado intentaba discernir posibles peligros en los sutiles ruidos que provenían de entre los árboles situados frente a él. Por otro, cada vez que escuchaba un quejido tras sus espaldas se recordaba que era lo normal dada la situación de algunos de los heridos.
+El joven permaneció vigilando el bosque, con su atención dividida. Por un lado intentaba discernir posibles peligros en los sutiles ruidos que provenían de entre los árboles situados frente a él. Por otro, cada vez que escuchaba un grito ahogado tras sus espaldas sentía la urgencia de mirar, pero se reprimía a duras penas.
 Su objetivo era vigilar el bosque, no lo que sucediera a sus espaldas.
 Tras un cuarto de hora sin novedades le hicieron una seña a Lucas. Este se apartó y dejó pasar al grupo de refuerzos, que ahora portaba a cuatro heridos.
-El joven pensó que ahora tocaría esperar bastante tiempo a que volvieran a recoger a más heridos. No obstante, sólo pasó unos veinte minutos hasta que vio repetirse el mismo patrón de luces en el bosque. El veterano a la derecha de Lucas respondió con su linterna y el mismo grupo de antes volvió a emerger de entre los árboles, las camillas vacías.
+El joven pensó que ahora tocaría esperar bastante tiempo a que volvieran a recoger a más heridos. No obstante, sólo pasó unos diez minutos hasta que vio repetirse el mismo patrón de luces en el bosque. El veterano a la derecha de Lucas respondió con su linterna y el mismo grupo de antes volvió a emerger de entre los árboles, con las camillas vacías.
 El procedimiento se repitió unas tres veces más. Cada una de las veces, una pequeña parte del grupo de Lucas se iba con los refuerzos para no volver.
 En el último viaje ofrecieron una camilla a Jonás, pero este la rechazó y se levantó. Aún sudaba bastante, y los hilos de sangre que brotaban de su nariz no había desaparecido, pero ya estaba más consciente y no le costaba hablar.
 Esta vez Lucas y el resto de los presentes acompañaron al grupo de refuerzos mientras llevaban a los heridos a través del bosque.
+**VOY POR AQUÍ**
 Avanzaban rápidamente sin dejar de observar a su alrededor. Se acercaba el amanecer y la visibilidad era mejor, aunque no dejaban de estar rodeados de cientos de árboles tras los cuales podía esconderse una emboscada.
 Tardaron unos diez minutos en llegar a una carretera de tierra que surcaba el bosque. La vía estaba desierta salvo por un camión de transporte verde.
 Subieron a los heridos en la parte de atrás, dejando las camillas en el suelo sin fijaciones de ningún tipo. El resto de los presentes se subió al camión y se sentó en los bancos de los lados.
