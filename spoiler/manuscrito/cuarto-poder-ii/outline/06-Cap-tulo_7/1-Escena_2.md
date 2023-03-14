@@ -1,24 +1,13 @@
 title:          Escena 2
 ID:             6
 type:           md
-summaryFull:    Llegan a la nueva base rebelde y Ana habla con Lucas. Le da un tablet "con motivación extra".
+summaryFull:    Llegan a la nueva base rebelde.
 POV:            0
-notes:          Lucas: sigo sin estar seguro.
-                Ana: lo sé. Una decisión rara vez es algo que tomas una vez y pasas a lidiar con los resultados. Decisiones como estas las tomas día tras día.
-                
-                - No olvidar que discutieron previamente.
-                - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
-                
-                - Lo apunto aquí, pero mover a donde corresponda: ¿Lucas no pregunta en todo este tiempo de qué lo conoce Jonás? ¿Y Ajani?
-                - Mover a donde corresponda: hablar de "veteranos" y "novatos" en capítulos anteriores.
-                - ¡Y los uniformes! Que ya dejaron de usar lo del chándal y usan camuflaje.
-                
-                
-                - 15 portando armas, ¿cuántos heridos?, vienen 10 con 4 camillas y hacen 4 viajes -> calcular bien todos los números.
+notes:          - 15 portando armas, ¿cuántos heridos?, vienen 10 con 4 camillas y hacen 4 viajes -> calcular bien todos los números.
 label:          4
 status:         1
 compile:        2
-charCount:      8956
+charCount:      8990
 
 
 Los supervivientes capaces de tomar un arma, unos quince, tomaron posiciones formando un círculo alrededor de los heridos. Se cubrieron tras los árboles y rocas más cercanos y comenzaron a vigilar con recelo el bosque alrededor de ellos.
@@ -52,25 +41,23 @@ El joven pensó que ahora tocaría esperar bastante tiempo a que volvieran a rec
 El procedimiento se repitió unas tres veces más. Cada una de las veces, una pequeña parte del grupo de Lucas se iba con los refuerzos para no volver.
 En el último viaje ofrecieron una camilla a Jonás, pero este la rechazó y se levantó. Aún sudaba bastante, y los hilos de sangre que brotaban de su nariz no había desaparecido, pero ya estaba más consciente y no le costaba hablar.
 Esta vez Lucas y el resto de los presentes acompañaron al grupo de refuerzos mientras llevaban a los heridos a través del bosque.
-**VOY POR AQUÍ**
-Avanzaban rápidamente sin dejar de observar a su alrededor. Se acercaba el amanecer y la visibilidad era mejor, aunque no dejaban de estar rodeados de cientos de árboles tras los cuales podía esconderse una emboscada.
+Avanzaban rápidamente sin dejar de observar a su alrededor. Se acercaba el amanecer y la visibilidad era mejor, aunque no dejaban de estar rodeados de infinidad de árboles tras los cuales podía esconderse una emboscada.
 Tardaron unos diez minutos en llegar a una carretera de tierra que surcaba el bosque. La vía estaba desierta salvo por un camión de transporte verde.
-Subieron a los heridos en la parte de atrás, dejando las camillas en el suelo sin fijaciones de ningún tipo. El resto de los presentes se subió al camión y se sentó en los bancos de los lados.
-El camión arrancó ruidosamente.
-Lucas se recostó contra la pared y entrecerró los ojos. Estaba tan cansado...
+Subieron a los heridos en la parte de atrás, dejando las camillas en el suelo sin fijaciones de ningún tipo. El resto de los presentes se subieron al camión y se sentó en los bancos de los lados.
+El vehículo arrancó ruidosamente. Lucas se recostó contra la pared y entrecerró los ojos. Estaba tan cansado...
 Sin embargo, no tardó en fijarse en que el resto de los presentes, de los veteranos al menos, no se permitían el lujo de descansar. Miraban fijamente el bosque, las armas preparadas.
 Sintiéndose culpable, Lucas se giró en su banco para vigilar el bosque por su lado. Recordó que tenía puesto el seguro del arma.
 "¿Tendría que quitarlo?", se preguntó. No sabía cuál era el procedimiento en esos casos, y le daba vergüenza preguntarlo. Optó por dejar el seguro puesto.
 Los árboles se sucedían delante de él. El camión no iba lo suficientemente rápido para que no distinguiera nada, pero sí como para que el fluir de troncos y hojas lo mareara un poco.
-Durante un segundo se alegró de llevar sin comer desde la cena, pero según lo recordó, el agujero en su estómago se unió al malestar producido por un mundo que avanzaba más rápido de lo que podía controlar.
-"¿Habrá comida en el camión?". También le daba vergüenza preguntar. El sabor amargo que sentía en la boca también le disuadía de ello.
+Durante un segundo se alegró de llevar sin comer desde la cena, pero según lo recordó, el agujero en su estómago se unió al malestar producido por unos alrededores que avanzaban más rápido de lo que podía controlar.
+"¿Habrá comida en el camión?". También le daba vergüenza preguntar y el sabor amargo que sentía en la boca ayudaba a disuadirlo de ello.
 Lucas permaneció en su puesto intentando mantener la compostura. De vez en cuando flanqueaba y permitía a su cuerpo apoyarse más de la cuenta en el lateral del camión. Esto era peligroso, sin embargo. Bastaba un mínimo de comodidad para que sus ojos comenzaran a cerrarse.
-Al enésimo cabezazo, el chófer del camión lo sobresaltó gritando para todos los presentes.
+Al enésimo cabezazo, el conductor del camión lo sobresaltó gritando para todos los presentes.
 - ¡Hemos llegado!
-El camión se apartó hacia un pequeño claro en el bosque. Unos gruesos muros grises sin decoración alguna y con abundantes cicatrices por el paso de los años bordeaban un edificio de una planta cuyas paredes eran de un amarillo claro.
+El vehículo se apartó hacia un pequeño claro en el bosque. Unos gruesos muros grises sin decoración alguna y con abundantes cicatrices por el paso de los años bordeaban un edificio de una planta cuyas paredes eran de un amarillo claro.
 El camión atravesó un gran portón abierto en el muro custodiado por sendos guardias y entró a un amplio patio con una carretera de tierra que llevaba a la entrada principal. El vehículo se detuvo a la izquierda del camino, a escasos metros de la puerta principal del edificio.
-Lucas y los demás afortunados que no habían resultado heridos dejaron que los camilleros veteranos de la Resistencia portaran a los heridos al interior. El resto del grupo entró detrás pero su camino se separó rápidamente de el de los heridos. Un veterano de la Resistencia, un hombre mayor con una cicatriz sobre la mejilla derecha, los dirigió hacia sus habitaciones.
-Cuando se sintió a salvo dentro de la base, o todo lo a salvo que podía sentirse alguien en su situación, el cuerpo de Lucas recordó súbitamente el inmenso sueño que sentía. Los pasillos, parcos en decoración, se sucedían a su alrededor mientras el joven, un muerto andante, caminaba sin más objetivo en su mente que el deseado descanso. Bien podría haberle dicho que dormiría sobre una roca en el suelo que lo agradecería con tal de, simplemente, dormir.
-Lucas y cinco personas más se separaron del grupo cuando se les mencionó y entraron en una habitación con tres camas a cada lado. El grupo grande prosiguió su camino, y Lucas y sus nuevos compañeros permanecieron unos instantes en el centro de la habitación, observando las camas. Se miraban unos a otros y a las camas, esperando a que alguien diera el primer paso para elegir.
+Lucas, y los demás afortunados que habían escapado ilesos, esperaron a que los camilleros de la Resistencia bajaran a los heridos del camión y entonces los siguieron hacia el interior del edificio. Una vez dentro no tardaron en separarse; un veterano de la Resistencia, un hombre mayor con una cicatriz sobre la mejilla derecha, los dirigió hacia sus nuevas habitaciones.
+Cuando se sintió a salvo dentro de la base, o todo lo a salvo que podía sentirse alguien en su situación, el cuerpo de Lucas le recordó súbitamente el inmenso sueño que sentía. Los pasillos, parcos en decoración, se sucedían a su alrededor mientras el joven, un muerto andante, caminaba sin más objetivo en su mente que el deseado descanso. Bien podrían haberle dicho que dormiría sobre una roca en el suelo que lo agradecería con tal de, simplemente, cerrar los ojos y descansar.
+Lucas y cinco personas más se separaron del grupo cuando se les ordenó y entraron en una habitación con tres camas a cada lado. El grupo grande prosiguió su camino, y el joven y sus nuevos compañeros permanecieron unos instantes en el centro de la habitación, observando las camas. Se miraban unos a otros y a las camas, esperando a que alguien diera el primer paso para elegir.
 Nunca había sido una persona de iniciativa, pero el cansancio imperaba. Lucas caminó hasta la cama más cercana a la entrada por su derecha y se desplomó en ella.
 No recordaba haberse quedado dormido tan rápido en toda su vida.
