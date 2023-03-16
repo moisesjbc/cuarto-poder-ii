@@ -6,22 +6,26 @@ POV:            0
 notes:          - Las notas de xilófono eran una broma pesada / primera lección sobre las *Burbujas*: Una vez liberados de las *Burbujas*, los "infectados" no son afectados por las {W:16:Notas de xilófono}.
                 - La Resistencia sabe muy poco sobre las *Burbujas*. Ni siquiera sabe cómo funcionan las {W:16:Notas de xilófono}.
                 
+                - Aclarar que ellos no saben que las notas del xilófono incluyen una señal oculta (o que lo saben pero la desconocen).
+                
                 
                 - En la primera parte digo que la familia Pérez llega a la ciudad burbuja tras un viaje de muchas horas en coche por tierras desérticas. **Aclarar que ese principio de viaje no existió como tal**
                 - El alcalde Batido de Maíz les felicita por "superar el primer nivel": **aclarar funcionamiento**
                 - **Aclarar por qué los niños conservan el nombre**.
                 - **Aclarar que las *Burbujas* reciben llamadas de control cada X**
                 
+                - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
+                - ¿Otra noche movidita?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      11853
+charCount:      11916
 
 
 El grupo se agitó al escuchar las notas. Todos se apresuraron a separarse entre ellos, mirándose con miedo.
 Lucas corrió hacia atrás y casi se cae al tropezar con otra persona que hacía lo mismo. Instintivamente, varios de los presentes levantaron las manos en señal de rendición.
-"No es mi culpa", parecían decir.
+"No es mi culpa lo que vaya a pasar", parecían decir.
 Lucas recordó que tenía su pistola bajo la camiseta y se preguntó sinceramente si debería tirarla lo más lejos posible. Si estaba desarmado aún podía hacer daño, pero era más fácil que lo redujeran.
 "¿O quizás debería quedarme con ella... por si acaso?", pensó.
 Decidió no deshacerse de ella y deseó no arrepentirse.
@@ -30,20 +34,20 @@ Los presentes siguieron separándose entre sí, pero ahora lo hacían más lenta
 A cualquiera que mirara, veía ceños fruncidos. Lucas no recordaba el momento en el que dejó de ser él mismo para empezar a ser Mario. No tenía forma de saber cuánto tardaría en producirse la transformación.
 Pero no ocurrió nada. Seguía siendo él.
 - ¡Primera lección! - gritó una voz masculina - ¡Las señal de activación no tiene efecto sobre aquellos que han sido rescatados de una *Burbuja*!
-Los presentes se giraron hacia la puerta por la que habían salido al patio. Un hombre había salido de ella y avanzaba con paso decidido hacia ellos. Se trataba de un hombre mayor con una cicatriz sobre la mejilla derecha. Lucas reconoció en él al veterano de la Resistencia que los había dirigido a sus habitaciones más temprano ese mismo día. Debía tener unos 50 años, aunque inspiraba una forma física envidiable.
-- ¿Se trata de una broma? - escupió una de las reclutas.
-- Para nada - respondió el veterano con una sonrisa tan discreta que Lucas se preguntó si se la habría imaginado -. Hemos intentado informar de manera teórica a reclutas anteriores y no se lo terminaban de creer. Con tiempo nos hemos dado cuenta de que es mejor darles un pequeño susto ahora que dejarlos a su suerte cuando estén liberando una *Burbuja* y esta se active.
+Los presentes se giraron hacia la puerta por la que habían salido al patio. Un hombre había salido de ella y avanzaba con paso decidido hacia ellos. Se trataba de un hombre mayor con una cicatriz sobre la mejilla derecha. Lucas reconoció en él al veterano de la Resistencia que los había dirigido a sus habitaciones más temprano ese mismo día. Debía tener unos 50 años, aunque gastaba una forma física envidiable.
+- ¿Se trata de una broma? - espetó una de las reclutas.
+- Para nada - respondió el veterano con una sonrisa tan discreta que Lucas se preguntó si se la habría imaginado -. Hemos intentado informar de manera teórica a reclutas anteriores y no se lo terminaban de creer. Con el tiempo nos hemos dado cuenta de que es mejor darles un pequeño susto ahora que dejarlos a su suerte cuando estén liberando una *Burbuja* y esta se active.
 - Siguen sin ser formas - respondió la recluta.
-- Bueno, es otra opinión - zanjó el veterano. Este miré a su alrededor y añadió: - pueden acercarse.
+- Bueno, es otra opinión - zanjó el veterano. Este miró a su alrededor y añadió: - pueden acercarse.
 Los reclutas se miraron unos a otros. Seguían muy separados entre ellos. Lucas seguía con el pulso ligeramente acelerado y se imaginó que no sería el único.
 No sin cierta reticencia se acercaron todos al veterano.
 - Mi nombre es Matías - dijo el señor de la cicatriz en la mejilla -. Y como han podido adivinar, estoy aquí para hablarles de las *Burbujas*. Es mi deber avisarles desde ya de que la Resistencia conoce muy poco sobre el funcionamiento de las mismas. No obstante, sabemos liberarlas o "estallarlas", y eso es lo que cuenta. Esto no es una exposición; tan pronto como tengan preguntas pueden interrumpirme, ¿de acuerdo?
 Hizo una breve pausa durante la que recorrió a los presentes con la mirada. Entonces prosiguió.
-- Las *Burbujas* son pequeños pueblos o ciudades aislados y completamente controlados por RIO. Allí experimentan con la la voluntad de sus prisioneros, siendo estos mayormente capturados de la Resistencia, aunque también se encuentran simples civiles contrarios a ellos y a veces, incluso, agentes de la misma. Mediante una señal...
+- Las *Burbujas* son pequeños pueblos o ciudades aislados y completamente controlados por RIO. Allí experimentan con la voluntad de sus prisioneros, siendo estos mayormente capturados de la Resistencia, aunque también se encuentran simples civiles contrarios a ellos y a veces, incluso, agentes de la misma. Mediante una señal...
 - ¿Agentes de RIO? - interrumpió un joven de unos 20 años.
 - Así es. No es la primera vez que un agente de RIO es sometido a los experimentos, lo que supone un riesgo extra.
 - ¿Por qué? - preguntó el mismo joven.
-- No todos son agentes que planean abandonar RIO; algunos son voluntarios de la corporación. Ya ha ocurrido que tras el estallido de una de las *Burbujas* uno o más de los rescatados resulta ser un agente de la corporación y no lo descubrimos hasta que es demasiado tarde.
+- No todos son agentes que planean abandonar RIO y que han sido capturados por esta; algunos son voluntarios de la corporación. Ya ha ocurrido que tras el estallido de una de las *Burbujas* uno o más de los rescatados resulta ser un agente de la corporación y no lo descubrimos hasta que es demasiado tarde.
 - Vaya... - el joven miró a su alrededor. Lucas también miró instintivamente a sus compañeros.
 "¿Cualquiera de ellos puede ser un traidor?"
 Varias personas le devolvieron la mirada.
@@ -66,17 +70,18 @@ El veterano esperó pacientemente mientras Lucas se recuperaba.
 - Mi... familia y yo llegamos a la *Burbuja* tras un viaje de carretera de varias horas. ¿Cómo pudieron atraernos desde fuera de la *Burbuja*.
 El veterano sonrió.
 - ¿De verdad viajaste en coche? ¿O es lo que crees recordar?
-- Yo... - Lucas bajó la mirada. Recordó vivamente su viaje en carretera con Noemí, Lara y su "mujer". El sol justiciero, la gran extensión de terreno a su alrededor que llegaba hasta donde alcanzaba la vista, las pequeñas discusiones con su mujer por la planificación del viaje, ... - ¿E-eso... no ocurrió?
+- Yo... - Lucas bajó la mirada. Recordó vivamente su viaje en carretera con Noemí, Lara y "su mujer". El sol justiciero, la gran extensión de terreno a su alrededor que llegaba hasta donde alcanzaba la vista, las pequeñas discusiones con su mujer por la planificación del viaje, ... - ¿E-eso... no ocurrió?
 - No - respondió el señor de la cicatriz en la mejilla -. RIO tiene muchísimo poder, pero no puede arriesgarse a cubrir áreas tan grandes con sus experimentos. Nunca hemos detectado casos del uso de la señal fuera de las *Burbujas*
 "Todo es falso...", pensó el joven. "¿Qué es verdad? ¿Y... si esto tampoco lo es?
 Lucas no aguantó más de pie. Se dejó caer y se sentó en el suelo.
 - ¿Estás bien? - preguntó alguien a su lado.
 - Sí... - mintió - sólo necesito un momento.
 Con los brazos estirados a ambos lados del cuerpo, Intentó centrarse en el tacto de la tierra rojiza en sus manos. El suelo duro bajo su trasero y piernas le incomodaba.
-Lucas trató de centrarse en esto último, intentando que su consciencia, débil, se centrara en ello.
+Trató de centrarse en esto último, intentando que su consciencia, débil, se centrara en ello.
 Desde su posición era incapaz de ver a Matías a través del mar de piernas que los separaba, pero escuchó perfectamente cómo este continuaba hablando.
 - Las *Burbujas* no son solo campos de experimentación y exterminio - dijo con voz grave -. También suponen un campo de entrenamiento muy exigente para los agentes  que viven en ellas voluntariamente.
 - ¿Y de qué les sirve? - dijo una voz femenina entre el mar de piernas - Una vez abandonan la *Burbuja* lo han olvidado todo... - tras unos segundos añadió - ¿O a ellos no les cambian la personalidad?
+**VOY POR AQUÍ**
 - Es una buena pregunta - respondió Matias -. A primera vista pareciera que los guardias de la *Burbuja* son agentes plenamente conscientes que conservan su personalidad. No obstante, tanto entre los guardias como entre los habitantes hemos localizado miembros de la corporación a los que se les ha lavado el cerebro y a a los que no. Esto no hace más que aumentar el peligro en ambos casos. Comentaste...
 Hubo una pequeña pausa.
 - Aquí.

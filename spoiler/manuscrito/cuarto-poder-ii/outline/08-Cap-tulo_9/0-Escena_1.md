@@ -3,24 +3,11 @@ ID:             45
 type:           md
 summaryFull:    Ana y Lucas hablan sobre lo que Lucas ha leído.
 POV:            0
-notes:          Lucas: ¿cómo pretendes motivarme diciéndome que nuestro enemigo lleva X años en el poder?
-                Ana: No, pretendo motivarte diciendo que nosotros seguimos luchando después de X años.
-                
-                
-                Lucas: sigo sin estar seguro.
-                Ana: lo sé. Una decisión rara vez es algo que tomas una vez y pasas a lidiar con los resultados. Decisiones como estas las tomas día tras día.
-                
-                - No olvidar que discutieron previamente.
-                - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
-                
-                - Lo apunto aquí, pero mover a donde corresponda: ¿Lucas no pregunta en todo este tiempo de qué lo conoce Jonás? ¿Y Ajani?
-                - Mover a donde corresponda: hablar de "veteranos" y "novatos" en capítulos anteriores.
-                - Dejar todo en cursiva.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7766
+charCount:      7764
 
 
 Lucas apagó la *tablet* sin saber qué pensar. Se levantó de la cama pesadamente, se guardó la pistola bajo la camiseta y salió al pasillo.
@@ -64,17 +51,16 @@ Lucas frunció el ceño.
 - Si hubieras tenido tiempo de pensarlo, ¿lo hubieras hecho igualmente?
 - Me gustaría... - Lucas se aclaró la garganta - ...me gustaría pensar que sí.
 - A todos nos gustaría pensarlo.
-**VOY POR AQUÍ**
-Lucas bebió un trago de su vaso. Ana hizo lo mismo.
+Ambos bebieron un trago.
 - ¿Qué pensaste en ese momento? - preguntó la joven.
-Lucas hizo memoria. Durante un segundo, volvía a estar en un bosque de noche, con Noemí frente a él a punto de morir.
+Lucas hizo memoria. Durante un segundo, volvía a estar en un bosque, de noche, con Noemí frente a él a punto de morir.
 - Pensé... pensé en salvar a mi hija.
 Ana frunció el ceño. Al instante sonrió.
 - Ya veo. Es algo curioso, ¿sabes? Las visiones desaparecen con rapidez entre los rescatados de las *Burbujas*, pero los enlaces tardan mucho más. Siguen viendo a amigos, vecinos y familia cuando se miran entre sí.
 - ¿Has dicho visiones? - Lucas abrió más los ojos.
 - Sí. Siguen viendo personas que no existen, flashes, un planeta desconocido, ... ¿no tuviste visiones cuando fuiste rescatado?
 - No...
-- Qué ra-
+- Qué raro.
 - Pero sí que las he tenido estos días.
 - Eso... - lo miró Ana -. Eso sí que es raro. Normalmente se producen durante el estallido pero no duran más que unas horas.
 "¿Qué me está pasando", pensó Lucas, la mirada perdida en su vaso.
@@ -84,18 +70,18 @@ Ana frunció el ceño. Al instante sonrió.
 - ¿Eh? Ya te he dicho que no lo pensé.
 - Entonces podría decirse que la decisión fue fácil.
 - Sí... se podría decir.
-- Bueno, es bueno que empieces a entenderlo.
+- Perfecto. Es bueno que empieces a entenderlo.
 Lucas estaba perplejo.
 - ¿A qué te refieres?
 Ana sonrió.
-- La última vez que hablamos, ¿qué fue lo último que me dijiste? - esperó unos segundos. Cuando no obtuvo respuesta, añadió - ¿Antes de que te mandara a la mierda?
+- La última vez que hablamos, ¿qué fue lo último que me dijiste? - esperó unos segundos. Cuando no obtuvo respuesta, añadió -: ¿Antes de que te mandara a la mierda?
 - Ah, que no a todo el mundo le resulta tan fácil jugarse la vida.
 Ana volvió a sonreír, satisfecha.
 - Ahí lo tienes.
 - Pero... no es lo mismo.
 - ¿Tú crees?
 - Sí.
-Ana hizo un gesto con la mano, invitándole a continuar. Lucas lo hizo así.
+Ana hizo un gesto con la mano, invitándole a continuar. Lucas obedeció.
 - Entiendo que puede verse como algo egoísta, pero veo mucho más... comprensible, si se puede decir así, arriesgar la vida por alguien a quien quieres y que también se preocupa por ti. Es loable arriesgarse por un completo desconocido, ¿pero cómo puedes saber que esa persona haría lo mismo por ti?
 - Nuestros compañeros de la Resistencia no son completos desconocidos, y el mero hecho de entrar a luchar con nosotros ya les concede, como mínimo, el beneficio de la duda.
 - En eso tienes razón, pero yo voy más allá. ¿Qué sucede con todos los que no forman parte de la Resistencia? Por supuesto que habrá infinidad de vidas que merezcan la vida ser salvadas, pero muchos de ellos simplemente van a lo suyo. ¿Atacarles o procurarles mal? - Lucas negó con la cabeza -. Por supuesto que no. ¿Pero arriesgar la vida por ellos? No termino de verlo.
@@ -107,12 +93,12 @@ Ana esbozó una sonrisa pícara.
 - ¿Cómo crees que nos hubieran ido las cosas si no existiera la Resistencia?
 - Pues...
 - Los padres de Noemí quizás no hubieran intentado traicionar a RIO, aunque por lo poco que sé de ellos lo hubieran intentado igualmente. Ella hubiera acabado igualmente en la *Burbuja*, sólo que esta vez no hubiera habido nadie para salvarla.
-- Eso... es cierto - la imagen de Noemí muriendo en una *Burbuja* cruzó como un rayo el cerebro de Lucas y el estómago se le hizo un nudo.
+- Eso... es cierto - la imagen de Noemí muriendo en una *Burbuja* cruzó como un rayo el cerebro de Lucas y se le hizo un nudo en el estómago.
 - Lo mismo hubiera pasado con Lara, sin nadie para rescatarla. Y tú y yo podríamos seguir a merced de RIO sin ninguna esperanza de salir de sus garras.
 Lucas bebió un trago mientras bajaba la vista, pensativo. Ana continuó.
-- Lo que quiero decir es que si no te motiva salvar a desconocidos, por mí ok. Pero recuerda que tu inacción de hoy tarde o temprano acabará salpicando a tus seres queridos y a ti mismo.
+- Lo que quiero decir es que si no te motiva salvar a desconocidos, por mí guay. Pero recuerda que tus acciones, o falta de ellas, tarde o temprano acabarán salpicando a tus seres queridos y a ti mismo.
 - Visto así...
 - Bueno, te dejo. En breve comenzará el entrenamiento.
 - Espera, ¿y el almuerzo?
-Ana se rió.
+Ana rió mientras se levantaba.
 - Llegas un poco tarde para eso. Roba algo de la cocina. Tranquilo, no me chivaré.
