@@ -3,24 +3,11 @@ ID:             50
 type:           md
 summaryFull:    Primer día de formación sobre las *Burbujas*. Lucas se da cuenta de lo muy poco que la Resistencia sabe sobre estas y desconfía de si mismo.
 POV:            0
-notes:          - Las notas de xilófono eran una broma pesada / primera lección sobre las *Burbujas*: Una vez liberados de las *Burbujas*, los "infectados" no son afectados por las {W:16:Notas de xilófono}.
-                - La Resistencia sabe muy poco sobre las *Burbujas*. Ni siquiera sabe cómo funcionan las {W:16:Notas de xilófono}.
-                
-                - Aclarar que ellos no saben que las notas del xilófono incluyen una señal oculta (o que lo saben pero la desconocen).
-                
-                
-                - En la primera parte digo que la familia Pérez llega a la ciudad burbuja tras un viaje de muchas horas en coche por tierras desérticas. **Aclarar que ese principio de viaje no existió como tal**
-                - El alcalde Batido de Maíz les felicita por "superar el primer nivel": **aclarar funcionamiento**
-                - **Aclarar por qué los niños conservan el nombre**.
-                - **Aclarar que las *Burbujas* reciben llamadas de control cada X**
-                
-                - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
-                - ¿Otra noche movidita?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      11916
+charCount:      12087
 
 
 El grupo se agitó al escuchar las notas. Todos se apresuraron a separarse entre ellos, mirándose con miedo.
@@ -33,7 +20,7 @@ Los presentes siguieron separándose entre sí, pero ahora lo hacían más lenta
 "No ocurre... ¿nada?"
 A cualquiera que mirara, veía ceños fruncidos. Lucas no recordaba el momento en el que dejó de ser él mismo para empezar a ser Mario. No tenía forma de saber cuánto tardaría en producirse la transformación.
 Pero no ocurrió nada. Seguía siendo él.
-- ¡Primera lección! - gritó una voz masculina - ¡Las señal de activación no tiene efecto sobre aquellos que han sido rescatados de una *Burbuja*!
+- ¡Primera lección! - gritó una voz masculina - ¡La señal de activación no tiene efecto sobre aquellos que han sido rescatados de una *Burbuja*!
 Los presentes se giraron hacia la puerta por la que habían salido al patio. Un hombre había salido de ella y avanzaba con paso decidido hacia ellos. Se trataba de un hombre mayor con una cicatriz sobre la mejilla derecha. Lucas reconoció en él al veterano de la Resistencia que los había dirigido a sus habitaciones más temprano ese mismo día. Debía tener unos 50 años, aunque gastaba una forma física envidiable.
 - ¿Se trata de una broma? - espetó una de las reclutas.
 - Para nada - respondió el veterano con una sonrisa tan discreta que Lucas se preguntó si se la habría imaginado -. Hemos intentado informar de manera teórica a reclutas anteriores y no se lo terminaban de creer. Con el tiempo nos hemos dado cuenta de que es mejor darles un pequeño susto ahora que dejarlos a su suerte cuando estén liberando una *Burbuja* y esta se active.
@@ -81,28 +68,29 @@ Trató de centrarse en esto último, intentando que su consciencia, débil, se c
 Desde su posición era incapaz de ver a Matías a través del mar de piernas que los separaba, pero escuchó perfectamente cómo este continuaba hablando.
 - Las *Burbujas* no son solo campos de experimentación y exterminio - dijo con voz grave -. También suponen un campo de entrenamiento muy exigente para los agentes  que viven en ellas voluntariamente.
 - ¿Y de qué les sirve? - dijo una voz femenina entre el mar de piernas - Una vez abandonan la *Burbuja* lo han olvidado todo... - tras unos segundos añadió - ¿O a ellos no les cambian la personalidad?
-**VOY POR AQUÍ**
 - Es una buena pregunta - respondió Matias -. A primera vista pareciera que los guardias de la *Burbuja* son agentes plenamente conscientes que conservan su personalidad. No obstante, tanto entre los guardias como entre los habitantes hemos localizado miembros de la corporación a los que se les ha lavado el cerebro y a a los que no. Esto no hace más que aumentar el peligro en ambos casos. Comentaste...
 Hubo una pequeña pausa.
-- Aquí.
+- Estoy aquí.
 - Sí, gracias. Comentaste que lo olvidan todo al abandonar la *Burbuja* y no es así. La mente olvida, pero el cuerpo no.
 Lucas intentó incorporarse en su sitio. Alguien le tendió una mano y la aceptó. El rápido ascenso mareó al joven y este apretó los ojos instintivamente.
 - Estoy bien - dijo -. Gracias.
 - De nada.
 Cuando Lucas abrió los ojos, la joven, algo más baja que él, ya se había dado la vuelta. Entre el grupo de cabezas, Lucas era capaz de ver a Matías nuevamente, moviéndose de un lado a otro.
-- ...no detenerse por nada - decía Matías -. Hasta que se llega al centro de control, todo el mundo es el enemigo. Todo. el. mundo. Una vez en el centro de control deberán presionar a los presentes para que desactiven el sistema.
+- ...no detenerse por nada - decía Matías -. Hasta que se llega al centro de control, todo el mundo es el enemigo. Todo. El. Mundo. Una vez en el centro de control deberán presionar a los presentes para que desactiven el sistema.
 - ¿No podemos desactivar el sistema nosotros mismos? - preguntó alguien.
 - No, necesitamos la clave para ello, y es única en cada *Burbuja*.
 - ¿Y destruir el centro de control con ellos dentro? - preguntó otra persona - Que se jodan.
-- Destruir el sistema no lanza la señal que estalla la *Burbuja*. Recuerden; nuestra misión es de rescate y, si es posible, recabar toda la información posible.
+- Destruir el sistema no lanza la señal que estalla la *Burbuja*. Recuerden: nuestra misión es de rescate y, si es posible, recabar toda la información posible.
 - ¿Y cómo nos aseguramos de que no es una trampa?
 - No lo sabemos. Al emitir la señal suele escucharse las notas de xilófonos invertidas: Tres notas agudas y largas de xilófono, seguida de una grave y corta.
-- ¿"suele"?
+- ¿Las notas no son la señal?
+- No. Creemos que "activan" a los sujetos pero la señal que emite las órdenes se transmite al mismo tiempo en una frecuencia que no se escucha.
+- ¿"Creemos"?
 - Así es. Nos basamos en lo que hemos visto de las *Burbujas* y lo poco que conseguimos sonsacarle a los capturados. Aún así no disponemos de un buen conocimiento sobre las mismas.
 Se produjo una pequeña pausa. Tras unos segundos, Matías volvió a hablar.
 - Bueno, eso es más o menos todo. Las próximas sesiones serán más... prácticas.
 - Vaya...
-La voz provino de la primera fila, aunque Lucas no podía ver de quién era desde su posición. No obstante, sí que vio a Matías dirigir una mirada a la fuente.
+La voz provino de la primera fila, aunque Lucas no podía adivinar el origen exacto desde su posición. No obstante, sí que vio a Matías dirigir una mirada a la fuente.
 - No es lo que esperabas, ¿verdad?
 - No... - empezó a decir la voz -. Creo que todos los presentes nos esperábamos... algo más - varias cabezas asintieron. El propio Lucas asintió a su vez, aunque nadie reparara en él - ¿Cómo consiguen controlarnos como marionetas? ¿Cuál es el objetivo? ¿Cómo podemos estar seguros de que estamos a salvo de que "la señal" no nos vuelva a afectar?
 - Son muchas preguntas sin respuesta, sí.
@@ -113,6 +101,6 @@ La voz paró bruscamente.
 Matías sonrió. Paseó su mirada por las de todos los presentes antes de hablar.
 - Cuando alguien piensa en cambiar las cosas piensa en cosas a lo grande. Conseguir una gesta decisiva que cambia aquí y ahora el devenir del mundo. Pero rara vez se trata de eso, y aún cuando en apariencia alguien consigue cambiar el mundo a mejor, no se puede hablar de que lo haya conseguido en solitario. El camino a ese evento que  alteró el mundo para siempre fue pavimentado por muchas personas, en su mayoría anónimas pero decisivas. Hace dos años, cuando descubrimos la existencia de las *Burbujas* no sabíamos nada sobre ellas. Ni si quiera nos atrevíamos a entrar hasta que uno de los nuestros se arriesgó. Tras él, otras personas se aventuraron y descubrieron el centro de control que tienen todas las *Burbujas*. Gracias a otros miembros de nuestras filas dimo con la señal de desactivación...
 Matías se mantuvo en silencio unos segundos, sondeando nuevamente con su mirada a los presentes.
-- Cada vez que estallamos una *Burbuja*, no solo nuestro conocimiento sobre las nuestras aumenta aunque sea ligeramente; también salvamos vidas. ¿Quieren destruir a RIO de una vez por todas? Harto improbable por ahora... aunque no imposible. Pero tienen la oportunidad de ayudar a forjar su hundimiento. De pavimentar el camino hacia un mundo mucho mejor mientras lo mejoran piedra a piedra.
+- Cada vez que estallamos una *Burbuja*, no solo nuestro conocimiento sobre las mismas aumenta aunque sea ligeramente; también salvamos vidas. ¿Quieren destruir a RIO de una vez por todas? Harto improbable por ahora... aunque no imposible. Pero tienen la oportunidad de ayudar a forjar su hundimiento. De pavimentar el camino hacia un mundo mucho mejor mientras lo mejoran piedra a piedra.
 Matía volvió a sonreír a los presentes.
 - ¿Alguna pregunta más?

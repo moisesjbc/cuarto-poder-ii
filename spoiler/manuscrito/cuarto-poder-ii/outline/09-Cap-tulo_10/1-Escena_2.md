@@ -3,7 +3,14 @@ ID:             51
 type:           md
 summaryFull:    Flashforward del entrenamiento de Lucas. Un día descubre que Cooper ha muerto (*), lo cuál supone un golpe para Lucas.
 POV:            0
-notes:          (*) En el {T:13:Capítulo 3} puede que ya haya refenciado (**¿y confirmado, o no?**) la posible muerte de Cooper. Tener en cuenta.
+notes:          - En la primera parte digo que la familia Pérez llega a la ciudad burbuja tras un viaje de muchas horas en coche por tierras desérticas. **Aclarar que ese principio de viaje no existió como tal**
+                - El alcalde Batido de Maíz les felicita por "superar el primer nivel": **aclarar funcionamiento**
+                - **Aclarar por qué los niños conservan el nombre**.
+                - **Aclarar que las *Burbujas* reciben llamadas de control cada X**
+                
+                - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
+                - ¿Otra noche movidita?
+                (*) En el {T:13:Capítulo 3} puede que ya haya refenciado (**¿y confirmado, o no?**) la posible muerte de Cooper. Tener en cuenta.
                 
                 - **Decidir tiempos**.
                 - Se puede mergear la escena esta y la siguiente.
@@ -28,12 +35,12 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5100
+charCount:      5124
 
 
 Una vez Lucas se hizo a la rutina de ser un novato de la Resistencia, las próximas dos semanas se le pasaron volando.
 La escasa teoría que recibieron sobre las *Burbujas* por parte de Matías dio paso a sesiones más prácticas.
-A veces el instructor realizaba un burdo mapa sobre la tierra del patio, y los presentes debían señalar en él las mejores rutas hacia el centro de control o la localización típica de las patrullas de la corporación, entre otros.
+A veces el instructor realizaba un burdo mapa sobre la tierra del patio, y los presentes debían señalar en él las mejores rutas hacia el centro de control, o la localización típica de las patrullas de la corporación, entre otros.
 Otras veces pretendían que las instalaciones en las que entrenaban y vivían eran un edificio cualquiera dentro de una *Burbuja* y practicaban incursiones. Curiosamente, era en estros entrenamientos cuando la mente de Lucas se tomaba un breve descanso de recordarle que probablemente moriría más pronto que tarde. Ocurría justo cuando Lucas descansaba con el hombro apoyado en la pared exterior del "edificio enemigo" esperando la señal para atacar. Entonces el joven recordaba las imágenes que veía hace siglos en Internet sobre militares formando una fila india para entrar en un edificio.
 "Ahora soy todo un soldado", se decía para sus adentros.
 Y pese al miedo, sonreía.
@@ -43,7 +50,8 @@ La voz del instructor siempre lo sobresaltaba, al igual que la presencia de Noem
 - ¡Ya lo sé! - espetaba la adolescente, antes de desaparecer tan rápido como había aparecido.
 - Esa "hija" tuya no se pierde un entrenamiento, ¿eh? - bromeaba Manuel, uno de los miembros de la unidad.
 - Ni uno - sonreía Lucas.
-La sonrisa de este último no se limitaba a la tozudez de Noemí con respecto a entrenar con la Resistencia. "Aunque esté entrenando para su muerte", le decía su mente sádica. Una parte de Lucas seguía viendo a Noemí como su verdadera hija, pero esta parte era cada vez más pequeña. Se limitaba a decirle "Es tu hija". "No, es mi amiga", respondía su otra parte.
+**VOY POR AQUÍ**
+La sonrisa de este último no se limitaba a la tozudez de Noemí con respecto a entrenar con la Resistencia. "Aunque esté entrenando para su muerte", le decía otra voz en su cabeza. Una parte de Lucas seguía viendo a Noemí como su verdadera hija, pero esta parte era cada vez más pequeña. Se limitaba a decirle "Es tu hija". "No, es mi amiga", respondía su otra parte.
 La parte que podía llamar suya.
 Después de cada entrenamiento instaban a Lucas a hablar con Noemí para disuadirla de interrumpir en estos. Lucas lo intentó las primeras veces. No tardó en darse cuenta de que era en vano y en su lugar aprovechaba para charlar con la que había sido su hija sobre cómo había ido el día.
 Cuando más tarde algún veterano le preguntaba, intentaba mentir como buenamente podía. Esto tampoco tardó en convertirse en un mero trámite; Lucas ya no se esforzaba en hacer que pareciera creíble que había hablado con Noemí, y su interlocutor apenas insistía ni discutía.
