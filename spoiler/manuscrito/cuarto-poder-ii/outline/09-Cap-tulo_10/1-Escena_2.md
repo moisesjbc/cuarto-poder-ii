@@ -3,39 +3,22 @@ ID:             51
 type:           md
 summaryFull:    Flashforward del entrenamiento de Lucas. Un día descubre que Cooper ha muerto (*), lo cuál supone un golpe para Lucas.
 POV:            0
-notes:          - En la primera parte digo que la familia Pérez llega a la ciudad burbuja tras un viaje de muchas horas en coche por tierras desérticas. **Aclarar que ese principio de viaje no existió como tal**
-                - El alcalde Batido de Maíz les felicita por "superar el primer nivel": **aclarar funcionamiento**
-                - **Aclarar por qué los niños conservan el nombre**.
-                - **Aclarar que las *Burbujas* reciben llamadas de control cada X**
+notes:          - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
                 
-                - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
-                - ¿Otra noche movidita?
-                (*) En el {T:13:Capítulo 3} puede que ya haya refenciado (**¿y confirmado, o no?**) la posible muerte de Cooper. Tener en cuenta.
-                
-                - **Decidir tiempos**.
                 - Se puede mergear la escena esta y la siguiente.
-                - {C:1:Ana} parte a misiones y vuelve de vez en cuando, mientras Lucas continúa su entrenamiento.
-                
                 - ¿Qué pasó con Allan? Si acaso mencionar que sigue desaparecido.
                 - ¿Y {C:12:Arturo Ramírez "El Venezolano"}?
                 
                 - Asalto al AT de Gran Canaria.
-                -	En la ficha de Cooper menciono "descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}."
-                -	 	**¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
-                - 	¿Entraron para huir? ¿Se fueron con las manos vacías?
-                - 	Consecuencias para el coronel e Inglaterra.
-                
-                
-                - **Aclarar sangrado de Lara (o mover)**
-                - **¿Mejor relación con Noemí?**
-                - **Ajustar descripciones con {C:9:Unidad de Lucas}**
-                
-                - **Indicar que es en el entrenamiento de la tarde**
+                - En la ficha de Cooper menciono "descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}."
+                - **¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
+                - ¿Entraron para huir? ¿Se fueron con las manos vacías?
+                - Consecuencias para el coronel e Inglaterra.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5124
+charCount:      5151
 
 
 Una vez Lucas se hizo a la rutina de ser un novato de la Resistencia, las próximas dos semanas se le pasaron volando.
@@ -50,28 +33,30 @@ La voz del instructor siempre lo sobresaltaba, al igual que la presencia de Noem
 - ¡Ya lo sé! - espetaba la adolescente, antes de desaparecer tan rápido como había aparecido.
 - Esa "hija" tuya no se pierde un entrenamiento, ¿eh? - bromeaba Manuel, uno de los miembros de la unidad.
 - Ni uno - sonreía Lucas.
-**VOY POR AQUÍ**
-La sonrisa de este último no se limitaba a la tozudez de Noemí con respecto a entrenar con la Resistencia. "Aunque esté entrenando para su muerte", le decía otra voz en su cabeza. Una parte de Lucas seguía viendo a Noemí como su verdadera hija, pero esta parte era cada vez más pequeña. Se limitaba a decirle "Es tu hija". "No, es mi amiga", respondía su otra parte.
+La sonrisa nunca le duraba mucho, pues otra voz en su cabeza siempre le recordaba lo que él no quería recordar: "Está entrenando para su muerte".
+Una parte de él seguía viendo a Noemí como su verdadera hija, pero esta parte era cada vez más pequeña. Cuando decía "Es tu hija", su otra parte respondía enérgicamente "No, es mi amiga".
 La parte que podía llamar suya.
 Después de cada entrenamiento instaban a Lucas a hablar con Noemí para disuadirla de interrumpir en estos. Lucas lo intentó las primeras veces. No tardó en darse cuenta de que era en vano y en su lugar aprovechaba para charlar con la que había sido su hija sobre cómo había ido el día.
 Cuando más tarde algún veterano le preguntaba, intentaba mentir como buenamente podía. Esto tampoco tardó en convertirse en un mero trámite; Lucas ya no se esforzaba en hacer que pareciera creíble que había hablado con Noemí, y su interlocutor apenas insistía ni discutía.
 En las comidas se juntaba con el mismo grupo: Noemí, Lara y Jonás. De vez en cuando se le unía Ana, pero esta había entrado en una rutina de salir a misiones y a veces tardaban días en volver a verla.
 Aunque apenas volviera con rasguños, Lucas no podía evitar preocuparse sobremanera esos días.
-Jonás seguía tan hablador como siempre. Lara sí se animaba a charlar con Lucas y Noemí mientras comían, aunque había días en los que estaba mucho más reservada. Lucas aprendió a predecir estos días porque la adolescente aparecía con pequeñas gotas de sangre reseca saliendo de su nariz.
+Jonás seguía tan poco hablador como siempre. Lara sí se animaba a charlar con Lucas y Noemí mientras comían, aunque había días en los que estaba mucho más reservada. Lucas aprendió a predecir estos días porque la adolescente aparecía con pequeñas gotas de sangre reseca bajo su nariz.
 El joven se moría por saber qué le estaba pasando, pero Jonás se negaba a hablar, y nunca abandonaba a su hermana para que pudieran hablar a solas. Cuando Lucas preguntaba a Lara por el sangrado, esta se limitaba a decir que estaba bien e intentaba tranquilizarlo con una sonrisa.
-Fuera de su zona de comfort (si aquello se podía llamar así), Lucas seguía teniendo dificultades para hablar con los demás, aunque poco a poco se iba abriendo con los 5 novatos que formaban su unidad.
-No obstante, Lucas se esforzaba por sacar el tema de las visiones, por muy brusco que resultara dadas sus limitadas habilidades sociales.
+Fuera de su *zona de comfort*, si aquello se podía llamar así, Lucas seguía teniendo dificultades para hablar con los demás, aunque poco a poco se iba abriendo con los otros tres novatos que conformaban su unidad.
+No obstante, se esforzaba por sacar el tema de las visiones, por muy brusco que resultara dadas sus limitadas habilidades sociales.
 Preguntó a los miembros de su unidad durante las pausas en los entrenamientos.
 Preguntó a los otros novatos con los que coincidía de manera fortuita en la fila para comer, ducharse o entrenar.
-Preguntó a los novatos y veteranos que Ana le mandó.
-Lucas extrajo una conclusión que no le gustó nada. Era el único cuyas visiones habían persistido más allá del día del estallido de su *Burbuja*.
-Y las visiones seguían ahí. Primero cada 2 o 3 noches. Ahora cada noche.
+Preguntó a los novatos y veteranos que Ana le mandaba.
+Lucas extrajo una conclusión que no le gustó nada: era el único cuyas visiones habían persistido más allá del día del estallido de su *Burbuja*.
+Y las visiones seguían ahí. Primero cada dos o tres noches. Ahora cada noche.
 Un planeta desconocido, un portal y una mujer con un pelo larguísimo que intentaba comunicarse con él.
 Las otras personas a las que entrevistaban recordaban haber visto un planeta como el que describía pero nada más. Ni el portal ni la mujer.
 "¿Por qué?", pensaba Lucas. "¿Por qué soy el único que sigue teniendo esas visiones? ¿Qué significan?"
-Lucas se sorprendía pensando a cara rato en este misterio, y temió que la obsesión fuera tal que no pudiera pensar en otras cosas.
+Se sorprendía pensando a cara rato en este misterio, y temió que la obsesión fuera tal que no pudiera pensar en otras cosas.
 Tras el último entrenamiento le demostraron lo fácil que era cambiar eso.
 Al acabar de "irrumpir" por enésima vez en las instalaciones, el instructor les deseó suerte para dentro de dos días.
 La unidad de Lucas intercambió ceños fruncidos.
-- ¿Por qué? - preguntó uno de sus compañeros.
-- Porque se les enviará a estallar su primera *Burbuja*.
+- ¿Por qué? - preguntó uno de sus compañeros - ¿Qué pasa en dos días?
+El instructor se encogió de hombros.
+- Se les enviará a estallar su primera *Burbuja*.
+**VOY POR AQUÍ**
