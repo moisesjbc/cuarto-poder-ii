@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4950
+charCount:      4967
 
 
 La unidad de Lucas esperó un rato en silencio hasta que Manuel habló.
@@ -18,6 +18,7 @@ Marta se puso en pie sin mediar palabra. Carmen frunció el ceño, pero entonces
 - Oh, ¡claro! Lucas, ¿te vienes? ¿estás bien?
 - ¿Eh? ¿A dónde?
 - ¿A dónde va a ser? - dijo Manuel - ¡A cenar!
+**VOY POR AQUÍ**
 - ¡Ah! ¡Sí!
 El joven comenzó a incorporarse.
 - Con cuidado -. Le dijo Marta.

@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5178
+charCount:      5201
 
 
 Lucas sintió un ardor en las mejillas mientras su versión de unas horas antes hablaba ante la cámara.
@@ -43,4 +43,4 @@ Lucas avanzó hacia ella. Iba con paso decidido aunque las piernas le temblaban 
 - Tranquilo, esto es lo que hacen siempre. Pero...
 - "El difunto Coronel Cooper" - parafraseó Lucas -. Es mentira, ¿verdad?. Tiene que seguir capturado en una *Burbuja*, ¿no?
 Ana guardó silencio unos segundos sin dejar de mirarlo fijamente.
-- Estaba en una *Burbuja* que liberamos, pero no lo consiguió - dijo, cabizbaja -. Lo siento, está muerto.
+- Estaba junto a su unidad en una *Burbuja* que liberamos, pero no lo consiguieron - dijo, cabizbaja -. Lo siento, están muertos.

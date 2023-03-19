@@ -3,14 +3,11 @@ ID:             56
 type:           md
 summaryFull:    Lucas sufre un ataque de pánico, pero consigue controlarse y se termina de preparar con sus compañeros.
 POV:            0
-notes:          - **Puede contar aquí lo del amigo que abandonó cuando era pequeño**
-                - ¿Uno de ellos da por hecho que morirán pero "no le importa"?
-                - Piden a Lucas que confirme si pueden confiar en él y este se debate.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7133
+charCount:      7131
 
 
 Una cálida brisa acarició la cara de Lucas.
@@ -32,7 +29,7 @@ Lucas quiso parpadear simplemente, pero en lugar de ello permaneció con los ojo
 - No pasa nada - sonrió el joven del pelo largo.
 Lucas terminó de incorporarse, quedándose sentado en el banco, la espalda recostada en la pared. Estaban en el patio de entrenamiento.
 - Tienes agua ahí, si quieres - Marta señaló un vaso en el banco, al lado de Lucas.
-- Gracias - la boca del joven estaba seca y reclamó la ofrenda. Lucas tomó el vaso y apuró un buen trago.
+- Gracias - la boca del joven estaba seca y reclamó la ofrenda. Tomó el vaso y apuró un buen trago.
 Mientras bebía, su mirada escaneó a su unidad de izquierda a derecha.
 Todos lo miraban fijamente. Carmen, la líder, lo miraba con una expresión curiosa. Marta mostraba preocupación, aunque su postura se había relajado bastante en los últimos instantes. Manuel desprendía seriedad.
 Aunque sediento, Lucas reservó el fondo del vaso para después. Dejó el recipiente en el banco, a su derecha.
@@ -43,7 +40,7 @@ Lucas meditó unos instantes. "¿Quiero?", pensó. Rápidamente obtuvo respuesta
 - ¿Qué ibas a decir? - dijo Carmen, avanzando un paso hacia él.
 - ¿Qué?
 - "No puedo creer que vaya a...". ¿Qué ibas a decir?
-Lucas no conocía nada de Carmen hace dos semanas, peo en ese tiempo había descubierto algo. Era imposible engañarla.
+Lucas no conocía de nada de Carmen hasta hace dos semanas, pero en ese tiempo había descubierto algo. Era imposible engañarla.
 "Pero aún así...", pensó. No se sentía cómodo confesándolo.
 - A morir - dijo finalmente -. No puedo creer que vaya... que vayamos a morir en dos días.
 Marta bajó la mirada. Carmen y Manuel siguieron mirándolo.
@@ -91,7 +88,7 @@ Lucas levantó la mirada y se apoyó en la pared tras de sí. Tal como se imagin
 - Sí - el labio de Lucas se torció en una mueca -. Me escondí hasta que vi que los matones se fueron y fui junto a mi amigo.
 Lucas se llevó la mano a la boca y entrecerró los ojos. Estuvo unos segundos así antes de continuar.
 - Su mirada... No solo había dejado de ser uno de mis mejores amigos en ese momento. No quiso saber nada más de mí nunca más. No le culpo.
-Lucas suspiró.
+Suspiró.
 - Quince años después y aún no puedo quitarme su mirada de la cabeza.
 El joven agachó la cabeza. Sus interlocutores se mantuvieron en silencio unos instantes.
 - Ahora lo entiendo - dijo Carmen -. No quieres volver a pasar por eso, aunque suponga la muerte.

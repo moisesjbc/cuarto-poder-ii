@@ -5,10 +5,6 @@ summaryFull:    Flashforward del entrenamiento de Lucas. Un día descubre que Co
 POV:            0
 notes:          - Se menciona la "regla de los tres días" en la que sólo quedan los candidatos más prometedores.
                 
-                - Se puede mergear la escena esta y la siguiente.
-                - ¿Qué pasó con Allan? Si acaso mencionar que sigue desaparecido.
-                - ¿Y {C:12:Arturo Ramírez "El Venezolano"}?
-                
                 - Asalto al AT de Gran Canaria.
                 - En la ficha de Cooper menciono "descubren que esta oculta algo importante en el {W:3:AT de Gran Canaria}."
                 - **¿cómo? ¿el qué? ¿por qué ese AT? ¿Se van con las manos vacías?**
@@ -18,7 +14,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5151
+charCount:      5134
 
 
 Una vez Lucas se hizo a la rutina de ser un novato de la Resistencia, las próximas dos semanas se le pasaron volando.
@@ -59,4 +55,3 @@ La unidad de Lucas intercambió ceños fruncidos.
 - ¿Por qué? - preguntó uno de sus compañeros - ¿Qué pasa en dos días?
 El instructor se encogió de hombros.
 - Se les enviará a estallar su primera *Burbuja*.
-**VOY POR AQUÍ**
