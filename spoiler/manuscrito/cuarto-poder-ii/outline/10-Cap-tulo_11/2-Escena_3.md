@@ -19,11 +19,11 @@ notes:          - Lucas tiene que empezar el capítulo poniéndose el abrigo.
 label:          4
 status:         1
 compile:        2
-charCount:      5621
+charCount:      5684
 
 
 Lucas tomó el abrigo que le ofreció Noemí. Sus manos rozaron una fina capa de algodón del interior de la prenda. A pesar de la conversación que el joven sentía que se le venía en seguida, se detuvo un par de segundos a sentir la suave y caliente caricia del material.
-Carraspeó cuando se recordó observado por la adolescente y se apresuró a ponerse el abrigo. Cuando se sintió inmune al frío exterior recordó fugazmente la sensación de sentirse protegido en casa cuando era pequeño en invierno.
+Carraspeó cuando se recordó observado por la adolescente y se apresuró a ponerse el abrigo. Cuando se sintió inmune al frío exterior recordó fugazmente la sensación de encontrarse en casa cuando era pequeño y sentirse protegido.
 - Gracias - dijo con una sonrisa.
 Noemí respondió con otra sonrisa, pero en seguida sus labios se volvieron una línea recta bajo unos ojos grandes y marrones que no dejaban de mirarlo.
 - ¿Y bien?
@@ -32,7 +32,7 @@ Lucas fue a continuar, pero se cortó y suspiró. Meditó unos instantes antes d
 - Yo... no puedo. Lo siento.
 - ¿Por qué? - Noemí lanzó la pregunta alzando la voz. Miró tras de Lucas y este la imitó. No venía nadie.
 - Es lo correcto - contestó Lucas volviendo a mirarla.
-- Lo correcto me dejó huérfana.
+- Lo correcto mató a mis padres.
 La adolescente bajó la cabeza. Sus mechones rubios y rizados le taparon la cara.
 -  Noemí...
 El joven no sabía cómo continuar. "Cualquier cosa que diga lo va a estropear", pensó.
@@ -59,16 +59,16 @@ Noemí lo miró. Una lágrima caía de su ojo derecho.
 - Lo siento. No pretendía decir que no puedas protegerte. Pero tendríamos que cuidar el uno del otro, y yo no estaría a la altura. Tampoco puedo, ni quiero, ser un lastre.
 - No lo serías.
 - Sí que lo sería.
-"De eso sí que estoy seguro; no tengo que sonar convincente". Lucas no pudo evitar sonreír para sus adentros.
+"De eso sí que estoy seguro; no tengo ni que sonar convincente". A pesar de la seriedad de la situación, Lucas no pudo evitar sonreír para sus adentros.
 Noemí volvió a bajar la mirada.
 - ¿Por qué has cambiado de idea?
 - ¿A qué te refieres?
-- No estabas seguro de pertenecer a la resistencia. Pensé que... pensé que no me costaría nada convencerte.
-- Sigo sin estar seguro - sonrió -, créeme.
+- No estabas seguro de pertenecer a la Resistencia. Pensé que... pensé que no me costaría nada convencerte.
+- Sigo sin estar seguro - sonrió -. Créeme.
 - ¿Y entonces?
 - Ha sido un poco de todo. Ver a la gente de la Resistencia tan motivada a cambiar el mundo aunque parezca imposible. El hablar con Ana...
 - Ya veo...
-Noemí no asintió hasta que Lucas mencionó a Ana. Prefirió no preguntar.
+Hubo unos segundos de silencio. Entonces Lucas tomó la palabra.
 - ¿Qué te hizo cambiar a ti de idea?
 Noemí alzó la vista hacia él y frunció el ceño.
 - Hace unas semanas te molestó que yo no estuviera seguro de luchar contra la Resistencia. Ahora me pides huir.
@@ -83,7 +83,7 @@ La adolescente volvió a bajar la mirada.
 - Creo que todos necesitamos un punto de apoyo, Noemí. Está bien plantearse las cosas, pero llega un momento en el que tienes que aceptar una base aunque sea falsa. Al menos como algo temporal.
 Noemí asintió.
 - Has sonado como un padre - sonrió.
-Lucas se rió.
+Lucas sonrió también.
 - Me alegro.
 Noemí dejó de sonreír.
 - ¿La echas de menos?
@@ -94,6 +94,7 @@ Lucas suspiró.
 - También, una parte. Me encantaba despeinar a Lara.
 - No hace falta que lo jures - respondió Lucas.
 "Lara... tendré que despedirme de ella", pensó el joven, lamentándose del tono permanente con el que pensó en la despedida.
+**VOY POR AQUÍ**
 Lucas tosió falsamente.
 - Bueno, creo que nos vendría bien descansar un poco. ¿Qué me dices? Mañana podemos hablar otra vez.
 - Bueno - dijo Noemí, mirando de reojo las mochilas.
