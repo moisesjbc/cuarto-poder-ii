@@ -4,22 +4,10 @@ type:           md
 summaryFull:    - Lucas habla con Noemí. Esta intenta convencerle de que huya con ella.
                 - No está Ana.
 POV:            0
-notes:          - Lucas tiene que empezar el capítulo poniéndose el abrigo.
-                
-                Pasar por el trauma de una *Burbuja* en plena adolescencia ha acrecentado el sentimiento de Noemí de no saber quién es realmente. ¿Realmente quién es ahora es su yo verdadero? ¿Realmente lo que recuerda de si misma y sobre todo de sus padres es verdad?
-                
-                - **Pelo**: Rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes
-                - **Bello facial / cara**: redondeada.
-                - **Ojos**: marrones.
-                
-                "Lucas le contó acerca del amigo que abandonó cuando era poco mayor que ella" -> Revisar que concuerda con cuando se lo cuenta a la {C:9:Unidad de Lucas} -> Añadir a la ficha.
-                
-                - Lucas le pide que le prometa no irse ella y la busca al día siguiente.
-                - Lucas intenta darle un abrazo y lo hace torpemente.
 label:          4
 status:         1
 compile:        2
-charCount:      5684
+charCount:      5830
 
 
 Lucas tomó el abrigo que le ofreció Noemí. Sus manos rozaron una fina capa de algodón del interior de la prenda. A pesar de la conversación que el joven sentía que se le venía en seguida, se detuvo un par de segundos a sentir la suave y caliente caricia del material.
@@ -94,15 +82,14 @@ Lucas suspiró.
 - También, una parte. Me encantaba despeinar a Lara.
 - No hace falta que lo jures - respondió Lucas.
 "Lara... tendré que despedirme de ella", pensó el joven, lamentándose del tono permanente con el que pensó en la despedida.
-**VOY POR AQUÍ**
-Lucas tosió falsamente.
+Se aclaró la garganta antes de seguir hablando.
 - Bueno, creo que nos vendría bien descansar un poco. ¿Qué me dices? Mañana podemos hablar otra vez.
-- Bueno - dijo Noemí, mirando de reojo las mochilas.
+- Bueno... - dijo Noemí, mirando de reojo las mochilas.
 Lucas la miró fijamente.
 - ¿Puedo pedirte algo?
 - ¿El qué?
 - Que me prometas que no abandonarás este lugar - Lucas se mordió el labio para evitar decir "pase lo que pase" -. Al menos por ahora.
-- Yo... - suspiró - lo prometo.
+- Yo... - permaneció en silencio durante unos segundos. Entonces suspiró - lo prometo.
 Noemí bajó la mirada de nuevo. Lucas se quedó un rato mirándola y alzó los brazos torpemente hacia ella.
 - ¿Qué haces? - preguntó la adolescente.
 Lucas se sonrojó.
@@ -110,6 +97,7 @@ Lucas se sonrojó.
 Noemí se lanzó a sus brazos y lo apretó entre los suyos. Lucas hizo lo propio.
 Había otra cosa que Lucas echaba de menos de la *Burbuja* y que no le dijo antes.
 A sus hijas.
-El abrazo concluyó tras un largo instante aunque ninguno parecía contento con la idea.
-- Buenas noches.
+El abrazo concluyó tras un largo instante aunque ninguno parecía contento con la idea de que acabara.
+- Buenas noches - dijo Lucas con una sonrisa.
+Noemí le respondió con otra sonrisa.
 - Buenas noches.

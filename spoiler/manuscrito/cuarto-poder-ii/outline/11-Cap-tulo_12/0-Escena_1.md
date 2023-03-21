@@ -9,23 +9,24 @@ notes:          - No he comentado que Ana está de misión.
                 - **¿Hablan del sistema de control de la *Burbuja*?**.
                 - **Confirmar número de *Burbuja*. Mencionar en el capítulo de la primera formación sobre las *Burbujas***
                 - **Aclarar que los espías sólo se arriesgan a enviar información durante la construcción de las burbujas, ya que luego se interrumpen las comunicaciones con el exterior (especificar que las fotos son de la *Burbuja* en obras /  formándose). Hay quienes se arriesgan a salir fuera pero siempre mueren. (caso de la *Burbuja de Mario*)**.
+                
+                - "El espía se llama Luís y esperará a que toquen la puerta **hacia las 4 de la madrugada**"
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6793
+charCount:      6918
 
 
 Al día siguiente el entrenamiento de la mañana fue sustituido por una reunión sobre el inminente asalto a la *Burbuja*.
-La unidad de Lucas fue llamada a una habitación interior alargada cuyo único mobiliario consistía en una gran mesa ovalada y desgastada de madera.
-En el centro de la mesa, frente a ellos y la puerta de entrada, se encontraba Matías, el instructor de 50 años y cicatriz sobre la mejilla derecha que les había formado sobre las *Burbujas*. Frente a él descansaban sobre la mesa un mapa y varias fotografías de lo que parecía ser un pequeño pueblo.
+La unidad de Lucas fue llamada a una habitación interior y alargada cuyo único mobiliario consistía en una gran mesa ovalada y desgastada de madera.
+Tras la mesa, frente a ellos y la puerta de entrada, se encontraba Matías, el instructor de 50 años y cicatriz sobre la mejilla derecha que les había formado sobre las *Burbujas*. Frente a él descansaban un mapa y varias fotografías de lo que parecía ser un pequeño pueblo.
 - Muy bien - les saludó Matías -. Esperemos un poco a que llegue la otra unidad.
 Los presentes asintieron y esperaron de pie frente a la mesa. Lucas vio que habían sillas junto a la mesa, pero nadie las usó. A pesar de tener mucho sueño por apenas haber dormido la noche anterior, no quiso ser el primero en coger una silla.
 La tensión le ayudaba a mantenerse despierto, de todas maneras.
 Su vista se paseó por la habitación, pero sin más decoración que la mesa y las bombillas que colgaban desnudas del techo, no tardó en fijarse en las fotos sobre la mesa.
 En una vio una  gran muralla de piedra que rodeaba el pueblo y que le recordó demasiado a la de la *Burbuja* de la que había sido rescatado.
-Se le hizo un nudo en la garganta.
-Lo sobresaltó unos golpes a su espalda.
+Se le hizo un nudo en la garganta al recordarlo. Sin embargo, el  malestar pasó rápidamente a segundo plano cuando unos golpes a sus espaldas lo sobresaltaron.
 - ¡Pasen! - gritó Matías.
 Por la puerta tras ellos entró un grupo de cuatro personas. Eran 3 hombres altos y que debían estar en torno a los treinta y cuarenta años, y una mujer bastante más baja y joven pero cuya presencia imponía tanto o más que la de ellos.
 Lucas reconoció en esta última a Lucía, la instructora que les había impartido sus primeras lecciones de lucha cuando entraron en la Resistencia.
@@ -36,7 +37,7 @@ Matías apartó cada una de las fotos de encima del plano de la *Burbuja* y las 
 - Esto que ven aquí es un plano de la *Burbuja* número 32. Tal como en otros casos, se trata de una pequeña población amurallada - Siguió con el dedo índice el polígono que rodeaba el pueblo -, donde RIO realiza sus experimentos sobre prisioneros. Nuestro objetivo es liberarlos.
 El superior paseó su mirada por los presentes de manera fugaz antes de continuar.
 - La *Burbuja* tiene dos entradas principales, situadas en el lado norte - Señaló un pequeño segmento sobre el polígono - y otra en el lado sur - Repitió el gesto -. Ambas cuentan con puertas secundarias a unos 100 metros a ambos lados - Su mano se movió ágilmente entre los pequeños segmentos en el mapa.
-- La unidad de Carmen se encargará de la entrada sur. Uno de nuestros espías les abrirá la puerta secundaria de la derecha. Aquí. El espía se llama Luís y a la hora convenida, las 
+- La unidad de Carmen se encargará de la entrada sur. Uno de nuestros espías les abrirá la puerta secundaria de la derecha. Aquí - señaló -. El espía se llama Luís y esperará a que toquen la puerta hacia las 4 de la madrugada.
 Matías miró a Carmen. Esta se limitó a asentir y Matías continuó.
 - La unidad de Lucía se encargará de la muralla norte. Desgraciadamente no disponemos de más espías en la *Burbuja*. Luís nos ha comunicado que intentará dejar abierta esta puerta - Situó su dedo en el mapa -, pero si no puede conseguirlo tendrán que escalar la muralla, ¿entendido?
 - Perfecto - respondió Lucía.
@@ -45,6 +46,7 @@ Matías miró a Carmen. Esta se limitó a asentir y Matías continuó.
 Varios cabezas se giraron hacia Lucas.
 - ¿Eh? ¡No! Nada.
 - Muy bien - continuó Matías -. Según nuestros informes tienen unos doce hombres custodiando la *Burbuja*. Tres parejas de guardias patrullan la parte superior de las murallas - Siguió el contorno de la misma con la mano -. Las otras tres parejas patrullan las calles del pueblo. Según Luís, de madrugada las comunicaciones entre ellos se relajan bastante, así que será nuestro momento de atacar. No duden en abatirlos ya que...
+**VOY POR AQUÍ**
 A Lucas se le hizo un nudo en la garganta. Carmen le dio un ligero codazo y le señaló su brazo. El joven se lo estaba rascando frenéticamente.
 - ¿Pasa algo? - preguntó Matías, mirándolos.
 - No. No pa - comenzó a decir Carmen.
