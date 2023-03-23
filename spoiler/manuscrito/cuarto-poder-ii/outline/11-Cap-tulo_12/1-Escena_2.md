@@ -1,20 +1,20 @@
 title:          Escena 2
 ID:             89
 type:           md
-summarySentence:Lucas se despide de Lara y Noemí
+summarySentence:Lucas se despide de Lara.
 POV:            0
-notes:          - ¿Queda muy forzado que Lucas no haya visto a Noemí en el desayuno y no se preocupara?
+notes:          - No he comentado que Ana está de misión.
 label:          4
 status:         2
 compile:        2
 setGoal:        500
-charCount:      6304
+charCount:      6327
 
 
 Todos abandonaron la estancia salvo Matías. Este último se quedó repasando absorto el mapa y las fotografías que tenía frente a sí.
 Lucas fue de los últimos en salir al pasillo. No solía correr el aire por esa parte de la base, desprovista de ventanas al exterior. Aún así, Lucas sintió un ligero sofoco que, plenamente seguro, asoció a sus nervios.
 Algo le golpeó ligeramente el brazo. El joven se sobresaltó.
-- El brazo - le dijo Carmen, retirando su codo. Estaba sonriendo.
+- El brazo - le dijo Carmen mientras retiraba su codo. Estaba sonriendo.
 - Oh, ya.
 Lucas se obligó a retirar la mano de su brazo. Estaba rojo donde se había estado rascando.
 - ¿Vienes al patio? Pensábamos entrenar y charlar un poco.
@@ -23,21 +23,23 @@ Lucas se obligó a retirar la mano de su brazo. Estaba rojo donde se había esta
 - Quizás luego. Quiero... quiero hablar con alguien primero.
 - Muy bien - asintió la joven - Ven cuando quieras. ¡Hasta luego!
 Carmen trotó ligeramente y alcanzó al resto de la unidad. Marta y Manuel asintieron con una sonrisa cuando la vieron. Dirigieron una rápida mirada hacia Lucas y continuaron caminando.
-Lucas se detuvo en medio del pasillo unos segundos, viendo al resto alejarse.
+El joven se detuvo en medio del pasillo unos segundos, viendo al resto alejarse.
 "Mierda", se maldijo, obligándose a dejar de rascarse el brazo.
 Contó uno, dos y tres, siguiendo cada número con una respiración profunda. Cuando terminó, tomó una decisión.
 "Primero Lara", se dijo.
-El joven se dirigió por los pasillos, sin encontrarse con apenas personas, hasta la habitación donde dormía Lara. La encontró acostada en la cama superior de su litera, en el fondo la estancia, leyendo un libro. Jonás se encontraba acostado en la cama de debajo. Tan pronto como Lucas se preguntó si estaría durmiendo. este último giró la cabeza hacia la puerta, posando los ojos sobre él.
+El joven se dirigió por los pasillos, sin encontrarse con apenas personas, hasta la habitación donde dormía Lara. La encontró acostada en la cama superior de su litera, en el fondo de la estancia, leyendo un libro. Jonás se encontraba acostado en la cama de debajo. Tan pronto como Lucas se preguntó si estaría durmiendo. este último giró la cabeza hacia la puerta, posando los ojos sobre él.
 "Parece que no"
 La estancia era más pequeña que las otras habitaciones que había visto. Dos filas de tres literas, una a cada lado del pasillo central. Los hermanos se encontraban en la litera más lejana de la fila de la derecha.
 Cuando Lucas iba por el centro de la habitación, Lara levantó la vista de su libro y le sonrió ligeramente.
-- Hola.
-- Hola - Lucas llegó hasta situarse a un lado de la litera y asintió con la cabeza hacia Jonás. Este asintió a su vez y volvió a mirar hacia el techo de su litera, sin dejar de mirarlo de reojo. Lucas volvió a mirar a Lara - ¿Podemos hablar?
+- ¡Hola!
+- Hola - Lucas llegó hasta situarse a un lado de la litera y asintió con la cabeza hacia Jonás. Este asintió a su vez y volvió a mirar hacia el techo de su litera, sin dejar de mirarlo de reojo.
+Lucas volvió a mirar a Lara 
+- ¿Podemos hablar?
 - Sí, claro - Lara dejó el libro en la cama - Un segundo...
-- ¿De qué es el libro? - la pregunta surgió de los labios del joven de manera más brusca de lo que había pensado. Se limitó a toser toscamente.
+- ¿De qué es el libro? - la pregunta surgió de los labios del joven de manera más brusca de lo que había pensado. Tosió, incómodo.
 - Ah, es de matemáticas - dijo, volviendo a tomar el libro y alcanzándoselo.
 Lucas cogió el libro y retrocedió unos pasos para dejar a Lara bajar por las escaleras.
-"Análisis matemático", rezaba la portada. Lucas lo abrió por una página al azar y la pared de números y letras lo abrumó.
+"Análisis matemático", rezaba la portada. Lucas lo abrió por una página al azar y el muro de números y letras lo abrumó.
 - Vaya - dijo sonriendo, una vez Lara bajó y se situó frente a él -. ¿Esto es lo que se da en el instituto? - preguntó sorprendido, pasando las hojas - Me he quedado bastante atrás.
 - No, no se da en el instituto - hizo una pausa -. Al menos no en el mío.
 Lucas creyó distinguir una mancha roja en una de las páginas que dejó volar frente a él. Volvió sobre sus pasos y comprobó que, efectivamente, era sangre.
@@ -56,7 +58,7 @@ Lara abrió los ojos ampliamente. Su boca también formó un pequeño círculo. 
 - ¿Cuándo?
 Lucas frunció el ceño.
 - Esta... noche.
-- Ah sí - las palabras se arrastraban para salir de su boca -. Lo dijiste.
+- Ah sí - las palabras se arrastraban para salir de su boca -. Acabas de decirlo...
 Se hizo el silencio. Jonás miraba de reojo a Lucas, sin dejar de tener la cabeza recostada en su cama, mirando al techo. Lara seguí mirando al suelo. Lucas no sabía qué decir.
 - ¿Estás seguro? - Lara había alzado la cabeza y miraba hacia él. Tenía los ojos húmedos.
 - ¿Qué? ¿A qué te refieres?
@@ -71,7 +73,7 @@ Lara no dijo nada.
 Otro silencio, pero este no duró mucho.
 - Entiendo...
 Ambos bajaron la mirada sin decir nada. Al cabo de un rato habló Lucas.
-- ¿Cómo sigues...? - Lucas miró a su alrededor antes de continuar. Las únicas personas que se encontraban en la habitación estaban a cierta distancia y parecían ignorarles. Jonás seguía mirándole de reojo.
+- ¿Cómo sigues...? - miró a su alrededor antes de continuar. Las únicas personas que se encontraban en la habitación estaban a cierta distancia y parecían ignorarles. Jonás seguía mirándole de reojo.
 Lucas bajó la voz igualmente
 - ¿Cómo sigues de lo tuyo?
 - ¿De lo mío? - Lara frunció el ceño.
@@ -79,7 +81,7 @@ Lucas se tocó con el dedo índice bajo la nariz.
 - ¡Ah! ¡Claro! - Una ligera sonrisa apareció fugazmente sobre su rostro, pero desapareció enseguida -. Estoy bien... más o menos.
 - ¿Y no sabes por qué es?
 - No, pero parece que...
-- Suficiente - dijo Jonás. Lucas se sobresaltó.
+- Suficiente - dijo Jonás de repente, sobresaltando a la pareja.
 - ¿Es algo...? - Lucas miró a Jonás con cautela - ¿Es algo en lo que pueda ayudar... de alguna manera?
 - No.
 Lucas apartó la mirada de Jonás y miró a Lara. Intentó sonreír, sin éxito.
@@ -87,5 +89,4 @@ Lucas apartó la mirada de Jonás y miró a Lara. Intentó sonreír, sin éxito.
 - Sí...
 - Perfecto. Por cierto, ¿has visto a tu herma- perdón... a Noemí? No la vi en el desayuno. ¿Se quedaría dormida? - sonrió.
 Lara lo miró fijamente.
-- Pues no... No la he visto desde ayer.
-**1110**
+- Pues no lo sé... Pero no la he visto desde ayer.

@@ -3,19 +3,12 @@ ID:             82
 type:           md
 summaryFull:    Informe sobre la Burbuja
 POV:            0
-notes:          - No he comentado que Ana está de misión.
-                - Lucas tiene que despedirse de Lara y nuevamente de Noemí.
-                
-                - **¿Hablan del sistema de control de la *Burbuja*?**.
-                - **Confirmar número de *Burbuja*. Mencionar en el capítulo de la primera formación sobre las *Burbujas***
-                - **Aclarar que los espías sólo se arriesgan a enviar información durante la construcción de las burbujas, ya que luego se interrumpen las comunicaciones con el exterior (especificar que las fotos son de la *Burbuja* en obras /  formándose). Hay quienes se arriesgan a salir fuera pero siempre mueren. (caso de la *Burbuja de Mario*)**.
-                
-                - "El espía se llama Luís y esperará a que toquen la puerta **hacia las 4 de la madrugada**"
+notes:          - ¿En otro capítulo anterior?) Aclarar que los espías sólo se arriesgan a enviar información durante la construcción de las burbujas, ya que luego se interrumpen las comunicaciones con el exterior (especificar que las fotos son de la *Burbuja* en obras /  formándose). Hay quienes se arriesgan a salir fuera pero siempre mueren. (caso de la *Burbuja de Mario*)
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6918
+charCount:      6895
 
 
 Al día siguiente el entrenamiento de la mañana fue sustituido por una reunión sobre el inminente asalto a la *Burbuja*.
@@ -34,7 +27,7 @@ Lucas reconoció en esta última a Lucía, la instructora que les había imparti
 Las dos unidades se comunicaron entre sí con poco más que gestos y asentimientos y no tardaron en colocarse. Lucas acabó junto con Marta al lado izquierdo de Matías. Lucía y uno de los hombres de su unidad se colocaron al otro lado. Carmen, Manuel y los dos hombres restantes e la otra unidad se colocaron frente a ellos.
 - Muy bien, empecemos.
 Matías apartó cada una de las fotos de encima del plano de la *Burbuja* y las dejó a los lados de este.
-- Esto que ven aquí es un plano de la *Burbuja* número 32. Tal como en otros casos, se trata de una pequeña población amurallada - Siguió con el dedo índice el polígono que rodeaba el pueblo -, donde RIO realiza sus experimentos sobre prisioneros. Nuestro objetivo es liberarlos.
+- Esto que ven aquí es un plano de la *Burbuja*. Tal como en otros casos, se trata de una pequeña población amurallada - Siguió con el dedo índice el polígono que rodeaba el pueblo -, donde RIO realiza sus experimentos sobre prisioneros. Nuestro objetivo es liberarlos.
 El superior paseó su mirada por los presentes de manera fugaz antes de continuar.
 - La *Burbuja* tiene dos entradas principales, situadas en el lado norte - Señaló un pequeño segmento sobre el polígono - y otra en el lado sur - Repitió el gesto -. Ambas cuentan con puertas secundarias a unos 100 metros a ambos lados - Su mano se movió ágilmente entre los pequeños segmentos en el mapa.
 - La unidad de Carmen se encargará de la entrada sur. Uno de nuestros espías les abrirá la puerta secundaria de la derecha. Aquí - señaló -. El espía se llama Luís y esperará a que toquen la puerta hacia las 4 de la madrugada.
@@ -45,12 +38,11 @@ Matías miró a Carmen. Esta se limitó a asentir y Matías continuó.
 - ¿Pasa algo? - le preguntó Carmen.
 Varios cabezas se giraron hacia Lucas.
 - ¿Eh? ¡No! Nada.
-- Muy bien - continuó Matías -. Según nuestros informes tienen unos doce hombres custodiando la *Burbuja*. Tres parejas de guardias patrullan la parte superior de las murallas - Siguió el contorno de la misma con la mano -. Las otras tres parejas patrullan las calles del pueblo. Según Luís, de madrugada las comunicaciones entre ellos se relajan bastante, así que será nuestro momento de atacar. No duden en abatirlos ya que...
-**VOY POR AQUÍ**
+- Muy bien - continuó Matías -. Según nuestros informes tienen unos doce efectivos custodiando la *Burbuja*. Tres parejas de guardias patrullan la parte superior de las murallas - Siguió el contorno de la misma con la mano -. Las otras tres parejas patrullan las calles del pueblo. Según Luís, de madrugada las comunicaciones entre ellos se relajan bastante, así que será nuestro momento de atacar. No duden en abatirlos ya que...
 A Lucas se le hizo un nudo en la garganta. Carmen le dio un ligero codazo y le señaló su brazo. El joven se lo estaba rascando frenéticamente.
 - ¿Pasa algo? - preguntó Matías, mirándolos.
-- No. No pa - comenzó a decir Carmen.
-- Lo siento... - se disculpó Lucas - ¡perdón por interrumpir! - le sonrió nerviosamente a Carmen antes de dirigirse nuevamente a Matías - Simplemente pensaba... pensaba que atacaríamos por el día.
+- No. No pa... - comenzó a decir Carmen.
+- Lo siento... - se disculpó Lucas - perdón por interrumpir - le sonrió nerviosamente a Carmen antes de dirigirse nuevamente a Matías - Simplemente pensaba... pensaba que atacaríamos por el día.
 - No es viable - dijo Matías -. Por el día hay más actividad en la *Burbuja* y es más fácil que seamos descubiertos.
 - Entiendo - dijo Lucas, con la mirada perdida.
 "Me queda aún menos tiempo de vida", le dijo una voz interior.
@@ -59,9 +51,9 @@ Matías continuó.
 Matías esperó unos segundos antes de continuar.
 - Bien, pasemos a las fotos.
 El veterano de 50 años volvió a situar las fotos, cinco en total, formando un círculo encima del mapa.
-- Tanto la avenida principal como las calles secundarias - Señaló sendas fotos - están rodeadas por edificios de no más de 2 plantas, por lo que el equipo Norte tendrá la mayor visibilidad cuando haya escalado la muralla.
+- Tanto la avenida principal como las calles secundarias - Señaló sendas fotos -, están rodeadas por edificios de no más de 2 plantas, por lo que el equipo Norte tendrá la mayor visibilidad cuando haya escalado la muralla.
 - Entendido - Asintió Lucía.
-Matías señaló las otras tres fotos. Dos de ellas mostraban un pequeño edificio de una planta con una gran cruz en el tejado. La tercera mostraba lo que parecía ser el interior. Una fila de bancos avanzaba con filas de bancos a ambos lados.
+Matías señaló las otras tres fotos. Dos de ellas mostraban un pequeño edificio de una planta con una gran cruz en el tejado. La tercera mostraba lo que parecía ser el interior. Un pasillo central avanzaba con filas de bancos a ambos lados.
 - La iglesia, situada en el centro del pueblo, aloja el centro de control. Se accede a través de una trampilla situada en el suelo tras el altar.
 - Imagino que estará bloqueada - dijo Carmen.
 - Así es. No obstante Luís nos ha asegurado que se puede forzar con facilidad.
