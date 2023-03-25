@@ -7,7 +7,7 @@ label:          4
 status:         2
 compile:        2
 setGoal:        500
-charCount:      1793
+charCount:      1776
 
 
 El pequeño furgón traqueteaba mientras avanzaba a gran velocidad. Lucas, sentado en la parte de atrás, no decía nada. Tenía la cabeza gacha.
@@ -18,7 +18,6 @@ Carmen asintió.
 - Así es. Seguro que cuando volvamos estará esperándote.
 "Si es que volvemos"
 - ¡Buff! - bufó Carmen. Tenía el cuerpo echado hacia adelante, con las manos al frente -. ¡¿Intentas pillar todos los baches del mundo?!
-**VOY POR AQUÍ**
 - ¡Perdón! - gritó una voz femenina desde el puesto del conductor. Desde su posición, Lucas únicamente veía su pelo corto y azul - ¡Estas carreteras son una mierda!
 El furgón continuó agitándolos durante media hora más. Los presentes se mantenían en un silencio sepulcral, interrumpido únicamente por las llamadas periódicas que Carmen realizaba al otro equipo para comprobar su estado.
 Haces de luz atravesaban las ventanillas traseras del furgón, resaltando el blanco de las cortinillas que las cubrían. Al principio del viaje era seguro adivinar que provenían del otro furgón, en el que viajaban Lucía la instructora, y su equipo.
