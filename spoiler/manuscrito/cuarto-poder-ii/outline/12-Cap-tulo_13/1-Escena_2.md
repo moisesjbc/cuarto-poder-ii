@@ -3,12 +3,11 @@ ID:             90
 type:           md
 summaryFull:    El grupo avanza hacia el centro de control, cuando de repente se escuchan las {W:16:Notas de xilófono}.
 POV:            0
-notes:          - ¿Cambiar subfusiles por pistolas?
 label:          4
 status:         2
 compile:        2
 setGoal:        500
-charCount:      7988
+charCount:      7964
 
 
 El frío de la madrugada golpeó con fuerza la cara de Lucas.
@@ -66,10 +65,9 @@ Luís esperó a que terminaran de pasar. Se asomó al camino de piedra y miró a
 El grupo se unió a Luís en el camino de piedra y avanzaron los metros que faltaban hasta la siguiente calle. El espía y Carmen otearon a ambos lados y cuando confirmaron que era seguro hicieron señas al grupo, que se puso en marcha inmediatamente. La calle era prácticamente idéntica a la anterior, salvo por la segunda fila de casas sustituyendo a la muralla.
 Había un silencio absoluto. Cuando el grupo atravesó la calle y se dirigió hacia la derecha por la acera, Lucas no dejaba de pensar que las pisadas del grupo resonaban en todo el pueblo.
 "¿O son mis latidos?", pensó, con la tensión también martilleándole la cabeza.
-**VOY POR AQUÍ**
-Creyó ver una sombra moverse tras una ventana y apuntó con el subfusil en esa dirección rápidamente.
+Creyó ver una sombra moverse tras una ventana y apuntó con la pistola en esa dirección rápidamente.
 No vio nada.
-Lucas agradeció el agarre de los guantes, pues al martilleo que le perforaba la sien se le unió un sudor que parecía inundar su cuerpo y especialmente sus manos.
+Agradeció el agarre de los guantes, pues al martilleo que le perforaba la sien se le unió un sudor que parecía inundar su cuerpo y especialmente sus manos.
 El grupo continuó avanzando por la acera hasta llegar al siguiente cruce, en el cuál giró hacia la izquierda para continuar avanzando hacia el centro de la *Burbuja*.
 Esta calle también estaba completamente desierta. Nuevamente, el silencio sólo era interrumpido por sus botas golpeando el suelo.
 "No pasa nada", intentó tranquilizarse Lucas, sin dejar de mirar frenéticamente hacia todos lados.
