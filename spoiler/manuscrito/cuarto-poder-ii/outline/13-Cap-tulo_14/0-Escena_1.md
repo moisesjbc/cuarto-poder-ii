@@ -3,16 +3,11 @@ ID:             58
 type:           md
 summaryFull:    El grupo consigue esconderse a tiempo y abrirse paso hasta el centro de control. Allí son emboscados por las fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras sus miembros intentan escapar.
 POV:            0
-notes:          - Puede ser una *Burbuja* donde RIO experimenta con la conexión entre sujetos. Idea: se topan con alguien ciego, alguien mudo, alguien en silla de ruedas, ... 
-                - Esquivan al ciego, al sordo, ... No obstante, el mudo / en silla de ruedas los ve y "avisa" al ciego, que apuñala a uno de ellos.
-                - - En esta o la siguiente escena puedo hacer que Lucas vea a otro Mario / Noemí, etc.
-                - **¿El capítulo acaba con algo avisando a Lucas y Elizabeth disparando a Carmen (¿referencia a escena 4.4 cuando Elizabeth lo tacha de terrorista?)?**
-                - - ¿Cambiar subfusiles por pistolas?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      18033
+charCount:      17963
 
 
 Tras las notas de xilófono se volvió a hacer el silencio. Lucas se sintió aturdido.
@@ -97,26 +92,25 @@ No parecía haber un patrón que pudieran explotar para entrar sin ser descubier
 Sabiéndose incapaz de entrar y de huir, Lucas se reunió, abatido, con su unidad en el centro del camión.
 Carmen y Marta tampoco pudieron adivinar una ruta de entrada segura.
 La primera les hizo un gesto de espera con la mano y se llevó el dedo al pinganillo que asomaba en su oreja derecha.
-- Hola, hemos llegado a la plaza pero está... - Carmen se interrumpió unos instantes en los que alternó su vista entre Lucas, Marta y la plaza - ¿ahora? - Otra pausa. Carmen suspiró - De acuerdo.
-**VOY POR AQUÍ**
+- Hola, hemos llegado a la plaza pero está... - Carmen se interrumpió unos instantes en los que alternó su vista entre Lucas, Marta, y la plaza - ¿ahora? -. Otra pausa. Carmen suspiró -. De acuerdo.
 La joven cortó la comunicación y se masajeó el hombro izquierdo, allí donde había hecho mella la llave inglesa, mientras se limitaba a decir:
 - Prepárense para correr hacia la iglesia cuando escuchen la explosión.
 Lucas y Marta compartieron una mueca.
-- ¿Qué explosión? - preguntó Marta.
+- ¿Qué explosión? - preguntó esta última.
 Pero Carmen se limitó a colocarse en cabeza tras el extremo posterior del camión. Marta y Lucas obedecieron la orden implícita y se colocaron en fila tras la líder.
-No pasó ni un minuto cuando una explosión en el extremo izquierdo de la plaza rompió por completo el silencio de la noche, así como mobiliario y algunas plantas.
+No pasó ni un minuto cuando una explosión en el extremo izquierdo de la plaza rompió por completo el silencio de la noche.
 Lucas corrió hacia adelante y tropezó con Marta. Esta se dio la vuelta, asustada. Cuando se cercioró de lo que había pasado, se limitó a sonreír y volver a darse la vuelta, al tiempo que le señalaba la mano de Carmen. Esta última se alzaba en el aire, pidiéndoles el alto.
-- Lo siento - susurró Lucas tan bajo a su pesar que dudó que Marta lo escuchara.
+- Lo siento - susurró Lucas, tan bajo a su pesar que dudó que Marta lo escuchara.
 Carmen bajó rápidamente la mano y avanzó perdiéndose por la parte posterior del camión, seguida por Marta.
-Lucas soltó una maldición para sus adentros y corrió para recortar la distancia. La unidad cruzó la calle y avanzó por la acera que abrazaba el muro de la plaza.
+Lucas, rápidamente rezagado, soltó una maldición para sus adentros y corrió para recortar la distancia. La unidad cruzó la calle y avanzó por la acera que abrazaba el muro de la plaza.
 La mayoría de las personas de la plaza avanzaban hacia el lugar de la explosión, incluyendo a tres de los cinco ancianos. Los otros dos, situados a pocos metros de la iglesia, continuaban vigilando sus alrededores rodeados de un pequeño séquito.
 El anciano más cercano al lateral por el que se aproximaba la unidad no tardó en dirigir la vista hacia ellos, pero apenas pudo reaccionar cuando una bala de Carmen le atravesó la cabeza.
 El anciano al otro lado miró hacia su compañero, pero una segunda bala acabó con él. Ni Carmen, ni Marta, ni muchísimo menos Lucas fueron los artífices de ese segundo asesinato. El joven dirigió un rápido vistazo hacia el otro lado, de la plaza, donde una figura vestida de militar como ellos avanza en paralelo por el exterior del muro.
 El trío continuó avanzando hasta dar con una abertura en el pequeño muro a su izquierda. Entraron por ella a la plaza y continuaron en línea recta hasta alcanzar la esquina de la pequeña iglesia.
-Lucas recordaba su instrucción como algo lejano, apenas visible tras un muro de estrés y vergüenza envuelta en un pantalón meado, pero la recordaba. Se suponía que debía ir mirando hacia atrás mientras sus dos compañeras vigilaban el lateral y lo que quedaba por delante. Marta, delante de él, se encargaría de darle un pequeño toque cuando se detuvieran.
+Lucas recordaba su instrucción como algo lejano, apenas visible tras un muro de estrés y vergüenza, pero la recordaba. Se suponía que debía ir mirando hacia atrás mientras sus dos compañeras vigilaban el lateral y lo que quedaba por delante. Marta, delante de él, se encargaría de darle un pequeño toque cuando se detuvieran.
 Sin embargo, Lucas no podía permitirse la vergüenza de volver a tropezar con la joven.  Era por ello que corría de lado, alternando la vista muy rápido hacia ambos lados.
-El sistema, aunque tosco, sirvió. El grupo se detuvo sin incidentes justo antes de la puerta de la iglesia, dos grandes hojas de madera incrustadas en la pared blanca.
-Lucía, la instructora, se detuvo al otro lado de la puerta al mismo tiempo que ellos. Bajó la pistola y les indicó con la mano que esperaran. Acto seguido se llegó la mano al pecho del uniforme y liberó una pequeña granada.
+El sistema, aunque tosco, sirvió. El grupo se detuvo sin incidentes justo antes de la puerta de la iglesia, dos grandes hojas de madera presidiendo en la pared blanca.
+Lucía, la instructora, se detuvo al otro lado de la puerta al mismo tiempo que ellos. Bajó la pistola y les indicó con la mano que esperaran. Acto seguido se llevó la mano al pecho del uniforme y liberó una pequeña granada.
 La veterana hizo una señal a Carmen y esta asintió, al tiempo que bajaba su arma. Entonces agarró el pomo derecho de la puerta y abrió esta ligeramente, lo justo para que Lucía tirara dentro la granada.
 Dos segundos después se escuchó un fogonazo y las dos chicas abrieron las puertas, irrumpiendo en el edificio con las armas en alto. Marta las siguió como si fuera su sombra, y Lucas siguió a esta última a algo más de distancia.
 Solo el silencio les recibió.
@@ -124,11 +118,10 @@ Un amplio pasillo avanzaba recto, custodiado por sendas filas de gruesas columna
 Lucía y Carmen avanzaron por el pasillo central, mientras Marta tomaba el pasillo de la izquierda y Lucas avanzaba por el pasillo de la derecha.
 Sin dejar de avanzar, la unidad echaba un vistazo rápido a cada pasillo en busca de amenazas. Lucas suplicaba para sus adentros no encontrar ninguna.
 Y así fue.
-El grupo se reunió al final del pasillo central, frente al altar.
-Subieron unos amplios escalones de mármol y bordearon una mesa de madera vestida con un humilde mantel de tela blanca. Lucía y Marta por la izquierda, y Carmen y Lucas por la derecha.
+El grupo se reunió al final del pasillo central, frente al altar. Subieron unos amplios escalones de mármol y bordearon una mesa de madera vestida con un humilde mantel de tela blanca. Lucía y Marta por la izquierda, y Carmen y Lucas por la derecha.
 En el suelo vieron una alfombra cuadrada de la misma anchura que la mesa. Lucía miró a Lucas y se dio unos toquecitos con el índice bajo el ojo para acto seguido señalar a una pequeña puerta de madera situada en la pared del fondo de la iglesia. Lucas asintió.
-La instructora entonces repitió el mismo gesto dos veces más: la primera vez se dirigió a Marta y le señaló la gran puerta por la que habían entrado en el edificio. La segunda vez ordenó a Carmen ayudarle a mover la alfombra.
-Las dos jóvenes apartaron la alfombra, dejando al descubierto una gran trampilla de madera. Lucía no tardó en localizar la manecilla. Se dispuso a abrirlo cuando lanzó una mirada de reproche a Lucas y le volvió a señalar la puerta trasera. Lucas obedeció, avergonzado, aunque no pudo evitar seguir echando vistazos furtivos.
+La instructora hizo entonces otros dos gestos: con el primero se dirigió a Marta y le señaló la gran puerta por la que habían entrado en el edificio. Con el segundo ordenó a Carmen ayudarle a mover la alfombra.
+Las dos jóvenes la apartaron, dejando al descubierto una gran trampilla de madera. Lucía no tardó en localizar la manecilla. Se dispuso a abrirlo cuando lanzó una mirada de reproche a Lucas y le volvió a señalar la puerta trasera. Lucas obedeció, avergonzado, aunque no pudo evitar seguir echando vistazos furtivos.
 Lucía se agachó cerca de la manecilla y la agarró. Hizo fuerza.
 Se escuchó un clic, pero la trampilla no cedió.
 Lucía levantó la mirada, con la ceja enarcada. Ni siquiera reprendió a Lucas por haber perdido de vista la puerta trasera. Otra vez.
@@ -136,7 +129,7 @@ Lucas se sintió confundido. "¿Tendrá alguna clave?", pensó. También sintió
 Tres golpes resonaron sobre el suelo de mármol. Lucas se giró rápidamente y vio a sus tres compañeras yaciendo en el suelo, inconscientes.
 Corrió y se agachó al lado de Carmen.
 - Carmen -. La movió ligeramente. - ¡Carmen! - La zarandeó. Era imposible; no reaccionaba.
-El corazón le golpeaba el pecho con violencia.
+El corazón empezó a golpearle el pecho con violencia.
 Entonces se acercó a Lucía y la movió y gritó. No hubo respuesta tampoco.
 Echó un vistazo hacia Marta, temiendo el resultado, pero entonces percibió movimiento.
 Alguien entraba por la puerta principal.
