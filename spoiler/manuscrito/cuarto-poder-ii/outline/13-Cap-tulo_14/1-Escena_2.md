@@ -3,13 +3,11 @@ ID:             60
 type:           md
 summaryFull:    Lucas huye con un compañero y consigue salir de la *Burbuja*. Allí intentan ponerse en contacto con la base rebelde, pero no reciben señal. El compañero de Lucas es asesinado y Lucas está a punto de caer.
 POV:            0
-notes:          - O el compañero de Lucas es el traidor y Ajani lo mata según lo ve.
-                - ¿Cambiar subfusiles por pistolas?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7075
+charCount:      7131
 
 
 Apuntó a la figura con su pistola, deseando que esta no se percatara de lo mucho que le temblaba el arma en las manos.
@@ -56,14 +54,11 @@ Se encontró varios efectivos de RIO, pero estos yacían en el suelo. La sangra 
 El joven avanzó esquivando los cuerpos. Cuando recorrió un cuarto de la muralla localizó un robusto gancho anclado en el muro exterior y del que colgaba una cuerda.
 Lucas inspiró y espiró varias veces.
 "No mires hacia abajo", se dijo. "No mires hacia abajo, no mires hacia abajo, no mires..."
-Se guardó la pistola y agarró la cuerda con una mano temblorosa. Inspiró y expiró otra vez.
-**VOY POR AQUÍ**
-Se encaramó al muro exterior y comenzó a descender por la pared de piedra.
+Se guardó la pistola y agarró la cuerda con una mano temblorosa. Entonces se encaramó al muro exterior y comenzó a descender por la pared de piedra.
 Tras una eternidad tropezó con el suelo de tierra y rio nerviosamente. Sus piernas amenazaron con fallarse pero consiguió mantener el equilibrio.
-Ahora sí, se permitió mirar a su alrededor: una gran oscuridad se extendía frente a él, ligeramente bañada por la luz de la luna. A su izquierda, una solitaria carretera abandonaba la *Burbuja* y se perdía en el horizonte.
+Ahora sí, se permitió mirar a su alrededor. Una gran oscuridad se extendía frente a él, ligeramente bañada por la luz de la luna. A su izquierda, una solitaria carretera abandonaba la *Burbuja* y se perdía en el horizonte.
 Lucas se alejó del muro corriendo por la tierra en paralelo a la carretera pero acercándose poco a poco a esta. Empezó a distinguir la silueta de un vehículo recortándose contra el cielo nocturno.
-La sonrisa se borró de su cara al tiempo que un disparo le atravesaba pecho y espalda.
-Lucas se desplomó sobre la tierra.
+La sonrisa se borró de su cara al tiempo que un disparo le atravesaba espalda y pecho, haciendo que se desplomara sobre la tierra.
 Por un segundo se hizo de día y Lucas vio frente a si a Ana y a sus dos hijas: Noemí y Lara.
 "No son tus hijas", se dijo, mientras las primeras lágrimas abandonaban sus ojos.
 Escuchó unos pasos acercándose hacia él.
@@ -77,5 +72,7 @@ Un segundo silbido. Un segundo golpe sobre el suelo.
 Los pasos de una tercera persona.
 - ¿Lucas?
 Una bota empujó el cuerpo de Lucas. El joven emitió un quejido lastimoso, giró y se apoyó sobre su espalda. El esfuerzo le hizo escupir sangre.
-Un hombre mulato de unos cuarenta lo miraba con expresión seria. Lucas frunció el ceño y abrió los ojos todo lo que pudo. ¿Acaso podía ser...?
+Un hombre mulato de unos cuarenta lo miraba con expresión seria. Lucas frunció el ceño y abrió los ojos todo lo que pudo. 
+"¿Acaso puede ser...?"
+Sintiendo que la vida se le escapaba, Lucas apenas pudo articular una palabra.
 - ¿Ajani?

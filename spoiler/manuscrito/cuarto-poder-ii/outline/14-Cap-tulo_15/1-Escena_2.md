@@ -23,16 +23,17 @@ notes:          - Ajani y Kasim rescatan a Lucas por sus visiones del planeta X
                 en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero
                 no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia
                 atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones
+                - Cambiar subfusil por pistola.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6657
+charCount:      6886
 
 
 Ajani conitnuó caminando a paso ligero sin preocuparse en mirar hacia Lucas. Este último, varios metros por detrás, intentaba seguirle el ritmo como podía.
-Caminaron unos cien metros y entonces Ajani giró hacia la derecha, alejándose de la carretera. Ajani se dirigió a un montículo de metro y medio de altura y tiró de él con una mano.
-Lucas sacudió la cabeza, aturdido. Entonces se fijó en que Ajani sujetaba una gran tela de camuflaje. Al tirar de ella había descubierto un coche destartalado.
+Caminaron unos cien metros y entonces Ajani giró hacia la derecha, alejándose de la carretera. Se dirigió a un montículo de metro y medio de altura y tiró de él con una mano.
+Lucas sacudió la cabeza, aturdido. Entonces se fijó en que el africano sujetaba una gran tela de camuflaje. Al tirar de ella había descubierto un coche destartalado.
 "Buena idea", pensó Lucas, recordando las ruedas reventadas del furgón de la resistencia.
 Entonces se acordó de algo más.
 - ¡Tenemos que volver!
@@ -47,9 +48,9 @@ El joven frunció el ceño, pero obedeció. Ya en el puesto de atrás volvió a 
 - ¿Y entonces...? - Lucas dudó si terminar la pregunta - ¿y entonces yo...?
 - Tú puedes sernos de utilidad.
 - ¿"Sernos"? ¿A quiénes?
-Ajani no respondió. Aceleró el coche y lo llevó a la carretera. Se paró en medio de la vía, dando la espalda la *Burbuja*. Miró hacia el gran terreno que se extendía hacia la izquierda.
+Ajani no respondió. Aceleró el coche y lo llevó a la carretera. Avanzó unos cien metros por esta, alejándose de la *Burbuja*, y entonces detuvo el vehículo. Miró hacia el gran terreno que se extendía hacia la izquierda.
 Una figura se alzó en medio del páramo yermo, a unos veinte metros de ellos. Corrió de lado hacia el coche, sin dejar de mirar hacia la *Burbuja*.
-La misteriosa silueta se transformó en un hombre mulato, ligeramente más joven que Ajani. Tenía el pelo rapado, al contrario que Ajani, que lo tenía corto, y parecía un poco menos atlético que él, pero el parecido entre ellos era razonable.
+La misteriosa silueta se transformó en un hombre mulato, de pelo rapado, ligeramente más joven y menos atlético que Ajani. El parecido entre ambos era palpable.
 El recién llegado se subió en el puesto del copiloto y Ajani aceleró bruscamente. Lucas se acordó entonces de ponerse el cinturón.
 El copiloto le entregó a Lucas un rifle de francotirador. El arma tenía pintura de camuflaje, aunque la mayor parte estaba parcialmente borrada y se entreveía el metal gris de debajo.
 - Lucas, ¿cierto? -. Lucas asintió -. ¿Puedes colocarlo atrás?
@@ -62,7 +63,13 @@ Lucas bajó la cabeza y se sintió morir.
 - ¡Ah, entiendo! - Ajani volvió a sonreír - No pasa nada. ¿Tú primer tiroteo?
 - No realmente... - Lucas subió un poco la mirada -. Ya estuve en algunos tiroteos hace... ¿unos meses? En el AT de Gran Canaria. Pero ahí no... no me pasó.
 - Imagino que no te sentiste tanto en peligro como ahora - dijo Kasim.
-Lucas rió nerviosamente.
+- No, imagino que no - dijo, sombrío -. Kasim, tenemos que volver...
+El copiloto lo miró fijamente y aunque sus ojos parecían decir "lo siento", igualmente negó con la cabeza.
+- Lo siento, pero no podemos.
+- Pero...
+- No vamos a volver - lo cortó Ajani.
+**VOY POR AQUÍ**
+**EMPATAR CON LO SIGUIENTE**
 - ¡Desde luego! - Entonces su rostro se ensombreció -. El coronel Cooper me enseñó tu email - dijo, dirigiéndose, hacia Ajani. Este último seguía mirando la carretera frente a ellos - donde hablaba de mi... ¿"sexto sentido para el peligro"?
 El joven pausó, esperando una confirmación por parte de Ajani, pero este último se mantuvo en silencio.
 - ¿A qué te referías? ¿Qué sexto sentido tengo?
