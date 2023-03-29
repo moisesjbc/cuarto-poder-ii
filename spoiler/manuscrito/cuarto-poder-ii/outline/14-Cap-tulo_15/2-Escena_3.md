@@ -4,19 +4,17 @@ type:           md
 summaryFull:    Al día siguiente Lucas despierta solo, sin rastro alguno de sus acompañantes, agua o comida
 POV:            0
 notes:          
-                - *Apuntar Manuel como su mejor amigo*
-                
                 
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2038
+charCount:      2019
 
 
 Aquella noche Lucas tuvo el mismo sueño: aparecía un portal y salía una mujer que intentaba comunicarse con él sin éxito.
 El ruido de los pájaros lo despertó. Permaneció con los ojos cerrados, tendido boca arriba. De inmediato recordó el día anterior: el intento fallido de *estallar* la *Burbuja*, la muerte de sus compañeros, su huida y su rescate por parte de Ajani y Kasim.
-"Los dejaste tirados", le dijo una voz, acusadora. "Igual que a Manuel. No has cambiado en nada"
+"Los dejaste tirados", le dijo una voz, acusadora. "Eres un cobarde"
 Lucas se obligó a respirar hondo.
 "No podía hacer nada", dijo otra voz, tranquilizadora. "Sólo hubiera conseguido morir yo también".
 La culpa era una vieja conocida, y como otras tantas veces, se alejó de su mente pero no muy lejos. Le saludaba con la mano mientras parecía decir "hasta pronto".
@@ -28,7 +26,7 @@ No había rastro de Ajani y de Kasim. Tampoco vio sus sacos sobre la hierba, a p
 "¿Habrán recogido ya?"
 Giró la cabeza hacia su izquierda. La noche anterior habían aparcado el coche a unos 20 metros, cubierto con su lona de camuflaje simulando un montículo de piedras.
 Lucas frunció el ceño: hubiera jurado que las piedras falsas eran perfectamente visibles desde su posición la noche anterior.
-"No puede ser", pensó. La garganta seca.
+"No puede ser", pensó con un nudo en el estómago.
 Palpó dentro del saco de dormir buscando su pistola: había desaparecido.
 "No, no, no".
 Se incorporó y miró alrededor, esperando ver algo más con la cabeza más alta.

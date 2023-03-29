@@ -6,11 +6,23 @@ summaryFull:    Lucas busca desesperadamente agua hasta que por fin la encuentra
                 - **¿O la granja / excursionistas que avisan a RIO?**
 POV:            0
 notes:          - Puede encontrar frutos por el camino, pero al no saber si son venenosos prefiere dejarlos como última opción. Tampoco consigue hacerse con ningún animal.
+                - - Idea (¿otra escena?): Lucas va a ser ayudado por una niña local, pero los padres le atacan pensando que es un terrorista como dice RIO.
+                - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
+                - Ajani no colabora con la resistencia directa
+                mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
+                filtrados de RIO.
+                - **(-) ¿Por qué Ajani y Kasim aparecen en el último momento para salvar a Lucas? ¿No había momentos menos peligrosos**
+                - Puede haber sido la primera prueba y que Ajani / Kasim lo mencionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
+                -               - Durante la primera parte, Ajani ha estado luchando contra RIO
+                en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero
+                no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia
+                atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones
+                - Cambiar subfusil por pistola.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8207
+charCount:      8224
 
 
 Lucas se levantó e hizo un par de respiraciones pausadas más. Seguía sintiendo que en cualquier momento tendría otro ataque de pánico, pero decidió aprovechar el momento de calma.
@@ -19,6 +31,7 @@ El saco de dormir era su única "pertenencia", aparte de su ropa.
 Decidió, sintiendo la boca seca, que se alejaría a la distancia que hiciera falta para encontrar agua.
 Si es que era capaz de encontrarla.
 Finalmente optó por ocultar el saco en unos matorrales cercanos y caminó hasta llegar a la carretera.
+**VOY POR AQUÍ**
 "Veamos, anoche vinimos por ese lado", pensó, mirando hacia la izquierda. "O eso creo. No me interesa acercarme a la *Burbuja*, por poco que sea, así que..."
 Así que Lucas empezó a caminar hacia la derecha, por el alcén derecho de la carretera de tierra.
 Caminó durante media hora sin que pasara un solo vehículo. Definitivamente no estaba en una zona muy transitada, y ya no veía tan claro que pudiera encontrar agua embotellada haciendo *auto stop*.

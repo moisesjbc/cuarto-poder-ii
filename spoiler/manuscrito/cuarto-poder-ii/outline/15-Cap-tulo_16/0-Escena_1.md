@@ -3,19 +3,20 @@ ID:             68
 type:           md
 summaryFull:    Lucas sufre un ataque de pánico, pero consigue tranquilizarse a duras penas. Comienza a sentir hambre y sed y empieza a explorar.
 POV:            0
-notes:          - Idea (¿otra escena?): Lucas va a ser ayudado por una niña local, pero los padres le atacan pensando que es un terrorista como dice RIO.
+notes:          
+                
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2289
+charCount:      2303
 
 
 Lucas volvió sobre sus pasos hasta donde estaba el saco de dormir.
 "¿Es posible que fuera una trampa para ver cómo reacciono? ¿Estarán por aquí cerca?"
-Miró a su alrededor, intentando percibir cualquier movimiento entre los árboles verdes.
+Miró a su alrededor, intentando percibir cualquier movimiento entre los árboles.
 "Tienen que estar por aquí"
-Los árboles estaban lo suficientemente separados entre sí como para que su mirada abarcara una amplia distancia.
+Los árboles estaban lo suficientemente separados entre sí como para que su mirada abarcara una generosa porción de cuanto lo rodeaba.
 Nada.
 "No puede ser"
 - ¿Ajani? - dijo con un hilillo de voz. Imposible que alguien le escuchara así.

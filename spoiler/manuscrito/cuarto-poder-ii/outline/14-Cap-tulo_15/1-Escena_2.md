@@ -4,31 +4,11 @@ type:           md
 summaryFull:    El grupo viaja hacia las montañas mientras hablan en el vehículo. Ajani y Kasim le cuentan al joven su interés en él y le piden  comprometerse "de verdad". Lucas acepta.
                 
 POV:            0
-notes:          - Ajani y Kasim rescatan a Lucas por sus visiones del planeta X
-                , las cuales conocen por un informante de la Resistencia. La pareja lleva tiempo
-                buscándolo porque cree que contiene la clave para destruir a RIO.
-                - "Despliegue de satélites, Des-inversiones en el sector espaci
-                al, ... RIO no quiere que miremos hacia arriba".
-                - Ajani aclara que no piensa cargar con un peso muerto al que proteger, sino que quiere a alguien que pueda desenvolverse en el campo de batall
-                a. Le pregunta al joven si está dispuesto a darlo todo por encontrar el planeta.
-                Lucas, aunque dudoso, acepta.
-                -                - Ajani no colabora con la resistencia directa
-                mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
-                filtrados de RIO.
-                - **(-) ¿Por qué aparece justo en ese momento para salvar a Luc
-                as? ¿No había momentos menos peligrosos**
-                - Puede haber sido la primera prueba y que Ajani / Kasim lo men
-                cionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
-                -               - Durante la primera parte, Ajani ha estado luchando contra RIO
-                en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero
-                no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia
-                atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones
-                - Cambiar subfusil por pistola.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6886
+charCount:      6991
 
 
 Ajani conitnuó caminando a paso ligero sin preocuparse en mirar hacia Lucas. Este último, varios metros por detrás, intentaba seguirle el ritmo como podía.
@@ -68,15 +48,16 @@ El copiloto lo miró fijamente y aunque sus ojos parecían decir "lo siento", ig
 - Lo siento, pero no podemos.
 - Pero...
 - No vamos a volver - lo cortó Ajani.
-**VOY POR AQUÍ**
-**EMPATAR CON LO SIGUIENTE**
-- ¡Desde luego! - Entonces su rostro se ensombreció -. El coronel Cooper me enseñó tu email - dijo, dirigiéndose, hacia Ajani. Este último seguía mirando la carretera frente a ellos - donde hablaba de mi... ¿"sexto sentido para el peligro"?
+Lucas guardó silencio a regañadientes.
+"Lo he intentado, chicas"
+Sin dejar de sentirse fatal por ellas, no pudo evitar recordar algo que le carcomía desde hace tiempo y que sólo la pareja que tenía delante podía responderle.
+- El coronel Cooper me enseñó tu email - dijo, dirigiéndose, hacia Ajani. Este último seguía mirando la carretera frente a ellos -, donde hablaba de mi... ¿"sexto sentido para el peligro"?
 El joven pausó, esperando una confirmación por parte de Ajani, pero este último se mantuvo en silencio.
-- ¿A qué te referías? ¿Qué sexto sentido tengo?
+- ¿A qué te referías? - insitió Lucas - ¿Qué sexto sentido tengo?
 El que habló fue Kasim.
 - RIO dispone de una tecnología de nanomáquinas. Pueden formar, entre otras cosas, suelos y estructuras que replican las reales perfectamente, salvo excepciones. Un pequeño porcentaje de la población dispone de mayor sensibilidad y marea cuando tocan o interactúan con dichas nanomáquinas.
 Lucas apretó el puño.
-- ¿Así que soy una cobaya de RIO?
+- ¿Así que sólo soy una cobaya de RIO?
 - Esos mareos ya los habías sentido antes, ¿cierto?
 - Sí. Cuando trabajaba en RIO, cada vez que recorría el pasillo que iba a los baños sentía unos mareos enormes.
 - Mmmm, entiendo. Sí, eso parece.
@@ -86,7 +67,7 @@ Lucas recordó algo más.
 - Ahora nos toca a nosotros preguntar - lo interrumpió Ajani, sin dejar de mirar la carretera -. Has tenido visiones, ¿no?
 Lucas abrió los ojos como platos.
 - ¿Cómo...?
-- Ya me has oído. ¿Qué has visto?
+- ¿Qué has visto?
 El joven no sabía si podía confiar en los hermanos, aún a pesar de haberlo salvado. Aún así, si ellos podían decirle algo sobre sus visiones valía la pena intentarlo.
 - Yo... al *estallar la Burbuja* vi otro planeta. Uno con dos lunas enromes. Una plateada y otra dorada.
 Kasim entrecerró los ojos, estudiando a Lucas.
@@ -104,17 +85,17 @@ El africano se quedó mirando hacia Lucas, esperando algo más. Este último tos
 - ¿Qué significan?
 - No estamos seguros, pero...
 - No - lo interrumpió Ajani.
-Kasim miró a su hermano mayor. Ajani lo miró a su vez, apartando la mirada tanto tiempo de la carretera que Lucas apretó el asiento con sus manos, nervioso.
+Kasim miró a su hermano mayor. Este último lo miró a su vez, apartando la mirada tanto tiempo de la carretera que Lucas apretó el asiento con sus manos, nervioso.
 - Está bien - dijo Kasim, y miró por la ventana.
-Lucas lo imitó y miró por su ventana. La gran extensión llana que rodeaba la *Burbuja* había desaparecido y ahora cruzaban un frondoso bosque.
-- Tienes que entender algo - dijo Ajani de repente, dirigiéndose a Lucas. Este último dio un respingo en el sillón -. Te hemos salvado porque nos puedes ser útil pero no pienso cargar con un peso muerto al que proteger a todas horas. Si decides continuar con nosotros quiero saber que puedo contar contigo en todo momento, y que si tienes que morir a nuestro lado lo harás. Nada de huir.
+Lucas lo imitó. La gran extensión llana que rodeaba la *Burbuja* había desaparecido y ahora cruzaban un frondoso bosque.
+- Tienes que entender algo - dijo Ajani de repente, dirigiéndose a Lucas. Este último dio un respingo en el sillón -. Te hemos salvado porque nos puedes ser útil, pero no pienso cargar con un peso muerto al que proteger a todas horas. Si decides continuar con nosotros quiero saber que puedo contar contigo en todo momento, y que si tienes que morir a nuestro lado lo harás. Nada de huir.
 Lucas calló, avergonzado.
 - ¿Aceptas venir con nosotros?
 "Si voy con ellos", pensó Lucas, "esto no acabará, seguiré arriesgando mi vida por..."
 - ¿Aceptas venir con nosotros? - repitió Ajani, alzando ligeramente la voz.
 - ¡Sí! - soltó Lucas. Entonces dudó unos segundos.
 - ¿Qué? - lo miró Ajani.
-- Sí iré con ustedes. Con vosotros. ¿Pero podría volver al campamento de la resistencia? Sólo quiero ver que Ana, Noemí y los demás están bien.
+- Sí iré con ustedes. ¿Pero podría volver al campamento de la Resistencia? Sólo quiero ver que Ana, Noemí y los demás están bien.
 Ajani suspiró.
 - Te llevaremos al campamento dentro de unas semanas.
 Lucas miró hacia fuera, al bosque.
