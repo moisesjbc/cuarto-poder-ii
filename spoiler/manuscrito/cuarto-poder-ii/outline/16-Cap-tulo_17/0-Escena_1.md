@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4749
+charCount:      4843
 
 
 Los dientes se hundieron en el brazo derecho, provocando una ola de dolor que casi hizo desmayar a un débil y hambriento Lucas.
@@ -15,24 +15,24 @@ El joven movió con fuerza la extremidad, intentando zafarse del animal, pero s�
 No sin torpeza lanzó su puño no dominante hacia la cara del perro. Este emitió un quejido y retrocedió. Lucas giró sobre si mismo a la izquierda y empezó a levantarse, pero el perro lanzó otro mordisco a su brazo izquierdo. Esta vez lanzó un puñetazo con su derecha.
 El impacto resonó en sus nudillos y acrecentó el ardor del brazo, allí donde tenía la herida de mordisco. Lucas se puso en pie rápidamente, notándose mareado. Se giró sobre si mismo y se dispuso a saltar hacia el rio.
 Alguien gritó algo en otro idioma. Lucas se detuvo y miró hacia su derecha.
-Un hombre alto y fornido avanzaba corriendo hacia él, a unos cien metros tras el perro. Vestía de verde militar y apuntaba un pequeño subfusil hacia él.
+Un hombre alto y fornido avanzaba corriendo hacia él, a unos doscientos metros tras el perro. Vestía de verde militar y apuntaba un pequeño subfusil hacia Lucas.
 "O viene a detenerme, o es de RIO"
-Lucas esquivó un ataque del perro como pudo y corrió hacia los árboles, mientras hacia el gesto de llevarse la mano hacia su cartuchera. El soldado empezó a disparar.
+Esquivó un ataque del perro como pudo y corrió hacia los árboles, mientras hacia el gesto de llevarse la mano hacia su cartuchera. El soldado empezó a disparar.
 Las balas arrancaban astillas de los troncos alrededor suya. Lucas corrió, con el corazón golpeando su pecho.
 Un cosquilleo recorrió sus brazos. Lucas se miró uno de ellos sin dejar de correr. Había perdido bastante sangre, pero las marcas de dientes estaban desapareciendo.
 "¿Pero qué...? ¡Ah!"
-Un mordisco en la pierna izquierda le hizo caer de bruces al suelo. Lucas se zafó con las piernas y se giró sobre su espalda. El perro lanzaba otro ataque cuando el joven le propinó una fuerte patada en el hocico. El animal emitió un chillido antes de caer inconsciente.
+Un mordisco en la pierna izquierda le hizo caer de bruces al suelo. Lucas se zafó con las piernas y se giró sobre su espalda. El perro lanzaba otro ataque cuando el joven le propinó una fuerte patada en el hocico. El animal lanzó un chillido antes de caer inconsciente.
 Lucas se levantó como pudo sin apoyar la pierna y cojeó hasta un árbol cercano de los que había dejado atrás. Asomó la cabeza y vio al soldado a unos cincuenta metros. Se acercaba hacia su posición pero parecía no haberlo visto.
 Retrocedió y corrió alejándose de la zona. Cojeó lastimosamente pero empezó a sentir otro cosquilleo en la pierna izquierda a tiempo que el dolor comenzaba a desaparecer rápidamente. A los pocos segundos corría apoyando ambos pies sin sentir dolor alguno.
-Corrió durante cinco minutos hasta llegar a un barranco de unos siete metros de profundidad. Encontró una pendiente menos pronunciada y se dejó caer por ella hasta el fondo.
-El barranco contaba con múltiples árboles y enormes piedras tras los que esconderse. Lucas se internó en él, permitiéndose avanzar un poco más lento para recuperar el aliento. Afinó el oído para escuchar sus alrededores, pero aún jadeaba con fuerza.
+Continuó corriendo durante cinco minutos hasta llegar a un barranco de unos siete metros de profundidad. Encontró una pendiente menos pronunciada a pocos metros a su izquierda y se dejó caer por ella hasta el fondo.
+El barranco contaba con múltiples árboles y enormes piedras tras los que esconderse. Lucas se internó en él, permitiéndose avanzar un poco más lento para recuperar el aliento. Afinó el oído para escuchar sus alrededores, pero aún jadeaba con tal fuerza que era imposible escuchar nada más.
 Se obligó a controlar la respiración e intentar inspirar y exhalar cada vez más despacio, a medida que miraba a su alrededor. No escuchaba ni veía movimiento cerca.
 "¿Lo habré dejado atrás?", deseó.
-Comenzó a caminar y llegó al otro extremo del barranco. Comenzó a subir una pendiente pero se detuvo al ver que las sombras de los árboles se acababan.
+Comenzó a caminar y llegó al otro extremo del barranco. Empezó a subir una pendiente pero se detuvo al ver que las sombras de los árboles se acababan.
 Se detuvo en el sitio y subió más lentamente mientras miraba hacia atrás. Fue entonces cuando vio a tres soldados al otro extremo del barranco. Uno de ellos miraba la pendiente por la que había bajado Lucas y le daba indicaciones a los demás. Dos de ellos bajaron, mientras que el que había dado la orden permanecía en el sitio y lanzaba un vistazo hacia el barranco. Lucas se ocultó antes de que sus miradas se cruzaran.
-Miró hacia ambos lados e identificó una pendiente que subía con menos pendiente.
-Lucas se colocó en la pendiente y respiró un par de veces. Esprintó y llegó arriba. Corrió hacia unos árboles cercanos y miró hacia atrás.
-El soldado del otro extremo miraba hacia él y gritaba a su radio.
+Miró hacia ambos lados e identificó una subida que subía con menos pendiente.
+Lucas se colocó en la pendiente y respiró un par de veces. Esprintó y llegó arriba. Entonces corrió hacia unos árboles cercanos y miró hacia atrás.
+El soldado del otro extremo miraba hacia él y gritaba algo a su radio.
 "Mierda"
 Se alejó de allí corriendo entre los árboles, aunque estaba vez no había disparos a su alrededor.
 "¿Y si hay más?" , lamentó. "¿y si no hay ningún sitio donde esconderme?"

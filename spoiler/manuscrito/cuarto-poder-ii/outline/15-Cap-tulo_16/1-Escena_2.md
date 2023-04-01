@@ -5,24 +5,11 @@ summaryFull:    Lucas busca desesperadamente agua hasta que por fin la encuentra
                 
                 - **¿O la granja / excursionistas que avisan a RIO?**
 POV:            0
-notes:          - Puede encontrar frutos por el camino, pero al no saber si son venenosos prefiere dejarlos como última opción. Tampoco consigue hacerse con ningún animal.
-                - - Idea (¿otra escena?): Lucas va a ser ayudado por una niña local, pero los padres le atacan pensando que es un terrorista como dice RIO.
-                - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
-                - Ajani no colabora con la resistencia directa
-                mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
-                filtrados de RIO.
-                - **(-) ¿Por qué Ajani y Kasim aparecen en el último momento para salvar a Lucas? ¿No había momentos menos peligrosos**
-                - Puede haber sido la primera prueba y que Ajani / Kasim lo mencionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
-                -               - Durante la primera parte, Ajani ha estado luchando contra RIO
-                en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero
-                no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia
-                atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones
-                - Cambiar subfusil por pistola.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8518
+charCount:      8501
 
 
 Lucas se levantó e hizo un par de respiraciones pausadas más. Seguía sintiendo que en cualquier momento tendría otro ataque de pánico, pero decidió aprovechar el momento de calma.
@@ -95,10 +82,9 @@ No pudo evitar reír.
 Se llevó más y más agua a la boca hasta que no pudo más. Estaba seguro de que lamentaría la gula pero, sinceramente, le daba igual.
 Se dejó caer sobre la hierba y cerró los ojos, resoplando. La luz del sol se colaba entre los árboles y lo bañaba, al tiempo que el agua le chorreaba la camiseta. Una lágrima de felicidad se deslizó sobre su mejilla.
 Sus tripas gruñeron y Lucas se llevó la mano al estómago, sin abrir los ojos.
-**VOY POR AQUÍ**
-"Cómo no", sonrió. "Ahora toca buscar comida".
+"Cómo no", suspiró, "Ahora toca buscar comida".
 El gruñido aumentó y se tornó agresivo. Ya no provenía de sus tripas.
 Lucas frunció el ceño. Abrió los ojos y miró hacia su derecha.
-Un perro grande y gris se encontraba de pie a poco más de un metro de él, las patas tiesas y las orejas en punta. Gruñía y enseñaba los dientes mientras sus ojos se mantenían fijos en su presa.
-Lucas levantó las manos, enseñando sus palmas desnudas hacia el rabioso animal, esperando que el gesto de sumisión lo amansaran.
+Un perro enorme y gris se encontraba de pie a poco más de un metro de él, las patas tiesas y las orejas en punta. Gruñía y enseñaba los dientes mientras sus ojos se mantenían fijos en su presa.
+Lucas levantó las manos, enseñando sus palmas desnudas hacia el rabioso animal, esperando que el gesto de sumisión lo amansara.
 En vez de eso, el perro atacó.
