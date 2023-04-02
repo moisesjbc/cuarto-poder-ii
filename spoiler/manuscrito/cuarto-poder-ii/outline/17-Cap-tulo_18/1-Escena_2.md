@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2253
+charCount:      2246
 
 
 Se despertó sintiendo un gran dolor en la espalda. Inicialmente confundido, asintió sin abrir los ojos, recordando que había dormido en el suelo.
@@ -18,13 +18,13 @@ Lucas encontró su pistola con la mano y se dispuso a apuntarla contra el descon
 El joven creyó reconocer la voz, pero no terminaba de fiarse. Intentó afinar la vista a ver si conseguía distinguir la cara de su interlocutor.
 - Espera.
 El desconocido hizo un movimiento y se escuchó un clic. Un pequeño mechero situado entre ambos iluminó una cara oscura, ligeramente poblada por un pelo y una barba cortos, negros y rizados.
-- Ok - se tranquilizó Lucas, pero entonces alzó la voz -. ¡Hijo de puta! ¡Me dejaste a morir!
+- Ok - se tranquilizó Lucas, pero entonces alzó la voz -. ¡Hijo de puta! ¡Me abandonaste a mi suerte!
 Ajani no cambió su semblante serio.
 - Teníamos que asegurarnos.
 "¿Y Kasim?", pensó rápidamente Lucas. No había nadie más con ellos.
 - ¿Asegurarse de qué? - dijo finalmente.
 - De que no eres una carga
-- ¿Qué? ¿Y si hubiera muerto?
+- ¿Qué...? ¿Y si hubiera muerto?
 - Entonces hubieras sido un problema menos del que preocuparnos.
 Lucas calló unos segundos. Entendía que no fuera nadie para los hermanos, pero que lo verbalizaran así sin más...
 Se sobresaltó al escuchar una risa provenir del pecho de Ajani. Este vestía ropa de camuflaje militar, y llevaba una pequeña radio colgada del pecho.
@@ -32,7 +32,7 @@ Se sobresaltó al escuchar una risa provenir del pecho de Ajani. Este vestía ro
 - ¿Kasim? ¿Dónde...?
 - Suficiente - dijo Ajani - Duerme.
 Lucas frunció el ceño.
-- Acabo de despertarme - acabó por decir.
+- Acabo de despertarme.
 - Como quieras. Mañana va a ser un día largo.
 Este último se incorporó y se dirigió hacia un lateral de la cueva. Fue entonces cuando Lucas vio el saco de dormir. Ajani se recostó sobre él.
 - ¿Y ya? - espetó Lucas, los ojos abiertos como platos - ¿Dónde estaban? ¿Dónde está Kasim? ¿Por qué...?

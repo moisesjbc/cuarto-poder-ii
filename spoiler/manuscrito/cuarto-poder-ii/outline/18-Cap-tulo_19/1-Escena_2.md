@@ -5,16 +5,41 @@ summaryFull:    Tras contener a Ajani a duras penas entre Lucas y Kasim, este ú
 POV:            0
 notes:          - Kasim puede repetirle alguna frase que solía decir su madre / padre / padres.
                 - **¿Meto aquí lo de los significados de los nombres o en otra parte?**
+                
+                - - - Idea (¿otra escena?): Lucas va a ser ayudado por una niña local, pero los padres le atacan pensando que es un terrorista como dice RIO.
+                - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
+                - Ajani no colabora con la resistencia directa
+                mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
+                filtrados de RIO.
+                - **(-) ¿Por qué Ajani y Kasim aparecen en el último momento para salvar a Lucas? ¿No había momentos menos peligrosos**
+                - Puede haber sido la primera prueba y que Ajani / Kasim lo mencionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
+                -               - Durante la primera parte, Ajani ha estado luchando contra RIO
+                en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero
+                no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia
+                atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones
+                - Cambiar subfusil por pistola.
+                
+                - Durante la primera parte, Ajani ha estado luchando contra RIO en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones.
+                
+                - **Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.**
+                - **Destino de Arturo y otros**
+                - **¿Qué le inyectan a Arturo?**
+                -
+                
+                - Nuevas muertes de patrullas de RIO.
+                - Diarreas y heridas.
+                - etc.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4544
+charCount:      4527
 
 
 Ajani le lanzaba golpe tras golpe sin parar y sin atender a los gritos de Kasim. Este último consiguió agarrarlo y separarlo de un sanguinolento Lucas.
 - ¡Ya basta!
-El hermano mayor parpadeó, como despertando de un trance. Miraba con el ceño fruncido a Kasim y a Lucas. De repente pareció comprender lo que sucedía y abrió la boca, pero no dijo nada.
+El hermano mayor parpadeó, como despertando de un trance. Miraba con el ceño fruncido a Kasim y a Lucas.
+De repente pareció comprender lo que sucedía.
 - Lo siento -. le dijo a su hermano.
 Kasim suspiró y entonces le dijo algo en otro idioma.
 Su interlocutor parecía a punto de protestar, pero calló y se alejó caminando entre los árboles.
@@ -36,7 +61,8 @@ El joven abrió y cerró la mandíbula, comprobando que ya no estaba rota.
 - Pues sí, la verdad - reconoció. A los pocos segundos recordó algo - ¿Y qué hay de mi "sexto sentido"?
 Kasim frunció el ceño.
 - ¿A qué te refieres?
-- Hace meses, en el asalto de *RIO*, el coronel Cooper... - Lucas hizo una pausa, cabizbajo -. El coronel Cooper me enseñó un correo enviado por Ajani en el que lamentaba no estar en el asalto y aconsejaba usarme como conejillo de Indias para decidir qué camino era seguro y cuál no, por mi "sexo sentido para el peligro"
+**VOY POR AQUÍ**
+- Hace meses, en el asalto de *RIO*, el coronel Cooper... - Lucas hizo una pausa, cabizbajo -. El coronel Cooper me enseñó un correo enviado por Ajani en el que lamentaba no estar en el asalto y aconsejaba usarme como conejillo de Indias para decidir qué camino era seguro y cuál no. Por mi "sexto sentido para el peligro"
 - Así que fue eso... - comenzó a decir Kasim, más para si mismo que para Lucas.
 - ¿El qué?
 - Lo lamento - dijo Kasim -, pero Ajani no se puso en contacto con los ingleses. Parece que cayeron en una trampa de *RIO*.
