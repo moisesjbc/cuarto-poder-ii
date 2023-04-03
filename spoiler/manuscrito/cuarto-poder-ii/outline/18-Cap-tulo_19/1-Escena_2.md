@@ -3,37 +3,26 @@ ID:             87
 type:           md
 summaryFull:    Tras contener a Ajani a duras penas entre Lucas y Kasim, este último le cuenta la historia de su hermano y suya a Lucas.
 POV:            0
-notes:          - Kasim puede repetirle alguna frase que solía decir su madre / padre / padres.
-                - **¿Meto aquí lo de los significados de los nombres o en otra parte?**
+notes:          - **¿Meto aquí lo de los significados de los nombres o en otra parte?**
                 
-                - - - Idea (¿otra escena?): Lucas va a ser ayudado por una niña local, pero los padres le atacan pensando que es un terrorista como dice RIO.
                 - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
                 - Ajani no colabora con la resistencia directa
                 mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
                 filtrados de RIO.
                 - **(-) ¿Por qué Ajani y Kasim aparecen en el último momento para salvar a Lucas? ¿No había momentos menos peligrosos**
                 - Puede haber sido la primera prueba y que Ajani / Kasim lo mencionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
-                -               - Durante la primera parte, Ajani ha estado luchando contra RIO
-                en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero
-                no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia
-                atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones
                 - Cambiar subfusil por pistola.
                 
-                - Durante la primera parte, Ajani ha estado luchando contra RIO en África. Se enteró  del plan de Cooper de atacar RIO y le procuró ayuda pero no pensaba que el ataque fuera a tener éxito. Además, se "distrajo" en su furia atacando instalaciones de RIO en África y por eso avisó con tan poco tiempo a Jonás. Dejó de contactar a la Resistencia porque se produjeron nuevas filtraciones.
-                
-                - **Ajani le tiene que contar por qué sabe lo de su sensibilidad a las nanomáquinas.**
                 - **Destino de Arturo y otros**
                 - **¿Qué le inyectan a Arturo?**
-                -
+                - En la escena 15.2 (buscar por "Cooper") ya se mencionaba el email a Cooper y la sensibilidad de Lucas a las nanomáquinas. Decidir qué cuento allí y aquí.
                 
-                - Nuevas muertes de patrullas de RIO.
-                - Diarreas y heridas.
-                - etc.
+                - ¿RIO o *RIO* en todo el texto?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4527
+charCount:      4620
 
 
 Ajani le lanzaba golpe tras golpe sin parar y sin atender a los gritos de Kasim. Este último consiguió agarrarlo y separarlo de un sanguinolento Lucas.
@@ -58,19 +47,20 @@ Kasim sonrió.
 Lucas meditó la respuesta.
 - Esperabas más información - dijo Kasim -. ¿Verdad?
 El joven abrió y cerró la mandíbula, comprobando que ya no estaba rota.
-- Pues sí, la verdad - reconoció. A los pocos segundos recordó algo - ¿Y qué hay de mi "sexto sentido"?
+- Pues sí, la verdad - reconoció.
+A los pocos segundos recordó algo.
+- ¿Por qué no ayudaron hace meses?
 Kasim frunció el ceño.
 - ¿A qué te refieres?
-**VOY POR AQUÍ**
 - Hace meses, en el asalto de *RIO*, el coronel Cooper... - Lucas hizo una pausa, cabizbajo -. El coronel Cooper me enseñó un correo enviado por Ajani en el que lamentaba no estar en el asalto y aconsejaba usarme como conejillo de Indias para decidir qué camino era seguro y cuál no. Por mi "sexto sentido para el peligro"
 - Así que fue eso... - comenzó a decir Kasim, más para si mismo que para Lucas.
 - ¿El qué?
-- Lo lamento - dijo Kasim -, pero Ajani no se puso en contacto con los ingleses. Parece que cayeron en una trampa de *RIO*.
+- Lo lamento - dijo Kasim -, pero Ajani no se puso en contacto por ese entonces con los ingleses ni con Jonás. Cayeron en una trampa de *RIO*.
 Lucas abrió los ojos como platos.
 - ¿Qué? ¿Y qué sacaba *RIO* con ello?
 - Hacer limpieza.
-Lucas recordó todos los caídos entre ingleses y miembros de la resistencia.
-- Entiendo - dijo a los pocos segundos.
+Lucas recordó todos los caídos entre ingleses y miembros de la resistencia. Permaneció unos segundos en silencio antes de contestar.
+- Entiendo.
 "Así que Cooper fue 'limpiado'", pensó amargamente.
 - ¿Algo más que quieras sonsacarme antes de que vuelva Ajani?
 El joven miró al africano. Este último sonrió.
@@ -79,10 +69,11 @@ El joven miró al africano. Este último sonrió.
 - ¿Dónde están Ana y los demás? ¿Están bien?
 -  Lo lamento, pero ese es nuestro seguro.
 Lucas frunció el ceño.
-- ¿Vuestro seguro?
-- Tenemos planes para ti y tu "sexto sentido". Tampoco sabemos por qué, pero tienes hipersensibilidad a las nanomáquinas de *RIO*, y nos vendrá bien en las próximas semanas.
-Lucas refrenó lo ofendido que se sentía al sentirse utilizado y consideró que esa era una información que sabría tarde o temprano. En su lugar aprovechó para lo segundo que quería preguntar.
-- Bueno, y ¿A qué ha venido lo de Ajani? - Se cuidó de no terminar con un "¿Está loco?"
+- ¿Su seguro?
+- Tenemos planes para ti y tu "sexto sentido". Tu hipersensibilidad a las nanomáquinas de *RIO* nos vendrá bien en las próximas semanas.
+Lucas trató de ocultar lo ofendido que se sentía al sentirse utilizado. Tampoco quiso malgastar el tiempo en preguntar qué pasaría en las próximas semanas ya que tarde o temprano se enteraría. En su lugar aprovechó para plantear lo segundo que quería preguntar.
+- Bueno, y ¿A qué ha venido lo de Ajani?
+Se cuidó de no terminar con un "¿Está mal de la cabeza?"
 - Me preguntaba cuándo lo preguntarías - sonrió Kasim.
 El hermano menor miró a su alrededor, buscando a Ajani con la mirada. Lucas hizo lo mismo, pero tampoco lo localizó cerca.
 Kasim bajó la voz.
@@ -91,7 +82,10 @@ Kasim bajó la voz.
 - Gracias. Ajani y yo conseguimos escapar a duras penas. Vagamos por el bosque, sobreviviendo de milagro. Ladrones y bandidos intentaron hacernos daño pero nos defendimos con uñas y dientes. Sin embargo, Ajani... lo llevó al extremo.
 - ¿Y eso?
 - No es un diagnóstico que nos haya dado un psicólogo, pero Ajani desarrolló una fuerte dependencia conmigo, su último ser querido, y protegerme se convirtió en su obsesión. Esto unido a toda la ira que sintió a perder a tantos seres queridos a manos de *RIO* siendo un niño...
-- ¿*RIO*? ¿Pero no habías dicho unos terroris...? - Lucas se detuvo - Ya veo -. Suspiró. - *RIO* tenía intereses en la zona.
+- ¿RIO? ¿Pero no habías dicho unos terroris...?
+Lucas se detuvo.
+Ya veo - Suspiró -. RIO tenía intereses en la zona.
 - Exacto.
 - Cabrones.
-- Bueno - dijo Ajani a sus espaldas, sobresaltando a Lucas -, ya lo sabes. Mataré a cualquiera de *RIO* y a cualquiera que ataque a mi hermano. Y ahora, sigamos con el entrenamiento.
+- Bueno - dijo Ajani a sus espaldas, sobresaltando a Lucas -, ya lo sabes. Mataré a cualquiera de RIO*y a cualquiera que ataque a mi hermano. Y ahora, sigamos con el entrenamiento.
+- **VOY POR AQUÍ (MIRAR NOTAS)**
