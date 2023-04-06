@@ -3,26 +3,27 @@ ID:             87
 type:           md
 summaryFull:    Tras contener a Ajani a duras penas entre Lucas y Kasim, este último le cuenta la historia de su hermano y suya a Lucas.
 POV:            0
-notes:          - **¿Meto aquí lo de los significados de los nombres o en otra parte?**
-                
-                - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
-                - Ajani no colabora con la resistencia directa
-                mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
-                filtrados de RIO.
+notes:          - En la escena 15.2 (buscar por "Cooper") ya se mencionaba el email a Cooper y la sensibilidad de Lucas a las nanomáquinas. Decidir qué cuento allí y aquí.
                 - **(-) ¿Por qué Ajani y Kasim aparecen en el último momento para salvar a Lucas? ¿No había momentos menos peligrosos**
                 - Puede haber sido la primera prueba y que Ajani / Kasim lo mencionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
                 - Cambiar subfusil por pistola.
                 
                 - **Destino de Arturo y otros**
                 - **¿Qué le inyectan a Arturo?**
-                - En la escena 15.2 (buscar por "Cooper") ya se mencionaba el email a Cooper y la sensibilidad de Lucas a las nanomáquinas. Decidir qué cuento allí y aquí.
                 
+                
+                
+                - **¿Meto aquí lo de los significados de los nombres o en otra parte?**
                 - ¿RIO o *RIO* en todo el texto?
+                - - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
+                - Ajani no colabora con la resistencia directa
+                mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
+                filtrados de RIO.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4620
+charCount:      5293
 
 
 Ajani le lanzaba golpe tras golpe sin parar y sin atender a los gritos de Kasim. Este último consiguió agarrarlo y separarlo de un sanguinolento Lucas.
@@ -61,7 +62,15 @@ Lucas abrió los ojos como platos.
 - Hacer limpieza.
 Lucas recordó todos los caídos entre ingleses y miembros de la resistencia. Permaneció unos segundos en silencio antes de contestar.
 - Entiendo.
-"Así que Cooper fue 'limpiado'", pensó amargamente.
+"Así que Cooper y los suyos fueron 'limpiados'", pensó amargamente.
+- ¿Y qué demonios es lo de mi "sexto sentido"? - preguntó entonces.
+- RIO dispone de una tecnología de nanomáquinas. Pueden formar, entre otras cosas, suelos y estructuras que replican las reales perfectamente, salvo excepciones. Un pequeño porcentaje de la población dispone de mayor sensibilidad y marea cuando tocan o interactúan con dichas nanomáquinas.
+Lucas apretó el puño.
+- ¿Así que sólo soy una cobaya de RIO?
+- Esos mareos ya los habías sentido antes, ¿cierto?
+- Sí. Cuando trabajaba en RIO, cada vez que recorría el pasillo que iba a los baños sentía unos mareos enormes.
+- Mmmm, entiendo. Sí, eso parece.
+"Así que por eso no se deshacían de mi"
 - ¿Algo más que quieras sonsacarme antes de que vuelva Ajani?
 El joven miró al africano. Este último sonrió.
 - Dos cosas, la verdad.
@@ -87,5 +96,5 @@ Lucas se detuvo.
 Ya veo - Suspiró -. RIO tenía intereses en la zona.
 - Exacto.
 - Cabrones.
-- Bueno - dijo Ajani a sus espaldas, sobresaltando a Lucas -, ya lo sabes. Mataré a cualquiera de RIO*y a cualquiera que ataque a mi hermano. Y ahora, sigamos con el entrenamiento.
+- Bueno - dijo Ajani a sus espaldas, sobresaltando a Lucas -, ya lo sabes. Mataré a cualquiera de RIO y a cualquiera que ataque a mi hermano. Y ahora, sigamos con el entrenamiento.
 - **VOY POR AQUÍ (MIRAR NOTAS)**

@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6991
+charCount:      5977
 
 
 Ajani conitnuó caminando a paso ligero sin preocuparse en mirar hacia Lucas. Este último, varios metros por detrás, intentaba seguirle el ritmo como podía.
@@ -48,23 +48,11 @@ El copiloto lo miró fijamente y aunque sus ojos parecían decir "lo siento", ig
 - Lo siento, pero no podemos.
 - Pero...
 - No vamos a volver - lo cortó Ajani.
-Lucas guardó silencio a regañadientes.
-"Lo he intentado, chicas"
-Sin dejar de sentirse fatal por ellas, no pudo evitar recordar algo que le carcomía desde hace tiempo y que sólo la pareja que tenía delante podía responderle.
-- El coronel Cooper me enseñó tu email - dijo, dirigiéndose, hacia Ajani. Este último seguía mirando la carretera frente a ellos -, donde hablaba de mi... ¿"sexto sentido para el peligro"?
-El joven pausó, esperando una confirmación por parte de Ajani, pero este último se mantuvo en silencio.
-- ¿A qué te referías? - insitió Lucas - ¿Qué sexto sentido tengo?
-El que habló fue Kasim.
-- RIO dispone de una tecnología de nanomáquinas. Pueden formar, entre otras cosas, suelos y estructuras que replican las reales perfectamente, salvo excepciones. Un pequeño porcentaje de la población dispone de mayor sensibilidad y marea cuando tocan o interactúan con dichas nanomáquinas.
-Lucas apretó el puño.
-- ¿Así que sólo soy una cobaya de RIO?
-- Esos mareos ya los habías sentido antes, ¿cierto?
-- Sí. Cuando trabajaba en RIO, cada vez que recorría el pasillo que iba a los baños sentía unos mareos enormes.
-- Mmmm, entiendo. Sí, eso parece.
-"Así que por eso no se deshacían de mi"
-Lucas recordó algo más.
-- ¿Por qué no estuvieron allí? ¿En el AT de Gran...?
-- Ahora nos toca a nosotros preguntar - lo interrumpió Ajani, sin dejar de mirar la carretera -. Has tenido visiones, ¿no?
+Lucas guardó silencio a regañadientes. Sólo lo interrumpió para soltar algo por lo bajo mientras miraba por la ventana.
+- Menudo héroe abandonando a la gente - espetó -. Igual que a Cooper y los suyos.
+- No tuvimos nada que ver con eso - dijo Kasim.
+- ¿Qué...?
+- Las preguntas las hacemos nosotros - lo interrumpió Ajani, sin dejar de mirar la carretera -. Has tenido visiones, ¿no?
 Lucas abrió los ojos como platos.
 - ¿Cómo...?
 - ¿Qué has visto?

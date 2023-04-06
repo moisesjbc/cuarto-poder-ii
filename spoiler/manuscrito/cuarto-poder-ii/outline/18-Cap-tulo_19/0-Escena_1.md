@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2681
+charCount:      2734
 
 
 El entrenamiento de Lucas en la Resistencia no fue nada en comparación con la semana que pasó con los hermanos.
@@ -15,7 +15,7 @@ Cada día Lucas despertaba solo, sin agua, comida ni armas, pues Ajani y Kasim s
 Se sorprendió de lo rápido que se había acostumbrado a matar. No era que olvidara la expresión de la vida abandonando los cuerpos de sus víctimas, pero ya apenas dudaba a la hora de asestar el golpe de gracia.
 También se había acostumbrado a recibir puñaladas, disparos y otros golpes que en otras personas eran mortales, pero que en él se traducían en un simple cosquilleo. Los hermanos le preguntaban sobre ello, pero no podía evitar fijarse en que no parecían demasiado sorprendidos.
 - No lo sé. También me gustaría saber qué me pasa - Se limitaba a responder.
-Por su parte, Lucas intentaba sonsacarles información: ¿cómo sabían lo de la sensiblidad de Lucas a las nanomáquinas? ¿también eran nanomáquinas lo que mantenían a Lucas con vida? ¿Dónde estaba Ana, Noemí y Lara? ¿Estaban bien?
+Por su parte, Lucas intentaba sonsacarles información: ¿cómo que no tenían que ver con el asalto de Cooper y los suyos al AT de Gran Canaria? ¿qué es su "sexto sentido" que Ajani mencionaba en su correo a Cooper por aquel entonces? ¿Dónde estaban Ana, Noemí y Lara? ¿Estaban bien?
 Kasim parecía más dispuesto a contestarle, pero siempre estaba Ajani para evitarlo enseguida.
 "Aún no", se limitaba a cortarles.
 El joven sospechaba que los hermanos conocían la respuesta, si no a todas las preguntas, sí a las últimas. A veces fantaseaba con sacarles la información a golpes, pero era plenamente consciente de que era imposible.
