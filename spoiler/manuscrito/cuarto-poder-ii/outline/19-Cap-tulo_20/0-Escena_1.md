@@ -9,15 +9,16 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4894
+charCount:      4930
 
 
-Lucas miró a su alrededor.
+El joven miró a su alrededor.
 Se encontraba en medio de la carretera, en una calle bordeada por casas con amplios jardines a ambos lados.
-En el suelo se agolpaban cadáveres ensangrentados. El joven miró el cuchillo que sujetaba en sus manos rojas.
+En el suelo se agolpaban cadáveres ensangrentados. El joven miró el cuchillo que sujetaba en sus manos teñidas de rojo.
 - ¿Qué...?
-El eco resonó cómo si estuviera en una habitación de metal: ¿qué...? ¿qué...? ¿qué...?
+El eco resonó cómo si estuviera en una habitación hecha de metal: ¿qué...? ¿qué...? ¿qué...?
 La joven de sus sueños apareció frente a él. Un poco más alta y tan delgada como él. La misma melena castaña y rizada cayendo a borbotones por su cuerpo.
+**VOY POR AQUÍ**
 - Tienes que liberarnos - dijo con una voz dulce y seria, sin ecos.
 - ¿Qué? - el eco resonó de nuevo - ¿A quiénes?
 Un cuchillo se clavó en la espalda de Lucas y este calló al suelo, mientras la joven lo miraba fijamente.

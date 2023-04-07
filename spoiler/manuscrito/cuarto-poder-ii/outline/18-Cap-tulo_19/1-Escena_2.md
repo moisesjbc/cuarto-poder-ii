@@ -3,27 +3,17 @@ ID:             87
 type:           md
 summaryFull:    Tras contener a Ajani a duras penas entre Lucas y Kasim, este último le cuenta la historia de su hermano y suya a Lucas.
 POV:            0
-notes:          - En la escena 15.2 (buscar por "Cooper") ya se mencionaba el email a Cooper y la sensibilidad de Lucas a las nanomáquinas. Decidir qué cuento allí y aquí.
-                - **(-) ¿Por qué Ajani y Kasim aparecen en el último momento para salvar a Lucas? ¿No había momentos menos peligrosos**
-                - Puede haber sido la primera prueba y que Ajani / Kasim lo mencionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
-                - Cambiar subfusil por pistola.
-                
-                - **Destino de Arturo y otros**
-                - **¿Qué le inyectan a Arturo?**
-                
-                
-                
-                - **¿Meto aquí lo de los significados de los nombres o en otra parte?**
+notes:          - **¿Meto aquí lo de los significados de los nombres o en otra parte?**
                 - ¿RIO o *RIO* en todo el texto?
                 - - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
-                - Ajani no colabora con la resistencia directa
-                mente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos in
-                filtrados de RIO.
+                - Ajani no colabora con la resistencia directamente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos infiltrados de RIO.
+                
+                
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5293
+charCount:      5270
 
 
 Ajani le lanzaba golpe tras golpe sin parar y sin atender a los gritos de Kasim. Este último consiguió agarrarlo y separarlo de un sanguinolento Lucas.
@@ -96,5 +86,4 @@ Lucas se detuvo.
 Ya veo - Suspiró -. RIO tenía intereses en la zona.
 - Exacto.
 - Cabrones.
-- Bueno - dijo Ajani a sus espaldas, sobresaltando a Lucas -, ya lo sabes. Mataré a cualquiera de RIO y a cualquiera que ataque a mi hermano. Y ahora, sigamos con el entrenamiento.
-- **VOY POR AQUÍ (MIRAR NOTAS)**
+- Bueno - dijo Ajani a sus espaldas, sobresaltando a Lucas -, ya lo sabes. Mataré a cualquiera de RIO y a cualquiera que le toque un pelo a mi hermano. Y ahora, sigamos con el entrenamiento.

@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2246
+charCount:      2252
 
 
 Se despertó sintiendo un gran dolor en la espalda. Inicialmente confundido, asintió sin abrir los ojos, recordando que había dormido en el suelo.
@@ -30,11 +30,11 @@ Lucas calló unos segundos. Entendía que no fuera nadie para los hermanos, pero
 Se sobresaltó al escuchar una risa provenir del pecho de Ajani. Este vestía ropa de camuflaje militar, y llevaba una pequeña radio colgada del pecho.
 - Discúlpale, Lucas - dijo Kasim -. No sabe ser más amable. Oye, felicidades por sobrevivir, aunque no se podría decir que haya sido todo mérito tuyo - Lucas podía adivinarlo sonriendo a través de las ondas.
 - ¿Kasim? ¿Dónde...?
-- Suficiente - dijo Ajani - Duerme.
+- Suficiente - dijo Ajani -. Duerme.
 Lucas frunció el ceño.
 - Acabo de despertarme.
 - Como quieras. Mañana va a ser un día largo.
 Este último se incorporó y se dirigió hacia un lateral de la cueva. Fue entonces cuando Lucas vio el saco de dormir. Ajani se recostó sobre él.
-- ¿Y ya? - espetó Lucas, los ojos abiertos como platos - ¿Dónde estaban? ¿Dónde está Kasim? ¿Por qué...?
+- ¿Y ya está? - espetó Lucas, los ojos abiertos como platos - ¿Dónde estaban? ¿Dónde está Kasim? ¿Por qué...?
 - Hasta mañana.
 El africano se dio la vuelta, dándole la espalda.

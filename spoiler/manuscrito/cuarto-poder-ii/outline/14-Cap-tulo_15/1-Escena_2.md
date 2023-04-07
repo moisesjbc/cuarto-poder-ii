@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5977
+charCount:      6005
 
 
 Ajani conitnuó caminando a paso ligero sin preocuparse en mirar hacia Lucas. Este último, varios metros por detrás, intentaba seguirle el ritmo como podía.
@@ -52,12 +52,12 @@ Lucas guardó silencio a regañadientes. Sólo lo interrumpió para soltar algo 
 - Menudo héroe abandonando a la gente - espetó -. Igual que a Cooper y los suyos.
 - No tuvimos nada que ver con eso - dijo Kasim.
 - ¿Qué...?
-- Las preguntas las hacemos nosotros - lo interrumpió Ajani, sin dejar de mirar la carretera -. Has tenido visiones, ¿no?
+- Las preguntas las hacemos nosotros - lo interrumpió Ajani, sin dejar de mirar la carretera frente a ellos -. Has tenido visiones, ¿no?
 Lucas abrió los ojos como platos.
 - ¿Cómo...?
 - ¿Qué has visto?
 El joven no sabía si podía confiar en los hermanos, aún a pesar de haberlo salvado. Aún así, si ellos podían decirle algo sobre sus visiones valía la pena intentarlo.
-- Yo... al *estallar la Burbuja* vi otro planeta. Uno con dos lunas enromes. Una plateada y otra dorada.
+- Yo... al *estallar la Burbuja* vi otro planeta. Uno con dos lunas enormes. Una plateada y otra dorada.
 Kasim entrecerró los ojos, estudiando a Lucas.
 - ¿Qué más has visto?
 - En ese momento no vi nada más. Pero he tenido visiones al llevarme un golpe en la cabeza o al dormir.
@@ -66,7 +66,7 @@ Kasim entrecerró los ojos, estudiando a Lucas.
 Los dos hermanos se miraron. Kasim habló.
 - Entiendo.
 El africano se quedó mirando hacia Lucas, esperando algo más. Este último tosió.
-- ¡Oh! Sí, claro. En esas visiones veo las cenizas de Cooper y luego veo... un portal.
+- ¡Oh! Sí, claro. En esas visiones veo las cenizas de Cooper y los suyos. Y luego veo... un portal.
 - ¿Un portal?
 - Sí. Cuando intento acercarme desaparece y aparece una mujer joven, con una melena castaña rizada enorme. Intenta comunicarse conmigo pero no lo consigue y entonces acaba el sueño. Digo, la visión.
 - Ya veo...

@@ -7,12 +7,12 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1134
+charCount:      1145
 
 
 La siguiente semana pasó volando.
 Lucas seguía despertándose sólo, buscaba agua y comida y mataba a quién amenazara su seguridad. Por las tardes peleaba con Ajani y se cuidaba muy mucho de no acercarse demasiado a Kasim.
-Ajani no se disculpó en ningún momento con Lucas. Al parecer no lo consideraba necesario, cosa que molestaba al joven. Si era una táctica para que Lucas no tuviera reparos en intentar acertarle golpes de verdad, funcionaba estupendamente.
+El hermano mayor no se disculpó en ningún momento con Lucas. Al parecer no lo consideraba necesario, cosa que molestaba al joven. Si era una táctica para que Lucas no tuviera reparos en intentar acertarle golpes de verdad, funcionaba estupendamente.
 Sonrió como un niño pequeño la primera vez que consiguió acertarle un golpe al africano, pero un contrataque rápido de este último le recordó con quién estaba luchando.
 Una noche, tras pasar la semana de entrenamiento, Lucas se disponía a dormir sobre el suelo de la cueva como siempre.
 Esta vez, sin embargo, Ajani se acercó a Lucas.

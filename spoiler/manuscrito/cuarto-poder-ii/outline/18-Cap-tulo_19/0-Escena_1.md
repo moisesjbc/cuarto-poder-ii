@@ -3,6 +3,8 @@ ID:             86
 type:           md
 summaryFull:    Flashforward de varios días de Lucas siendo sometido a prueba por los hermanos. Un día Lucas tropieza y empuja sin querer a Kasim. Ajani le ataca.
 POV:            0
+notes:          - **(-) ¿Por qué Ajani y Kasim aparecen en el último momento para salvar a Lucas? ¿No había momentos menos peligrosos**
+                - Puede haber sido la primera prueba y que Ajani / Kasim lo mencionen más adelante (llevaban tiempo esperando fuera de la *Burbuja*).
 label:          4
 status:         1
 compile:        2
