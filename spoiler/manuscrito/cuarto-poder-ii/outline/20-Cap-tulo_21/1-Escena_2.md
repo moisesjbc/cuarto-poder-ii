@@ -13,20 +13,20 @@ notes:          - Lucas le pregunta por Noemí.
 label:          4
 status:         1
 compile:        2
-charCount:      6185
+charCount:      6261
 
 
 A la mañana siguiente los hermanos llevaron a Lucas hasta su coche, a unos kilómetros de la cueva.
 Ajani condujo el vehículo, con su hermano de copiloto y Lucas en el asiento de atrás. Avanzaron unos metros de bosque y salieron a una carretera secundaria por la que no pasaba nadie.
-Estuvieron en marcha unas dos horas en las que Lucas se cansó de observar paisajes repetitivos en el exterior y la entropía del interior del vehículo.
+Estuvieron en marcha unas dos horas en las que Lucas se cansó de observar y analizar los paisajes repetitivos en el exterior y la entropía del interior del vehículo.
 "La organización no parece una prioridad para ellos", certificó Lucas mientras observaba todo tipo de objetos acumularse en los asientos y el suelo: armas, papeles garabateados y bolígrafos, comida en lata, botellas de agua, ...
-De repente se toparon con un control policial. Una pareja de policías se acercaron por sendos lados del vehículo mientras los hermanos abrían las ventanas.
+De repente se toparon con un control policial. Una pareja de agentes se acercaron por sendos lados del vehículo mientras los hermanos abrían las ventanas.
 El que venía por el lado de Ajani lo reconoció al instante y desenfundó su pistola, pero Ajani fue más rápido. Tres disparos perforaron el pecho del policía, al tiempo que otro disparo efectuado por Kasim abatía al segundo policía.
 Lucas pegó un respingo.
 - ¡¿Qué cojones?!
 - Son agentes de RIO - se limitó a responder Ajani mientras reanudaba la marcha.
-- Claramente - Añadió Kasim.
-Viajaron durante otras tres horas en las que Lucas se quedó dormido a pesar de sus esfuerzos por orientarse y saber dónde estaba.
+- Claramente - añadió Kasim mientras se guardaba la pistola.
+Viajaron durante otras tres horas en las que Lucas se quedó dormido a pesar de sus esfuerzos por orientarse y tratar de adivinar dónde estaba.
 - Hemos llegado.
 El joven se despertó de un sobresalto y miró alrededor. La carretera cruzaba una llanura que parecía no tener fin, salvo por los bosques y montañas que se perfilaban en el horizonte.
 - Allí - le indicó Kasim.
@@ -68,6 +68,7 @@ Levantó la mano torpemente para intentar posarla en el hombro de su amiga, pero
 - Suena más plausible, lo admito - asintió -. Pero no sería la primera vez que Ajani la fastidia.
 Lucas frunció el ceño.
 - ¿A qué te refieres?
+**VOY POR AQUÍ**
 - La Resistencia ha colaborado con él. Muy poco, pero lo ha hecho. Ajani es un guerrero formidable, pero pierde de vista el objetivo muy fácilmente si tiene a alguien de RIO delante. Tiene un problema de ira muy grave.
 Lucas recordó la paliza de Ajani. "No hace falta que lo jures", pensó.
 Por mucho que lo intentó, su pensamiento se tradujo en una sonrisa irónica.

@@ -7,11 +7,11 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2307
+charCount:      2425
 
 
 - ¿Qué has visto? - preguntó Ajani, mirándolo fijamente.
-- Matanzas en distintas *Burbujas*. Luego aparecía en un planeta con dos lunas gigantes, y crucé un portal con una joven. Aparecimos en una especie de base militar rodeada por bosques.
+- Matanzas en distintas *Burbujas* - contestó Lucas, llevándose  la mano a la cara esperando que ayudara en algo con el mareo que sentía -. Luego aparecí en un planeta con dos lunas gigantes, y crucé un portal con la joven de mis visiones. Aparecimos en una especie de base militar rodeada por bosques.
 - Interesante, ¿viste dónde estaba?
 Lucas intentó recordar el lugar y los nombres que había visto, y se sorprendió al recrearlo con tanta fidelidad y sin esfuerzo en su mente. Era como si de repente volviera a estar allí y pudiera estudiar las imágenes que había visto, en lugar de retener fragmentos más o menos borrosos.
 - Sí - dijo -. Bueno, no conozco el sitio, pero tengo referencias.
