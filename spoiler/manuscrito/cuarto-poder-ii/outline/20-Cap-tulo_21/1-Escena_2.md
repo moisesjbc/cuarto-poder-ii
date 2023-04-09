@@ -3,17 +3,10 @@ ID:             75
 type:           md
 summaryFull:    Los hermanos llevan a Lucas ante Ana. Ana trata de convencerle de que vuelva con la Resistencia ya que desconfía de Ajani tras los sucesos del {P:2:Asalto al AT de Gran Canaria}. No obstante, Lucas decide honrar el trato y quedarse con los hermanos. Se despiden.
 POV:            0
-notes:          - Lucas le pregunta por Noemí.
-                - Lucas se debate entre dejarle una nota con el destino a Ana en secreto o no para no ponerla en peligro. Finalmente se la cuela pero no lo dejo claro al lector.
-                - **¿Cómo le escribe la nota si no tiene papel ni lápiz?**
-                
-                
-                - **Al final pasé de la nota**
-                - **¿Añado que Lucas le cuente lo de sus "poderes" o por qué quiere ir a la base de RIO realmente (planeta)?**
 label:          4
 status:         1
 compile:        2
-charCount:      6261
+charCount:      6242
 
 
 A la mañana siguiente los hermanos llevaron a Lucas hasta su coche, a unos kilómetros de la cueva.
@@ -68,34 +61,33 @@ Levantó la mano torpemente para intentar posarla en el hombro de su amiga, pero
 - Suena más plausible, lo admito - asintió -. Pero no sería la primera vez que Ajani la fastidia.
 Lucas frunció el ceño.
 - ¿A qué te refieres?
-**VOY POR AQUÍ**
 - La Resistencia ha colaborado con él. Muy poco, pero lo ha hecho. Ajani es un guerrero formidable, pero pierde de vista el objetivo muy fácilmente si tiene a alguien de RIO delante. Tiene un problema de ira muy grave.
 Lucas recordó la paliza de Ajani. "No hace falta que lo jures", pensó.
-Por mucho que lo intentó, su pensamiento se tradujo en una sonrisa irónica.
+Por mucho que intentó evitarlo, su pensamiento se tradujo en una sonrisa irónica.
 Esta vez fue Ana quien frunció el ceño.
 - ¿Seguro que no te ha hecho nada?
 Lucas retrocedió unos pasos y extendió los brazos, dejando que Ana recorriera su cuerpo con la mirada.
-- Ni un rasguño - sonrió -.
+- Ni un rasguño - sonrió.
 Ana lo miró fijamente a los ojos, seria.
 "Oh no". El joven recordó por qué nunca jugaba al Póker con su amiga.
-- ¿Cómo están mis...? - Lucas se detuvo. "¿Todavía las veo como mis hijas?" - ¿Cómo están Lara? ¿Y Noemí? ¿La encontraron?
+- ¿Cómo están mis...? - Lucas se detuvo. "¿Todavía las veo como mis hijas?" - ¿Cómo está Lara? ¿Y Noemí? ¿La encontraron?
 - ¿Cómo que si la encontramos?
 - Justo antes de irme a la *Burbuja* había desaparecido.
 - ¡Ah! Sí, está bien... la última vez que la vi lo estaba, al menos.
 - ¿Cómo que "la última vez"?
 - Te echa mucho de menos, Lucas. Viene, está unos días, y sale "a dar una vuelta", pero se nota que te está buscando.
-- ¡Pero eso es peligroso! - exclamó Lucas, recordando a su "hija" jugar a "Revolverle el pelo a tu hermana la mayor". Una gran parte de él echaba de menos eso, y la idea de perderla era demasiado, fuera su hija o no.
+- ¡Pero eso es peligroso! - exclamó Lucas.
+Recordó a su "hija" jugar a "Revolverle el pelo a tu hermana la mayor". Una gran parte de él echaba de menos eso, y la idea de perderla era demasiado, fuera su hija o no.
 - Ya bueno, prueba a retenerla en un sitio. No tendría una razón para irse si estuvieras aquí.
 Lucas suspiró.
 - No puedo. Tengo que acompañar a los hermanos en esta misión.
 - ¿"Misión"? ¿Qué misión?
 Ana miró por encima del hombro de Lucas. Su gesto dubitativo se tornó en uno de asco.
 Lucas miró hacia atrás y vio que Ajani se había bajado del coche y caminaba hacia ellos. Kasim también se había bajado del coche, pero permanecía al lado de este.
-Tenía el rifle de sus francotirador en las manos.
+Tenía el rifle de francotirador en las manos.
 El joven se giró hacia Ana y sopesó las posibilidades. ¿Estaba dispuesto a ponerla en peligro?
 Ajani seguía acercándose. Kasim seguía mirándolos.
 Lucas se abrazó a una sorprendida Ana y le susurró al oído lo de la base militar de RIO. También le listó los cuatro nombres que la rodeaban.
 Se separó de Ana. Esta última lo miró y asintió, sonriendo.
 "Espero que los recuerde"
-- Es la hora - soltó Ajani a su espalda -. Nos vamos.
-
+- Es la hora - soltó Ajani a sus espaldas -. Nos vamos.

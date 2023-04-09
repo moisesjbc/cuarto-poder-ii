@@ -8,19 +8,19 @@ notes:          Los "Hombres de Negro" son agentes dedicados a cubrir las huella
                 - Uno de estos espías mantuvo a Paco en su puesto en la primera parte como forma de aprovechar su incompetencia a favor de la Resistencia. Casi muere por ello.
                 
                 
-                - **Cambiar nombre de la base militar**
+                - **Cambiar nombre de la base militar** -> Base militar 36
 label:          1
 status:         1
 compile:        2
-charCount:      6704
+charCount:      6896
 
 
 Lucas acompañó a Ajani hasta el coche sin dejar de mirar hacia atrás. Ana lo seguía con la mirada y con el semblante serio. Ignoraba por completo a Kasim, que seguía de pie junto al coche, el rifle en las manos.
-Los tres se subieron en el coche, esta vez con Kasim de conductor. Abandonaron la zona dejando una nube de polvo entre la que Lucas conseguía distinguir a dudas penas a su amiga. Ana caminaba hacia el almacén abandonado.
-Lucas miró hacia los alrededores del coche. Una gran extensión de tierra desértica los rodeaba.
+Los tres se subieron en el coche, esta vez con Kasim de conductor. Abandonaron la zona dejando una nube de polvo entre la que Lucas conseguía distinguir a dudas penas a su amiga, que ya caminaba hacia el almacén abandonado.
+El joven miró hacia los alrededores del coche. Una gran extensión de tierra desértica, bañada por el sol del mediodía, los rodeaba.
 No veía a Noemí por ninguna parte.
-"Ojalá esté bien", pensó mientras lo bañaba el sol del mediodía.
-El joven se recostó en el asiento.
+"Ojalá esté bien".
+Se recostó en el asiento.
 - Imagino que ahora vamos a la base de RIO, ¿no?
 - No exactamente - respondió Kasim, alternando la mirada entre la carretera y el pasajero del asiento trasero -. Es decir: sí que vamos hacia allí, pero haremos una parada antes.
 - ¿Una parada? - Lucas arqueó una ceja - ¿Qué clase de parada?
@@ -30,24 +30,25 @@ El joven se recostó en el asiento.
 No se encontraba de humor para intentar sonsacarles más información. En su lugar, se acomodó en el asiento y pensó en las que habían sido sus hijas hasta que se quedó dormido.
 Se despertó media hora más tarde, zarandeado por los baches de la carretera. A punto estuvo de quedarse dormido otra vez, pero se resistió. No se fiaba de que los hermanos le avisaran cuando llegan a esa misteriosa parada.
 Se obligó a mantener los ojos abiertos hasta que el sueño se dio por vencido. Diez minutos más tarde tuvo su recompensa. Un pequeño poblado con unas pocas casas apareció en el horizonte.
-Kasim detuvo el coche y se bajó. Ajani se movió al puesto del conductor mientras echaba un vistazo a los asientos trasero. No pudo reprimir una mueca cuando vio a Lucas despierto.
+Kasim detuvo el coche y se bajó. Ajani se movió al puesto del conductor mientras echaba un vistazo a los asientos traseros. No pudo reprimir una mueca cuando vio a Lucas despierto.
 "Lo sabía"
-Ajani llevó el coche hasta el poblado y lo detuvo junto a una de ellas. Se bajó del vehículo y Lucas hizo lo propio, siguiéndolo hasta la puerta de la casa. Ajani tocó a la puerta.
-Llevaba una pistola en una mano y una vieja tablet bajo el otro brazo.
+Ajani llevó el coche hasta el poblado y lo detuvo junto a una de las casas. Se bajó del vehículo y Lucas hizo lo propio, siguiéndolo de cerca. Ajani tocó a la puerta.
+Llevaba una pistola en una mano y una vieja *tablet* en la otra.
 - ¿Hay enemigos? - susurró Lucas.
 - Nunca se sabe.
 La puerta la abrió un hombre moreno y alto, de unos cincuenta años. Tenía el pelo rapado y una barba incipiente.  También llevaba una pistola. Miró a ambos recién llegados y se sorprendió más por Lucas que por la pistola de Ajani.
-Miró a Ajani y este asintió.
+Miró al africano y este asintió. El desconocido asintió a su vez.
 - Adelante.
-Entraron en un pequeño salón-cocina muy desordenado. Les ofreció asiento a los invitados y los tres se sentaron en tres sillones mohosos.
+Entraron en un pequeño salón-cocina muy desordenado donde el anfitrión ofreció asiento a los invitados y los tres se sentaron en tres sillones mohosos.
 - ¿Algo de comer o de beber? - les invitó.
 - No - dijo Ajani, muy a pesar de Lucas, cuyo estómago recordó de repente que llevaba horas sin comer.
 - Muy bien. Soy Farid - dijo -. Y tú... tú debes ser Lucas.
 - ¿Me... me conoces?
 - Bueno - sonrió -. Todo lo que se pueda conocer a alguien a través de informes.
 - ¿Qué infor-?
-- Suficiente - lo interrumpió Ajani, sin dejar de mirar a Farid -. ¿Qué me puedes decir de la **base militar de X**?
-- La base militar de X, la base militar de X... - empezó a decir Farid, con la mirada buscando algo en su mente -. Creo recordar que estuvimos hace unos años impidiendo filtraciones durante la construcción. Había mucho personal científico e ingeniero, y el personal militar tampoco escaseaba que digamos. No recuerdo que compartieran información sobre su objetivo con los *Hombres de negro*-
+- Suficiente - lo interrumpió Ajani, sin dejar de mirar a Farid -. ¿Qué me puedes decir de esta base?
+El anfitrión aceptó la *tablet* que le ofrecía el africano.
+- Me suena... me suena... - empezó a decir Farid, con la mirada buscando algo en su mente -. Creo recordar que estuvimos hace unos años impidiendo filtraciones durante la construcción. Había mucho personal científico e ingeniero, y el personal militar tampoco escaseaba que digamos. No recuerdo que compartieran información sobre su objetivo con los *Hombres de negro*.
 - Interesante...
 - ¿Los *Hombres de Negro*? - preguntó Lucas, ignorando la mirada de reproche de Ajani.
 - Son... - comenzó a decir Farid.
@@ -55,7 +56,7 @@ Entraron en un pequeño salón-cocina muy desordenado. Les ofreció asiento a lo
 Farid suspiró.
 - Está bien.
 El anfitrión se levantó de su sillón y desapareció por una puerta que llevaba a una pequeña habitación desde la que se veía una cama. Regresó con un portátil y se sentó con él sobre el regazo. Comenzó a teclear.
-- Veamos... ¡aquí está! - Esta información es antigua, pero debería valer.
+- Veamos... ¡ajá! - Esta información es antigua, pero debería valer.
 - ¿No puedes actualizarla? - preguntó Ajani.
 - Sinceramente, me gusta vivir.
 - ¿A qué te refieres?
@@ -68,7 +69,7 @@ Entonces se sacó un cable USB y conectó un extremo en su tablet. Acercó el ot
 - Ahí tienes los planos... - comenzó a decir mientras tecleaba y jugaba con el *touchpad* - ...y ahí las fichas de los trabajadores.
 Lucas vio los archivos aparecer en la ventana que representaba los contenidos de la tablet.
 - En lo que se transfieren... - comenzó a decir Lucas.
-Farid se rió estruendosamente.
+Farid sonrió.
 - No pierdes las oportunidades, ¿eh?. Me gusta. En fin, los *Hombres de negro* son, o mejor debería decir, somos - sonrió -... algo así como los servicios secretos de RIO. Allí donde la corporación tiene problemas de visibilidad aparecemos nosotros para contener las filtraciones, o permitirlas.
 - ¿O permitirlas?
 - La transferencia terminó - dijo Ajani secamente.
@@ -76,11 +77,13 @@ Farid se rió estruendosamente.
 - Maldito cabrón - espetó Lucas, recordando las víctimas del AT de Gran Canaria.
 El semblante de Farid se apagó.
 - Soy un espía, Lucas. De la Resistencia. No es la primera vez que provoco la muerte de un compañero para que RIO no sospeche.
-- Lo siento.
+Lucas lo miró, dubitativo. No se consideraba un experto en "leer" a las personas, pero pudo percibir la culpa en los ojos de su interlocutor.
+- ...lo siento - dijo al fin.
 - Suficiente - dijo Ajani -. Nos vamos.
 El africano se dirigió hacia la puerta sin despedirse. Farid suspiró y se despidió burlonamente con la mano de la espalda de Ajani.
 Lucas miró a Farid.
 - Gracias.
+**VOY POR AQUÍ**
 Ambos asintieron y Lucas siguió a Ajani fuera de la casa. Se montaron en el vehículo, salieron del poblado y recogieron a Kasim.
 - Toma - dijo Ajani, pasándole la tablet a Lucas sin dejar de mirar la carretera -. Echa un vistazo a ver si ves algo útil.
 Lucas vaciló antes de coger la tablet. Comenzó a *scrolear* por la carpeta de archivos, abriendo algunos de ellos aletoriamente.
