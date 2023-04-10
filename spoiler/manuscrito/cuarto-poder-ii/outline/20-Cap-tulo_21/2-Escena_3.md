@@ -1,18 +1,12 @@
 title:          Escena 3
 ID:             47
 type:           md
-summaryFull:    Ajani y Kasim van a un piso franco en una aldea donde el informante, un espía infiltrado en los Hombres de Negro" les informa de la localización del nombre en clave y otra información de interés.
+summaryFull:    Ajani y Kasim van a un piso franco en una aldea donde el informante, un espía infiltrado en los Hombres de Negro" les proporciona información sobre la base de RIO.
 POV:            0
-notes:          Los "Hombres de Negro" son agentes dedicados a cubrir las huellas de RIO. Sin embargo, algunos como los que contacta Ajani en este caso son espías infiltrados que intentan descubrir más sobre el planeta X.
-                
-                - Uno de estos espías mantuvo a Paco en su puesto en la primera parte como forma de aprovechar su incompetencia a favor de la Resistencia. Casi muere por ello.
-                
-                
-                - **Cambiar nombre de la base militar** -> Base militar 36
-label:          1
+label:          4
 status:         1
 compile:        2
-charCount:      6896
+charCount:      7090
 
 
 Lucas acompañó a Ajani hasta el coche sin dejar de mirar hacia atrás. Ana lo seguía con la mirada y con el semblante serio. Ignoraba por completo a Kasim, que seguía de pie junto al coche, el rifle en las manos.
@@ -76,19 +70,19 @@ Farid sonrió.
 - Seguro que puedes esperar unos segundos - le dijo Farid, antes de volver a dirigirse a Lucas -. Sí, a veces "filtramos" lo que la corporación nos pide. Suele ser muy efectivo para atraer a la *Resistencia* hacia alguna trampa.
 - Maldito cabrón - espetó Lucas, recordando las víctimas del AT de Gran Canaria.
 El semblante de Farid se apagó.
-- Soy un espía, Lucas. De la Resistencia. No es la primera vez que provoco la muerte de un compañero para que RIO no sospeche.
+- Soy un espía, Lucas. De la Resistencia. No es la primera vez que provoco la muerte de un compañero para que RIO no sospeche. Otro espía murió por asegurarse de mantener a un patán vigilando la puerta para facilitar que Jonás pudiera entrar y salvarles. Intentamos ayudar como podemos pero la corporación no pasa ni una.
 Lucas lo miró, dubitativo. No se consideraba un experto en "leer" a las personas, pero pudo percibir la culpa en los ojos de su interlocutor.
 - ...lo siento - dijo al fin.
 - Suficiente - dijo Ajani -. Nos vamos.
 El africano se dirigió hacia la puerta sin despedirse. Farid suspiró y se despidió burlonamente con la mano de la espalda de Ajani.
 Lucas miró a Farid.
 - Gracias.
-**VOY POR AQUÍ**
 Ambos asintieron y Lucas siguió a Ajani fuera de la casa. Se montaron en el vehículo, salieron del poblado y recogieron a Kasim.
 - Toma - dijo Ajani, pasándole la tablet a Lucas sin dejar de mirar la carretera -. Echa un vistazo a ver si ves algo útil.
-Lucas vaciló antes de coger la tablet. Comenzó a *scrolear* por la carpeta de archivos, abriendo algunos de ellos aletoriamente.
+Lucas vaciló antes de coger el dispositivo. Comenzó a *scrolear* por la carpeta de archivos, abriendo algunos de ellos aletoriamente.
 - ¿Ves algo? - preguntó Ajani.
 - Los planos son prácticamente idénticos a lo que vi en mi visión y...
 - ¿Y...?
-Lucas frunció el ceño. Había un archivo llamado "Jonás". Abrió el documento y la foto lo confirmó.
+Lucas frunció el ceño.
+Había un archivo llamado "Jonás". Abrió el documento y la foto confirmó sus sospechas.
 Era el hermano de Lara.
