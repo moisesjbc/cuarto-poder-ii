@@ -1,14 +1,13 @@
 title:          Escena 4
 ID:             99
 type:           md
-summaryFull:    Lucas, Ajani y Kasim viajan a las inmediaciones de las instalaciones de RIO. Esta está fuertemente vigilada pero Ajani y Kasim informan que la asaltarán esa misma noche.
+summaryFull:    Ajani y Kasim cuentan a Lucas el pasado de Jonás: un biotecnólogo que trabajaba sin saberlo para RIO y fue forzado por la corporación para continuar trabajando y siendo sujeto de experimentos.
 POV:            0
-notes:          - Lucas ojea la tablet y le cuenta la información a Ajani. Ve una ficha de Jonás.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5611
+charCount:      5465
 
 
 - Tenemos que volver con la Resistencia - dijo Lucas, sin despegar la mirada de la *tablet*.
@@ -58,9 +57,8 @@ Lucas aguardó a que Kasim continuara, pero este no lo hizo. Se aclaró la garga
 Kasim resopló y no dijo nada más.
 Lucas estimó que seguir tirando del hilo sería inútil con Ajani y volvió a centrarse en la tablet. No encontró nada más relevante sobre Jonás, y los otros científicos e ingenieros no le sonaban de nada. Entre el personal militar tampoco encontró nada reseñable. Le resultó curioso ver un "peligro de filtración" y un "peligro de escape" en cada ficha. En el caso de Jonás ambos estaban puntuados con 5, la que parecía ser la nota máxima.
 A medida que iba navegando por las fichas, Lucas fue notando algo. Recordaba perfectamente las fichas anteriores con solo mirarlas. Hizo la prueba de recitar mentalmente datos de estas y acto seguido volvía y comprobaba, asombrado, que los había acertado todos.
-**VOY POR AQUÍ**
-Entonces pensó en hechos recientes, como la conversación con Farid o sus entrenamientos en el bosque y recalcó que podía visualizarlos con todo lujo de detalles. Lamentó no poder verificar su memoria de estos hechos tan fácilmente como con las fichas, pero se sentía muy seguro de que lo recordaba.
+Entonces pensó en hechos recientes, como la conversación con Farid o sus entrenamientos en el bosque y recalcó que también podía visualizarlos con todo lujo de detalles.
 Intentó recordar sucesos anteriores.
 Aquellos relativos a la *Burbuja* en la que había estado capturado y los anteriores eran, como esperaba, frágiles. No podía recuperarlos con tanta exactitud.
-Lucas dudaba si alegrarse o preocuparse por este descubrimiento, cuando Ajani lo sacó de repente de su mundo interior.
+Lucas dudaba si alegrarse o preocuparse por este descubrimiento, cuando de repente Ajani lo sacó de su mundo interior.
 - Estamos llegando.
