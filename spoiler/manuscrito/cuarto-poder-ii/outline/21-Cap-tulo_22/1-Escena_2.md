@@ -1,18 +1,15 @@
 title:          Escena 2
 ID:             105
 type:           md
-summaryFull:    Llegan hasta una sala fuertemente vigilada que resulta estar vacía. Descubren gracias a la sensibilidad de Ajani que hay una trampilla de nanomáquinas en el suelo. Ajani la desactiva pero entonces suena la alarma.
-                
-                Ajani y Lucas se abren paso en el subterráneo de la base, donde reciben ayuda y llegan hasta el centro de control.
+summaryFull:    Llegan hasta una sala fuertemente vigilada que resulta estar vacía. Descubren gracias a la sensibilidad de Ajani que hay una trampilla de nanomáquinas en el suelo.
 POV:            0
-notes:          - La ayuda puede ser una científica que les da indicaciones para llegar a una pared oculta de nanomáquinas, o un miembro de la resistencia encubierto, etc.
-                
-                - **¿Era un subfusil lo que tenía Ajani?**
+notes:          
+                - 
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1562
+charCount:      1633
 
 
 Entraron en una habitación a oscuras y cerraron la puerta tras de sí, con los disparos aún impactando sobre ella.
@@ -24,11 +21,8 @@ Lucas apartó el sillón más cercano a ellos y se dispuso a colocarse junto a A
 Debajo del escritorio no había nada. Sólo un suelo de hormigón desnudo, sin trampillas a la vista.
 - ¿Y ahora? - inquirió Ajani.
 - Aquí... - comenzó a decir Lucas, señalando el suelo -. Aquí debería haber algún tipo de trampilla.
+El joven suspiró y se situó sobre el punto señalado. Tal y como esperaba, el suelo comenzó a bailar bajo sus pies, mareándolo. Miró a Ajani y asintió antes de retroceder rápidamente.
 El africano se llevó la mano al bolsillo del pantalón y sacó un pequeño anillo. Parecía una alianza de bodas.
-**VOY POR AQUÍ**
-- Atrás.
-Lucas frunció el ceño mientras obedecía. Ajani acercaba la joya al suelo y este último comenzó a deshacerse en una nube de humo negro.
-"Por supuesto", dijo el joven para sus adentros. "Nanomáquinas".
-La nube se dispersó tras unos segundos, revelando lo que parecía ser un pequeño laboratorio bajo ellos.
-- ¡Ah! - Exclamó una voz femenina bajo ellos. Ajani apuntó su subfusil rápidamente hacia el interior de la trampilla.
+Lucas frunció el ceño. Ajani acercó la joya al suelo y este último comenzó a deshacerse en una nube de humo negro. La nube se dispersó tras unos segundos, revelando lo que parecía ser un pequeño laboratorio bajo ellos.
+- ¡Ah! - Exclamó una voz femenina bajo ellos. Ajani apuntó su pistola rápidamente hacia el interior de la trampilla.
 Una mujer de unos cincuenta años vestida con una bata los miraba desde el piso de abajo, con las manos en alto.
