@@ -21,6 +21,12 @@ notes:          - ¿O cambio que no escuche voz alguna?
                 - ¿"Muros"?
                 
                 - ¿Tiene sentido que los mástiles estén fuera de la sala de control? ¿O es que dentro también hay?
+                
+                
+                - "Gas" que surge de Lucas y se extiende por la zona. ¿Los ayuda a escapar controlando a los soldados de RIO, o no tiene poder suficiente aún y los ayuda con parte de la colonia de Lucas y un túnel?
+                - La Sirena debe desactivar / destruir la sala de control de alguna manera.
+                
+                "Cuando consiguen abrirlo descubren que las visiones del eran alucinaciones provocadas por un ser alienígena que sólo puede ver Lucas (**¿o Ajani también?**) para que destruyeran el Mástil que frenaba su proceso de asimilación de la Tierra."
 label:          4
 status:         2
 compile:        2

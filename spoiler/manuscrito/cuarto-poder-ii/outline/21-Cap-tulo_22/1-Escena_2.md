@@ -4,7 +4,7 @@ type:           md
 summaryFull:    Llegan hasta una sala fuertemente vigilada que resulta estar vacía. Descubren gracias a la sensibilidad de Ajani que hay una trampilla de nanomáquinas en el suelo.
 POV:            0
 notes:          
-                - 
+                -
 label:          4
 status:         1
 compile:        2

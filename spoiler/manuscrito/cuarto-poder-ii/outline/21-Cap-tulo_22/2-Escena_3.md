@@ -3,20 +3,19 @@ ID:             106
 type:           md
 summaryFull:    La científica de RIO los ayuda a avanzar por los pasillos hasta que es herida de bala. Ajani pierde la comunicación con Kasim y se va corriendo, dejando solo a Lucas con la mujer. Esta última muere.
 POV:            0
-notes:          - "Gas" que surge de Lucas y se extiende por la zona. ¿Los ayuda a escapar controlando a los soldados de RIO, o no tiene poder suficiente aún y los ayuda con parte de la colonia de Lucas y un túnel?
-                - La Sirena debe desactivar / destruir la sala de control de alguna manera.
-                
-                "Cuando consiguen abrirlo descubren que las visiones del eran alucinaciones provocadas por un ser alienígena que sólo puede ver Lucas (**¿o Ajani también?**) para que destruyeran el Mástil que frenaba su proceso de asimilación de la Tierra."
-                
-                La científica mantuvo en secreto su control de las nanomáquinas y preparaba una ruta de escape. Un colega se apresuró a usarla pero fue capturado y llevado a una *Burbuja* (uno de los recuerdos que tiene Lucas).
+notes:          La científica mantuvo en secreto su control de las nanomáquinas y preparaba una ruta de escape. Un colega se apresuró a usarla pero fue capturado y llevado a una *Burbuja* (uno de los recuerdos que tiene Lucas).
+                	- Editar el capítulo de los recuerdos de Lucas para reforzar esta idea. "Dime, guapa" 
+                         - O editar este / los anteriores con que Lucas reconoce a la mujer.
                 - ¿Por qué no hacen un túnel? Algún mecanismo que lo evite.
+                
+                
                 
                 - **Corrección**: Lucas ya conoce más o menos el camino. Añadir que Ajani mira a Lucas para confirmar las indicaciones de la mujer, y cuando Lucas tiene un momento de duda (**¿puede tenerlo? ¿No tiene un plano perfecto?**) es cuando la agrede.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8922
+charCount:      9823
 
 
 Tras el susto inicial, la mujer sacudió la cabeza, como forzándose a reaccionar.
@@ -48,26 +47,38 @@ Al otro lado se encontraba un pasillo sin decoración, con paredes, suelo y tech
 Ajani disparó rápidamente sobre el efectivo, que dejó escapar un grito antes de desplomarse en el suelo. El africano le disparó un par de veces más mientras avanzaba hacia el rectángulo.
 Un segundo efectivo de RIO se asomó pero fue abatido por el africano, que nuevamente descargó varios disparos extras sobre él.
 - ¡Abrid el camino hacia la derecha! - gritó la mujer, al tiempo que ordenaba a la nube formar una pared que tapaba la sección izquierda del pasillo.
-Ajani se dispuso a asomarse al pasillo, apuntando su pistola hacia el lado derecho.
-- ¡Yo primero! - gritó Lucas, apresurándose a asomarse al pasillo antes que el africano.
+Ajani miró a Lucas unos segundos. Este repasó el plano del lugar en su cabeza y se limitó a asentir con la cabeza. "Sí, es por ahí".
+El africano dispuso entonces a asomarse al pasillo, apuntando su pistola hacia el lado derecho.
+- ¡Yo primero! - gritó Lucas, apresurándose a asomarse al pasillo antes que él.
 Recibió varios disparos provenientes del pasillo cuando se asomó. Un dolor efímero pero infinito lo aturdió mientras se activaba la curación.
 Los disparos pararon unos segundos. Entonces se reanudaron pero esta vez procedían del arma de Ajani. Este se había asomado y efectuado varios tiros certeros hacia los dos enemigos. Los tres salieron al pasillo y avanzaron mientras la nube de humo les ofrecía cobertura de los disparos que provenían a sus espaldas.
 Cuando llegaban a donde el pasillo doblaba a izquierda y derecha, la mujer gritó.
 - ¡Hacia la derecha!
-Lucas, a pesar de saberse "inmune" a las balas, tuvo un momento de duda al pensar en el dolor que había sufrido instantes atrás. Agitó la cabeza, sacudiendo el pensamiento, y se obligó a asomarme de cuerpo entero en el nuevo pasillo.
+Nuevamente Ajani miró a Lucas y este asintió.
+A pesar de saberse "inmune" a las balas, Lucas tuvo un momento de duda al pensar en el dolor que había sufrido instantes atrás. Agitó la cabeza, sacudiendo el pensamiento, y se obligó a asomarme de cuerpo entero en el nuevo pasillo.
 Nada
-Lucas dejó escapar un suspiro de alivio.
+Dejó escapar un suspiro de alivio.
 - ¡Despejado! - exclamó cuando se acordó de que no estaba solo.
 Ajani se asomó al pasillo y asintió. Avanzaron hacia la derecha y dejaron paso a la mujer. Cuando esta bordeó la esquina, dudó unos instantes y ordenó a la nube permanecer tras ellos.
 Avanzaron por un pasillo desierto pero lleno de puertas a ambos lados. Los dos hombres armados avanzaron por delante, con Lucas en cabeza. El joven se esforzaba en no cerrar los ojos cada vez que pasaba por delante de una puerta de la que podrían surgir disparos en cualquier momento.
+- ¡En la siguiente esquina debemos seguir por la izquierda!
+Una nueva mirada inquisidora de Ajani. Lucas estuvo a punto de asentir instintivamente. Pero entonces dejó escapar una mueca mientras se decía a si mismo: "No, era por la derecha... ¿quizás...?
 De repente la mujer dejó escapar un grito y Lucas se giró rápidamente.
 Ajani había agarrado a la mujer del brazo y la había empujado contra la pared, con su brazo izquierdo aprisionando su cuello mientras que con la mano derecha pegaba su pistola a la frente de la científica.
 La mujer dejó escapar un grito y la nube de gas se detuvo de repente. Lucas hizo el amago de apuntar su pistola hacia Ajani, pero se detuvo. Observó la escena, atónito, sin dejar de mirar hacia el pasillo frente a ellos.
 - Pueden aparecer en cualquier momen-
 - ¿A dónde nos estás llevando? - lo interrumpió Ajani, mirando a la mujer.
-- ¿Cómo que...? A la sala del portal, por supuesto - frunció el ceño mientras miraba a su atacante durante apenas un segundo, tras lo cuál volvió a fijar los ojos, abiertos como platos, en la pistola -. ¿No es ahí donde vais?
-- Ajani - empezó a decir Lucas -, podemos continuar caminando mientras hablamos. Los enemigos...
-- ¿Cómo sabemos que no nos llevas a una emboscada?
+- ¿Cómo que...? A la sala de control, por supuesto - frunció el ceño mientras miraba a su atacante durante apenas un segundo, tras lo cuál volvió a fijar los ojos, abiertos como platos, en la pistola -. ¿No es ahí donde vais?
+- Ajani - empezó a decir Lucas -, por la izquierda también llegaríamos. No creo que...
+- ¿Qué? - la mujer miró a Ajani - ¿Ya has estado aquí? - Entonces abrió los ojos como platos. Parecía ignorar que Ajani la estuviera asfixiando.
+- ¿Manuel?
+- Dime, guapa - respondió Lucas.
+Este último frunció el ceño. "¿Qué...?
+La mujer empezó a sollozar.
+- Hijos de puta...
+Ajani le apretó con más fuerza el cuello con el brazo.
+- ¡¿De qué hablas?!! ¿Cómo sabemos que no nos llevas a una emboscada?!
+La mujer tosió antes de responder a Ajani aunque con la vista clavada en Lucas.
 - ¿Acaso te estás oyendo? - dijo la mujer, sudorosa -. ¡En ese caso sólo tenía que haberme protegido con la nube mientras os acribillaban!
 - Tiene razón Ajani...
 - ¡Los de RIO nunca son de fiar! - espetó Ajani, apretando el brazo un poco más contra el cuello de la mujer.
@@ -75,14 +86,14 @@ Lucas observó que la nube se había acercado ligeramente y ahora permanecía un
 Una mujer con el uniforme blanco de RIO se asomó en el pasillo tras ellos y disparó una ráfaga.
 Lucas se interpuso rápidamente entre Ajani y la ráfaga pero no consiguió detener todos los disparos con el cuerpo.
 La mujer profirió un grito. De un agujero su bata, a la altura del riñón, comenzó a manar sangre.
-Ajani abatió al efectivo de RIO, que cayó desplomado en el suelo. Otro efectivo, un hombre algo mayor con el mismo uniforme blanco, apareció tras ella y comenzó a disparar. La nube de gas se interpuso entre ellos y absorbió los disparos.
+Ajani liberó la presa sobre la mujer y abatió al efectivo de RIO, que cayó desplomado en el suelo. Otro efectivo, un hombre algo mayor con el mismo uniforme blanco, apareció tras ella y comenzó a disparar. La nube de gas se interpuso entre ellos y absorbió los disparos.
 Lucas miró hacia la mujer. Esta última mantenía una mano temblorosa alzada.
 - Tenemos... - cerró los ojos y respiró pesadamente -. Tenemos que irnos.
 Ajani obedeció a regañadientes y retrocedió con Lucas y la mujer. Al igual que el primero, apuntaba su arma hacia el frente, pero sin perder de vista el pasillo tras ellos.
 Lucas miró a la mujer con preocupación. Esta última caminaba tambaleándose frente a ellos, presionándose con la mano izquierda la zona ensangrentada.
 - ¿Hay botiquines cerca? - preguntó Lucas, al tiempo que esperaba que Ajani supiera de primeros auxilios.
 - Sí - contestó la mujer. Tardó unos segundos en continuar hablando -. La enfermería no está lejos de aquí.
-- No hay tiempo que perder - soltó Ajani -. ¿Por dónde?
+- No hay tiempo que perder - soltó Ajani -. ¿Por dónde...?
 Entonces se llevó la mano a la radio.
 - ¿Kasim?
 La única respuesta que recibió fueron interferencias. Un segundo después, el africano repitió:
@@ -95,11 +106,10 @@ La mujer y Lucas se detuvieron.
 La mujer se mordió el labio y negó con la cabeza.
 Ajani le asestó un puñetazo en la zona de la herida. La mujer dejó escapar un grito ahogado y se desplomó en el suelo. La nube de gas desapareció y Ajani volvió corriendo sobre sus pasos, al tiempo que respondía al fuego enemigo.
 Lucas se agachó junto a la mujer y miró, con los ojos abiertos como platos, al africano alejarse por el pasillo. Entonces se dispuso a agarrar a la mujer para ayudarla a incorporarse.
-- No - dijo esto, apartando el brazo de Lucas a duras penas antes de que el brazo cayera inerte -. Yo ya estoy muerta.
+- No - dijo esto, apartando el brazo de Lucas a duras penas antes de que el brazo cayera inerte -. Yo ya estoy muerta. Siento no haberte podido salvar, Manuel.
 Cerró los ojos y ya no los volvió a abrir.
 - ¡Eh! - la agitó Lucas - ¡Despierta!
 Pero no hubo respuesta.
 Lucas se incorporó, sintiendo un mareo que desapareció en un instante.
 No ocurrió así con su desazón.
 - Y ahora - dijo en voz baja - ¿qué hago?
-**VOY POR AQUÍ (NOTAS)**
