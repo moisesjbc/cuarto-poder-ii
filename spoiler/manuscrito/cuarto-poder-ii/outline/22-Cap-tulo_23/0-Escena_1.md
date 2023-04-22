@@ -12,6 +12,11 @@ notes:          - **¿Meter que Ajani quiere quedarse a matar a los de RIO pero 
                 - Aquí y/o en capítulos siguientes: empezar a poner referencias a que la Sirena no asimila a menores.
                 - Revisar si el puente no estaba destruido desde antes.
                 - Cuando salen de la base, ajustar descripciones con las que tenía al entrar.
+                
+                - "Gas" que surge de Lucas y se extiende por la zona. ¿Los ayuda a escapar controlando a los soldados de RIO, o no tiene poder suficiente aún y los ayuda con parte de la colonia de Lucas y un túnel?
+                - La Sirena debe desactivar / destruir la sala de control de alguna manera.
+                
+                - **¿Los efectivos que van a por Lucas no tienen la inyección contra la *Sirena*? ¿O es algo muy escaso / temporal? Aclarar todo esto**
 label:          4
 status:         1
 compile:        2

@@ -4,8 +4,8 @@ type:           md
 summaryFull:    La científica de RIO los ayuda a avanzar por los pasillos hasta que es herida de bala. Ajani pierde la comunicación con Kasim y se va corriendo, dejando solo a Lucas con la mujer. Esta última muere.
 POV:            0
 notes:          La científica mantuvo en secreto su control de las nanomáquinas y preparaba una ruta de escape. Un colega se apresuró a usarla pero fue capturado y llevado a una *Burbuja* (uno de los recuerdos que tiene Lucas).
-                	- Editar el capítulo de los recuerdos de Lucas para reforzar esta idea. "Dime, guapa" 
-                         - O editar este / los anteriores con que Lucas reconoce a la mujer.
+                - Editar el capítulo de los recuerdos de Lucas para reforzar esta idea. "Dime, guapa"
+                - O editar este / los anteriores con que Lucas reconoce a la mujer.
                 - ¿Por qué no hacen un túnel? Algún mecanismo que lo evite.
                 
                 
