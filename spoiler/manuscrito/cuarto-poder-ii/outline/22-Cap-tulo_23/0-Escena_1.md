@@ -21,7 +21,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7723
+charCount:      8017
 
 
 Lucas intentó zafarse del brazo, esperando mucha más resistencia de la que recibió. Este último simplemente dejó caer el brazo, muerto.
@@ -44,32 +44,30 @@ Lucas sacudió la cabeza.
 - Vienen a por ti - dijo la mujer, sin dejar de sonreír - Tranquilo, nosotros te protegeremos.
 - Pero qué...
 Una granada entró volando en la estancia, cayendo en el centro del pasillo central. Lucas apenas tuvo tiempo de reaccionar cuando esta explotó. Se cubrió con los brazos, esperando una onda expansiva que no llegó.
-Miró entre sus manos y vio que una esfera traslúcida y gris se interponía entre la explosión y los presentes en la sala.
+Miró entre sus manos y vio que una esfera traslúcida y gris envolvía el lugar de la explosión. No había daños en el exterior.
 La mujer permanecía al lado de él, mirándolo fijamente.
-- ¿Estás controlando las nanomáquinas?
+- ¿Estás controlando las nanomáquinas? - preguntó Lucas.
 Otra sonrisa.
 - Sí, algo así. Vamos.
-La pared comenzó a avanzar hacia la salida, al tiempo que la mujer.
-Lucas se negó a moverse, pero entonces escuchó la voz de la mujer en su interior.
-- Ana te espera fuera.
+Lucas se resistió a moverse pero entonces escuchó la voz de la mujer en su interior.
+"Ana te espera fuera"
 El joven se llevó la mano a la cabeza.
-Tenía la mirada perdida.
 - También... ¿también le estás hablando a ellos? - preguntó, mirando a las figuras inmóviles de la habitación.
 - Así es.
 - ¿Quién eres?
 - Vamos.
 Lucas titubeó unos segundos pero entonces se puso en marcha.
 - No te preocupes - dijo la voz.
-Pero Lucas se sobresalto cuando el gas se le acercó. Este último formó una cápsula alrededor de él.
-"Un escudo", pensó Lucas.
-- Así es - dijo la voz.
+Una parte del gas avanzó hacia Lucas y lo envolvió, formando una cápsula transparente a su alrededor.
+"Un escudo", pensó.
+"Así es", dijo la voz.
 "¿Puedes leerme la mente?"
-- Sí.
+"Sí"
 Lucas, literalmente, no sabía qué pensar. ¿Debía evitar pensar en lo que sabía de la Resistencia? ¿De Ana y los demás?
-- No soy de RIO - dijo la voz.
+"No soy de RIO" , dijo la voz, al tiempo que la puerta de la bóveda se abría ante ellos
 El joven aún se mostraba reticente, pero entonces una lluvia de balas lo devolvió a la realidad.
-Los proyectiles se deshacían al contacto con el gas. Lucas pudo ver a través de este a varios efectivos de RIO en el puente, disparando hacia él. Al darse cuenta de la ineficacia de los disparos, los enemigos retrocedían sin dejar de apuntar hacia el joven.
-- Cuidado - dijo la voz.
+Los proyectiles se deshacían al contacto con el gas. Lucas pudo ver a través de este a varios efectivos de RIO en el puente, disparando hacia él. Al darse cuenta de la ineficacia de los disparos, los enemigos retrocedían sin dejar de apuntar hacia el joven, que caminaba lentamente hacia ellos.
+"Cuidado", dijo la voz.
 Lucas dirigió la mirada al suelo, donde yacía un cadáver de un efectivo de RIO. Tenía un agujero de bala en la cabeza.
 "¿Era de la resistencia?"
 "No, era de RIO"
@@ -85,6 +83,8 @@ Suspiró aliviado, pero entonces comenzó a sentir un gran mareo.
 "Tranquilo, continúa caminando"
 Lucas dio unos pasos sobre la ligera pendiente ascendente que formaba el gas hasta que volvió a pisar el suelo del puente. Repitió su suspiro de alivio.
 Los efectivos de RIO retrocedieron hasta salir por puerta de la cámara, la cuál cerraron tras su paso.
+El joven se detuvo al escuchar las pequeñas explosiones repartidas por todo el lugar. El gas se extendería por toda la bóveda exterior, destruyendo los drones al contacto. Tras él, la bóveda más pequeña empezaba a deshacerse también por el contacto del gas.
+**VOY POR AQUÍ**
 Llegó hasta la puerta y comenzó a detenerse al llegar, pero el gas avanzó y formó un túnel en esta. Los enemigos al otro lado dejaron escapar maldiciones de sorpresa y continuaron retrocediendo, esta vez a paso ligero y dándole la mayoría la espalda a Lucas.
 Entre ellos se encontraba Elizabeth.
 A través del gas, Lucas adivino una expresión de enfado en su cara.
