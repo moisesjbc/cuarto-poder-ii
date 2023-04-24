@@ -1,27 +1,19 @@
 title:          Escena 1
 ID:             110
 type:           md
-summaryFull:    La Sirena inhabilita a los efectivos de RIO provocándoles jaquecas. Le da las gracias a Lucas y Ajani y les insta a huir, ya que aún no tiene poder sobre todos los efectivos de RIO que van a por ellos. La pareja escapa a duras penas entre el fuego cruzado entre efectivos de RIO. En el exterior son cubiertos por efectivos de la Resistencia.
+summaryFull:    La Sirena inhabilita a los efectivos de RIO provocándoles jaquecas. Ayuda a Lucas a escapar hasta el exterior de la base, donde la Resistencia y Ana lo reciben.
 POV:            0
-notes:          - **¿Meter que Ajani quiere quedarse a matar a los de RIO pero Kasim lo calma?**
-                - ¿Meter lucha con Elizabeth en la que esta le coloca / inyecta un localizador a Lucas? Así RIO puede orquestar la lucha con los violentos.
-                - O un casual de RIO que le golpea con un anillo con un clavo oculto.
-                
-                - Los de RIO y de la Resistencia pueden seguir actuando porque no todos están infectados. Los de RIO experimentan con un mini mástil que protege al portador.
+notes:          - Los de RIO y de la Resistencia pueden seguir actuando porque no todos están infectados. Los de RIO experimentan con un mini mástil que protege al portador.
                 
                 - Aquí y/o en capítulos siguientes: empezar a poner referencias a que la Sirena no asimila a menores.
-                - Revisar si el puente no estaba destruido desde antes.
                 - Cuando salen de la base, ajustar descripciones con las que tenía al entrar.
-                
-                - "Gas" que surge de Lucas y se extiende por la zona. ¿Los ayuda a escapar controlando a los soldados de RIO, o no tiene poder suficiente aún y los ayuda con parte de la colonia de Lucas y un túnel?
-                - La Sirena debe desactivar / destruir la sala de control de alguna manera.
                 
                 - **¿Los efectivos que van a por Lucas no tienen la inyección contra la *Sirena*? ¿O es algo muy escaso / temporal? Aclarar todo esto**
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8017
+charCount:      8143
 
 
 Lucas intentó zafarse del brazo, esperando mucha más resistencia de la que recibió. Este último simplemente dejó caer el brazo, muerto.
@@ -83,28 +75,27 @@ Suspiró aliviado, pero entonces comenzó a sentir un gran mareo.
 "Tranquilo, continúa caminando"
 Lucas dio unos pasos sobre la ligera pendiente ascendente que formaba el gas hasta que volvió a pisar el suelo del puente. Repitió su suspiro de alivio.
 Los efectivos de RIO retrocedieron hasta salir por puerta de la cámara, la cuál cerraron tras su paso.
-El joven se detuvo al escuchar las pequeñas explosiones repartidas por todo el lugar. El gas se extendería por toda la bóveda exterior, destruyendo los drones al contacto. Tras él, la bóveda más pequeña empezaba a deshacerse también por el contacto del gas.
-**VOY POR AQUÍ**
-Llegó hasta la puerta y comenzó a detenerse al llegar, pero el gas avanzó y formó un túnel en esta. Los enemigos al otro lado dejaron escapar maldiciones de sorpresa y continuaron retrocediendo, esta vez a paso ligero y dándole la mayoría la espalda a Lucas.
+El joven continuó avanzando unos pasos pero entonces se detuvo al escuchar las pequeñas explosiones repartidas por todo el lugar. El gas se extendía por toda la bóveda exterior, destruyendo los drones al contacto. Tras él, la bóveda más pequeña empezaba a deshacerse también por el contacto del gas.
+Lucas reanudó la marcha. Llegó hasta la puerta y comenzó a detenerse al llegar, pero el gas avanzó y formó un túnel en esta. Los enemigos al otro lado dejaron escapar maldiciones de sorpresa y continuaron retrocediendo, esta vez a paso ligero y dándole la mayoría la espalda a Lucas.
 Entre ellos se encontraba Elizabeth.
-A través del gas, Lucas adivino una expresión de enfado en su cara.
-- ¡Atrás! ¡Retirada! - bramó.
+A través de la cápsula, el joven adivino una expresión de enfado en su cara.
+- ¡Atrás! ¡Retirada! - bramó la agente de RIO.
 El grupo la siguió y se perdió tras la esquina del fondo del pasillo. Lucas los siguió, sin dejar de tener su arma preparada a pesar de no hacerle falta. Se asomó a la esquina.
 No había nadie.
 - Están preparado una emboscada aquí.
 "¿Aquí? ¿Aquí dón-...?
-Entonces el mapa mental que tenía de la base militar acudió a su mente sin que él pensara en él. Un punto rojo parpadeaba en un cruce de pasillos más adelante.
+Entonces vio cómo unas siluetas brillantes resaltaban a través de las paredes de su derecha. Las formas humanas estaban formando dos hileras de manera apresurada, con la primera hilera agachada y ambas apuntando sus armas al frente.
 "¿Qué demonios...?"
 - Es mejor que echemos por aquí.
 Las indicaciones aparecieron con un eco en su mente: izquierda, derecha, izquierda...
-Lucas las siguió sin encontrar apenas resistencia por el camino, más allá de algún que otro enemigo que descargaba munición sobre él y rápidamente se escondía, rendido, y de cadáveres en el suelo con un agujero de bala en la cabeza.
-Llegó hasta la mitad de un pasillo desierto. Según su mapa mental, la pared de la izquierda estaba marcada y ocultaba unas escaleras al otro lado.
+Lucas las siguió sin encontrar apenas resistencia por el camino, más allá de algún que otro enemigo que descargaba munición sobre él y rápidamente se escondía, rendido. También se topaba con cadáveres en el suelo con un agujero de bala en la cabeza.
+Llegó hasta la mitad de un pasillo desierto. La silueta de unas escaleras brilló tras la pared a su izquierda.
 Sin que tuviera que decir nada, la cápsula dejó de rodearlo y abrió un túnel en la pared para volver a su cometido habitual de escudo.
 "... gracias", pensó tímidamente.
-- A ti. Tú nos liberaste.
+"A ti. Tú nos liberaste"
 "Sobre eso..."
-- Después.
-Lucas subió por unas escaleras metálicas y llegó a la plantall calle de la base militar. La alarma seguía sonando, ahogada a través de la cápsula que lo envolvía. También escuchó otros ruidos conocidos.
+"Después"
+Lucas subió por unas escaleras metálicas y llegó a la planta calle de la base militar. La alarma seguía sonando, ahogada a través de la cápsula que lo envolvía. También escuchó otros ruidos conocidos.
 Fuego cruzado.
 Siguió los pasillos, visualizando las indicaciones, claras como un cielo en calma, en su cabeza.
 No tardó en llegar a las puertas por las que había entrado con Ajani.
