@@ -1,7 +1,7 @@
 title:          Escena 1
 ID:             116
 type:           md
-summaryFull:    Ana ordena al grupo soltarles y huye con Lucas a un "piso franco".
+summaryFull:    Ana ordena al grupo soltarles y llega con Lucas a una nave franca, donde vive un aliado llamado Felipe. Este último conoce a la *Sirena* y Lucas y él se comunican por telepatía.
 POV:            0
 notes:          - A su vez Ana le cuenta que en la base rebelde los *Burbujas* empezaron a comportarse de manera extraña y a intentar huir.
                 - **Remplazar X**
@@ -14,7 +14,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5907
+charCount:      5960
 
 
 Las dos parejas se miraron fijamente durante unos segundos.
@@ -25,16 +25,15 @@ La mujer caminó hacia la pared frontal y la golpeó dos veces. La ventana del c
 - Ana y Lucas van a escaparse.
 - Je. Entendido. ¡Ey, Ana!
 - ¿Sí? - respondió esta.
-- ¿Te viene bien en X?
+- ¿Te viene bien antes del siguiente punto de control?
 Ana miró de reojo a Lucas y sonrió.
 - ¡Perfecto!
 - Llegaremos en unos minutos.
 Entonces el conductor volvió a cerrar la ventana.
-La mujer que se había puesto de pie volvió a su puesto, no sin antes soltar una maldición cuando otro bache amenazó su equilibrio. Llegó sana y salva, sentándose y resoplando.
+La mujer que se había puesto de pie volvió a su puesto, no sin antes soltar una maldición cuando otro bache amenazó su equilibrio. Llegó sana y salva, sentándose mientras dejaba escapar un resoplido.
 Lucas seguía mirando a los presentes con estupefacción.
 - ¿Qué ocurre...?
 El hombre se rió bajo su amplio bigote.
-Lucas lo miró, esperando una respuesta que no llegó por su parte.
 - ¿Alguna vez has intentado evitar que Ana haga algo?
 El joven hizo memoria y no encontró ningún recuerdo en el que consiguiera vencer a la cabezonería de su amiga.
 - Pero...
@@ -48,7 +47,7 @@ Permanecieron en silencio unos minutos.
 Su interlocutor frunció el ceño, al tiempo que ladeaba la cabeza.
 - ¿Un gas?
 El hombre se limitó a encogerse de hombros.
-- Pero... - comenzó a decir Lucas, pero entonces se detuvo - ¡¿Noemí?! ¡¿Lara?! ¡¿Están bien?!
+- Pero... - comenzó a decir Lucas, antes de reaccionar - ¡¿Noemí?! ¡¿Lara?! ¡¿Están bien?!
 - No... no lo sé.
 - ¡Tienes que preguntar por ellas!
 El hombre suspiró.
@@ -56,18 +55,19 @@ El hombre suspiró.
 - ¡Pero...!
 - Tiene razón - dijo Ana -. Manuel, cuando llegues...
 - No te preocupes, intentaré enterarme de como están.
+Para Lucas no era suficiente.
 - Tengo que ir.
 - Lucas, piénsalo. Puede que no puedas morir, o eso creamos, pero no durarán en usar a Lara y Noemí para someterte.
 - Pero...
 - Te prometo que estarán bien - dijo Ana.
-Lucas quiso protestar de nuevo, pero se obligó a callar. Cerró los ojos e intentar convencerse de que todo iría bien.
+El joven quiso protestar de nuevo, pero se obligó a callar. Cerró los ojos e intentó convencerse de que todo iría bien.
 "Están bien", le dijo *Sirena*.
 El joven pegó un respingo. Ana lo miró.
 - ¿Pasa algo?
 - ¡No! - se apresuró a decir Lucas - Estoy bien.
 Ana lo miró con suspicacia, pero no dijo nada.
 "¿Estás segura?", pensó.
-Míralo tú mismo.
+"Míralo tú mismo".
 De repente Lucas estaba de pie en medio de una fila de personas, caminando por un pasillo. A ambos lados, miembros de la resistencia los miraban con recelo, con máscaras de gas y los fusiles preparados.
 Bajó la mirada y se miró las manos. Tenía un tatuaje con dos burbujas en la muñeca.
 "Delante tuya", dijo la *Sirena*.
@@ -76,7 +76,7 @@ Lucas alargó la mano para tocarlas.
 - ¡Quieto!
 Un miembro de la resistencia apuntó su fusil hacia él, pero este desapareció de repente.
 Lucas volvía a estar sentado en el furgón. Con Ana sentada frente a él.
-Tenía la mano en alto, en dirección hacia Ana.
+Tenía la mano en alto.
 Los presentes lo miraron fijamente, pero no dijeron nada.
 Lucas bajó la mano y también guardó silencio.
 Tras unos minutos, el furgón se detuvo.
@@ -84,17 +84,18 @@ Lucas dirigió una mirada interrogante hacia su amiga. Esta se limitó a asentir
 - Vamos.
 Ana abrió la puerta trasera del furgón y ambos se apearon.
 Se encontraron delante de una nave abandonada y grande, de un piso de altura. Las paredes metálicas estaban completamente oxidadas, y algunas partes tenían tantos agujeros que parecía un queso groullé. Era la única construcción humana visible en la zona, a excepción de la carretera y el furgón. Todo lo demás era bosque.
-- ¡Suerte! - gritó Ana a la furgoneta que se alejaba. El conductor respondió sacando la mano por la ventana y saludando - Vamos -. Le dijo entonces a Lucas.
-Se encaminaron hacia el edificio.
+- ¡Suerte! - gritó Ana a la furgoneta que se alejaba.
+El conductor respondió sacando la mano por la ventana y saludando.
+- Vamos - le dijo entonces a Lucas y ambos se encaminaron hacia el edificio. 
 - ¿La resistencia tiene alguna propiedad que no esté en ruinas? - comentó Lucas.
 - ¿Las celdas de RIO cuentan?
-Ambos rieron, no sin sentirse culpables por ello.
+Ambos sonrieron, no sin sentirse culpables por ello.
 Siguió a Ana por un lateral de la nave hasta una pequeña puerta. La joven la forzó sin apenas esfuerzo y entraron en la nave.
 - Buff - Lucas se tapó la nariz - ¿A qué huele?
 No obstante, al instante dejó de sentir el hedor.
 "De nada", dijo la *Sirena*.
 Lucas vio entonces un hombre caminando delante de él y se detuvo, al tiempo que el hombre se detenía a su vez. La espalda le resultaba muy familiar.
-"Un momento..."
+"Un momento... ¿ese soy yo?"
 Entonces se giró rápidamente y apuntó su arma.
 - ¡Tranquilo! ¡Soy amigo! - dijo el hombre, alzando los brazos.
 "Dice la verdad", confirmó la voz en la cabeza de Lucas.
@@ -105,14 +106,15 @@ El hombre, delgado, de unos 30 años con pelo rizado, corto y descuidado, bajó 
 Felipe asintió.
 - Tú debes ser... ¿Lucas?
 - Sí - el joven bajó su arma -. Lo siento.
-- No pasa nada. Suerte que *Sirena* te avisó. Respecto a tu pregunta, esto es una nave abandonada, como habrás podido comprobar. No disponemos de mucha agua para lujos tales como limpiar las instalaciones.
+- No pasa nada. Suerte que la *Sirena* te avisó. Respecto a tu pregunta, esto es una nave abandonada, como habrás podido comprobar. No disponemos de mucha agua para lujos tales como limpiar las instalaciones.
 - O ducharse - dijo Ana, sonriendo.
 Felipe asintió.
 - O ducharse.
 Lucas se mantuvo en silencio, mirando a Felipe.
 "¿Felipe te cono-?" Pero entonces sintió una corazonada. Permaneció con la mirada fija en el hombre "¿Puedes escucharme?"
 Felipe lo miró.
-"Sí", sonrió, "¿y tú?"
+"Sí", sonrió, "¿y tú a mí?"
 Lucas frunció el ceño. Asintió.
 - ¿Qué está ocurriendo? - preguntó Ana, mirando a ambos.
 - Oh, nada - dijo Lucas, esforzándose por mostrar un gesto de despreocupación -. Que parece que tenemos telepatía.
+**VOY POR AQUÍ (NOTAS)**
