@@ -3,18 +3,11 @@ ID:             116
 type:           md
 summaryFull:    Ana ordena al grupo soltarles y llega con Lucas a una nave franca, donde vive un aliado llamado Felipe. Este último conoce a la *Sirena* y Lucas y él se comunican por telepatía.
 POV:            0
-notes:          - A su vez Ana le cuenta que en la base rebelde los *Burbujas* empezaron a comportarse de manera extraña y a intentar huir.
-                - **Remplazar X**
-                - Recordar / ajustar descripciones de los subordinados.
-                - ¿Editar la escena anterior y esta para que la comunicación sea global a todos los miembros de la Resistencia presentes (menos a Lucas)?
-                - Confirmar tatuaje y su posición.
-                - Confirmar "queso **groullé**"
-                - ¿En este punto Ana ya sabe de *Sirena*? Ajustar.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5960
+charCount:      5953
 
 
 Las dos parejas se miraron fijamente durante unos segundos.
@@ -25,7 +18,7 @@ La mujer caminó hacia la pared frontal y la golpeó dos veces. La ventana del c
 - Ana y Lucas van a escaparse.
 - Je. Entendido. ¡Ey, Ana!
 - ¿Sí? - respondió esta.
-- ¿Te viene bien antes del siguiente punto de control?
+- ¿Te viene bien donde Felipe?
 Ana miró de reojo a Lucas y sonrió.
 - ¡Perfecto!
 - Llegaremos en unos minutos.
@@ -69,7 +62,7 @@ Ana lo miró con suspicacia, pero no dijo nada.
 "¿Estás segura?", pensó.
 "Míralo tú mismo".
 De repente Lucas estaba de pie en medio de una fila de personas, caminando por un pasillo. A ambos lados, miembros de la resistencia los miraban con recelo, con máscaras de gas y los fusiles preparados.
-Bajó la mirada y se miró las manos. Tenía un tatuaje con dos burbujas en la muñeca.
+Bajó la mirada y se miró las manos. También tenía un tatuaje con dos burbujas en la muñeca izquierda, pero no eran sus manos.
 "Delante tuya", dijo la *Sirena*.
 Obedeció y allí estaban. Lara y Noemí caminaban juntas, cogidas de la mano. Miraban nerviosamente a su alrededor.
 Lucas alargó la mano para tocarlas.
@@ -83,7 +76,7 @@ Tras unos minutos, el furgón se detuvo.
 Lucas dirigió una mirada interrogante hacia su amiga. Esta se limitó a asentir.
 - Vamos.
 Ana abrió la puerta trasera del furgón y ambos se apearon.
-Se encontraron delante de una nave abandonada y grande, de un piso de altura. Las paredes metálicas estaban completamente oxidadas, y algunas partes tenían tantos agujeros que parecía un queso groullé. Era la única construcción humana visible en la zona, a excepción de la carretera y el furgón. Todo lo demás era bosque.
+Se encontraron delante de una nave abandonada y grande, de un piso de altura. Las paredes metálicas estaban completamente oxidadas, y algunas partes tenían tantos agujeros que parecía un queso gruyere. Era la única construcción humana visible en la zona, a excepción de la carretera y el furgón. Todo lo demás era bosque.
 - ¡Suerte! - gritó Ana a la furgoneta que se alejaba.
 El conductor respondió sacando la mano por la ventana y saludando.
 - Vamos - le dijo entonces a Lucas y ambos se encaminaron hacia el edificio. 
@@ -117,4 +110,3 @@ Felipe lo miró.
 Lucas frunció el ceño. Asintió.
 - ¿Qué está ocurriendo? - preguntó Ana, mirando a ambos.
 - Oh, nada - dijo Lucas, esforzándose por mostrar un gesto de despreocupación -. Que parece que tenemos telepatía.
-**VOY POR AQUÍ (NOTAS)**
