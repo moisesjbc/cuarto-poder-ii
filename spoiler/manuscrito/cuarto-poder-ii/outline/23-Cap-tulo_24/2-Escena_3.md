@@ -3,23 +3,11 @@ ID:             96
 type:           md
 summaryFull:    La Sirena se presenta ante Lucas y le cuenta su origen y motivación, negando su implicación en los ataques. Esta última les insta a asistir a la captura de uno de los violentos para mostrar su inocencia.
 POV:            0
-notes:          - "Al día siguiente reciben informes de gente que ha enloquecido en diversos puntos del mundo y han atacado a otras personas. Mientras piensan qué hacer, la Sirena se presenta a Lucas en forma humana. Le cuenta su origen y misión de llevar el progreso, de lo que Lucas duda (aquí puedo meter el tema de la desconfianza innata de la humanidad, etc). Lucas le menciona los informes que ha recibido y la Sirena le indica que no es su obra ni que puede entrar en ellos, lo cual mantiene la perspicacia del joven. Durante la conversación surge el tema de las *Burbujas* y la Sirena le insta a capturar a uno de esos violentos ya que cree saber la manera de descubrirlo."
-                
-                - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
-                	- Aclarar caso de Noemí y Lara.
-                - "La asimilación debe ser aceptada por un ser adulto".
-                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
-                - Sustituir X.
-                - ¿Mencionar las *Burbujas*?
-                - Preguntar por la capacidad regenerativa de Lucas y por qué los demás no la tienen.
-                
-                - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
-                - "La asimilación debe ser aceptada por un ser adulto".
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7674
+charCount:      8219
 
 
 La *Sirena* asintió en señal de saludo cuando la pareja se le acercó.
@@ -55,15 +43,13 @@ Lucas se acercó a ella y le puso la mano en el hombro
 - Tranquila - le dijo la *Sirena* -. Con el tiempo te acostumbrarás.
 Ana miró hacia Lucas y asintió.
 - Estoy bien - entonces miró a la *Sirena* -. Continúa.
-**VOY POR AQUÍ**
-Esta última asintió. El televisor flotante se encendió y mostró la imagen de un gran meteorito surcando el espacio.
-Lucas enseguida reconoció en él al meteorito que había visto en la base de RIO.
+Esta última asintió. El televisor flotante se encendió y mostró la imagen de un gran meteorito surcando el espacio. Lucas enseguida reconoció en él la gran roca que había visto en la base de RIO.
 La *Sirena* miró hacia él y asintió con la cabeza.
 - Este meteorito es nuestro nido. Nuestras larvas crecen en él hasta que son capaces de volar.
 Mientras hablaba, el vídeo del televisor hizo *zoom* en el meteorito y mostró su interior, lleno de larvas invisibles al ojo humano. El vídeo se aceleró y las larvas pasaron a convertirse en pequeños insectos voladores que formaban las paredes exteriores del meteorito y volaban a su alrededor.
 - Cuando llegamos a un nuevo planeta - mientras la *Sirena* continuaba hablando, el meteorito aterrizaba violentamente sobre la superficie terrestre -, nuestras crías abandonan el nido y buscan especímenes en los que introducirse.
 En el televisor, los insectos abandonaban el meteorito y atravesaban, sin que estos se dieran cuenta, la piel de toda clase de animales, incluidos los humanos.
-- Una vez dentro del huésped anidamos su sistema nervioso central y comenzamos a aprender la raza. Cuando obtenemos la capacidad de comunicarnos con ellos, les ofrecemos la asimilación.
+- Una vez dentro del huésped anidamos su sistema nervioso central y comenzamos a aprenderlo todo sobre la raza. Cuando obtenemos la capacidad de comunicarnos con ellos, les ofrecemos la asimilación.
 - ¿Están dentro de nosotros actualmente? - preguntó Lucas.
 - Así es.
 El joven hizo una mueca. La *Sirena* lo observó.
@@ -76,7 +62,7 @@ Ana tomó el relevo.
 - No dejamos de ser un extraño en el cuerpo de nuestros huéspedes. La reacción natural del organismo es intentar expulsarnos. Cuando un huésped acepta conscientemente la asimilación pasa a formar parte de nosotros.
 - Si el organismo les rechaza debe ser por algo - objetó Ana.
 - Vacunas, ejercicio físico regular, una buena alimentación... - la *Sirena* sonrió -. Vuestra raza es experta, consciente o inconscientemente, en rechazar lo que es bueno para ellos.
-Ana asintió con la cabeza.
+Su interlocutora se encogió de hombros.
 - No puedo discutir eso.
 - ¿Y qué...? - comenzó a decir Lucas - ¿...qué ocurre con el libre albedrío? ¿con lo que nos hace ser nosotros mismos?
 - Pasarían a formar parte de mí pero no perderían su autonomía. Podría decirse que mi influencia es como el hambre o el sueño. Son estados a los que no pueden resistirse, pero no por ello dejan de ser ustedes mismos.
@@ -104,7 +90,13 @@ La *Sirena* sonrió.
 - ¿Por qué?
 - Sufrirías jaquecas.
 Lucas meditó unos segundos.
-- Entiendo - dijo finalmente -.
+- Entiendo - dijo finalmente -. ¿Y qué me dices de mi "curación milagrosa"? ¿También es cosa de ustedes?
+- Así es - asintió la *Sirena*.
+- ¿Por qué?
+- No nos interesa provocarles ni que sufran ningún mal. Si sufren, nosotros sufrimos. Si mueren, morimos.
+- ¿Y Ana? - preguntó Lucas, mirándola de reojo - ¿Ana también tiene esa capacidad?
+- Aún no - contestó la *Sirena* -. Como hemos dicho, eres un caso especial.
+El joven permaneció en silencio, sopesando la respuesta.
 - ¿Qué me dices de los ataques que se están produciendo por todo el mundo? - dijo Ana tras unos segundos -. ¿No tienes nada que ver con los arrebatos de rabia que experimentan las personas, atacándose las unas a las otras.
 - No son obra nuestra.
 - Me parece mucha casualidad. Empezaron poco tiempo después de que Lucas te liberara.
@@ -112,14 +104,14 @@ Lucas meditó unos segundos.
 - ¿Y no puedes controlarlos? ¿Evitar que dejen de atacarse?
 - Lamentablemente no. Nuestras crías no pueden entrar en ellos, y los asimilados tampoco parece ser capaces de acercarse a ellos.
 - Entenderás que esto también nos resulte sospechoso, ¿no?
-- Así es. Pero se me ocurre algo.
+- Así es. Pero tengo una propuesta.
 - Tú dirás.
-- Si pudieran capturar a uno de esos violentos y llevarlo a X podríamos analizarlo.
-- ¿Qué hay en X?
+- Si pudieran capturar a uno de esos violentos y llevarlo a este lugar - el lugar se apareció en sus mentes como si lo hubieran visitado en más de una ocasión -, podríamos analizarlo.
+- ¿Qué hay ahí?
 - Una comunidad de asimilados.
-- Has dicho que los asimilados no pueden acercarse a los "violentos" - dijo Ana -.
+- Has dicho que los asimilados no pueden acercarse a los "violentos" - dijo Ana.
 - Así es, pero allí disponemos de tecnología que puede ayudarnos. Se los explicaré cuando lleguen. Si es que deciden darme esa oportunidad.
 La *Sirena* miró hacia Lucas. Este último le devolvió la mirada y se encogió de hombros.
-- Ella es la que manda - dijo, señalando a Ana -.
-La *Sirena* miró entonces hacia Ana.
+- Ella es la que manda - dijo, señalando a Ana.
+La *Sirena* la miró entonces a ella.
 - Está bien - dijo esta tras unos segundos - Lo haremos.

@@ -6,13 +6,19 @@ POV:            0
 notes:          Ana y Lucas debaten sobre lo que la Sirena les ha contado. Deciden recabar toda la información posible y aceptar ir a donde les indica la Sirena.
                 - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
                 - Definir nombre de la calle X.
+                - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
+                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
+                
+                - Aclarar caso de Noemí y Lara.
+                - ¿Mencionar las *Burbujas*?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9476
+charCount:      9493
 
 
+**VOY POR AQUÍ**
 Lucas se agarró con fuerza a Ana, a pesar de que su amiga llevaba la moto con tranquilidad. A ambos lados de la carretera de tierra, los grandes árboles iban quedándose atrás con el suficiente tiempo para apreciar su belleza.
 - ¿Sigue dándote miedo las motos? - dijo ella.
 - Prefiero llamarlo respeto.
