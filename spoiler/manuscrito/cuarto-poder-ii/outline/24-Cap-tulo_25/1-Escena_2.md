@@ -7,15 +7,21 @@ notes:          - La coordinación entre los violentos les hace dudar sobre qui�
                 - ¿Tienen ayuda de la Sirena?
                 - **Puedo incluir en la lucha con los violentos que Ana siente un pinchazo (le inyectan algo que le provoca el malestar).**
                 - **Pueden ser nanomáquinas que controlan remotamente para suministrar los fármacos en el momento justo**.
+                
+                - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
+                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
+                - Aclarar caso de Noemí y Lara.
+                - ¿Mencionar las *Burbujas*?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6190
+charCount:      6207
 
 
-Lucas irrumpió corriendo en la aldea, con sus pasos y los de Ana sobre el asfalto resonando en las calles desiertas.
-No tardaron en ver los primeros cadáveres. Cuerpos inertes descansaban sobre la carretera, las aceras, los vehículos y el mobiliario urbano. Grandes manchas de sangre teñían de rojo los lugares sobre los que reposaban.
+**VOY POR AQUÍ**
+Lucas irrumpió corriendo en la aldea, con sus pasos y los de Ana resonando sobre el asfalto de calles desiertas.
+No tardaron en ver los primeros cadáveres. Multitud de cuerpos descansaban sobre la carretera, las aceras, los vehículos y el mobiliario urbano. Grandes manchas de sangre teñían de rojo los lugares sobre los que reposaban.
 El joven ignoró la masacre y se dirigió hacia la calle donde vivía Martín y sus hijos. Cuando cruzó la esquina de esta, observó que habían echado la puerta del edificio de Martín.
 - ¡Lucas, espera!
 *La Sirena* se apareció delante de ellos, en medio de la calle.

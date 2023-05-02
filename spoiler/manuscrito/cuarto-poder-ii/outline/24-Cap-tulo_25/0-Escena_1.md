@@ -1,24 +1,15 @@
 title:          Escena 1
 ID:             122
 type:           md
-summaryFull:    Lucas y Ana viajan a la ciudad más cercana dónde se ha reportado casos de violentos y se encuentran una ciudad sumida en el caos. Un grupo de violentos los descubre y les  ataca.
+summaryFull:    Lucas y Ana viajan a la ciudad más cercana dónde se ha reportado casos de violentos y se encuentran una ciudad controlada por dos grupos de violentos. La pareja entra en la mente de sendos habitantes de la *Burbuja*. Lucas entra en Martín, padre de dos hijos, pero es expulsado cuando uno de los grupos de violentos descubren a la familia.
 POV:            0
-notes:          Ana y Lucas debaten sobre lo que la Sirena les ha contado. Deciden recabar toda la información posible y aceptar ir a donde les indica la Sirena.
-                - Lucas y Ana discuten sobre el libre albedrío. Ana le hace cuestionarse si nuestras decisiones pueden considerarse realmente nuestras.
-                - Definir nombre de la calle X.
-                - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
-                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
-                
-                - Aclarar caso de Noemí y Lara.
-                - ¿Mencionar las *Burbujas*?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9493
+charCount:      9756
 
 
-**VOY POR AQUÍ**
 Lucas se agarró con fuerza a Ana, a pesar de que su amiga llevaba la moto con tranquilidad. A ambos lados de la carretera de tierra, los grandes árboles iban quedándose atrás con el suficiente tiempo para apreciar su belleza.
 - ¿Sigue dándote miedo las motos? - dijo ella.
 - Prefiero llamarlo respeto.
@@ -30,7 +21,7 @@ Ana rió.
 - No es la primera vez que hago esto.
 Lucas se sonrojó bajo el casco de moto.
 - Cierto. Perdona - tras unos segundos, añadió -: ¿Qué opinas de todo lo que ha contado la *Sirena*?
-- Suena demasiado bien para ser verdad. Y lo tener crías creciendo en mi cerebro tampoco me hace mucha ilusión.
+- Suena demasiado bien como para ser verdad. Y lo de tener crías creciendo en mi cerebro tampoco me hace mucha ilusión.
 - Ya, intento no pensar mucho en eso.
 - Aunque quién sabe. Quizás diga la verdad y sea la clave para resolver todo esto.
 - ¿Crees que lo descubriremos antes de que sea tarde?
@@ -42,10 +33,10 @@ Lucas guardó silencio unos segundos.
 - Sí, Lucas. No te juzgo si es lo que estás pensando.
 El joven suspiró.
 - Gracias.
-- Aunque si has destruido la raza humana negaré haber dicho nada de esto.
-- Siempre encuentras la manera de estropearlo - dijo con una sonrisa. "Aunque si es así...", pensó, serio.
-Su interlocutora se rió.
-Guardaron silencio unos minutos hasta que Ana comenzó a frenar.
+- Aunque si resulta que has acabado con la raza humana negaré haber dicho nada de esto.
+- Siempre encuentras la manera de estropearlo - dijo con una sonrisa.
+"Aunque si es así...", pensó, serio.
+Su interlocutora se rió. Entonces ambos guardaron silencio unos minutos hasta que Ana comenzó a frenar.
 - Hemos llegado.
 A unos 500  metros frente a ellos, el bosque cedía para dejar paso a una extensión de tierra desnuda, y unos 100 metros más adelante había pequeñas edificaciones construidas en piedra.
 - Parece una aldea - comentó Lucas, bajándose de la moto.
@@ -54,7 +45,7 @@ Grandes columnas de humo emergían de entre los edificios y oscurecían el cielo
 - Parece que hay una, dos, tres... - Ana continuó contando - ..., nueve y diez calles de ancho. Y otras tantas de profundidad. No veo gente en las calles.
 - No hay muros exteriores - añadió Lucas -. No parece que sea una *Burbuja*. ¿No?
 - La *Resistencia* no tiene registros de este sitio, al menos. Pero quién sabe. Toma.
-Ana le cedió unos binoculares.
+Le cedió unos binoculares.
 - Te dejo elegir por dónde entraremos.
 - Tiene que ser una broma.
 - No, no lo es. ¿Por qué?
@@ -71,7 +62,8 @@ Lucas la miró a los ojos. Su amiga le devolvió la mirada con expresión seria 
 - Está bien, está bien. Usted delante.
 Lucas observó la aldea. Tampoco veía a nadie, pero distinguió manchas de sangre en las paredes de las casas.
 "Perfecto", pensó.
-Intentó recordar sus entrenamientos con la *Resistencia* y con Ajani, pero no recordó nada para estas situaciones. "¿Por dónde...?"
+Intentó recordar sus entrenamientos con la *Resistencia* y con Ajani, pero no recordó nada para estas situaciones.
+"¿Por dónde...?"
 - ¿Y bien? - dijo Ana, a sus espaldas.
 - Un momento.
 - ¿Estás esperando a la noche?
@@ -92,7 +84,7 @@ La pareja dio un respingo y miraron hacia su derecha. La *Sirena* se encontraba 
 - No veo a nadie.
 - Permíteme - dijo la *Sirena*.
 - ¿Qué...? ¡Ah!
-Lucas se encontraba de repente agachado tras un coche, en medio de una calle, pero ya no era él mismo.
+Lucas se encontró de repente agachado tras un coche, en medio de una calle, pero ya no era él mismo.
 Era Martín, ciudadano de la aldea, 50 años, de complexión fuerte. De repente todo en aquel lugar era conocido para él. Sabía dónde estaba el médico, el colegio, dónde comprar pan... También identificó dónde Lucas se encontraba actualmente: estaba hacia sus nueve.
 Su calle era interior y perpendicular con respecto a donde estaba mirando Lucas. Era normal que no se vieran.
 La *Sirena* estaba a su lado, en medio de la carretera.
@@ -106,7 +98,7 @@ Martín parpadeó y volvió a ser Lucas, de pie, a una distancia segura de la al
 - ¿Estás bien? - preguntó Ana a su lado.
 - Sí - dijo Lucas, mirando hacia ella. Se fijó en que tenía la mano en la barriga -, ¿tú estás bien?
 - Sí, sólo un poco mareada. He estado en la piel de una ciudadana de la aldea, María. Hay un grupo de violentos cerca de la tienda de Manolo y... - entonces se detuvo y miró hacia Lucas.
-- ¿Un chico de 27 años, rubio, lleva la tienda de la calle X?
+- ¿Un chico de 27 años, rubio, lleva la tienda de la calle Angosta?
 Ana lo miró con expresión interrogante pero entonces asintió.
 - También has "entrado" dentro de alguien, ¿no?
 - Sí, Martín.
@@ -118,7 +110,10 @@ Ana lo miró con expresión interrogante pero entonces asintió.
 Lucas se llevó la mano a la cabeza.
 - ¿Seguro que estás bien? - le dijo Ana.
 - Sí, es que estos cambios entre identidades... He pasado a tener dos hijos más - bromeó -. Los de Martín - aclaró, cuando vio la cara de Ana.
-- Las primeras veces son así - dijo la *Sirena* -. Con el tiempo será natural.
+Se preguntó entonces cómo estarían Noemí y Lara.
+Un flash, cortesía de la *Sirena*, le mostró a las que habían sido sus hijas, encerradas en una celda pero bien.
+"Aguanten", pensó Lucas.
+- Las primeras veces son así - dijo la *Sirena*, refiriéndose a los cambios de identidad -. Con el tiempo será natural.
 - Si aceptamos la asimilación - dijo Ana.
 La *Sirena* sonrió.
 - Por supuesto.
@@ -139,10 +134,10 @@ Al instante volvía a ser Martín. Estaba oculto en su casa bajo una mesa, abraz
 - ¡No, papá! - gritó uno de los niños en un susurro.
 - ¡No! - se le aferró el otro.
 Martín se libró del agarre con suavidad pero con firmeza.
-- Sólo será un momento - dijo Martín, ya liberado e incorporándose. No pudo evitar que se le hiciera un nudo en el estómago al escuchar los sollozos de sus criaturas.
+- Sólo será un momento - dijo, ya liberado e incorporándose. No pudo evitar que se le hiciera un nudo en el estómago al escuchar los sollozos de sus criaturas.
 "¿Los niños no están asimilados?"
 "La asimilación debe ser aceptada por un ser adulto"
-"Entiendo", dijo Lucas, corriendo las cortinas con sumo cuidado.
+"Entiendo", dijo Lucas, convertido en Martín, corriendo las cortinas con sumo cuidado.
 Desde su piso en la planta calle no llegaba a ver a gran distancia.
 "Quizás pueda subir a una de las plantas superiores y pedirle a los vecinos que..."
 "Ni hablar", dijo la voz del verdadero Martín, "no pienso separarme de mis hijos otra vez".
