@@ -3,29 +3,19 @@ ID:             123
 type:           md
 summaryFull:    La pareja lucha contra el grupo, notando que estos luchan de manera coordinada. Consiguen reducirlos y hacerse con uno de ellos.
 POV:            0
-notes:          - La coordinación entre los violentos les hace dudar sobre quién los está coordinando.
-                - ¿Tienen ayuda de la Sirena?
-                - **Puedo incluir en la lucha con los violentos que Ana siente un pinchazo (le inyectan algo que le provoca el malestar).**
-                - **Pueden ser nanomáquinas que controlan remotamente para suministrar los fármacos en el momento justo**.
-                
-                - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
-                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
-                - Aclarar caso de Noemí y Lara.
-                - ¿Mencionar las *Burbujas*?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6207
+charCount:      6196
 
 
-**VOY POR AQUÍ**
 Lucas irrumpió corriendo en la aldea, con sus pasos y los de Ana resonando sobre el asfalto de calles desiertas.
-No tardaron en ver los primeros cadáveres. Multitud de cuerpos descansaban sobre la carretera, las aceras, los vehículos y el mobiliario urbano. Grandes manchas de sangre teñían de rojo los lugares sobre los que reposaban.
-El joven ignoró la masacre y se dirigió hacia la calle donde vivía Martín y sus hijos. Cuando cruzó la esquina de esta, observó que habían echado la puerta del edificio de Martín.
+No tardaron en ver los primeros cadáveres. Una multitud de cuerpos descansaban sobre la carretera, las aceras, los vehículos y el mobiliario urbano. Grandes manchas de sangre teñían de rojo los lugares sobre los que reposaban.
+El joven ignoró la masacre y se dirigió hacia la calle donde vivía Martín y sus hijos. Cuando cruzó la esquina de esta, observó que habían echado abajo la puerta del edificio.
 - ¡Lucas, espera!
-*La Sirena* se apareció delante de ellos, en medio de la calle.
-- Están dentro - dijo -. No puedo acceder, pero Martín y sus hijos ya deben de haber-
+La *Sirena* se apareció delante de ellos, en medio de la calle.
+- Están dentro - dijo -. No puedo acceder, pero Martín y sus hijos ya deben de haber...
 - ¡No lo digas! - espetó Lucas. Preparó su pistola y entró en el edificio.
 Un pasillo estrecho avanzaba con una puerta a cada lado, hasta llegar a una escalera de dos tramos en el fondo.
 No había nadie a la vista.
@@ -34,9 +24,9 @@ Lucas subió los escalones de 2 en 2 y alcanzó rápidamente el primer piso.
 La puerta del piso de Martín estaba destrozada.
 Un pequeño pasillo se internaba en la casa. Lo bloqueaba un hombre corpulento que miraba hacia dentro. Se giró hacia Lucas y este apuntó su arma hacia él.
 - Déjanos pa-.
-Pero el hombre se abalanzó hacia él. Lucas le disparó en el pecho pero apenas se inmutó y arrolló a Lucas, cayendo ambos sobre el pasillo exterior del piso.
+Pero el hombre se abalanzó hacia él. Lucas le disparó en el pecho pero el titán apenas se inmutó y lo arrolló, cayendo ambos sobre el pasillo exterior del piso.
 La masa aplastaba a Lucas y apenas lo dejaba respirar. El hombre intentó incorporarse, apretando una de sus manos sobre el pecho de Lucas.
-El joven intentó zafarse de la mole pero era imposible. Esta última se incorporó, hundiendo aún más su mano en el pecho de su víctima.
+El joven intentó zafarse de la mole pero era imposible. Esta última se incorporó, hundiendo aún más la mano en el pecho de su víctima.
 Un disparo le atravesó la cabeza y el violento obeso se desplomó hacia un lado.
 Lucas tragó una gran bocanada de aire y comenzó a incorporarse.
 - Espera - le dijo Ana, sin alzar la voz.
@@ -44,7 +34,7 @@ El joven obedeció y, tendido en el suelo, miró a su amiga. Esta se encontraba 
 Lucas asintió ligeramente y alzó la cabeza con igual suavidad. Frente a él el pasillo interior de la casa se encontraba desierto.
 - No hay nadie.
 - Muy bien - dijo Ana asomándose al pasillo -. Levántate.
-El joven obedeció y se incorporó pesadamente.
+El joven obedeció y se reincorporó pesadamente.
 Tan acostumbrado como estaba al familiar ruido metálico que lo curaba, se sintió abrumado por la presión del pecho que no desaparecía.
 Durante un segundo pensó en volver rápidamente a la calle para curarse, pero entonces un grito lo devolvió a la realidad.
 Era el grito de su hijo.
@@ -52,7 +42,7 @@ Se dispuso a correr pasillo adentro pero una mano lo detuvo. Ana lo arrastró ha
 - ¿Qué haces? ¡Mi hijo...!
 - ¡No es tu hijo! - gritó Ana.
 La joven cerró los ojos y suspiró, manteniendo la presa sobre su amigo.
-- Yo también he sentido que tengo una familia aquí dentro, pero no es real. Son las vidas de otras personas.
+- Yo también he sentido que tengo una familia aquí, pero no es real. Son las vidas de otras personas.
 - ¡Pero...!
 - Escucha, Lucas. No los vamos a abandonar, pero necesito que mantengas la cabeza fría. Ese gordo de ahí no te hubiera derribado tan fácilmente si hubieras recordado tu entrenamiento.
 El joven la miró a los ojos y suspiró.
@@ -61,16 +51,16 @@ Ana lo soltó.
 La pareja se internó en el piso y avanzó los pocos metros del pasillo de la entrada.
 Ana, en cabeza, redujo la marcha cuando llegaban a lo que parecía ser el salón. Entraron en una amplia estancia, presidido por un un sofá de 3 plazas volcado en el suelo, y dos sillones a los lados, con un pequeño mueble frente a ellos. Frente al mueble, una tele yacía rota en el suelo.
 - ¡Estamos en la cocina! - gritó una voz que Lucas reconoció como la suya propia, pero que era la de Martín.
-La voz provenía de la puerta que se encontraba en el extremo de la estancia opuesto al por el que habían entrado.
+Provenía de la puerta que se encontraba en el extremo de la estancia opuesto a aquel por el que habían entrado.
 Lucas miró a su amiga, esperando su permiso. Esta asintió y ambos avanzaron hasta situarse a cada lado de la puerta que daba a la cocina.
-Ana se asomó a la cocina y a duras penas paró con el brazo el cuchillo que se dirigía hacia su cabeza.
+La joven se asomó a la cocina y a duras penas paró con el brazo el cuchillo que se dirigía hacia su cabeza.
 - ¡Hijo de puta! - espetó - ¡detrás tuya!
 Lucas dejó escapar un grito cuando el acero se le clavó en la espada. Pegó un codazo hacia atrás y su codo tembló cuando encontró la carne de su atacante.
 Una mujer de unos cincuenta años cayó de culo, con la cara ensangrentada. Lucas sintió un gran mareo y se tambaleó, pero logró apuntar el arma hacia la mujer.
 - Quieta - dijo Lucas con un suspiro.
 Pero la mujer se puso en pie de un salto y corrió hacia él.
-El joven resopló y le pegó dos tiros en el pecho, haciendo que la mujer se desplomara.
-Otro disparo se escuchó a sus espaldas. Ana había conseguido disparar a su atacante en el muslo derecho y este había caído también sobre el suelo de la cocina pero, ignorando el dolor, se puso en pie y cojeaba hacia Ana.
+El joven resopló y le pegó dos tiros en el pecho, haciendo que la atacante se desplomara.
+Otro disparo se escuchó a sus espaldas. Ana había conseguido disparar a su enemigo en el muslo derecho y este había caído también sobre el suelo de la cocina pero, ignorando el dolor, se puso en pie y cojeaba hacia Ana.
 Ana le lanzó un puñetazo pero otra mujer apareció desde la cocina y le lanzó un ataque con un bate de baseball. Ana retrocedió y Lucas se apartó a duras penas para no tropezar con ella.
 En ese momento sintió un dolor inmenso recorrer todo su cuerpo cuando alguien extrajo el cuchillo de su espalda.
 Lucas volvió a lanzar otro codazo al tiempo que se daba la vuelta, pero su ataque fue esquivado. El nuevo atacante se encontraba a dos metros de él y le lanzó un cuchillazo hacia el pecho. Lucas lo esquivó y disparó a la cabeza, haciendo que el hombre se desplomara.
