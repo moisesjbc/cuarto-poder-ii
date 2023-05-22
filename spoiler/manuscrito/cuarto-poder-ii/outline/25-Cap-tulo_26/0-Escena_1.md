@@ -1,22 +1,17 @@
 title:          Escena 1
 ID:             128
 type:           md
-summaryFull:    Lucas y Ana
-                Ana y Lucas transportan al violento hasta una ciudad cercana. Cuando llegan a las puertas de la ciudad escuchan las {W:16:Notas de xilófono}. Parte del pueblo les abre la puerta y sale a recibirles de manera amistosa. Les invitan a pasar.
+summaryFull:    Ana y Lucas transportan al violento hasta una ciudad cercana. Lucas ve a Lara sufriendo y la *Sirena* le dice que es por su resistencia natural a ella.
                 
-                -> **¿La Sirena no puede simplemente mentirle?**
 POV:            0
-notes:          - **Puedo incluir en la lucha con los violentos que Ana siente un pinchazo (le inyectan algo que le provoca el malestar).**
-                - **Pueden ser nanomáquinas que controlan remotamente para suministrar los fármacos en el momento justo**.
+notes:          - **Pueden ser nanomáquinas que controlan remotamente para suministrar los fármacos en el momento justo**.
                 - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
-                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
-                - Aclarar caso de Noemí y Lara.
-                - ¿Mencionar las *Burbujas*?
+                
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3255
+charCount:      3252
 
 
 El traqueteo de la destartalada furgoneta apenas sacaba a Lucas de su ensimismamiento.
@@ -30,7 +25,7 @@ Pasaron unos segundos.
 - Oh, no era broma. Quiero que lo veas.
 Lucas esperó a que *algo* en su interior le dijera que Ana estaba *dentro*. Entonces pensó en los hijos de Martín, Carlos y Gustavo. Se detuvo un rato en ellos hasta que pasó a ver a Noemí, tan clara como si la tuviera delante. Exactamente cuando Lucas le dijo que no podía fugarse con ella.
 Ana, sin dejar de mirar la carretera, reflexionó unos segundos.
-- Sientes que has abandonado a tres hijos - dijo, mientras le dirigía miradas rápidas -. Te sientes culpable.
+- Sientes que has abandonado a cuatro hijos - dijo, mientras le dirigía miradas rápidas -. Te sientes culpable.
 Lucas se limitó a asentir.
 - Sé que no son mis hijos.. pero aún así.
 - Lo del piso de Martín... Lo siento pero tenías que recordarlo si querías salvarlos.
@@ -57,5 +52,4 @@ Lucas resopló, sin terminar de sentirse aliviado. Algo le rondaba la cabeza.
 La *Sirena* calló.
 Pasaron los segundos, eternos.
 - ¡Di algo!
-- Encontraremos la manera.
-**VOY POR AQUÍ (NOTAS)**
+- Encontraremos la manera. Siempre lo hacemos.
