@@ -13,6 +13,8 @@ notes:          - ¿Es la primera vez que Ana dice que no culpa a Lucas? Si ya l
                 - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
                 - Aclarar caso de Noemí y Lara.
                 - ¿Mencionar las *Burbujas*?
+                
+                - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
 label:          4
 status:         1
 compile:        2
