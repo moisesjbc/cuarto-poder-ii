@@ -3,11 +3,7 @@ ID:             129
 type:           md
 summaryFull:    Ana y Lucas llegan a la *Burbuja*. Siguiendo las indicaciones de los asimilados, llevan al violento a la plaza del pueblo y la *Sirena* les ofrece una jeringuilla con una concentración de crías. Sin embargo, cuando están a punto de pincharlo hay una explosión. Ana sangra mucho por la nariz y cae desmayada.
 POV:            0
-notes:          - Mientras lo llevan a la plaza la Sirena les explica que se trata de una *Burbuja* desactivada. Allí han convergido antiguos ciudadanos de la misma "para construir un pequeño paraíso" usando la señal que los de RIO emitía para controlar la red.
-                - Si la Sirena puede comunicarse en cualquier momento con ellos ¿tiene sentido que lo haga ahora "de sopetón"?
-                - Durante la conversación ambos muestran más empatía el uno por el otro, casi como si pudieran hablar sin palabras y la Sirena les habla de la mente enjambre y la unidad.
-                - Lucas se plantea si realmente puede tener privacidad con la Sirena escuchando todo a través de él.
-                - ¿Es la primera vez que Ana dice que no culpa a Lucas? Si ya lo ha hecho, reformular el "No te culpo, Lucas".
+notes:          - ¿Es la primera vez que Ana dice que no culpa a Lucas? Si ya lo ha hecho, reformular el "No te culpo, Lucas".
                 - **Si están llevando a un violento no deberían poder acceder a la *Sirena*. Corregir esto en el capítulo de Martín para que la *Sirena* no tenga problema en vigilar a los violentos ni Lucas en comunicarse con Martín**
                 - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
                 - Tenéis / tienen para la segunda persona -> ajustar en toda la historia según el hablante sea canario o no.
@@ -21,7 +17,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6850
+charCount:      7548
 
 
 Los altos muros empezaron a vislumbrarse frente a ellos, en la distancia.
@@ -58,7 +54,7 @@ Las tres mujeres sonrieron al vehículo que se marchaba. La más joven desaparec
 A los pocos segundos, el portón comenzó a cerrarse pesadamente.
 - Puede que sea "inmortal" - dijo Lucas -. Pero esto no me gusta nada.
 - Te entiendo - respondió Ana -. Lo que viviste en la *Burbuja* no fue una experiencia para repetir.
-El vehículo continuó su marcha en solitario por la avenida de un carril. A ambos lados de la carretera habían unos pocos coches aparcados. No había ninguna persona a la vista, salvo unas pocas que empezaban a verse al fondo, donde la carretera parecía bifurcarse para dejar paso a una plaza.
+El vehículo continuó su marcha en solitario por la avenida de un carril. A ambos lados de la carretera habían unos pocos coches aparcados. No había ninguna persona a la vista, salvo unas pocas que empezaban a verse al fondo, donde la carretera parecía bifurcarse para dejar paso a una plaza. Ana detuvo el vehículo junto a esta.
 Había un pequeño grupo de unas veinte personas de todas las edades reunido allí. Todos miraban hacia la furgoneta y sonreían.
 - ¿No son pocos? - dijo Lucas, mirándolos fijamente para luego mirar a los alrededores.
 - ¿Pocos?
@@ -68,17 +64,26 @@ Había un pequeño grupo de unas veinte personas de todas las edades reunido all
 Lucas pegó un respingo en su asiento. Ana cerró los ojos y agarró con fuerza el volante.
 - ¡No hagas eso!
 - Lo sentimos.
-"Me pregunto si...", comenzó a pensar Lucas, cuando de repente se encontraba sentado viendo la tele con su familia. Era Lucía y vivía pegada a la plaza, con vistas a esta.
-Se sobresaltó en su asiento, pero su marido, a su izquierda, apenas se inmutó. Limitándose a sonreír. Sus hijos de tres y cuatro años y sentados a su derecha, sin embargo, pegaron un salto. El pequeño empezó a llorar.
-- ¡Lo siento mi vida! - dijo con voz femenina. Se inclinó hacia su hijo para acariciarlo pero entonces volvió a ser Lucas,  sentado en el puesto del copiloto junto a Ana. Resopló y sonrió para sus adentros. Segundos después era Luís, vecino de Lucía, y luego Marcos. Segundos después era Lidia.
+- ¿Por qué una *Burbuja* - inquirió Lucas.
+- El compuesto que *RIO* inyectaba a los sujetos estaba hecho a partir de nuestras crías. Al liberarnos, los habitantes de las mismas fueron de los primeros en poder aceptarnos.
+- Así que *RIO* les estaba haciendo un favor... - insinuó Ana.
+- No merecía la pena las matanzas - contestó la mente enjambre, con un tono triste.
+Lucas se preguntó si esa tristeza era sincera, pero intentó borrar el pensamiento de su cabeza antes de que la *Sirena* lo sondeara.
+Si es que no lo había hecho ya.
+Este pensamiento le hizo plantearse si realmente existiría la privacidad con la *Sirena*.
+El joven volvió a pensar en la ausencia de gente a la vista.
+"Me pregunto si..."
+De repente se encontraba sentado viendo la tele con su familia. Era Lucía y vivía pegada a la plaza, con vistas a esta.
+Se sobresaltó en su asiento, pero su marido, a su izquierda, apenas se inmutó, limitándose a sonreír. Por el contrario, sus hijos de tres y cuatro años, sentados a su derecha, pegaron un respingo. El pequeño empezó a llorar.
+- ¡Lo siento mi vida! - dijo con voz femenina. Se inclinó hacia su hijo para acariciarlo pero entonces volvió a ser Lucas,  sentado en el puesto del copiloto junto a Ana. Resopló y sonrió para sus adentros.
+Segundos después era Luís, vecino de Lucía, y luego Marcos. Segundos después era Lidia.
 - Vaya saltos has dado - dijo Ana -. ¿No estás mareado?
 - No, qué raro. ¿Tú sí?
 - Un poco.
 - Lo siento - dijo Lucas, con la mirada perdida -. Tenía que asegurarme.
 - Lo comprendemos - dijo la *Sirena* -. Cuando quieran.
-La pareja abandonó el vehículo.
-Sin dejar de echar miradas furtivas a los congregados en la plaza, Lucas acompañó a Ana hasta la parte de atrás de la furgoneta. Imitando a su amiga, preparó su arma  en caso de que el violento hubiera despertado.
-Siguiendo otra indicación de ella, Lucas abrió la puerta de la furgoneta con cuidado y ambos miraron dentro.
+La pareja abandonó el vehículo. Sin dejar de echar miradas furtivas a los congregados en la plaza, Lucas acompañó a Ana hasta la parte de atrás de la furgoneta.
+Imitando a su amiga, preparó su arma  en caso de que el violento hubiera despertado, y siguiendo otra indicación de ella, Lucas abrió la puerta de la furgoneta con cuidado y ambos miraron dentro.
 No pudo evitar dejar escapar un suspiro de alivio cuando comprobó que el violento seguía inconsciente.
 Ambos se metieron en la parte de atrás de la furgoneta. El joven esperó a que Ana comprobara las esposas.
 - Están bien.
