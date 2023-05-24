@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8219
+charCount:      8223
 
 
 La *Sirena* asintió en señal de saludo cuando la pareja se le acercó.
@@ -97,19 +97,19 @@ Lucas meditó unos segundos.
 - ¿Y Ana? - preguntó Lucas, mirándola de reojo - ¿Ana también tiene esa capacidad?
 - Aún no - contestó la *Sirena* -. Como hemos dicho, eres un caso especial.
 El joven permaneció en silencio, sopesando la respuesta.
-- ¿Qué me dices de los ataques que se están produciendo por todo el mundo? - dijo Ana tras unos segundos -. ¿No tienes nada que ver con los arrebatos de rabia que experimentan las personas, atacándose las unas a las otras.
+- ¿Qué me dices de los ataques que se están produciendo por todo el mundo? - dijo Ana tras unos segundos -. ¿No tienes nada que ver con los arrebatos de rabia que experimentan las personas, atacándose las unas a las otras?
 - No son obra nuestra.
 - Me parece mucha casualidad. Empezaron poco tiempo después de que Lucas te liberara.
-- Reconozco que la casualidad no se puede obviar - asintió -. Pero no he tenido que ver con ello.
+- La casualidad no se puede obviar - asintió -. Pero no hemos tenido que ver con ello.
 - ¿Y no puedes controlarlos? ¿Evitar que dejen de atacarse?
-- Lamentablemente no. Nuestras crías no pueden entrar en ellos, y los asimilados tampoco parece ser capaces de acercarse a ellos.
+- Lamentablemente no. Nuestras crías no pueden entrar en ellos, y los asimilados tampoco parece ser capaces de razonar con ellos o retenerlos.
 - Entenderás que esto también nos resulte sospechoso, ¿no?
 - Así es. Pero tengo una propuesta.
 - Tú dirás.
 - Si pudieran capturar a uno de esos violentos y llevarlo a este lugar - el lugar se apareció en sus mentes como si lo hubieran visitado en más de una ocasión -, podríamos analizarlo.
 - ¿Qué hay ahí?
 - Una comunidad de asimilados.
-- Has dicho que los asimilados no pueden acercarse a los "violentos" - dijo Ana.
+- Has dicho que los asimilados no pueden ayudarnos con los "violentos" - dijo Ana.
 - Así es, pero allí disponemos de tecnología que puede ayudarnos. Se los explicaré cuando lleguen. Si es que deciden darme esa oportunidad.
 La *Sirena* miró hacia Lucas. Este último le devolvió la mirada y se encogió de hombros.
 - Ella es la que manda - dijo, señalando a Ana.

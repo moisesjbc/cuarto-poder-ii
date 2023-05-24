@@ -3,23 +3,22 @@ ID:             129
 type:           md
 summaryFull:    Ana y Lucas llegan a la *Burbuja*. Siguiendo las indicaciones de los asimilados, llevan al violento a la plaza del pueblo y la *Sirena* les ofrece una jeringuilla con una concentración de crías. Sin embargo, cuando están a punto de pincharlo hay una explosión. Ana sangra mucho por la nariz y cae desmayada.
 POV:            0
-notes:          - ¿Es la primera vez que Ana dice que no culpa a Lucas? Si ya lo ha hecho, reformular el "No te culpo, Lucas".
-                - **Si están llevando a un violento no deberían poder acceder a la *Sirena*. Corregir esto en el capítulo de Martín para que la *Sirena* no tenga problema en vigilar a los violentos ni Lucas en comunicarse con Martín**
-                - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
-                - Tenéis / tienen para la segunda persona -> ajustar en toda la historia según el hablante sea canario o no.
+notes:          - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
+                - - ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
+                - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
                 - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
-                - ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
                 
                 - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
                 - Aclarar caso de Noemí y Lara.
                 - ¿Mencionar las *Burbujas*?
                 
                 - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
+                - Tenéis / tienen para la segunda persona -> ajustar en toda la historia según el hablante sea canario o no.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7548
+charCount:      7932
 
 
 Los altos muros empezaron a vislumbrarse frente a ellos, en la distancia.
@@ -94,15 +93,20 @@ Llevaron al esposado fuera y lo encaminaron por la pequeña plaza, escoltados a 
 Cuando llegaron al centro, un hombre los esperaba con una jeringuilla en la mano.
 Se la ofreció a Lucas.
 - ¿Qué es eso?
-- Es una colonia concentrada de nuestras crías. La transmisión aérea es insuficiente para entrar en él.
+- Es una colonia concentrada y adulta de nosotros. La transmisión aérea es insuficiente para entrar en él.
 Lucas hizo una mueca. La jeringuilla contenía lo que parecía ser un líquido muy espeso y gris oscuro.
 El hombre volvió a ofrecerle la jeringuilla. Lucas se quedó mirándola.
 - Miedo a las jeringuillas. Ya veo.
 - Bueno, tanto como miedo...
 Ana sonrió.
 - Vaya con el inmortal.
-Tomó la inyección y la acercó al inconsciente.
-Una explosión cercana los lanzó por los aires, y Lucas dejó escapar un grito cuando golpeó el suelo. Un pitido ensordecedor le taladraba los oídos, y la visión borrosa apenas le dejaba distinguir a las personas corriendo de un lado a otro.
+Tomó la inyección y sin ningún tipo de preámbulo la clavó en el pecho del violento.
+- ¿Y ahora qué? - inquirió.
+Pero no hubo respuesta.
+De repente el violento abrió los ojos, inyectados en sangre, y comenzó a sufrir fuertes espamos. Gritaba, agonizando de dolor.
+La pareja comenzó a retroceder, cuando algo explotó en el interior del violento y este cerró los ojos, inerte.
+- ¿Qué...? - comenzó a decir Lucas.
+Una segunda explosión, cercana, los lanzó por los aires, y el joven dejó escapar un grito cuando golpeó el suelo. Un pitido ensordecedor le taladraba los oídos, y la visión borrosa apenas le dejaba distinguir a las personas corriendo de un lado a otro.
 Se incorporó pesadamente.
 Se sentía gritar el nombre de Ana una y otra vez pero no escuchaba la voz que debía estar saliendo de él.
 Miró a un lado y la localizó tumbada a unos metros de él. Sin dejar de mirar a su alrededor intentando interpretar en vano el caos reinante, se acercó lentamente a ella.
@@ -111,6 +115,6 @@ Las piernas apenas le respondían, y no había ningún sonido metálico que le c
 Pero no obtuvo respuesta.
 Ana comenzó a incorporarse pesadamente y Lucas esbozó una pequeña sonrisa, pero esta desapareció cuando vio la cara de su amiga.
 Borbotones de sangre le manaban de la nariz.
-Ana miró a Lucas y se llevó la mano a la nariz. Entonces se miró la mano cubierta en sangre.
+La joven miró a Lucas y se llevó la mano a la nariz. Entonces se miró la mano cubierta en sangre.
 Dijo algo que Lucas no pudo escuchar y cayó inconsciente.
 - **VOY POR AQUÍ (NOTAS)**

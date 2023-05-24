@@ -7,10 +7,10 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9756
+charCount:      9715
 
 
-Lucas se agarró con fuerza a Ana, a pesar de que su amiga llevaba la moto con tranquilidad. A ambos lados de la carretera de tierra, los grandes árboles iban quedándose atrás con el suficiente tiempo para apreciar su belleza.
+Lucas se aferró a Ana con fuerza, a pesar de que su amiga llevaba la moto con tranquilidad. A ambos lados de la carretera de tierra, los grandes árboles iban quedándose atrás con el suficiente tiempo para apreciar su belleza.
 - ¿Sigue dándote miedo las motos? - dijo ella.
 - Prefiero llamarlo respeto.
 Ana rió.
@@ -86,7 +86,7 @@ La pareja dio un respingo y miraron hacia su derecha. La *Sirena* se encontraba 
 - ¿Qué...? ¡Ah!
 Lucas se encontró de repente agachado tras un coche, en medio de una calle, pero ya no era él mismo.
 Era Martín, ciudadano de la aldea, 50 años, de complexión fuerte. De repente todo en aquel lugar era conocido para él. Sabía dónde estaba el médico, el colegio, dónde comprar pan... También identificó dónde Lucas se encontraba actualmente: estaba hacia sus nueve.
-Su calle era interior y perpendicular con respecto a donde estaba mirando Lucas. Era normal que no se vieran.
+Su calle era interior paralela a Lucas. Era normal que no se vieran.
 La *Sirena* estaba a su lado, en medio de la carretera.
 - Mira - señaló hacia delante.
 Martín asomó ligeramente la cabeza y observó en dicha dirección.
