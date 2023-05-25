@@ -3,22 +3,11 @@ ID:             129
 type:           md
 summaryFull:    Ana y Lucas llegan a la *Burbuja*. Siguiendo las indicaciones de los asimilados, llevan al violento a la plaza del pueblo y la *Sirena* les ofrece una jeringuilla con una concentración de crías. Sin embargo, cuando están a punto de pincharlo hay una explosión. Ana sangra mucho por la nariz y cae desmayada.
 POV:            0
-notes:          - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
-                - - ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
-                - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
-                - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
-                
-                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
-                - Aclarar caso de Noemí y Lara.
-                - ¿Mencionar las *Burbujas*?
-                
-                - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
-                - Tenéis / tienen para la segunda persona -> ajustar en toda la historia según el hablante sea canario o no.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7932
+charCount:      7931
 
 
 Los altos muros empezaron a vislumbrarse frente a ellos, en la distancia.
@@ -115,6 +104,6 @@ Las piernas apenas le respondían, y no había ningún sonido metálico que le c
 Pero no obtuvo respuesta.
 Ana comenzó a incorporarse pesadamente y Lucas esbozó una pequeña sonrisa, pero esta desapareció cuando vio la cara de su amiga.
 Borbotones de sangre le manaban de la nariz.
-La joven miró a Lucas y se llevó la mano a la nariz. Entonces se miró la mano cubierta en sangre.
+La joven miró a Lucas y se llevó la mano a la cara. Entonces se miró la mano cubierta en sangre.
 Dijo algo que Lucas no pudo escuchar y cayó inconsciente.
 - **VOY POR AQUÍ (NOTAS)**
