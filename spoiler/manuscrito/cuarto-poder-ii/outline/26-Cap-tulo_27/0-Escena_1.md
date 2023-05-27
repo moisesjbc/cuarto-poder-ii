@@ -29,7 +29,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8657
+charCount:      9107
 
 
 - ¡Ana! ¡Ana! ¡Ana!
@@ -92,8 +92,8 @@ Corrió hacia la puerta e intentó cerrarla, pero la cerradura estaba completame
 Con mucho esfuerzo comenzó a empujar los escritorios cercanos contra la puerta.
 "Esto no va a ser suficiente", se dijo.
 Al otro lado de la puerta y hacia arriba escuchó gritos ahogados.
-Había otra pequeña puerta en la estancia pero daba a un pequeño aseo.
-"Sin salida", resopló Lucas.
+Había otra pequeña puerta en el fondo opuesto de la estancia pero daba a un pequeño aseo. Un cadáver yacía en el suelo junto al inodoro.
+"Sin salida", resopló Lucas, ignorando al muerto.
 "Tendré que pedir ayuda"
 Dio unas zancadas hasta Ana e intentó hablar por su radio, pero no hubo respuesta alguna.
 Miró las pesadas paredes y techo de hormigón que lo envolvía y asintió lentamente.
@@ -103,19 +103,23 @@ Comenzó a caminar por la estancia observando los alrededores
 Entonces reparó en un pequeño armario sobre uno de los escritorios del fondo de la estancia. Tenía un candado de combinación reventado.
 Lo abrió.
 "Jamás imaginé sentirme feliz por esto", sonrió para sí.
-El armario contenía pistolas y munición, además de una carpeta.
+El armario contenía pistolas y munición.
 Unos gritos se escucharon al otro lado de la puerta bloqueada y se acercaban rápidamente a esta. Lucas dio un respingo cuando empezaron a golpear el metal con furia.
-Lucas corrió hacia Ana y arrastró su silla hacia el fondo de la sala.
+Corrió hacia Ana y arrastró su silla hacia el fondo de la sala.
 Seguía sin responder.
 Escuchó el tumulto al otro lado de la puerta y miró la pistola en su mano y la munición en el armario.
 "Esto no va a ser suficiente"
-Miró a los ordenadores dispuestos alrededor de la sala. Fue uno por uno encendiéndolos.
-Tras un breve intervalo de tiempo, todos acababan mostrando una pantalla solicitando una contraseña.
-Lucas fue soltando maldiciones con cada nueva pantalla bloqueada hasta que recordó algo. Volvió al pequeño armario y cogió la carpeta.
-A los golpes de la puerta se se sumó otro ruido. El de los escritorios de metal que la bloqueaban, arrastrándose por el suelo lentamente. Los gritos al otro lado de la puerta dejaron de escucharse ahogados.
-El joven corrió, carpeta en mano e intentó empujar los escritorios con su cuerpo mientras ojeaba la carpeta frenéticamente.
-Llegó a un documento donde consiguió leer "código de desbloqueo".
-Corrió al ordenador más cercano y lo introdujo. La animación de una rueda girando duró unos segundos que se convirtieron en una eternidad mientras Lucas dudaba sobre si volver a empujar los escritorios o permanecer en el sitio.
+Miró a los ordenadores dispuestos alrededor de la sala y se acercó al más cercano. Lo encendió.
+Tras un breve intervalo de tiempo, el dispositivo mostró una pantalla con un mensaje:
+"Introduzca su tarjeta".
+Lucas se afanó en rebuscar en los bolsillos del cadáver que se sentaba frente a la pantalla. Nada. Buscó en el suelo cercano pero tampoco hubo suerte.
+Comenzó a correr por la sala, rebuscando en el resto de cadáveres. Soltaba maldiciones con cada uno que demostraba no tener nada.
+A los golpes de la puerta se se sumó otro ruido: el de los escritorios de metal que la bloqueaban, arrastrándose por el suelo lentamente. Los gritos al otro lado de la puerta dejaron de escucharse ahogados.
+El joven corrió e intentó empujar los escritorios con su cuerpo mientras escudriñaba la habitación frenéticamente.
+- ¡Vaya mierda! - espetó con un grito, cuando un pensamiento cruzó su cerebro como un rayo.
+"No creo...", se dijo.
+Pero tenía que intentarlo. Corrió al pequeño aseo del fondo y movió el cadáver del suelo hasta dejarlo boca arriba. Sujetaba una pequeña tarjeta contra el pecho.
+Lucas la cogió y corrió al ordenador más cercano al aseo y lo introdujo. La animación de una rueda girando duró unos segundos que se convirtieron en una eternidad mientras Lucas dudaba sobre si volver a empujar los escritorios o permanecer en el sitio.
 Por fin la pantalla de bloqueo desapareció y un fondo de escritorio con el logotipo de RIO apareció frente a él. Al joven le pareció que había pasado años desde que viera el  "río de información" fluyendo desde un planeta hacia una cabeza humana.
 Vio iconos con leyendas como "Cámaras", "Canto de Sirena", etc.
 Hizo click en el "Canto de Sirena" y la luz de la *webcam* se encendió.
@@ -129,6 +133,6 @@ Lucas miró a Ana.
 Volvió a mirar a cámara.
 - Por favor - dijo finalmente - Nos están atacando. ¡Necesitamos ayuda!
 La mujer habló con alguien fuera de cámara pero Lucas era incapaz de oírla. Se había silenciado.
-Cuando volvió el sonido, se limitó a decir.
+Cuando volvió el sonido, se limitó a decir:
 - Aguanta.
 **VOY POR AQUÍ (NOTAS)**
