@@ -8,18 +8,28 @@ notes:          - Meter en alguna parte que los de RIO o alguien le enseña a Lu
                 - ¿Liberar algún gas?
                 - ¿Lucas pregunta por máscaras de gas pero no están o la llave ha desaparecido?
                 - **Pensar mejor la distribución de la ambulancia (¿u otro vehículo?) y sus ocupantes**
+                
+                - Burbuja controlada por equipo de RIO llevando mini-mástiles.
+                - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
+                - - ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
+                - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
+                - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
+                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3611
+charCount:      4190
 
 
-"Estaremos ahí en quince minutos" había dicho la chica de la videoconferencia antes de colgar sin dar tiempo a responder.
+"Estaremos ahí en quince minutos" había dicho la chica de la videoconferencia antes de colgar sin dejar tiempo a réplicas.
 Lucas se quedó mirando la pantalla, preguntándose si había hecho bien, hasta que los golpes en la pesada puerta metálica lo devolvieron a la realidad.
 Se sacudió la cabeza, echó un vistazo a Ana - seguía inconsciente -, y corrió hacia la puerta, parando las mesas que la bloqueaban con su cuerpo.
 A pesar de su delgadez, esperó poder oponer alguna resistencia. No obstante, la mesa parecía empujarlo sin apenas esfuerzo.
 "Mierda"
+Gastó las pocas balas que le quedaban disparando a través del hueco cada vez mayor que dejaba la puerta. Algunos violentos  murieron pero no caían al suelo; los que empujaban y gritaban tras ellos  lo impedían.
+Lucas corrió hacia el armario e intentó cargar su pistola, pero la munición no era la misma. Robó la pistola de uno de los cadáveres de la habitación y gastó varios cargadores más pero era inútil. Los cadáveres de las primeras filas servían de protección y ariete a los violentos de las traseras.
+**VOY POR AQUÍ**
 Volvió a correr hacia el ordenador y clicó nuevamente en el "Canto de *Sirena*". Tras un retardo, la misma china de antes apareció en pantalla.
 - ¿Qué quieres? - se limitó a decirle.
 Lucas resopló.
@@ -36,6 +46,7 @@ No tuvo ningún efecto. Los gritos y golpes al otro lado de la puerta no cesaron
 - ¿Contento?
 El joven no respondió.
 - Hay un mecanismo de emergencia que libera un gas en el exterior de la estancia en la que te encuentras. Debería dormirlos en pocos segundos.
+"¡Perfecto", pensó Lucas. No obstante, enseguida reparó en algo.
 - Pero la puerta está abierta y no puedo cerrarla.
 - Pues me temo que tendrás que buscar un sitio cómodo.
 Lucas miró la puerta.
@@ -57,9 +68,9 @@ El tambaleo lo despertó, quién sabe cuánto tiempo después.
 Lucas abrió los ojos solo para cerrarlos al instante, cegado por la luz.
 Dejó escapar un suspiro de disgusto al tiempo que se tapaba la cara con el dorso de la mano.
 Fue abriendo los ojos y retirando la mano al unísono, poco a poco, como si temiera quedarse ciego.
-Se encontraba sentado en la parte de atrás de una amplia ambulancia, bañada por un potente foco colgado del techo.
+Se encontraba sentado en la parte de atrás de una amplia ambulancia, bañada por la luz de un potente foco colgado del techo.
 Frente a él, Ana yacía inconsciente sobre una camilla. Una mujer de unos cincuenta años se encontraba de pie a su lado, observándola.
 Lucas trató de incorporarse rápidamente pero entonces sintió una pistola en la sien.
 - Tranquilo - dijo una voz femenina -. Ya te hubiéramos matado si no fueras tan valioso ahora mismo. Pero tampoco tientes la suerte.
-Miró a su izquierda. Sentada a su lado se encontraba una joven esbelta. Vestida de militar pero sin pasamontañas, su larga cabellera ondulada y castaña caía libre sobre sus hombros.
+Miró a su izquierda. Sentada a su lado se encontraba una joven esbelta. Vestida de militar, su larga cabellera ondulada y castaña caía libre sobre sus hombros.
 Era Elizabeth.

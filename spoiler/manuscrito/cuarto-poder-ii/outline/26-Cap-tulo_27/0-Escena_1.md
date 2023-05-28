@@ -3,25 +3,8 @@ ID:             135
 type:           md
 summaryFull:    En medio del tumulto, Lucas lleva a una inconsciente Ana al centro de control de la *Burbuja*. Allí se ve sin salida y acaba pidiendo ayuda a RIO por conferencia.
 POV:            0
-notes:          - ¿Muy chusta que tengan el código de desbloqueo maestro junto a los ordenadores?
-                - **¿Burbuja reiniciada y todos están bajo control de {W:0:RIO}? ¿Cómo no se da cuenta Lucas si va al centro de control?**
-                - Burbuja controlada por equipo de RIO llevando mini-mástiles.
-                - El grupo que se dirige hacia Lucas combina a violentos y aliados pero apenas se distingue entre el tumulto.
+notes:          - El grupo que se dirige hacia Lucas combina a violentos y aliados pero apenas se distingue entre el tumulto.
                 - El detalle del árabe. Hasta ahora Lucas lo había entendido sin problemas gracias a la *Sirena*
-                - **Pero Ajani lo debería haber notado**
-                - **También puedo hacer que las personas intenten comunicarse con él en español pero los matan a tiempo**
-                - **¿En el búnker hacer que no encuentre armas, sino los códigos para desbloquear los ordenadores?**
-                
-                
-                - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
-                - - ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
-                - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
-                - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
-                
-                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
-                - Aclarar caso de Noemí y Lara.
-                - ¿Mencionar las *Burbujas*?
-                
                 - Tenéis / tienen para la segunda persona -> ajustar en toda la historia según el hablante sea canario o no.
                 
                 
@@ -29,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9107
+charCount:      9132
 
 
 - ¡Ana! ¡Ana! ¡Ana!
@@ -84,8 +67,9 @@ Siguió bajando completamente a oscuras hasta que la negrura se convirtió en pe
 - Ya llegamos, Ana. ¡Aguanta! - dijo por lo bajo.
 Pero no hubo respuesta alguna.
 Llegó a una puerta metálica abierta por completo que daba a un pequeño pasillo de hormigón, alargado y estrecho. Lo recorrió rápidamente hasta llegar a otra puerta metálica abierta que daba a una estancia cuadrada. Había escritorios metálicos a lo largo de las paredes laterales y del fondo, y grandes pantallas colgaban de las paredes sobre estos.
-Delante de cada ordenador había una silla de oficina ocupada por un cadáver con un agujero de bala en la cabeza. Una pistola yacía en el suelo al lado de cada uno.
-Lucas avanzó hacia la primera silla de la derecha y empujó el cadáver con la pierna. Cuando este calló al suelo, colocó a Ana en la silla.
+Tendidos por toda la estancia, sobre las sillas, las mesas o el suelo, había cadáveres de agentes de RIO. Algunos aferraban sus pistolas mientras que otros habían dejado caer las suyas a pocos metros de ellos.
+"¿Qué pasó aquí?"
+Lucas avanzó hacia la primera silla de la derecha, con cuidado de tropezar con los cuerpos inertes en el camino, y sentó a Ana.
 Seguía inconsciente.
 Corrió hacia la puerta e intentó cerrarla, pero la cerradura estaba completamente reventada.
 - Cómo no.
@@ -96,35 +80,35 @@ Había otra pequeña puerta en el fondo opuesto de la estancia pero daba a un pe
 "Sin salida", resopló Lucas, ignorando al muerto.
 "Tendré que pedir ayuda"
 Dio unas zancadas hasta Ana e intentó hablar por su radio, pero no hubo respuesta alguna.
-Miró las pesadas paredes y techo de hormigón que lo envolvía y asintió lentamente.
+Miró las pesadas paredes y techo de hormigón que lo envolvía y asintió para si.
 "¿Y ahora qué hago?
 Comenzó a caminar por la estancia observando los alrededores
 "¿Qué hago? ¿qué hago? ¿qué hago?"
 Entonces reparó en un pequeño armario sobre uno de los escritorios del fondo de la estancia. Tenía un candado de combinación reventado.
-Lo abrió.
-"Jamás imaginé sentirme feliz por esto", sonrió para sí.
-El armario contenía pistolas y munición.
+Lo abrió. El armario contenía pistolas y munición.
+"Jamás imaginé sentirme feliz por esto", sonrió para si.
 Unos gritos se escucharon al otro lado de la puerta bloqueada y se acercaban rápidamente a esta. Lucas dio un respingo cuando empezaron a golpear el metal con furia.
-Corrió hacia Ana y arrastró su silla hacia el fondo de la sala.
+Corrió hacia Ana y arrastró su silla hacia el fondo de la sala, apartando los cadáveres.
 Seguía sin responder.
 Escuchó el tumulto al otro lado de la puerta y miró la pistola en su mano y la munición en el armario.
 "Esto no va a ser suficiente"
 Miró a los ordenadores dispuestos alrededor de la sala y se acercó al más cercano. Lo encendió.
 Tras un breve intervalo de tiempo, el dispositivo mostró una pantalla con un mensaje:
 "Introduzca su tarjeta".
-Lucas se afanó en rebuscar en los bolsillos del cadáver que se sentaba frente a la pantalla. Nada. Buscó en el suelo cercano pero tampoco hubo suerte.
+Lucas se afanó en rebuscar en los bolsillos del cadáver más cercano. Nada. Buscó en el suelo cercano pero tampoco hubo suerte.
 Comenzó a correr por la sala, rebuscando en el resto de cadáveres. Soltaba maldiciones con cada uno que demostraba no tener nada.
 A los golpes de la puerta se se sumó otro ruido: el de los escritorios de metal que la bloqueaban, arrastrándose por el suelo lentamente. Los gritos al otro lado de la puerta dejaron de escucharse ahogados.
 El joven corrió e intentó empujar los escritorios con su cuerpo mientras escudriñaba la habitación frenéticamente.
 - ¡Vaya mierda! - espetó con un grito, cuando un pensamiento cruzó su cerebro como un rayo.
 "No creo...", se dijo.
-Pero tenía que intentarlo. Corrió al pequeño aseo del fondo y movió el cadáver del suelo hasta dejarlo boca arriba. Sujetaba una pequeña tarjeta contra el pecho.
+Pero tenía que intentarlo.
+Corrió al pequeño aseo del fondo y movió el cadáver del suelo hasta dejarlo boca arriba. Sujetaba una pequeña tarjeta contra el pecho.
 Lucas la cogió y corrió al ordenador más cercano al aseo y lo introdujo. La animación de una rueda girando duró unos segundos que se convirtieron en una eternidad mientras Lucas dudaba sobre si volver a empujar los escritorios o permanecer en el sitio.
 Por fin la pantalla de bloqueo desapareció y un fondo de escritorio con el logotipo de RIO apareció frente a él. Al joven le pareció que había pasado años desde que viera el  "río de información" fluyendo desde un planeta hacia una cabeza humana.
 Vio iconos con leyendas como "Cámaras", "Canto de Sirena", etc.
 Hizo click en el "Canto de Sirena" y la luz de la *webcam* se encendió.
 - ¿Qué?
-Se abrió una videoconferencia. La cara de Lucas aparecía, sorprendida, en la esquina inferior derecha. El resto de la pantalla mostraba un "Cargando..." hasta que por fin apareció una mujer más joven que Lucas, vestida con el uniforme de *RIO* y sentada en una sala similar a la de Lucas.
+Se abrió una videoconferencia. La cara de Lucas aparecía, sorprendida, en la esquina inferior derecha. El resto de la pantalla mostraba un "Cargando..." hasta que por fin apareció una mujer más joven que Lucas, vestida con el uniforme de *RIO* y sentada en una sala similar a la de este.
 La mujer miraba fijamente a Lucas sin decir palabra.
 El joven carraspeó y le devolvió la mirada durante unos segundos.
 La mujer hizo una mueca y ladeó la cabeza, visiblemente confundida.
@@ -135,4 +119,3 @@ Volvió a mirar a cámara.
 La mujer habló con alguien fuera de cámara pero Lucas era incapaz de oírla. Se había silenciado.
 Cuando volvió el sonido, se limitó a decir:
 - Aguanta.
-**VOY POR AQUÍ (NOTAS)**
