@@ -3,17 +3,31 @@ ID:             140
 type:           md
 summaryFull:    Un grupo ataca la caravana y los de RIO y Lucas son rápidamente superados. En medio de la confusión una chica se acerca a Ana y Lucas la mata. Entonces descubre que se trata de un médico de la Resistencia.
 POV:            0
-notes:          - La Resistencia quiere evitar a toda costa que Ana sea capturada por RIO.
+notes:          - Meter en alguna parte que los de RIO o alguien le enseña a Lucas el cerebro de un asimilado lleno de insectos ("destruyen el cerebro hasta que no queda nada").
+                - "¿Por qué no preguntas a Jonás si mentimos?"
+                - **Pensar mejor la distribución de la ambulancia (¿u otro vehículo?) y sus ocupantes**
+                
+                - Burbuja controlada por equipo de RIO llevando mini-mástiles.
+                - **Puedo hacer que la *Sirena* les de una jeringuilla para inyectársela al violento con una colonia adulta y no especifique que sale de cadáveres humanos. Elizabeth puede mostrarle eso después**
+                - - ¿Cambiarlo para que sea el violento lo que "explota" y RIO lo vende como el verdadero destino de los "infectados"?
+                - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
+                - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
+                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
+                
+                - La Resistencia quiere evitar a toda costa que Ana sea capturada por RIO.
                 - Elizabeth le habla de resistencia natural, ella tiene más como Jonás y pronto empezarán las jaquecas. Lucas tiene menos y morirá antes
                 - Recordar que Elizabeth se lo explique, que aquí se interrumpe.
                 - Mencionar la bolsa de cadáveres del suelo.
+                
+                
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6474
+charCount:      6491
 
 
+**VOY POR AQUÍ**
 Lucas miró a Elizabeth fijamente antes de volver a mirar a Ana y la doctora.
 "¿Estás ahí?", pensó.
 No hubo respuesta. Lucas suspiró.

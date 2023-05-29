@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9132
+charCount:      9161
 
 
 - ¡Ana! ¡Ana! ¡Ana!
@@ -118,4 +118,4 @@ Volvió a mirar a cámara.
 - Por favor - dijo finalmente - Nos están atacando. ¡Necesitamos ayuda!
 La mujer habló con alguien fuera de cámara pero Lucas era incapaz de oírla. Se había silenciado.
 Cuando volvió el sonido, se limitó a decir:
-- Aguanta.
+- Los refuerzos llegarán en 15 minutos.
