@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7931
+charCount:      7955
 
 
 Los altos muros empezaron a vislumbrarse frente a ellos, en la distancia.
@@ -93,7 +93,7 @@ Tomó la inyección y sin ningún tipo de preámbulo la clavó en el pecho del v
 - ¿Y ahora qué? - inquirió.
 Pero no hubo respuesta.
 De repente el violento abrió los ojos, inyectados en sangre, y comenzó a sufrir fuertes espamos. Gritaba, agonizando de dolor.
-La pareja comenzó a retroceder, cuando algo explotó en el interior del violento y este cerró los ojos, inerte.
+La pareja comenzó a retroceder, cuando algo explotó en el interior de la cabeza del violento, rajando su cráneo por varias partes, y este cerró los ojos, inerte.
 - ¿Qué...? - comenzó a decir Lucas.
 Una segunda explosión, cercana, los lanzó por los aires, y el joven dejó escapar un grito cuando golpeó el suelo. Un pitido ensordecedor le taladraba los oídos, y la visión borrosa apenas le dejaba distinguir a las personas corriendo de un lado a otro.
 Se incorporó pesadamente.
@@ -106,4 +106,3 @@ Ana comenzó a incorporarse pesadamente y Lucas esbozó una pequeña sonrisa, pe
 Borbotones de sangre le manaban de la nariz.
 La joven miró a Lucas y se llevó la mano a la cara. Entonces se miró la mano cubierta en sangre.
 Dijo algo que Lucas no pudo escuchar y cayó inconsciente.
-- **VOY POR AQUÍ (NOTAS)**

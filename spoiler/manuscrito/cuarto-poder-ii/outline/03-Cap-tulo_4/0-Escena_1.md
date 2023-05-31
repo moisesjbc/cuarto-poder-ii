@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9469
+charCount:      9452
 
 
 Lucas se encontraba descansando en su litera, dándole vueltas y más vueltas a su conversación con Noemí. Tan distraído como estaba, no se percató cuando Lucía, la instructora, entró en la habitación y se acercó a él con paso decidido.
@@ -52,7 +52,6 @@ Las dos miradas fijas y la luz roja bastaron para que Lucas sintiera su pierna d
 - Ehm...
 Lucas se quedó en blanco durante unos segundos, pero las dos personas frente a él permanecieron en silencio. Lucía lo miraba fijamente con una sonrisa en la cara, mientras Óscar ajustaba el encuadre.
 "¿Estará asegurándose de que no aparece mi pierna temblando?" - se preguntó Lucas mientras permanecía en estado de pánico.  "¿Qué digo?", comenzó a repetirse una y otra vez.
-**VOY POR AQUÍ**
 - Esto... - comenzó a decir con un hilillo de voz -. Soy Lucas, antiguo trabajador de la corporación RIO. Mmmm, ellos me capturaron y me tuvieron... varios meses en una *Burbuja* donde nos manipulaban para que nos matáramos unos a los otros. Y antes... y antes de eso ya habían usado mi imagen para difundir mentiras sobre Inglaterra y sus intenciones para con Estados Unidos, supuestamente aprovechando... ya saben, su caos interno...
 Lucas dudó unos segundos, con los latidos golpeándole el pecho y la sien. Sin apenas sentirse en control de si mismo, alzó el puño y gritó a media voz.
 - ¡Voy a detenerlos!
