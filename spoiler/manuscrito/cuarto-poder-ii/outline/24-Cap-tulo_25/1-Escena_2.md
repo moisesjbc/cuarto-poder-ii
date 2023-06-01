@@ -3,6 +3,8 @@ ID:             123
 type:           md
 summaryFull:    La pareja lucha contra el grupo, notando que estos luchan de manera coordinada. Consiguen reducirlos y hacerse con uno de ellos.
 POV:            0
+notes:          - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas.
+                - Explicitar lo coordinados que son los violentos.
 label:          4
 status:         1
 compile:        2

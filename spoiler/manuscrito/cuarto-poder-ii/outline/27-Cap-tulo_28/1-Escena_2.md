@@ -6,14 +6,21 @@ POV:            0
 notes:          - ¿Ser querido de la médico asesinada intenta matar a Lucas?
                 - "Enhorabuena. Nos has condenado a todos" (A Lucas).
                 - Bases de RIO destruidas por ellos mismos para eliminar sospechas y contener la "infección".
+                - La Resistencia quiere evitar a toda costa que Ana sea capturada por RIO.
+                
+                
+                En la escena 28.2 Elizabeth es interrumpida por el asalto a la ambulancia:
+                - Recordar que Elizabeth / Jonás se lo explique, que aquí se interrumpe.
+                - Elizabeth le habla de resistencia natural, ella tiene más como Jonás y pronto empezarán las jaquecas. Lucas tiene menos y morirá antes
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4038
+charCount:      4067
 
 
-- Parece que te subestimé - dijo Elizabeth, asintiendo con la cabeza.
+**VOY POR AQUÍ**
+- Parece que te subestimé - dijo Elizabeth, asintiendo con la cabeza -. Otra vez.
 Dejó la pistola en el suelo y alzó las manos. Sin dejar de mirar a Lucas, gritó:
 - ¡Nos rendimos!
 Los disparos en el exterior continuaron unos segundos más y, de repente, se detuvieron.

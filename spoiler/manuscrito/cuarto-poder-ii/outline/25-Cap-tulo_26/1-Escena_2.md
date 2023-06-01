@@ -3,6 +3,9 @@ ID:             129
 type:           md
 summaryFull:    Ana y Lucas llegan a la *Burbuja*. Siguiendo las indicaciones de los asimilados, llevan al violento a la plaza del pueblo y la *Sirena* les ofrece una jeringuilla con una concentración de crías. Sin embargo, cuando están a punto de pincharlo hay una explosión. Ana sangra mucho por la nariz y cae desmayada.
 POV:            0
+notes:          - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
+                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
+                - Burbuja controlada por equipo de RIO llevando mini-mástiles.
 label:          4
 status:         1
 compile:        2

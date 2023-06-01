@@ -1,27 +1,16 @@
 title:          Escena 1
 ID:             140
 type:           md
-summaryFull:    Un grupo ataca la caravana y los de RIO y Lucas son rápidamente superados. En medio de la confusión una chica se acerca a Ana y Lucas la mata. Entonces descubre que se trata de un médico de la Resistencia.
+summaryFull:    Elizabeth y la doctora le enseñan muestras y cadáveres afectados por la Sirena a Lucas y le dicen que la Sirena miente con el único propósito de perpetuarse como un virus. La ambulancia es atacada y choca, momento en el que Lucas mata a la doctora.
+                
 POV:            0
-notes:          - "¿Por qué no preguntas a Jonás si mentimos?"
-                - **Pensar mejor la distribución de la ambulancia (¿u otro vehículo?) y sus ocupantes**
-                
-                - Burbuja controlada por equipo de RIO llevando mini-mástiles.
-                - Explicitar en algún momento que son las apuñaladas las que introdujeron las nanomaquinas en Ana y Lucas
-                - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
-                - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
-                
-                - La Resistencia quiere evitar a toda costa que Ana sea capturada por RIO.
-                - Elizabeth le habla de resistencia natural, ella tiene más como Jonás y pronto empezarán las jaquecas. Lucas tiene menos y morirá antes
-                - Recordar que Elizabeth se lo explique, que aquí se interrumpe.
-                - Mencionar la bolsa de cadáveres del suelo.
-                
+notes:          
                 
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6758
+charCount:      6809
 
 
 Lucas miró a Elizabeth fijamente antes de volver a mirar a Ana y la doctora.
@@ -51,9 +40,9 @@ El joven esperó unos segundos antes de contestar. Entonces recordó su conversa
 - ¿No te parecieron muchos insectos para una muestra tan pequeña de sangre? La *Sirena* sólo está interesada en reproducirse cuanto más mejor, y la salud del huésped le da igual mientras cumpla su objetivo. ¿Crees acaso que te queda mucho de vida? Esos bichos crecen muy rápido y tienen una manera muy brusca de independizarse.
 A Lucas se le hizo un nudo en la garganta.
 - ¿Qué...?
-Elizabeth miró a la doctora y asintió. Esta se agachó junto a la bolsa de cadáveres y la abrió, dejando al descubierto la cabeza de una mujer poco mayor que Lucas. La parte superior de su cabeza parecía haber reventado, con rajas cruzando su cráneo de lado a lado. De las heridas, así como de sus ojos, nariz, orejas y boca, brotaba un líquido gris oscuro.
+Elizabeth miró a la doctora y asintió. Esta se agachó junto a una bolsa de cadáveres cercana y la abrió, dejando al descubierto la cabeza de una mujer poco mayor que Lucas. La parte superior de su cabeza parecía haber reventado, con rajas cruzando su cráneo de lado a lado. De las heridas, así como de sus ojos, nariz, orejas y boca, brotaba un líquido gris oscuro.
 Lucas retrocedió unos pasos y se llevó una mano al estómago. Sintió náuseas.
-Entonces se llevó una mano temblorosa a la mejilla y cuando los apartó estaban teñidos de un rojo grisáceo más oscuro que la sangre de Ana.
+Entonces se llevó un par de dedos temblorosos a la mejilla, allí donde había recibido el golpe, y cuando los apartó estaban teñidos de un rojo grisáceo más oscuro que la sangre de Ana.
 - ¿Me crees ahora?
 - No... no puede ser.
 - No todo el mundo es capaz de reconocer que se ha metido en una secta suicida, ¿a que no? - sonrió Elizabeth.
@@ -66,8 +55,8 @@ Ambos se miraron a los ojos unos segundos. Elizabeth asintió.
 - Tendrás suerte si pasas de los 35 años.
 El joven negó con la cabeza.
 "5 años...".
-- Pero acabas de decir 50 - apuntó.
-- 50 años es una estimación de lo máximo que puede resistir alguien el virus. Por desgracia para ti, eres especial, Lucas. Pero especial en lo malo.
+- ¡Pero acabas de decir 50!
+- 50 años es una estimación de lo máximo que puede resistir alguien el virus. Por desgracia para ti, eres especial, Lucas. Pero especial en lo malo. ¿Jonás no te lo ha explicado?
 - ¿A qué te...?
 Un disparo resonó con fuerza y rompió un cristal cercano. Los presentes se agacharon rápidamente, mientras Elizabeth se dirigía hacia la pequeña ventanilla que daba al asiento del piloto.
 El vehículo comenzó a girar hacia un lateral.
@@ -104,4 +93,3 @@ Un quejido ahogado se escuchó tras lucas.
 La doctora mantenía una mano ensangrentada tapándose el cuello pero poco podía hacer para detener la hemorragia. Liberó la mano y miró fijamente a Lucas.
 - Te... te perdono.
 Y entonces se desplomó.
-**VOY POR AQUÍ (NOTAS)**

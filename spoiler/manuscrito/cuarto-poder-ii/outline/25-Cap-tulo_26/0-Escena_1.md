@@ -6,7 +6,6 @@ summaryFull:    Ana y Lucas transportan al violento hasta una ciudad cercana. Lu
 POV:            0
 notes:          - **Pueden ser nanomáquinas que controlan remotamente para suministrar los fármacos en el momento justo**.
                 - "Incluir referencias en el resto de libro en los que la Sirena no "infecta" naturalmente a menores".
-                
 label:          4
 status:         1
 compile:        2
