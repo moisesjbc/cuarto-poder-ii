@@ -6,21 +6,25 @@ POV:            0
 notes:          - **¿O no le cuenta nada y la única confesión de su pasado en RIO es en el capítulo 26 cuando la Resistencia debate sobre si colaborar con RIO o no?**
                 - **Lucas puede preguntarle por lo que Elizabeth le dijo en el {T:127:Capítulo 22}: "¿Por qué no le preguntas a Jonás si mentimos?**
                 - Jonás le recalca lo peligrosa que es la Sirena.
+                
+                En la escena 28.2 Elizabeth es interrumpida por el asalto a la ambulancia:
+                - Recordar que Elizabeth / Jonás se lo explique, que aquí se interrumpe.
+                - Elizabeth le habla de resistencia natural, ella tiene más como Jonás y pronto empezarán las jaquecas. Lucas tiene menos y morirá antes
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7817
+charCount:      7866
 
 
 El denso bosque se extendía en todas las direcciones hasta donde alcanzaba la vista. Lucas bajaba con cuidado por una pendiente con barro, aferrándose a cada tronco que se le acercaba.
 Percibió algo sobre su cabeza y miró hacia arriba. Un disco negro descendió desde las alturas con Jonás de pie sobre él. Al tocar el suelo el disco se deshizo y este tomó tierra. El guante negro de su mano brilló.
 No dijo nada y siguió caminando junto a Lucas.
 "Nada", pensó este último.
-La pareja llevaba tres de horas peinándolo junto a un pequeño grupo de cinco voluntarios sin ningún éxito.
-En todo ese tiempo parecía que no habían investigado ni una milésima parte del lugar, y eso suponiendo que Noemí y Lara se hubieran ocultado ahí.
+La pareja llevaba algo más de tres horas peinando el lugar junto a un pequeño grupo de cinco voluntarios sin ningún éxito.
+En todo ese tiempo parecía que no habían cubierto ni una milésima parte del lugar, y eso suponiendo que Noemí y Lara se hubieran ocultado ahí.
 "Podrían estar en cualquier otro sitio", pensó Lucas, "O incluso puede que estén..."
-Lucas negó con la cabeza con tal vehemencia que Jonás reparó en él.
+Negó con la cabeza con tal vehemencia que Jonás reparó en él.
 - Pensando en que las has matado, ¿verdad?
 Lucas no dijo nada. Ya se sentía suficientemente mal y no imagaba que Jonás lo fuera a a animar precisamente.
 En su lugar optó por cambiar de tema.
@@ -38,7 +42,7 @@ Lucas se paró y miró a Jonás, pero este último siguió caminando sin inmutar
 Esta vez fue Jonás el que se detuvo. El guante negro de su mano brilló y una nube de gas negro sobrevoló su cabeza.
 Lucas estuvo a punto de alzar su pistola pero se detuvo. Los otros efectivos de la resistencia sí que apuntaron sus armas hacia Jonás, pero Lucas se guardó la pistola y les pidió bajarlas con una mano mientras con la otra pedía calma a Jonás.
 - Tranquilo - Lucas movió la otra mano y le mostró ambas palmas desnudas a Jonás -. Sólo era una idea. Ahora lo importante son Noemi y Lara.
-La nube de gas empezó a difuminarse. Jonás se calmó ligeramente, pero aún respiraba con rapidez. Tenía los ojos como platos.
+La nube de gas empezó a difuminarse. Jonás se calmó ligeramente, pero aún respiraba con rapidez. Tenía los ojos abiertos como platos.
 - Es solo que...
 - Fuiste un prisionero, ¿no?
 Jonás cerró los ojos.
@@ -46,7 +50,10 @@ Jonás cerró los ojos.
 - Y esos dolores de cabeza... son por la *Sirena*, ¿no?
 Jonás asintió.
 El antiguo vagabundo reanudó la marcha. Lucas y el resto de efectivos de la Resistencia lo siguieron. El joven notó que los demás miraban de reojo a Jonás de vez en cuando.
-"¿Debería aprovechar y preguntarle más cosas?", pensó Lucas. Tras meditarlo unos segundos pensó: "No, mejor no forzar."
+"¿Debería aprovechar y preguntarle más cosas?", se preguntó Lucas.
+Tras meditarlo unos segundos desechó la idea.
+"No, mejor no forzar."
+**VOY POR AQUÍ**
 Siguieron caminando por el denso bosque, a salvo del sol. Salvo algún animal, eran los únicos animales en medio de aquél ejército de árboles.
 Jonás miraba alrededor, distraído. Parecía estar enfrascado en algún pensamiento.
 Tras unos minutos, habló.
