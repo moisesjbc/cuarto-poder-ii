@@ -1,20 +1,13 @@
 title:          Escena 3
 ID:             148
 type:           md
-summaryFull:    El grupo irrumpe en la cabaña y localizan a las jóvenes. Estas están malheridas pero a salvo gracias a Noemí. Avisan a la base rebelde y estos les ordena volver rápido, ya que los de {W:0:RIO} tienen una propuesta.
+summaryFull:    El grupo rescata a las jóvenes. Estas están malheridas pero a salvo gracias a Noemí. Avisan a la base rebelde y estos les ordena volver rápido, ya que los de {W:0:RIO} tienen una propuesta.
 POV:            0
-notes:          - **Para que no quede tan justo puedo hacer que avisen de la visita "futura" de RIO**
-                -
-                - Enfado de Noemí por sentirse abandonada por Lucas y los demás.
-                - ¿Se abrazan igualmente?
-                - "dijo entonces la líder": ya he dicho que la líder es una mujer, ¿no?
-                - Confirmar lo de las visiones "durante uno o dos días".
-                -
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8484
+charCount:      8495
 
 
 Jonás materializó un disco del gas negro y lo usó para alzarse rápidamente hasta la rama.
@@ -33,8 +26,8 @@ Lucas miró a Jonás. Este se había quedado quieto mirando a su hermana.
 Los demás miraron hacia arriba. Desde la rama se asomaba una chica poco más joven que Lara, de cara redondeada y mechones rubios y rizados colgando. Tenía la cara sucia y también con algunos cortes, pero sonreía.
 Hasta que vio a Lucas.
 Noemí lo miró unos segundos con el semblante serio hasta que Jonás la alcanzó.
-Jonás le dijo algo que no escucharon desde abajo. La adolescente asintió y se situó de un salto al lado de él, sobre el disco negro.
-La pareja descendió mientras el corazón de Lucas empezaba a latir cada vez más rápido.  
+Este último le dijo algo que no escucharon desde abajo. La adolescente asintió y se situó de un salto al lado de él, sobre el disco negro.
+La pareja descendió mientras el corazón de Lucas empezaba a latir cada vez más rápido. 
 El disco se deshizo nuevamente al tocar el suelo. Jonás se agachó rápidamente junto a Lara, visiblemente preocupado. Noemí también se acercó a Lara, ignorando a Lucas.
 - Uno de esos locos la apuñaló en el costado - dijo -. Contuve la hemorragia como pude.
 - Lo has hecho muy bien, Noemí - le contestó el médico que observaba a Lara.
@@ -72,7 +65,7 @@ Algunos se giraron hacia ella y la miraron sin decir nada. Fue la líder quien l
 "Tiene razón", pensó Lucas.
 Sin embargo, fue otra cosa lo que dijo:
 - Va a estar en peligro, esté con nosotros o no. Al menos con nosotros seriamos más para defendernos en caso de una trampa.
-- Pero... - empezó a decir la líder. Sin embargo, cayó -. Está bien.
+- Pero... - empezó a decir la líder, pero entonces se detuvo -. Está bien.
 Entonces se dirigió a todos.
 - Bueno, ya hemos perdido suficiente tiempo. ¡En marcha!
 El grupo comenzó a caminar en fila india por el bosque a excepción de dos efectivos que iban a cierta distancia a los laterales.

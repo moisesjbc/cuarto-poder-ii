@@ -26,9 +26,10 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      16292
+charCount:      16309
 
 
+**VOY POR AQUÍ**
 Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
 Los desconocidos y los efectivos de la Resistencia se miraban con desconfianza.
 - Agentes de RIO - dijo la líder por lo bajo -. Estén atentos.

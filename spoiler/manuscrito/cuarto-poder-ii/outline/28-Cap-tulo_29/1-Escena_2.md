@@ -1,20 +1,13 @@
 title:          Escena 2
 ID:             147
 type:           md
-summaryFull:    Lucas y Jonás buscan a Lara, Noemí y los demás junto a más efectivos de la resistencia, mientras Jonás le cuenta su pasado en RIO. Localizan una cabaña donde pueden estar las chicas pero ven sangre en la puerta y algún objeto personal de ellas.
+summaryFull:    Lucas y Jonás buscan a Lara, Noemí y los demás junto a más efectivos de la resistencia, mientras Jonás le cuenta su pasado en RIO. Encuentran señales dejadas por las chicas que los llevan hasta árbol de cuya rama cuelga un brazo inerte.
 POV:            0
-notes:          - **¿O no le cuenta nada y la única confesión de su pasado en RIO es en el capítulo 26 cuando la Resistencia debate sobre si colaborar con RIO o no?**
-                - **Lucas puede preguntarle por lo que Elizabeth le dijo en el {T:127:Capítulo 22}: "¿Por qué no le preguntas a Jonás si mentimos?**
-                - Jonás le recalca lo peligrosa que es la Sirena.
-                
-                En la escena 28.2 Elizabeth es interrumpida por el asalto a la ambulancia:
-                - Recordar que Elizabeth / Jonás se lo explique, que aquí se interrumpe.
-                - Elizabeth le habla de resistencia natural, ella tiene más como Jonás y pronto empezarán las jaquecas. Lucas tiene menos y morirá antes
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7866
+charCount:      7891
 
 
 El denso bosque se extendía en todas las direcciones hasta donde alcanzaba la vista. Lucas bajaba con cuidado por una pendiente con barro, aferrándose a cada tronco que se le acercaba.
@@ -53,15 +46,14 @@ El antiguo vagabundo reanudó la marcha. Lucas y el resto de efectivos de la Res
 "¿Debería aprovechar y preguntarle más cosas?", se preguntó Lucas.
 Tras meditarlo unos segundos desechó la idea.
 "No, mejor no forzar."
-**VOY POR AQUÍ**
-Siguieron caminando por el denso bosque, a salvo del sol. Salvo algún animal, eran los únicos animales en medio de aquél ejército de árboles.
+Siguieron caminando por el denso bosque, a salvo del sol. Salvo algún animal, eran los únicos seres en medio de aquél ejército de árboles.
 Jonás miraba alrededor, distraído. Parecía estar enfrascado en algún pensamiento.
 Tras unos minutos, habló.
 - Mi hermana... Lara, no pude protegerla de RIO. Está infectada por mi culpa.
 - Pero... la *Sirena* se transmite por el aire, ¿no? Es decir...  era cuestión de tiempo que acabara infectada. ¿Qué tuviste que ver?
-Cuando empecé a investigar la *Sirena* hace años, RIO sólo podía sospechar el potencial que tenía. Yo les confirmé el poder que tenían entre manos. Yo... di a luz a las *Burbujas*.
+- Cuando empecé a investigar la *Sirena* hace años, RIO sólo podía sospechar el potencial que tenía. Yo les confirmé el poder que tenían entre manos. Yo... di a luz a las *Burbujas*.
 - Eras un prisionero, no podías...
-- No lo entiendes, Lucas. Esto fue antes de negarme a seguir investigando. Quedé cegado por esa nueva... cosa, y me dio lugar sus malditas aplicaciones. Quería saberlo todo sobre ella. Quería saber qué efecto tenía exactamente sobre las personas. Investigué con personas y sabía lo que les pasaba, y aún así continué.
+- No lo entiendes, Lucas. Esto fue antes de negarme a seguir investigando. Quedé cegado por esa nueva... cosa, y me intrigó sus posibles aplicaciones. Quería saberlo todo sobre ella. Quería saber qué efecto tenía exactamente sobre las personas. Investigué con personas y sabía lo que les pasaba, y aún así continué.
 - ¿Y también con Lara?
 - ¡Nunca!
 Lucas dio un respingo. Los otros efectivos se pararon y miraron para Jonás, pero este puso las manos en alto. No había ni rastro del gas.
@@ -72,23 +64,26 @@ Jonás continuó caminando.
 - ¿El "humo negro" son esos insectos?
 - En una mitad, sí. La otra mitad son nanomáquinas que inhiben la señal y actúan como esa interfaz que comentaba. También recolectan datos para aprender a comportarse como los insectos de la *Sirena* y así pudiéramos dejar de depender de esta.
 - Entiendo. Entonces Lara...
-- Una vez vi que me estaba empezando a afectar personalmente fue cuando empecé a negarme a colaborar con RIO, y entonces fueron a por mi hermana. También sospechaban, como yo, que mi resistencia al virus podría ser cosa de familia - Jonás calló unos instantes, cabizbajo -. Entonces fue cuando la secuestraron y la infectaron. Y yo pasé "ascendí" de investigador jefe a investigador cobaya.
-- ...ya veo... lo siento - Lucas también esperó unos instantes antes de continuar -. Lo que has dicho de esas nanomáquinas inhibiendo la comunicación y ofreciendo esa interfaz persona - mente colmena... ¿es lo que sucede en las *Burbujas*?
-- Así es. Los... sujetos, son inyectados con esas nanomáquinas, y estas "escuchan" al centro de control de la *Burbuja*. Entonces nanomáquinas y *Sirena* trabajan codo con codo para someter a los infectados a hacer lo que desee RIO.
+- Cuando vi que me estaba empezando a afectar personalmente fue cuando empecé a negarme a colaborar con RIO, y entonces fueron a por mi hermana. También sospechaban, como yo, que mi resistencia al virus podría ser cosa de familia - Jonás calló unos instantes, cabizbajo -. Entonces fue cuando la secuestraron y la infectaron. Y yo "ascendí" de investigador jefe a sujeto de experimentos.
+- Ya veo... lo siento.
+Lucas también esperó unos instantes antes de continuar.
+- Lo que has dicho de esas nanomáquinas inhibiendo la comunicación y ofreciendo esa interfaz persona - mente colmena... ¿es lo que sucede en las *Burbujas*?
+- Así es. Los... sujetos, son inyectados con esas nanomáquinas, y estas "escuchan" al centro de control de la *Burbuja*. Entonces las nanomáquinas y la *Sirena* trabajan codo con codo para someter a los infectados a hacer lo que desee RIO.
 - Pero entonces... ¡oh!
-Lucas se frenó en seco. El resto de los presentes se detuvieron y lo observaron. El joven miraba fijamente a un árbol cercano.
+Lucas se frenó en seco. El resto de los presentes se detuvieron a su vez y lo observaron. El joven miraba fijamente a un árbol cercano.
 - Hijas...
 Una lágrima cayó por su rostro.
 Jonás miró el árbol e hizo una mueca.
 - Sólo son rayones sin sentido.
 Lucas negó con la cabeza, sonriente.
-- No, no lo son. En la *Burbuja* Noemí y yo inventamos un código para señalizar caminos. Jugábamos a esconder cualquier chorrada en un lugar del pueblo y dejábamos señales ocultas que llevaban a ello. Intentamos que Lara lo aprendiera, pero le parecía una tontería - rió.
+- No, no lo son. En la vida que "recordaba" de Noemí y yo antes de la *Burbuja* inventamos un código para señalizar caminos. Jugábamos a esconder cualquier chorrada en un lugar del pueblo y dejábamos señales ocultas que llevaban a ello. Intentamos que Lara lo aprendiera, pero le parecía una tontería - rió.
 Jonás sin embargo, estaba cabizbajo y con semblante serio.
 - ¿Qué ocurre, Jonás?
 Este último se agachó y movió las hojas de una pequeña planta para que Lucas lo viera.
 Había gotas de sangre reseca en algunas de las hojas.
 - Date prisa.
-- ¡Sí! Lucas miró los cortes en el tronco del árbol.
+- ¡Sí!
+Lucas miró los cortes en el tronco del árbol.
 - Sigamos recto.
 Continuaron unos cien metros atentos a todos los árboles hasta que uno de los efectivos que lo acompañaban se detuvo.
 - ¡Aquí!
