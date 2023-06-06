@@ -8,6 +8,7 @@ notes:          - Lara lo mira mal.
                 
                 **El narrador culpa a gente que lejos de falsear la información, creyó a Lucas. Esto da pie al "están confesando sus crímenes, pero no están mostrando a los verdaderos culpables***
                 
+                - Se limpia el nombre de Lucas.
 label:          4
 status:         1
 compile:        2

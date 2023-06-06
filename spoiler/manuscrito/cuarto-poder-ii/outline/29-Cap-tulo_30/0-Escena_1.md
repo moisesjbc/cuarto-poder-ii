@@ -3,34 +3,25 @@ ID:             93
 type:           md
 summaryFull:    Representantes de RIO han llegado a la base de la la Resistencia y proponen hacer frente a la Sirena juntos y les cuenta su plan de lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Como muestra buena fe, publican en directo pruebas incriminatorias sobre algunos de sus crímenes.
 POV:            0
-notes:          - Se limpia el nombre de Lucas.
-                - Dicen que Lucas es necesario.
-                - Condición: Lucas debe ir debido a su sensibilidad a los insectos de Sirena.
-                - Usan alguna tecnología para comprobar que no están infectados.
-                - ¿Canta con Lucas? ¿No se le hace?
+notes:          - **¿Quién lanza los misiles contra la base? ¿Realmente los lanza la *Sirena*?**
+                - **¿La señal por qué no está disponible en la intranet de RIO / accesible a más bases? Se descubrió pero la Sirena, infiltrada en la base, cortó las comunicaciones?**
                 
-                - - **¿La señal por qué no está disponible en la intranet de RIO / accesible a más bases? Se descubrió pero la Sirena, infiltrada en la base, cortó las comunicaciones?**
-                - Puede ser que en las instalaciones descubrieran un mástil natural (o lo sintetizaran) que mata a la Sirena. Esta asaltó la base y acabó con todos pero los de RIO antes de morir pidieron ayuda y activaron el mástil localmente.
-                
-                - **La Sirena ha acabado con los que controlan la base (¿cómo?), pero no pueden acercarse a tantos metros de la cámara de lanzamiento porque estos antes de morir activaron la señal**.
-                - **La Sirena ha "taponado" accesos a la cámara con sus insectos. Por eso Lucas es necesario**.
                 - **¿Pero entonces no le basta con bombardear el sitio y a tomar por saco?**
                 - Muy subterráneo y la Sirena no tiene poder de fuego suficiente aún.
+                
+                
                 - **Añadir *Mástiles* bastante aparatosos que los de RIO "venden" como la solución, y que es lo mismo que usan en las *Burbujas*, obviando los micromástiles que Elizabeth y otros tienen implantados**
-                - ¿Y por qué no llevan ese mástil a lo de África?
                 
-                
-                
-                
+                - Más adelante hacer coincidir la descripción del Mástil que llevan con las esferas que se mencionan al principio de esta escena (¿ampliar ambas descripciones?).
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      16174
+charCount:      16213
 
 
 
-Cuando llegaron a la base, vieron múltiples furgones aparcados que Lucas no había visto antes. Tampoco había visto a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
+Cuando llegaron a la base, vieron múltiples furgones aparcados alrededor de las instalaciones, con grandes esferas metálicas sobre su techo que Lucas no había visto antes. Tampoco había visto antes a ninguno de las personas con camuflaje miliar que montaban guardia junto a los furgones y a los edificios.
 Los desconocidos y los efectivos de la Resistencia se miraban con desconfianza.
 - Agentes de RIO - dijo la líder por lo bajo -. Estén atentos.
 Los presentes en el grupo asintieron y avanzaron tras ella.
@@ -122,8 +113,7 @@ Lo siguieron ruidos de disparos y gritos pero entonces se produjo un gran silenc
 Elizabeth volvió a dejar el dispositivo sobre la mesa.
 - Tal como han podido oír, creemos que consiguieron activar el *Mástil* en el propio laboratorio - dijo, alzando el mapa más cercano a ella y señalando una habitación de este -. Pero no quedó nadie vivo para llevarlo hasta la zona de lanzamiento - concluyó, al tiempo que trazaba con el dedo un camino hasta otra zona del mapa.
 Y ahora - dijo tras unos segundos -, dejénme hablarles de la *gymkana* para llegar al laboratorio.
-**VOY POR AQUÍ**
-Cogió una foto de satélite y la mostró a todos los presentes. Mostraba, adivinó Lucas, la región exterior que contenía las instalaciones.
+Cogió una foto de satélite y la mostró a todos los presentes. Mostraba, adivinó Lucas, la región exterior que envolvía a las instalaciones.
 - Estos cráteres que ven aquí, aquí, aquí, ... - empezó a señalarlos uno a uno con el índice -. ...en fin, por todas partes. Son causados por misiles lanzados por nuestra amiga la *Sirena*. Por suerte, nuestros satélites los desactivan antes de llegar al destino, pero las bases que controlan dichos satélites se encuentran bajo ataque.
 - ¿Y todo eso? - dijo alguien - ¿son personas?
 Infinidad de puntos poblaban cada centímetro del valle, apenas dejando ver el suelo.
@@ -131,14 +121,14 @@ Infinidad de puntos poblaban cada centímetro del valle, apenas dejando ver el s
 Lucas sintió la mirada de Elizabeth clavada en él mientras decía esto último.
 No dijo nada y fingió mirar el duplicado de la foto que quedaba más cerca de él.
 Entonces reparó en algo.
-- ¿Están dentro de la instalaciones?
+- ¿Están...? ¿Están dentro de la instalaciones?
 Elizabeth le sonrió.
 - Así es. Han logrado entrar pero no pueden acercarse a 100 metros de la señal del Mástil.
 -¿Y los generadores? - dijo alguien -. Podrían cortar el suministro, si no lo han hecho ya.
-"No creo", pensó Lucas. "Ya hubieran destruido el Mástil en ese..."
+"No creo", pensó Lucas. "Ya hubieran destruido el *Mástil* en ese..."
 - Eso ya lo han hecho - dijo de repente Elizabeth, sacándolo de su ensimismamiento -. El *Mástil* cuenta con un generador auxiliar acoplado, aunque no creemos que dure mucho más.
 - Así que el plan es meternos en un valle lleno de asimilados violentos y con misiles cayendo sobre nuestras cabezas - empezó a decir una chica de la *Resistencia* -. Y si sobrevivimos a eso, confiar en que el *Mástil* aún funcione para llevarlo desde un lugar de la instalación a otro sin que nos despedacen.
-- Más o menos es la idea - asintió Elizabeth -. Aunque claro, iríamos con un pequeño Mástil protegiendo a nuestro equipo. Sólo tenemos que asegurarnos de proteger ese otro *Mástil* a toda costa, porque como lo destruyan a distancia fin de la partida. Estaba pensando en que Jonás, esté donde esté, podría ayudarnos con sus nanomáquinas.
+- Más o menos es la idea - asintió Elizabeth -. Aunque claro, iríamos con un pequeño *Mástil* protegiendo a nuestro equipo, similar a los que habrán visto en el exterior sobre los furgones. Sólo tenemos que asegurarnos de proteger ese otro *Mástil* a toda costa, porque como lo destruyan a distancia fin de la partida. Estaba pensando en que Jonás, esté donde esté, podría ayudarnos con sus nanomáquinas.
 - No creo que le haga mucha gracia colaborar con RIO - adivinó Lucas.
 Elizabeth se encogió de hombros.
 - Ya bueno, no creo que tenga mucha opción si no quiere que la *Sirena* acabe licuando su cerebro y el de su hermana.
@@ -151,10 +141,10 @@ Elizabeth se encogió de hombros.
 - ¿No llevaban uno de esos *Mástiles* portátiles? ¿No debería evitar que la *Sirena* active esas trampas?
 - Esas trampas ya han recibido la orden de la *Sirena* de no dejar pasar a nadie. Pueden operar de manera autónoma aunque pierdan la comunicación.
 - Espera, ¿no pasaría lo mismo con los *asimilados*? Aunque pierdan la comunicación con la *Sirena* seguirían adelante con su objetivo de destruir el *Mástil*.
-- Veo que estás en todo - sonrió Elizabeth -. La *Sirena* siente cuándo comienza a perder la comunicación con un sujeto y da marcha atrás. Aún así, aunque no lo consiguiera con alguno, controlar a una persona requiere comunicación constante porque necesita más "potencia" de la que la joven colonia dentro del huésped dispone. Los *asimilados* recientes que se exponen al *Mástil* se quedan "abotargados". Pueden llegar a escuchar pequeños "susurros" pero la *Sirena* no tiene mayor poder sobre ellos.
+- Veo que estás en todo - sonrió Elizabeth -. Controlar a una persona requiere comunicación constante porque necesita más "potencia" de la que la joven colonia dentro del huésped dispone. Los *asimilados* recientes que se exponen al *Mástil* se quedan "abotargados". Pueden llegar a escuchar pequeños "susurros" pero la *Sirena* no tiene mayor poder sobre ellos.
 Lucas meditó la respuesta unos segundos.
 - Ya veo.
-- Pues creo que está más o menos todo - dijo Elizabeth, paseando la mirada por todos los presentes -. ¿Alguna pregunta?
+- Pues creo que está más o menos todo - concluyó Elizabeth, paseando la mirada por todos los presentes -. ¿Alguna pregunta?
 Durante unos segundos reinó el silencio, hasta que una joven de la *Resistencia* lo rompió.
 - Sí, ¿cómo sabemos que todo esto no es una trampa para que RIO se quite de encima a dos enemigos a la vez, la *Sirena* y la Resistencia?
 - Sería un buen plan maestro - asintió Elizabeth -. Lo reconozco. Sin embargo, ahora manda la necesidad de acabar con un enemigo común. Si no fuera por eso no tendría problema en matar a los presentes para conseguir mis objetivos.
@@ -172,3 +162,4 @@ Los miembros de la *Resistencia* empezaron a mirarse unos a otros y a moverse en
 - ¿Qué acaban de hacer? - preguntó entonces uno de ellos.
 Elizabeth suspiró.
 - Clavarnos un buen puñal como muestra de buena fe.
+**VOY POR AQUÍ (NOTAS)**
