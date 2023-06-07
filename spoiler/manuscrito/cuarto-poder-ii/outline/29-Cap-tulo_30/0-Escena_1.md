@@ -3,21 +3,19 @@ ID:             93
 type:           md
 summaryFull:    Representantes de RIO han llegado a la base de la la Resistencia y proponen hacer frente a la Sirena juntos y les cuenta su plan de lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Como muestra buena fe, publican en directo pruebas incriminatorias sobre algunos de sus crímenes.
 POV:            0
-notes:          - **¿Quién lanza los misiles contra la base? ¿Realmente los lanza la *Sirena*?**
-                - **¿La señal por qué no está disponible en la intranet de RIO / accesible a más bases? Se descubrió pero la Sirena, infiltrada en la base, cortó las comunicaciones?**
-                
-                - **¿Pero entonces no le basta con bombardear el sitio y a tomar por saco?**
-                - Muy subterráneo y la Sirena no tiene poder de fuego suficiente aún.
+notes:          - **¿La señal por qué no está disponible en la intranet de RIO / accesible a más bases? Se descubrió pero la Sirena, infiltrada en la base, cortó las comunicaciones?**
                 
                 
                 - **Añadir *Mástiles* bastante aparatosos que los de RIO "venden" como la solución, y que es lo mismo que usan en las *Burbujas*, obviando los micromástiles que Elizabeth y otros tienen implantados**
                 
                 - Más adelante hacer coincidir la descripción del Mástil que llevan con las esferas que se mencionan al principio de esta escena (¿ampliar ambas descripciones?).
+                
+                "Entonces escucharon un estruendo como de un gran metal cayendo sobre el suelo, seguido de los gritos de la pareja" -> Corregir esto o aclararlo cuando el grupo llega al laboratorio, ya que la puerta por la que llegan está intacta y se accede ¿con contraseña?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      16213
+charCount:      16004
 
 
 
@@ -95,11 +93,11 @@ Tomó respiro antes de continuar.
 Los presentes se miraron unos a otros.
 - Bueno, no importa. Jonás y su equipo descubrieron la forma de interceptar la señal que usan los insectos portadores del virus para comunicarse entre ellos y nublar nuestro juicio. Entonces nos apresuramos a lanzar un satélite al espacio que emitía la señal inhibidora, o *Mástil*, sobre todo el planeta, salvando a la humanidad.
 - Gracias - dijo alguien en tono sarcástico.
-- ¡De nada! Una vez Lucas - y dijo esto mirándolo fijamente y señalándolo con la mano - destruyó nuestra única defensa contra la amenaza, la *Sirena* se afanó en reiniciar su plan de exclavizarnos a todos, al tiempo que comenzaba a destruir todas nuestras instalaciones donde guardábamos satélites auxiliares o antenas con el *Mástil*.
+- ¡De nada! Una vez Lucas destruyó nuestra única defensa contra la amenaza - y dijo esto mirándolo fijamente y señalándolo con la mano - , la *Sirena* se afanó en reiniciar su plan de exclavizarnos a todos, al tiempo que comenzaba a destruir todas nuestras instalaciones donde guardábamos satélites auxiliares o antenas con el *Mástil*.
 Entonces señaló las fotos y mapas desplegados sobre la mesa.
 - Esa es una de las pocas instalaciones que permanece en pie y con capacidad de lanzar un *Mástil* al espacio... o eso creemos.
 - ¿"O eso creemos"? - repitió alguien.
-- Ayer se encontraban en plenos preparativos para preparar y lanzar el *Mástil* en la atmósfera, cuando las comunicaciones se perdieron. Esto fue lo último que recibimos.
+- Ayer se encontraban en plenos preparativos para preparar y lanzar el *Mástil* al espacio, cuando las comunicaciones se perdieron. Esto fue lo último que recibimos.
 Hasta entonces Lucas no había reparado en la *tablet* que tenía frente a ella, sobre la mesa. Un dispositivo pequeño y azul que Elizabeth alzó a la vista de todos antes de pulsar "Reproducir".
 - ¡Nos atacan! - gritó una voz femenina, sobresaltando a los presentes - ¡La *Sirena* nos ha descubierto! ¡No podemos iniciar el lanzamiento!
 - ¡Van a entrar! - gritó una voz masculina. De fondo, unos golpes restallaban sobre el metal.
@@ -114,10 +112,10 @@ Elizabeth volvió a dejar el dispositivo sobre la mesa.
 - Tal como han podido oír, creemos que consiguieron activar el *Mástil* en el propio laboratorio - dijo, alzando el mapa más cercano a ella y señalando una habitación de este -. Pero no quedó nadie vivo para llevarlo hasta la zona de lanzamiento - concluyó, al tiempo que trazaba con el dedo un camino hasta otra zona del mapa.
 Y ahora - dijo tras unos segundos -, dejénme hablarles de la *gymkana* para llegar al laboratorio.
 Cogió una foto de satélite y la mostró a todos los presentes. Mostraba, adivinó Lucas, la región exterior que envolvía a las instalaciones.
-- Estos cráteres que ven aquí, aquí, aquí, ... - empezó a señalarlos uno a uno con el índice -. ...en fin, por todas partes. Son causados por misiles lanzados por nuestra amiga la *Sirena*. Por suerte, nuestros satélites los desactivan antes de llegar al destino, pero las bases que controlan dichos satélites se encuentran bajo ataque.
+- Este es el valle en medio del cuál se encuentra las instalaciones. Las montañas cercanas - fue señalando con el dedo cada una - nos ofrecerán una buena visión del estado en el exterior.
 - ¿Y todo eso? - dijo alguien - ¿son personas?
 Infinidad de puntos poblaban cada centímetro del valle, apenas dejando ver el suelo.
-- Así es, aunque se trata de *asimilados* - La *Sirena* no se molesta en retirarlos cuando caen los misiles. ¿Qué les parece lo mucho que nos quiere?
+- Así es, multitud de *asimilados*, la mayoría enloquecidos y matándose unos a otros. ¿Qué les parece lo mucho que nos quiere la *Sirena*?
 Lucas sintió la mirada de Elizabeth clavada en él mientras decía esto último.
 No dijo nada y fingió mirar el duplicado de la foto que quedaba más cerca de él.
 Entonces reparó en algo.
@@ -127,7 +125,7 @@ Elizabeth le sonrió.
 -¿Y los generadores? - dijo alguien -. Podrían cortar el suministro, si no lo han hecho ya.
 "No creo", pensó Lucas. "Ya hubieran destruido el *Mástil* en ese..."
 - Eso ya lo han hecho - dijo de repente Elizabeth, sacándolo de su ensimismamiento -. El *Mástil* cuenta con un generador auxiliar acoplado, aunque no creemos que dure mucho más.
-- Así que el plan es meternos en un valle lleno de asimilados violentos y con misiles cayendo sobre nuestras cabezas - empezó a decir una chica de la *Resistencia* -. Y si sobrevivimos a eso, confiar en que el *Mástil* aún funcione para llevarlo desde un lugar de la instalación a otro sin que nos despedacen.
+- Así que el plan es meternos en un valle lleno de asimilados violentos - empezó a decir una chica de la *Resistencia* -, y si sobrevivimos a eso, confiar en que el *Mástil* aún funcione para llevarlo desde un lugar de la instalación a otro sin que nos despedacen.
 - Más o menos es la idea - asintió Elizabeth -. Aunque claro, iríamos con un pequeño *Mástil* protegiendo a nuestro equipo, similar a los que habrán visto en el exterior sobre los furgones. Sólo tenemos que asegurarnos de proteger ese otro *Mástil* a toda costa, porque como lo destruyan a distancia fin de la partida. Estaba pensando en que Jonás, esté donde esté, podría ayudarnos con sus nanomáquinas.
 - No creo que le haga mucha gracia colaborar con RIO - adivinó Lucas.
 Elizabeth se encogió de hombros.
