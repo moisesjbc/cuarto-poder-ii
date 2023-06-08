@@ -9,13 +9,19 @@ notes:          - Lara lo mira mal.
                 **El narrador culpa a gente que lejos de falsear la información, creyó a Lucas. Esto da pie al "están confesando sus crímenes, pero no están mostrando a los verdaderos culpables***
                 
                 - Se limpia el nombre de Lucas.
+                
+                
+                Desde escena 30.1:
+                - Más adelante hacer coincidir la descripción del Mástil que llevan con las esferas que se mencionan al principio de esta escena (¿ampliar ambas descripciones?).
+                - Ajustar el estado de la gente del laboratorio cuando llegan más adelante.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      11673
+charCount:      11690
 
 
+**VOY POR AQUÍ**
 El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores. Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
 Hicieron la prueba de cambiar de canal, haciendo *zapping* por todos los canales, controlados por RIO o, sólo podían suponerlo, aún no controlados por la corporación, y las noticias coincidían.
 Algunos miembros de la resistencia salían y al rato volvían a la estancia. A su regreso confirmaban que otras células de la *Resistencia*, en otros lugares del mundo, estaban viviendo las mismas noticias. Por televisión, radio, internet... por todos sitios.

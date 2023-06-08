@@ -1,21 +1,17 @@
 title:          Escena 1
 ID:             93
 type:           md
-summaryFull:    Representantes de RIO han llegado a la base de la la Resistencia y proponen hacer frente a la Sirena juntos y les cuenta su plan de lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla. Como muestra buena fe, publican en directo pruebas incriminatorias sobre algunos de sus crímenes.
+summaryFull:    Representantes de RIO han llegado a la base de la la Resistencia y proponen hacer frente a la Sirena juntos y les cuenta su plan de lanzar un nuevo Mástil, este con capacidad para dañar a la Sirena hasta matarla.
 POV:            0
-notes:          - **¿La señal por qué no está disponible en la intranet de RIO / accesible a más bases? Se descubrió pero la Sirena, infiltrada en la base, cortó las comunicaciones?**
+notes:          - Explicar en algún punto futuro los micromástiles que Elizabeth y otros tienen implantados.
+                - ¿Añadir lo de que la nueva Sirena tiene la capacidad de matar a la *Sirena*? ¿No pueden amplificarla en la propia base?
                 
                 
-                - **Añadir *Mástiles* bastante aparatosos que los de RIO "venden" como la solución, y que es lo mismo que usan en las *Burbujas*, obviando los micromástiles que Elizabeth y otros tienen implantados**
-                
-                - Más adelante hacer coincidir la descripción del Mástil que llevan con las esferas que se mencionan al principio de esta escena (¿ampliar ambas descripciones?).
-                
-                "Entonces escucharon un estruendo como de un gran metal cayendo sobre el suelo, seguido de los gritos de la pareja" -> Corregir esto o aclararlo cuando el grupo llega al laboratorio, ya que la puerta por la que llegan está intacta y se accede ¿con contraseña?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      16004
+charCount:      16587
 
 
 
@@ -101,12 +97,14 @@ Entonces señaló las fotos y mapas desplegados sobre la mesa.
 Hasta entonces Lucas no había reparado en la *tablet* que tenía frente a ella, sobre la mesa. Un dispositivo pequeño y azul que Elizabeth alzó a la vista de todos antes de pulsar "Reproducir".
 - ¡Nos atacan! - gritó una voz femenina, sobresaltando a los presentes - ¡La *Sirena* nos ha descubierto! ¡No podemos iniciar el lanzamiento!
 - ¡Van a entrar! - gritó una voz masculina. De fondo, unos golpes restallaban sobre el metal.
-- ¡Activa el Mástil!
+- ¡Esa puerta está acorazada! ¡No deberían...! ¡Ah!
+- ¡Clara!
+- ¡Lo tengo! - ruidos de forcejeo - ¡Hijo de puta! ¡Marcos, activa el Mástil!
 - ¡Pero...!
 - ¡Actívalo!
-Entonces escucharon un estruendo como de un gran metal cayendo sobre el suelo, seguido de los gritos de la pareja.
+Ruido de pasos corriendo seguido de botones pulsándose.
 - ¡Está activándose! ¡Está... AHG!
-- ¡Marcos! ¡Dejénlo en...!
+- ¡Marcos!
 Lo siguieron ruidos de disparos y gritos pero entonces se produjo un gran silencio. Unos segundos después la comunicación se cortó.
 Elizabeth volvió a dejar el dispositivo sobre la mesa.
 - Tal como han podido oír, creemos que consiguieron activar el *Mástil* en el propio laboratorio - dijo, alzando el mapa más cercano a ella y señalando una habitación de este -. Pero no quedó nadie vivo para llevarlo hasta la zona de lanzamiento - concluyó, al tiempo que trazaba con el dedo un camino hasta otra zona del mapa.
@@ -131,6 +129,9 @@ Elizabeth le sonrió.
 Elizabeth se encogió de hombros.
 - Ya bueno, no creo que tenga mucha opción si no quiere que la *Sirena* acabe licuando su cerebro y el de su hermana.
 "Lara", la recordó Lucas, a la vez que una voz en su interior la llamaba "hija" y otra la corregía.
+- ¿Y no podemos lanzar uno de los Mástiles que ya tenemos aquí desde otro lugar? - preguntó una joven.
+- No son tan potentes como el de la base, ni disponen de amplificador, ni de acoplador al satélite, ni satélite... - empezó a enumerar Elizabeth -. Hay otras muy pocas bases que disponen de *Mástiles* que cumplen esos requisitos pero han caído o están en ello. RIO está planteando misiones similares a la *Resistencia* en estos últimos pero las perspectivas de éxito son muy bajas.
+Hubo un silencio que se prolongó unos segundos, manchado por algunos murmuros.
 - Y a todo esto - dijo entonces Lucas -. ¿Dónde entro yo en este plan suicida?
 - Eres nuestro canario en la mina.
 "Cómo no"
@@ -160,4 +161,3 @@ Los miembros de la *Resistencia* empezaron a mirarse unos a otros y a moverse en
 - ¿Qué acaban de hacer? - preguntó entonces uno de ellos.
 Elizabeth suspiró.
 - Clavarnos un buen puñal como muestra de buena fe.
-**VOY POR AQUÍ (NOTAS)**
