@@ -12,6 +12,11 @@ notes:          - Aclarar que están en un edificio cercano separados por un bos
                 - Aclarar si el Mástil está en la azotea o fuera. Sincronizar con lo que digo en el capítulo anterior (si digo algo) y en este (explosión en la azotea).
                 - Aclarar el alcance del Mástil con algo como que los asimilados se mantienen a distancia o algo.
                 - **Aclarar quién se la lleva. No puede ser los asimilados directamente por el Mástil de Ana**
+                
+                
+                Desde escena 30.1:
+                - Más adelante hacer coincidir la descripción del Mástil que llevan con las esferas que se mencionan al principio de esta escena (¿ampliar ambas descripciones?).
+                - Ajustar el estado de la gente del laboratorio cuando llegan más adelante.
 label:          4
 status:         1
 compile:        2

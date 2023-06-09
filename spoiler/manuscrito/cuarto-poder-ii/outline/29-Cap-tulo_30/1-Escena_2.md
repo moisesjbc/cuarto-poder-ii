@@ -3,26 +3,15 @@ ID:             94
 type:           md
 summaryFull:    Los de la Resistencia debaten sobre si colaborar con RIO o no. Jonás acaba confesando su pasado en RIO y los trata de convencer para que acepten, pero entonces se escuchan explosiones y disparos.
 POV:            0
-notes:          - Lara lo mira mal.
-                - Ajani y Kasim sabotean los coches pero no se revelan.
-                
-                **El narrador culpa a gente que lejos de falsear la información, creyó a Lucas. Esto da pie al "están confesando sus crímenes, pero no están mostrando a los verdaderos culpables***
-                
-                - Se limpia el nombre de Lucas.
-                
-                
-                Desde escena 30.1:
-                - Más adelante hacer coincidir la descripción del Mástil que llevan con las esferas que se mencionan al principio de esta escena (¿ampliar ambas descripciones?).
-                - Ajustar el estado de la gente del laboratorio cuando llegan más adelante.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      11690
+charCount:      12128
 
 
-**VOY POR AQUÍ**
-El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores. Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
+El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores.
+Con cada frase del locutor de las noticias, los "¡No puede ser!" y los "¿Qué acaba de decir?" se entremezclaban entre los presentes hasta llegar a la última fila.
 Hicieron la prueba de cambiar de canal, haciendo *zapping* por todos los canales, controlados por RIO o, sólo podían suponerlo, aún no controlados por la corporación, y las noticias coincidían.
 Algunos miembros de la resistencia salían y al rato volvían a la estancia. A su regreso confirmaban que otras células de la *Resistencia*, en otros lugares del mundo, estaban viviendo las mismas noticias. Por televisión, radio, internet... por todos sitios.
 - No parece un montaje - dijo uno de los presentes, sin apartar la mirada del televisor -. Pero... no puedo creerlo. Tiene que haber alguna trampa.
@@ -34,17 +23,17 @@ La corporación RIO había confesado sus crímenes.
 Al menos una generosa lista de ellos que los presentes, incluido Lucas, suponían que no eran ni la mitad de todo el daño que había causado RIO pero que, aún así, la ponía en una situación muy delicada de cara al público.
 - Bueno gente - dijo uno de los presentes, al tiempo que bajaba el volumen del televisor -. Tenemos un par de horas para decidir qué hacer, ¿recuerdan?
 Ese era tiempo que RIO les había dado para decidir si se unían al plan suicida.
-"Dos horas para decidir si avisas al demonio", pensó Lucas.
+"Dos horas para decidir si ayudas al demonio", pensó Lucas.
 - RIO no habría hecho esto si la situación no fuera tan jodida - replicó una joven.
 - Ya, ¿pero jodida para quién? - planteó otro, mientras paseaba su mirada por todos los presentes -. La *Resistencia* lleva años intentando acabar con ellos, ¿y ahora vamos a sacarles las castañas del fuego?
 - Lo que está en juego parece ser un virus mortal que podría acabar con todos nosotros - dijo una mujer de unos 50 años -. Entiendo tu punto, Marcos, pero tenemos que asegurarnos de no estar remplazando un mal por otro mayor. Ya has visto lo que está pasando ahí fuera. La gente está enloquecida matándose los unos a los otros.
--  ¿Y? - Marcos se encogió de hombros -. Has estado en las *Burbujas*, Celia. ¿No se te parece lo que está pasando bastante a una *Burbuja* en su "hora feliz"?
+-  ¿Y? - Marcos se encogió de hombros -. Has estado en las *Burbujas*, Celia. ¿No se te parece lo que está pasando bastante parecido a una *Burbuja* en su "hora feliz"?
 - ¿Insinúas... - comenzó a decir ella - que es otro montaje de RIO?
 - Eso es lo que creo, sí. ¿Qué pasa con los supervivientes de las *Burbujas*? Prácticamente casi ninguno de ellos se ha vuelto violento.
 - Por ahora - puntualizó otra persona.
 - Sí claro, por ahora - cedió Marcos.
-- Los casos que conocemos son los que han unido con nosotros - dijo Celia -. ¿Puedes asegurar lo mismo de los cientos que han pasado de unirse a la *Resistencia*
-- Insinúas que...
+- Los casos que conocemos son los que se han unido con nosotros - dijo Celia -. ¿Puedes asegurar lo mismo de los cientos que han pasado de unirse a la *Resistencia*
+- ¿Insinúas que...?
 - ¡Lucas! - gritó de repente Noemí, sobresaltando a los presentes - ¡Sales en la tele!
 Lucas miró al televisor y vio a una versión más joven de si mismo, al tiempo que el poseedor del mando subía el volumen.
 El Lucas del pasado hablaba a cámara, pero no era su voz la que se escuchaba, sino la de un narrador invisible.
@@ -52,14 +41,13 @@ El Lucas del pasado hablaba a cámara, pero no era su voz la que se escuchaba, s
 El Lucas 2022 desapareció para dar paso al narrador invisible, que ahora se presentaba ante cámara como un joven atlético de unos 30 años enfundado en un traje a medida.
 - Repetimos. El supuesto ataque que Reino Unido planeaba sobre Estados Unidos resulta ser otra de las mentiras de la corporación RIO a tenor de la documentación liberada. Lucas, lejos de ser culpable, sería otra víctima que, de hecho, intentó avisar al mundo de que no había tal ataque, como se puede ver en la grabación real.
 El Lucas de 2022 volvió a aparecer en pantalla, en el mismo lugar donde la magia de de los ordenadores le había hecho acusar a Reino Unido de un intento de invasión que jamás existió. Sin embargo, ahora era él de verdad, contando la verdad. El Lucas de hace una eternidad le contaba al mundo que allí no se preparaba un ataque, sino un desfile.
-El vídeo incluía una entrevista al coronel Cooper. El general inglés, de rostro afable pero curtido en la vida militar, explicaba la situación a las cámaras con una gran naturalidad.
+El vídeo incluía una entrevista al fallecido coronel Cooper. El general inglés, de rostro afable pero curtido en la vida militar, explicaba la situación a las cámaras con una gran naturalidad.
 "Al final lo conseguimos", dijo Lucas para sí, recordando a su fuente y aliado, "aunque RIO haya acabado contigo antes"
-Entonces recordó algo y rápidamente se giró hacia Noemí.
-Estaba llorando.
+Entonces recordó algo y rápidamente se giró hacia Noemí. Estaba llorando.
 Lucas la abrazó.
 - Esta es la cinta que vieron tus padres, ¿no?
-- Esto no me los devuelve - dijo ella, apretando a Lucas entre sus brazos -. Pero al menos demuestran que decían la verdad.
-Los verdaderos padres de Noemí, trabajadores de RIO, habían visto la cinta de verdad y planeaban escapar con ella, pero RIO acabó con ellos antes, metiendo a su hija en una *Burbuja*.
+- Esto no me los devuelve - dijo ella, apretando a Lucas entre sus brazos -. Pero al menos demuestra que decían la verdad.
+Los verdaderos padres de Noemí, trabajadores de RIO, habían visto la cinta de verdad y planeaban escapar con ella, pero RIO acabó con ellos antes y metió a su hija en una *Burbuja*.
 "Otra familia destrozada", pensó Lucas, sin dejar de abrazar a la adolescente.
 Volvieron a bajar el volumen del televisor.
 - Bueno - dijo el poseedor del mando a distancia -, ya es suficiente. Tenemos una decisión que tomar.
@@ -88,25 +76,31 @@ El antiguo vagabundo la ignoró y siguió mirando a los presentes, desafiante.
 La discusión volvió a ser un partido entre dos equipos que se resistían a permitirle un tanto al otro.
 Lucas se fijó en Jonás. Ya no miraba a los demás, sino sólo a Lara, quien a su vez le devolvía la mirada, confusa.
 Tras unos instantes Jonás bajo la cabeza, cerró los ojos y resopló.
-- ¡Silencio! - ordenó -. Yo... - volvió a mirar a Lara unos segundos antes de seguir -. Yo trabajaba para RIO como investigador, voluntariamente.
+- ¡Silencio! - ordenó -. Yo... - volvió a mirar a Lara unos segundos antes de seguir -. Yo trabajaba para RIO como investigador...
+Tras unos segundos añadió:
+- ...voluntariamente.
 Primero se hizo el silencio. Entonces empezó la cascada de preguntas.
-Esta vez fue otra voz la que pidió silencio. la mujer que gritó miró entonces a Lucas y asintió, como diciendo "Ahora, continúa".
+Esta vez fue otra voz la que pidió silencio. la mujer que gritó miró entonces a Jonás y asintió, como diciendo "Ahora, continúa".
+Este último volvió a mirar a Lara antes de hablar.
 - Era un biotecnólogo trabajando para una empresa controlada en secreto por RIO. Hace cinco años recibimos una muestra de la *Sirena* y comenzamos a estudiarla. Nuestros avances llamaron la atención de la corporación, que ahora sí se presentó ante mi equipo y yo sin tapaderas para ofrecernos continuar la investigación buscando ciertas... aplicaciones.
 - ¡Hijo de puta! - gritó alguien. Un hombre corpulento se abalanzó corriendo hacia Jonás pero varias personas lo retuvieron.
-Una nube negra había empezado a formarse sobre Jonás y Lara. Esta última alternaba una mirada de ojos como platos entre su hermano y Lucas. En la mano de Jonás, el guante negro parpadeaba, luminoso.
+Una nube negra había empezado a formarse sobre Jonás y Lara. Esta última, con los ojos abiertos como platos, alternaba su mirada entre su hermano y Lucas. En la mano de Jonás, el guante negro parpadeaba, luminoso.
 Los de la resistencia retrocedieron unos pasos alejándose de Jonás, pero no mucho.
 "Parece que se han acostumbrado", pensó Lucas, sin dejar de mirar la nube.
 - ¿Qué te ocurre, Manuel? - dijo uno de los que retenían al hombre corpulento.
 - ¡Este hijo de puta está detrás de las *Burbujas*!
 Las miradas se giraron hacia Jonás. Este miró a su hermana, quién a su vez lo miró fijamente.
-- ¿Lucas...?
+- Jonás...?
 - Así es - dijo Jonás, con una mirada vacía posada sobre su hermana pero que de vez en cuando miraba a su alrededor en busca de amenazas -. Mi equipo y yo sentamos las bases de las *Burbujas* - dijo, levantando la voz para que lo escucharan todos.
 Miró hacia arriba, hacia la nube que flotaba sobre sus cabezas. Suspiró.
 - También encontramos aplicaciones replicando el comportamiento de los insectos de la *Sirena* en nanomáquinas.
 - Pero... - comenzó a decir una joven -. Ajani te había rescatado de unas instalaciones de RIO, ¿no? Estabas capturado por ellos, no colaborando con ellos.
-- La *Sirena* me infectó pero tengo cierta resistencia natural a ella. Sin embargo, me causa bastante dolor.
-- ¡Poco será comparado con el que has causado en tus malditas *Burbujas*! - esta vez no fue el corpulento el que habló, sino un hombre mucho más delgado tras este.
+- La *Sirena* me infectó pero tengo cierta resistencia natural a ella. Sin embargo, me causa bastante dolor. Cuando me negué a seguir colaborando con ellos amenazaron con dañar a...
+- ...a mi - dijo Lara.
+Los hermanos se miraron en silencio hasta que Jonás bajó la mirada, avergonzado. Su hermana pequeña lo seguía mirando pero parecía estar aún digiriendo la información, sin dejar entrever enfado o perdón.
+Esta vez no fue el corpulento el que habló, sino un hombre mucho más delgado tras este.
+- ¡Poco dolor estarás sintiendo comparado con el que has causado en tus malditas *Burbujas*!
 - ¡Hijo de puta! - gritó otra.
-Algunos empezaron a avanzar hacia Jonás. Poco parecía importarles ya la nube negra que flotaba sobre su cabeza y que obedecía toda sus órdenes. Tampoco les importaba Lara, a quien Jonás hacia retroceder con un brazo sin dejar de mirar a los presentes.
-- ¡Escuchénme! - gritó este último, paseando su mirada por todos los presentes.
+Algunos empezaron a avanzar hacia Jonás. Poco parecía importarles ya la nube negra que flotaba sobre su cabeza y que obedecía todas sus órdenes. Tampoco les importaba Lara, a quien Jonás hacia retroceder con un brazo sin dejar de mirar a los presentes.
+- ¡Escuchénme! - gritó este último, paseando su mirada por todos los presentes - ¡No podemos...!
 Entonces empezaron a escucharse los disparos y las explosiones.
