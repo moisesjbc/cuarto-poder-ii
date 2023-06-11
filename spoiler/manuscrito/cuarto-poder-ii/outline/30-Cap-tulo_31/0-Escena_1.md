@@ -3,21 +3,17 @@ ID:             18
 type:           md
 summaryFull:    Los *asimilados* atacan la base de la resistencia. Lucas y Noemí se abren camino hasta donde está Ana pero esta ha desaparecido. En su lugar hay un mapa que marca un punto a dos kilómetros de allí con el nombre de la joven escrito con sangre.
 POV:            0
-notes:          - Aclarar si el Mástil está en la azotea o fuera. Sincronizar con lo que digo en el capítulo anterior (si digo algo) y en este (explosión en la azotea).
-                - Aclarar el alcance del Mástil con algo como que los asimilados se mantienen a distancia o algo.
-                - **Aclarar quién se la lleva. No puede ser los asimilados directamente por el Mástil de Ana**
-                
-                - A veces pongo Resistencia, otras *resistencia*, ... unificar.
-                
+notes:          - **Aclarar quién se la lleva. No puede ser los asimilados directamente por el Mástil de Ana**
                 
                 Desde escena 30.1:
                 - Más adelante hacer coincidir la descripción del Mástil que llevan con las esferas que se mencionan al principio de esta escena (¿ampliar ambas descripciones?).
                 - Ajustar el estado de la gente del laboratorio cuando llegan más adelante.
+                
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14095
+charCount:      14262
 
 
 En cuestión de pocos segundos quedaron sumidos en el caos de una zona de guerra. Las explosiones y disparos parecían acercarse desde todos los lados, con sus ecos rebotando por toda la estancia.
@@ -62,6 +58,7 @@ El señor salió al patio enérgicamente y el resto lo imitó: primero los dos c
 Salieron a una noche cálida y apacible, trastocada por los disparos, explosiones y gritos de fondo. Parecían provenir tanto del edificio principal como del exterior de los altos muros de cemento.
 El suelo del patio estaba cubierto por hojas secas, hierba reseca y tierra. Grandes árboles se distribuían sin ningún patrón aparente por toda la zona. El grupo intentó avanzar sin hacer ruido, pero las hojas crujían bajo sus pies.
 Por suerte las hojas también servían como una suerte de alerta de proximidad. Muchas de ellas empezaron a crujir cada vez más cerca.
+Entre los árboles, a medio camino entre ambos edificios, se distinguía una gran llamarada de fuego. Era uno de los furgones que rodeaban la zona con un Mástil en su techo, ahora hecho añicos.
 - ¡Derecha! - gritó Lucas.
 Un joven vestido de chándal corría hacia ellos, con los ojos inyectados en sangre.
 - ¡Por aquí también vienen! - gritó uno de los jóvenes.
@@ -140,4 +137,3 @@ El joven miró a Noemí. Esta había levantado los cojines del sofá y sostenía
 Lucas se acercó a ella, aceptó el papel doblado mientras decía "lo siento" y lo abrió.
 Se trataba de un mapa de la zona. El joven enseguida localizó los dos edificios ocupados por la *resistencia* cerca del centro. A unos dos kilómetros al este había una equis con un nombre debajo escrito con sangre.
 "Ana"
-**VOY POR AQUÍ (NOTAS)**

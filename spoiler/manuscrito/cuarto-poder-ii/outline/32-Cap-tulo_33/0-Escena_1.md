@@ -18,16 +18,17 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14107
+charCount:      14118
 
 
-Lucas abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
+Abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
 - ¡Lucas!
 La adolescente lo abrazó con fuerza pero entonces retrocedió enseguida.
 - ¡Lo siento! ¿Te duele mucho?
 - Pues al decir verdad.. - empezó a decir el joven -. Me siento perfectamente.
 - Tienes buena cara para toda la sangre que perdiste, sí - sonrió ella.
 A medida que recobraba los sentidos, Lucas empezó a notar un traqueteo incesante que lo movía ligeramente de lado a lado. De vez en cuando pegaba un pequeño saltito hacia arriba que era bastante molesto.
+**VOY POR AQUÍ**
 - ¿Estamos en un camión? - inquirió, a medida que se sentaba.
 - ¡Con cuidado! - se preocupó la que había sido su hija.
 - Ya te he dicho que estoy bien.
