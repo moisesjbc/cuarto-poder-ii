@@ -18,25 +18,27 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14118
+charCount:      14199
 
 
 Abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
 - ¡Lucas!
 La adolescente lo abrazó con fuerza pero entonces retrocedió enseguida.
 - ¡Lo siento! ¿Te duele mucho?
-- Pues al decir verdad.. - empezó a decir el joven -. Me siento perfectamente.
+- Pues al decir verdad... - empezó a decir el joven -. Me siento perfectamente.
 - Tienes buena cara para toda la sangre que perdiste, sí - sonrió ella.
 A medida que recobraba los sentidos, Lucas empezó a notar un traqueteo incesante que lo movía ligeramente de lado a lado. De vez en cuando pegaba un pequeño saltito hacia arriba que era bastante molesto.
-**VOY POR AQUÍ**
 - ¿Estamos en un camión? - inquirió, a medida que se sentaba.
 - ¡Con cuidado! - se preocupó la que había sido su hija.
 - Ya te he dicho que estoy bien.
-Cuando terminó de incorporarse confirmó que, efectivamente, se encontraba en la parte de atrás de un camión, sentada sobre un asiento de madera que lo recorría por todo su lateral izquierdo. A ambos lados había varios efectivos de RIO y de la *resistencia*, dejando un hueco justo a su lado donde Noemí se sentó sin dejar de mirarlo.
-En el extremo trasero del camión se encontraban Jonás y Lara, y sobre estos, la nube de humo negro. Lara miró a Lucas y sonrió ligeramente, pero enseguida recuperó la seriedad. A su lado, Jonás parecía ignorarlo. En su lugar miraba fijamente a los asientos de enfrente.
-Lucas siguió su mirada. Sobre la madera del lateral derecho del camión se sentaba otro grupo de efectivos de ambas facciones, con expresiones tensas y dedicándose miradas furtivas los unos a los otros. La excepción era la joven a la que Jonás miraba fijamente. Estaba sentada en el centro y que miraba a Lucas con una sonrisa pícara.
+Cuando terminó de incorporarse confirmó que, efectivamente, se encontraba en la parte de atrás de un camión, tendido sobre una camilla en el centro del suelo y con sus piernas hacia la trasera del vehículo. A su izquierda, sobre un tablón de madera que recorría todo el lateral del camión, se sentaban unas 6 personas, dejando un único hueco justo a su lado donde Noemí se sentó sin dejar de mirarlo.
+En el extremo trasero del mismo banco se encontraba Jonás, y sobre este, la nube de humo negro. El hermano de Lara parecía ignorarlo. En su lugar miraba fijamente a los asientos de enfrente.
+**VOY POR AQUÍ**
+Lucas siguió su mirada. Sobre la madera del lateral derecho del camión se sentaba otro grupo de 7 efectivos de ambas facciones, con expresiones tensas y dedicándose miradas furtivas los unos a los otros. La excepción era la joven a la que Jonás miraba fijamente. Estaba sentada en el centro, al otro lado de Lucas, y miraba a este último con una sonrisa pícara.
 - Bienvenido, bello durmiente. ¿Qué tal el sueño?
 Lucas soltó un suspiro de hastío y miró a Noemí.
+- ¿Lara?
+- No ha venido. Está **X**
 - ¿Dónde esta-...? ¿A dónde vamos?
 Sin embargo, ya temía la respuesta.
 - Vamos a las instalaciones esas donde está el *Mástil* - le confirmó ella.
@@ -47,9 +49,9 @@ Noemí frunció el ceño.
 - ¿No...? ¿no querías venir?
 - La verdad, no lo sé.
 - Bueno, aún podemos irnos nosotros, si quisieras.
-Jonás la miró fijamente.
+Lucas la miró fijamente.
 - ¿Y qué quieres tú? ¿Qué opinas de todo esto?
-Noemí sonrió. 
+Noemí se encogió de hombros. 
 - No confío en RIO, y creo que tan pronto como le ayudemos acabarán con nosotros si tienen la oportunidad.
 - ¿Entonces también querrías irte?
 La adolescente negó con la cabeza.
@@ -75,6 +77,7 @@ Noemí no pudo evitar reír ligeramente.
 - Ahora tenemos refuerzos, y tenemos a Jonás.
 - Bueno... algo hará. Supongo.
 Los dos permanecieron en silencio unos instantes. Lucas se giró hacia el otro lado. Una joven de *RIO* examinaba su arma sin prestar atención a nada más.
+**POR AQUÍ**
 - Perdón - dijo él -. Perdón - repitió.
 La joven por fin le hizo caso.
 - ¿Sí?
