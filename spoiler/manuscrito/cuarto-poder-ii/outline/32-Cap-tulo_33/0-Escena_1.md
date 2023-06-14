@@ -18,7 +18,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14199
+charCount:      14268
 
 
 Abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -33,12 +33,13 @@ A medida que recobraba los sentidos, Lucas empezó a notar un traqueteo incesant
 - Ya te he dicho que estoy bien.
 Cuando terminó de incorporarse confirmó que, efectivamente, se encontraba en la parte de atrás de un camión, tendido sobre una camilla en el centro del suelo y con sus piernas hacia la trasera del vehículo. A su izquierda, sobre un tablón de madera que recorría todo el lateral del camión, se sentaban unas 6 personas, dejando un único hueco justo a su lado donde Noemí se sentó sin dejar de mirarlo.
 En el extremo trasero del mismo banco se encontraba Jonás, y sobre este, la nube de humo negro. El hermano de Lara parecía ignorarlo. En su lugar miraba fijamente a los asientos de enfrente.
-**VOY POR AQUÍ**
 Lucas siguió su mirada. Sobre la madera del lateral derecho del camión se sentaba otro grupo de 7 efectivos de ambas facciones, con expresiones tensas y dedicándose miradas furtivas los unos a los otros. La excepción era la joven a la que Jonás miraba fijamente. Estaba sentada en el centro, al otro lado de Lucas, y miraba a este último con una sonrisa pícara.
+Era Elizabeth.
 - Bienvenido, bello durmiente. ¿Qué tal el sueño?
-Lucas soltó un suspiro de hastío y miró a Noemí.
+Lucas soltó un suspiro de hastío y la ignoró, girándose a Noemí.
 - ¿Lara?
-- No ha venido. Está **X**
+- No ha venido.
+Esta vez el suspiro de Lucas fue de alivio, pero no duró mucho.
 - ¿Dónde esta-...? ¿A dónde vamos?
 Sin embargo, ya temía la respuesta.
 - Vamos a las instalaciones esas donde está el *Mástil* - le confirmó ella.
@@ -52,7 +53,7 @@ Noemí frunció el ceño.
 Lucas la miró fijamente.
 - ¿Y qué quieres tú? ¿Qué opinas de todo esto?
 Noemí se encogió de hombros. 
-- No confío en RIO, y creo que tan pronto como le ayudemos acabarán con nosotros si tienen la oportunidad.
+- No confío en RIO - dijo, mirando fijamente a Elizabeth -, y creo que tan pronto como le ayudemos acabarán con nosotros si tienen la oportunidad.
 - ¿Entonces también querrías irte?
 La adolescente negó con la cabeza.
 - Incluso si el mundo volviéndose loco es cosa de RIO, la *Sirena* le provoca mucho sufrimiento a Lara. Y tu sangre... - bajó la mirada.
@@ -62,10 +63,9 @@ Lucas se miró la pequeña raja en la camiseta, justo donde había recibido la p
 Lucas no lo había pensado mucho, lo que ayudó a reforzar su respuesta.
 - Pues no, la verdad. No noto nada diferente.
 - Curioso - Noemí se detuvo unos instantes antes de continuar -. He oído que la *Sirena* nos matará a todos antes de tiempo... a algunos mucho antes - terminó de decir, cabizbaja.
-Lucas dirigió una rápida mirada a Elizabeth, sentada frente a ellos. Esta se limitó a sonreirle antes de seguir hablando con la gente cercana y por radio.
+Lucas dirigió una rápida mirada a Elizabeth. Esta se limitó a sonreirle antes de seguir hablando con la gente cercana y por radio.
 "Querías asegurarte de convencerla, ¿eh?"
 - Yo... - dijo entonces Noemí, trayéndolo de vuelta al presente - no quiero perder a otra familia.
-Lucas la abrazó y ella le correspondió estrechándolo entre sus brazos con fuerza.
 - No nos perderás.
 Lucas sintió que le estaba mintiendo, pero continuó igualmente.
 - Hemos sobrevivido a una *Burbuja*, como una familia. Creo que podremos con esto.
@@ -76,9 +76,9 @@ Lucas sintió que le estaba mintiendo, pero continuó igualmente.
 Noemí no pudo evitar reír ligeramente.
 - Ahora tenemos refuerzos, y tenemos a Jonás.
 - Bueno... algo hará. Supongo.
-Los dos permanecieron en silencio unos instantes. Lucas se giró hacia el otro lado. Una joven de *RIO* examinaba su arma sin prestar atención a nada más.
-**POR AQUÍ**
-- Perdón - dijo él -. Perdón - repitió.
+Los dos permanecieron en silencio unos instantes. Lucas miró hacia la persona sentada a la izquierda de Noemí. Era una joven agente de *RIO* que examinaba su arma sin prestar atención a nada más.
+- Perdón - dijo él, pero no hubo respuesta.
+- Perdón - repitió.
 La joven por fin le hizo caso.
 - ¿Sí?
 - ¿Sabes cuánto queda hasta nuestro destino?
@@ -87,14 +87,14 @@ Lucas volvió a mirar a Noemí. Esta última lo miró y se obligó a sonreír, n
 - Gracias - respondió secamente.
 Pasaron unos minutos más en silencio cuando una figura esbelta se puso en pie frente a él. 
 - ¿Recuerdas el plan, dormilón? - se burló Elizabeth.
-"Meternos en unas instalaciones rodeadas de asimilados violentos y explosiones y lanzar un satélite para que RIO vuelva a estar en control" pensó Lucas, pero no quería decirlo delante de Noemí y que la poca confianza que tenía en el plan traicionara su voz.
+"Meternos en unas instalaciones rodeadas de asimilados violentos y lanzar un satélite para que RIO vuelva a estar en control" pensó Lucas, pero no quería decirlo delante de Noemí y que la poca confianza que tenía en el plan traicionara su voz.
 Así que se limitó a asentir.
 - Sí.
-- Perfecto. Montaremos varios grupos, uno por cada camión. En nuestro caso, tú simplemente mantente cerca de Jonás - señaló al susodicho y este la miró, perspicaz - y *Mástil* - señaló entonces a la antena. ¿Entendido?
+- Perfecto. Montaremos varios grupos, uno por cada camión. En nuestro caso, tú simplemente mantente cerca de Jonás - señaló al susodicho y este la miró, perspicaz - y el *Mástil* - señaló entonces a la antena que se encontraba tras Lucas -. ¿Entendido?
 - Parece sencillo.
 - Ya, la parte difícil va a ser no morir - hizo un amago de sonrisa antes de volver a una expresión seria -. Ahora escucha. Las trampas parecen estar todas dentro de las instalaciones, pero no nos confiemos. Desde que te empieces a sentir mal en lo más mínimo nos avisas, ¿ok?
 Lucas asintió, pero no pareció ser suficiente para ella.
-- ¿Lo entiendes Lucas? Cualquier cosa, ¿ok?
+- ¿Lo entiendes, Lucas? Cualquier cosa, ¿ok?
 - Sí sí, joder.
 Elizabeth se dio por satisfecha. Entonces alzó la voz para dirigirse a todos los presentes.
 - ¡Diez minutos, gente! ¡Prepárense!
@@ -108,7 +108,7 @@ El joven aceptó el arma y comprobó la munición. Cuando se percató en que Noe
 La adolescente le dio un puñetazo suave en el brazo. Estuvo a punto de decir algo, pero entonces clavó la mirada en algún punto fuera del vehículo, que comenzaba a detenerse. Se levantó para mirar mejor.
 - ¿Esos son... asimilados?
 Lucas se incorporó ligeramente y entonces los vio también.
-Decenas de personas corrían ciegamente hacia algún lugar más adelante del camión, a duras penas esquivando la caravana de vehículos, y los árboles aquellos que corrían por fuera de la carretera.
+Decenas de personas corrían ciegamente hacia algún lugar más adelante del camión, a duras penas esquivando la caravana de vehículos. Otros tantos corrían a ambos lados de la carretera esquivando los árboles.
 La misma ira asesina nublaba sus miradas.
 Elizabeth, visiblemente molesta se llevó la mano a la radio que colgaba de un lado de su cintura y se la llevó a la boca.
 - Aquí Elizabeth, ¡respondan!
@@ -120,7 +120,7 @@ Ajustó la frecuencia antes de volver a hablar.
 - ¡Negativo!
 - ¡Mierda! Pues nada, vamos a ciegas. Dile a los demás que avancen, a ver si podemos llegar al borde.
 - ¡Sí!
-Cortaron la comunicación y Elizabeth se guardó la radio al tiempo que se dirigía a los presentes.
+Cortaron la comunicación y la agente de RIO se guardó la radio al tiempo que se dirigía a los presentes.
 - Muy bien, vamos a intentar acercarnos lo que podamos al valle, pero no pierdan de vista a los *asimilados*. ¿Entendido?
 Los presentes asintieron y el camión continuó la marcha, subiendo una cuesta cada vez más empinada y peor asfaltada.
 Mientras llegaban a la cima vieron que cada vez la afluencia de asimilados era mayor. Algunos empezaban a chocar contra el camión, pero continuaban corriendo, visiblemente heridos pero aún presas de una ira incontrolable.
@@ -136,18 +136,18 @@ También se escuchaban algunos disparos: unos menos audibles que provenían de l
 El camión pasó cerca de uno de los francotiradores apostados en la misma montaña. Junto a él, dos efectivos de RIO cubrían sus espaldas con semiautomáticas. El  francotirador se permitió mirar a los camiones durante un instante.
 - Joder, ¡ya era hora!
 Y continuó disparando.
-Elizabeth ordenó parar a los camiones y se bajó a hablar con ellos. En poco más de un minuto sincronizaron frecuencias de radio y la joven obtuvo indicaciones para llegar un camino para bajar al valle menos transitado.
+Elizabeth ordenó parar a los camiones y se bajó a hablar con ellos. En poco más de un minuto sincronizaron frecuencias de radio y la joven obtuvo indicaciones para llegar a un camino menos transitado para bajar al valle.
 Cuando Lucas quiso darse cuenta, Elizabeth ya había subido al camión y el *convoy* había reanudado la marcha.
 Avanzaron tan poco que Lucas se preguntó si realmente hizo falta movilizar los camiones pero descartó comentarlo en voz alta.
-- Muy bien - anunció Elizabeth -. ¡Todo el mundo abajo!
+- Muy bien - anunció ella -. ¡Todo el mundo abajo!
 Los grupos de cada uno de los 3 camiones se apearon de los vehículos. Cuatro personas de cada uno hicieron fuerza para bajar sus respectivos *Mástiles* bajo quejas de "¡Joder!" y "¡Cómo pesa!".
-Dejaron los *Mástiles* en el suelo y uno de los porteadores se sacó un pequeño mando con el que controlaba las ruedas montadas bajo los armatostes.
-Los tres grupos avanzaron hacia el borde del precipicio y localizaron el camino de tierra que bajaba, empinado, hasta la base de la montaña.
+Dejaron los *Mástiles* en el suelo y uno de los porteadores de cada grupo se sacó un pequeño mando con el que controlaba la plataforma motorizada situada bajo los armatostes.
+Los tres grupos avanzaron hacia el borde del precipicio y comenzaron a tomar el camino de tierra que bajaba, empinado, hasta la base de la montaña.
 Caminando pegados a la trasera del *Mástil*, Lucas y Noemí no podían evitar mirar a la pesada antena motorizada con morbo.
 "En cualquier momento se va a despeñar", pensó Lucas tras varios amagos de tropezarse él mismo. Por la mirada de Noemí, estimó que estaba pensando lo mismo. Ambos se miraron y sonrieron.
 Llegaron sin más percances a la base de la montaña y su visión se redujo al muro impenetrable de personas que se extendía en todas direcciones y al edificio militar que se alzaba sobre sus cabezas a unos quinientos metros.
-El grupo se pegó al Mástil y avanzaron al unísono con este. Los asimilados corrían de un lado a otro y se atacaban los unos a otros, esquivando a la la procesión de los *Mástiles* como si fueran dioses intocables.
-Los tres grupos no tardaron en ser engullidos por la multitud, que seguía masacrándose a si misma sin importarle los visitantes.
+Cada grupo se pegó a su respectivo *Mástil* y avanzó al unísono con este, no tardando en ser engullidos por la multitud. Los asimilados corrían lado y lado y se atacaban los unos a otros, esquivando a la la procesión de los *Mástiles* como si fueran dioses intocables.
+**VOY POR AQUÍ**
 Los *asimilados* no gritaban cuando eran golpeados, apuñados o disparados, con lo cuál sólo estos sonidos, junto con el de pasos, era lo que ensordecía a los recién llegados.
 Sin dejar de mirar a la miriada de caras, los pensamientos fatalistas empezaron a agolparse en la mente de Lucas.
 "¿Qué pasa si el *Mástil* deja de funcionar (¿cuánta dura su batería?)? ¿Qué pasa si lo destruyen? ¿Qué pasa si todo esto es una trampa de RIO? ¿Qué pasa si los asimilados atacan a Noemí?
