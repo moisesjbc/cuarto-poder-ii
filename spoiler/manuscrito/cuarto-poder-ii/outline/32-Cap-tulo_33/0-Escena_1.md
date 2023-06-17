@@ -1,24 +1,29 @@
 title:          Escena 1
 ID:             30
 type:           md
-summaryFull:    **Ajustar resumen a lo que escribí finalmente**
-                Efectivos de RIO se llevan a Noemí y Lara, y Elizabeth amenaza con matarlas si no les ayudan a lanzar el nuevo Mástil. La joven y sus subalternos transportan a Lucas y los demás hasta una aldea remota en África. Allí encuentran una auténtica carnicería en la que efectivos de RIO y asimilados "buenos" y "malos" luchan a 3 bandas.
+summaryFull:    Lucas despierta en un convoy de 3 camiones llenos de efectivos de RIO y la Resistencia, acompañado por Jonás, Noemí y Elizabeth. Llegan a las proximidades de la base militar y comienzan a avanzar con los *mástiles* entre la multitud pero los *mástiles* son destruidos. Los asimilados comienzan a atacarles ignorando a Elizabeth y Lucas, cuando el suelo cede bajo los pies del joven y Noemí.
 POV:            0
-notes:          - Ajani infiltrado. ¿Alguna pista?
-                - Durante el viaje, Jonás, visiblemente asustado por estar en manos de RIO otra vez, confiesa a Lucas que lo matará sin dudarlo para proteger a su hermana.
-                
-                - ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO?
-                - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
-                - ¿Mencionar aquí los intentos de RIO por intentar descubrir más "sensibles"?
-                - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
-                - **Aclarar los múltiples camiones y la "antena" en medio del camión desde el principio**
-                - **¿Quitar a Lara?**
+notes:          - **Aclarar los múltiples camiones y la "antena" en medio del camión desde el principio**
                 - **Aclarar que Lucas va en el grupo del centro**
+                - ¿Van apartado a los asimilados? ¿O es el Mástil el que los hace retroceder? ¿Si es esto último por qué no llegan con los camiones hasta la base?
+                - ¿Los *mástiles* no tienen efecto sobre Lucas?
+                - ¿Por qué nadie más tiene los mini mástiles? Al menos en los de RIO.
+                - ¿Quién dispara a los Mástiles? ¿Kasim?
+                
+                - ¿Se menciona luego que los infectados no atacaban a Elizabeth (escena 33.1)?
+                - Ajani infiltrado. ¿Alguna pista?
+                - Durante el viaje, Jonás, visiblemente asustado por estar en manos de RIO otra vez, confiesa a Lucas que lo matará sin dudarlo para proteger a su hermana.
+                - - Explicar por qué las nanomáquinas del camino al baño afectan a Lucas a la ida pero no a la vuelta.
+                - - ¿Mencionar aquí los intentos de RIO por intentar descubrir más "sensibles"?
+                - ¿Arturo? ¿Era sensible al final a las nanomáquinas? ¿Qué le pinchaban?
+                - ¿Cómo pueden llevarse a Ana si también tiene el mini mástil? ¿O no lo tiene? Ajustar capítulos.
+                - ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO
+                - ¿*Mástil* o *mástil*?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14268
+charCount:      14244
 
 
 Abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -31,8 +36,10 @@ A medida que recobraba los sentidos, Lucas empezó a notar un traqueteo incesant
 - ¿Estamos en un camión? - inquirió, a medida que se sentaba.
 - ¡Con cuidado! - se preocupó la que había sido su hija.
 - Ya te he dicho que estoy bien.
-Cuando terminó de incorporarse confirmó que, efectivamente, se encontraba en la parte de atrás de un camión, tendido sobre una camilla en el centro del suelo y con sus piernas hacia la trasera del vehículo. A su izquierda, sobre un tablón de madera que recorría todo el lateral del camión, se sentaban unas 6 personas, dejando un único hueco justo a su lado donde Noemí se sentó sin dejar de mirarlo.
-En el extremo trasero del mismo banco se encontraba Jonás, y sobre este, la nube de humo negro. El hermano de Lara parecía ignorarlo. En su lugar miraba fijamente a los asientos de enfrente.
+Cuando terminó de incorporarse confirmó que, efectivamente, se encontraba en la parte de atrás de un camión, sentado sobre una camilla en el centro del suelo y con sus piernas hacia la trasera del vehículo. A su izquierda, sobre un tablón de madera que recorría todo el lateral del camión, se sentaban unas 6 personas, dejando un único hueco justo a su lado donde Noemí se sentó sin dejar de mirarlo.
+Tras de si, una pesada antena esférica reposaba sobre un pequeño carro motorizado en medio de la trasera del camión.
+"El *mástil*".
+En el extremo trasero del mismo banco donde se sentaba Noemí se encontraba Jonás y, sobre este, la nube de humo negro. El hermano de Lara parecía ignorarlo. En su lugar miraba fijamente a los asientos de enfrente.
 Lucas siguió su mirada. Sobre la madera del lateral derecho del camión se sentaba otro grupo de 7 efectivos de ambas facciones, con expresiones tensas y dedicándose miradas furtivas los unos a los otros. La excepción era la joven a la que Jonás miraba fijamente. Estaba sentada en el centro, al otro lado de Lucas, y miraba a este último con una sonrisa pícara.
 Era Elizabeth.
 - Bienvenido, bello durmiente. ¿Qué tal el sueño?
@@ -147,21 +154,19 @@ Caminando pegados a la trasera del *Mástil*, Lucas y Noemí no podían evitar m
 "En cualquier momento se va a despeñar", pensó Lucas tras varios amagos de tropezarse él mismo. Por la mirada de Noemí, estimó que estaba pensando lo mismo. Ambos se miraron y sonrieron.
 Llegaron sin más percances a la base de la montaña y su visión se redujo al muro impenetrable de personas que se extendía en todas direcciones y al edificio militar que se alzaba sobre sus cabezas a unos quinientos metros.
 Cada grupo se pegó a su respectivo *Mástil* y avanzó al unísono con este, no tardando en ser engullidos por la multitud. Los asimilados corrían lado y lado y se atacaban los unos a otros, esquivando a la la procesión de los *Mástiles* como si fueran dioses intocables.
-**VOY POR AQUÍ**
-Los *asimilados* no gritaban cuando eran golpeados, apuñados o disparados, con lo cuál sólo estos sonidos, junto con el de pasos, era lo que ensordecía a los recién llegados.
-Sin dejar de mirar a la miriada de caras, los pensamientos fatalistas empezaron a agolparse en la mente de Lucas.
+Sin dejar de mirar a la miríada de caras, los pensamientos fatalistas empezaron a agolparse en la mente de Lucas.
 "¿Qué pasa si el *Mástil* deja de funcionar (¿cuánta dura su batería?)? ¿Qué pasa si lo destruyen? ¿Qué pasa si todo esto es una trampa de RIO? ¿Qué pasa si los asimilados atacan a Noemí?
 Fue con este último pensamiento que Lucas negó con la cabeza enérgicamente, intentando sacudirse así ese indeseado intangible.
 - ¿Qué ocurre?
 La adolescente lo miraba sin dejar de caminar.
 - No te preocupes - dijo Lucas -. No pasa nada - mintió -.
-La que habló ahora, fue Elizabeth, delante del Mástil. Seguía mirando al frente.
+La que habló ahora fue Elizabeth, delante del Mástil. Seguía mirando al frente.
 - ¿Qué ocurre? ¿Has notado algo, Lucas?
 - No es nada - insistió el joven -.
 Siguieron avanzando en silencio, intentando ignorar la autentica carnicería que ocurría a su alrededor.
 Llegaron a mitad del camino cuando un disparo resonó en todo el valle. El proyectil silbó cerca de ellos e impactó en algún punto de la multitud a escasos metros por delante del grupo de Lucas. El impacto sonó a metal y electricidad.
 - ¡Mierda! - gritó alguien - ¡Se han cargado el *Mástil*!
-Lucas creyó ver entre la multitud al otro grupo, pero este no tardó en ser engullido por los *asimilados*. Los pocos disparos que lograron disparar no evitaron los gritos de auxilio que rápidamente fueron silenciados igualmente.
+Lucas creyó ver entre la multitud al otro grupo, pero este no tardó en ser engullido por los *asimilados*. Los pocos disparos que lograron disparar no evitaron los gritos de auxilio que rápidamente fueron silenciados.
 Elizabeth cogió rápidamente su radio.
 - ¡¿Qué cojones están haciendo?!
 Pero no hubo respuesta. Entonces se dirigió a los presentes.
@@ -176,3 +181,4 @@ Noemí no tuvo tiempo de agarrar a Lucas, pero no fue necesario. El *asimilado* 
 El atacante cayó al suelo pero en vez de chocar con este, el suelo cedió bajo su pie, tragándose también a la adolescente.
 - ¡Noe-...!
 El grito quedó ahogado cuando el suelo también cedió bajo los pies de Lucas, internándolo en la oscuridad más absoluta.
+**VOY POR AQUÍ (NOTAS)**
