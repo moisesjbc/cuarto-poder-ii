@@ -3,7 +3,17 @@ ID:             30
 type:           md
 summaryFull:    Lucas despierta en un convoy de 3 camiones llenos de efectivos de RIO y la Resistencia, acompañado por Jonás, Noemí y Elizabeth. Llegan a las proximidades de la base militar y comienzan a avanzar con los *mástiles* entre la multitud pero los *mástiles* son destruidos. Los asimilados comienzan a atacarles ignorando a Elizabeth y Lucas, cuando el suelo cede bajo los pies del joven y Noemí.
 POV:            0
-notes:          - **Aclarar los múltiples camiones y la "antena" en medio del camión desde el principio**
+notes:          - ¿Qué hacen finalmente para acceder a la base militar?
+                   - ¿Camiones hasta la entrada? ¿O la resistencia se negó a atropellar a los *asimilados* como quería RIO y por eso paran antes (pero no en la montaña)?
+                   - ¿Cómo apartan a los asimilados?
+                   - ¿Jonás vuela con su disco y engancha la tirolina?
+                   - ¿Lanzan la tirolina de lejos pero entonces disparan al cable y lo rompen?
+                   	- ¿Y entonces para qué llevan los *Mástiles*?
+                   - ¿Crean alguna distracción para acercarse a la base?
+                   - ¿Túneles subterráneos?
+                   - 
+                
+                - **Aclarar los múltiples camiones y la "antena" en medio del camión desde el principio**
                 - **Aclarar que Lucas va en el grupo del centro**
                 - ¿Van apartado a los asimilados? ¿O es el Mástil el que los hace retroceder? ¿Si es esto último por qué no llegan con los camiones hasta la base?
                 - ¿Los *mástiles* no tienen efecto sobre Lucas?
@@ -19,6 +29,7 @@ notes:          - **Aclarar los múltiples camiones y la "antena" en medio del c
                 - ¿Cómo pueden llevarse a Ana si también tiene el mini mástil? ¿O no lo tiene? Ajustar capítulos.
                 - ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO
                 - ¿*Mástil* o *mástil*?
+                - Ajustar lo que se dice en el capítulo de planificación con respecto a lo que se hace en este finalmente.
 label:          4
 status:         1
 compile:        2
@@ -94,7 +105,7 @@ Lucas volvió a mirar a Noemí. Esta última lo miró y se obligó a sonreír, n
 - Gracias - respondió secamente.
 Pasaron unos minutos más en silencio cuando una figura esbelta se puso en pie frente a él. 
 - ¿Recuerdas el plan, dormilón? - se burló Elizabeth.
-"Meternos en unas instalaciones rodeadas de asimilados violentos y lanzar un satélite para que RIO vuelva a estar en control" pensó Lucas, pero no quería decirlo delante de Noemí y que la poca confianza que tenía en el plan traicionara su voz.
+"Meternos en unas instalaciones rodeadas de asimilados violentos y lanzar un satélite para que RIO vuelva a tener el control" pensó Lucas, pero no quería decirlo delante de Noemí y que la poca confianza que tenía en el plan traicionara su voz.
 Así que se limitó a asentir.
 - Sí.
 - Perfecto. Montaremos varios grupos, uno por cada camión. En nuestro caso, tú simplemente mantente cerca de Jonás - señaló al susodicho y este la miró, perspicaz - y el *Mástil* - señaló entonces a la antena que se encontraba tras Lucas -. ¿Entendido?
@@ -136,8 +147,8 @@ El conductor abrió la pequeña ventana que separaba la cabina de la trasera del
 Elizabeth se acercó a la ventanilla antes de hablar.
 - Muy bien.
 El *convoy* llegó a prácticamente al borde del precipicio antes de continuar por un camino de tierra paralelo a este. Lucas, Noemí y algunos más que estaban sentados en el lado contrario se levantaron y se dirigieron al otro lateral para poder ver algo.
-Frente a ellos pero unos cien metros más abajo se encontraba una base militar situada en el centro mismo del valle. Las instalaciones debían ser imponentes en una situación normal, estimó Lucas, pero ahora no parecía tan grande.
-Miles de personas inundaban el valle, asemejando las instalaciones a una diminuta roca aguantando como podía los envites de un rio violento, indómito.
+Frente a ellos pero unos cien metros más abajo se encontraba una base militar situada en el centro mismo del valle.
+Las instalaciones debían ser imponentes en una situación normal, estimó Lucas, pero ahora no parecía tan grande; miles de personas inundaban el valle, asemejando las instalaciones a una diminuta roca aguantando como podía los envites de un rio violento, indómito.
 Las personas se atacaban unas a otras, ya fuera con cualquier herramienta que trajeran de casa, rocas del lugar, o sus propias manos.
 También se escuchaban algunos disparos: unos menos audibles que provenían de la multitud y que parecían provenir de pistolas y armas de pequeño calibre; y otros mucho más fuertes que provenían de las montañas cercanas.
 El camión pasó cerca de uno de los francotiradores apostados en la misma montaña. Junto a él, dos efectivos de RIO cubrían sus espaldas con semiautomáticas. El  francotirador se permitió mirar a los camiones durante un instante.
