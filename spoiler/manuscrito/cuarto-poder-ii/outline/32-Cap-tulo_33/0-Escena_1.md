@@ -3,15 +3,29 @@ ID:             30
 type:           md
 summaryFull:    Lucas despierta en un convoy de 3 camiones llenos de efectivos de RIO y la Resistencia, acompañado por Jonás, Noemí y Elizabeth. Llegan a las proximidades de la base militar y comienzan a avanzar con los *mástiles* entre la multitud pero los *mástiles* son destruidos. Los asimilados comienzan a atacarles ignorando a Elizabeth y Lucas, cuando el suelo cede bajo los pies del joven y Noemí.
 POV:            0
-notes:          - ¿Qué hacen finalmente para acceder a la base militar?
-                   - ¿Camiones hasta la entrada? ¿O la resistencia se negó a atropellar a los *asimilados* como quería RIO y por eso paran antes (pero no en la montaña)?
-                   - ¿Cómo apartan a los asimilados?
-                   - ¿Jonás vuela con su disco y engancha la tirolina?
-                   - ¿Lanzan la tirolina de lejos pero entonces disparan al cable y lo rompen?
-                   	- ¿Y entonces para qué llevan los *Mástiles*?
-                   - ¿Crean alguna distracción para acercarse a la base?
-                   - ¿Túneles subterráneos?
-                   - 
+notes:          - ¿Quién ataca la base y por qué? ¿Qué hace la *Sirena*? ¿Qué hace RIO?
+                
+                a) La sirena intenta acceder pero los violentos de RIO les atacan.
+                    - ¿No tendrían muchas oportunidades la *Sirena* para comunicarse con Lucas?
+                    - ¿Los violentos realmente tienen ese raciocinio o se debe a alguna interacción entre las nanomáquinas de RIO y la *Sirena*?
+                    	- ¿Por qué esa interacción no afecta a Lucas?
+                    	
+                b) La sirena está dentro de la base y ha bloqueado el acceso y los violentos intentan acceder.
+                    - Otra vez, ¿están controlados o no?
+                    
+                
+                - **Definir motivación de RIO de "crear" los violentos y la interacción entre sus nanomáquinas y la *Sirena*, y su efecto sobre los *Burbuja*.** En base a esto definir estas escenas.
+                
+                - ¿Realmente hay tanta cantidad de gente o sólo se agolpan en la entrada?
+                - ¿Qué excusa para que no se tiren en paracaídas por ejemplo?
+                - ¿Qué hacen finalmente para acceder a la base militar?
+                - ¿Camiones hasta la entrada? ¿O la resistencia se negó a atropellar a los *asimilados* como quería RIO y por eso paran antes (pero no en la montaña)?
+                - ¿Cómo apartan a los asimilados?
+                - ¿Jonás vuela con su disco y engancha la tirolina?
+                - ¿Lanzan la tirolina de lejos pero entonces disparan al cable y lo rompen?
+                - ¿Y entonces para qué llevan los *Mástiles*?
+                - ¿Crean alguna distracción para acercarse a la base?
+                - ¿Túneles subterráneos?
                 
                 - **Aclarar los múltiples camiones y la "antena" en medio del camión desde el principio**
                 - **Aclarar que Lucas va en el grupo del centro**
