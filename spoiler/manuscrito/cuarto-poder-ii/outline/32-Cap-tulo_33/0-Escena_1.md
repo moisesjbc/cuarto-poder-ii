@@ -6,15 +6,26 @@ POV:            0
 notes:          - ¿Quién ataca la base y por qué? ¿Qué hace la *Sirena*? ¿Qué hace RIO?
                 
                 a) La sirena intenta acceder pero los violentos de RIO les atacan.
-                    - ¿No tendrían muchas oportunidades la *Sirena* para comunicarse con Lucas?
-                    - ¿Los violentos realmente tienen ese raciocinio o se debe a alguna interacción entre las nanomáquinas de RIO y la *Sirena*?
-                    	- ¿Por qué esa interacción no afecta a Lucas?
-                    	
+                - ¿No tendrían muchas oportunidades la *Sirena* para comunicarse con Lucas?
+                - ¿Los violentos realmente tienen ese raciocinio o se debe a alguna interacción entre las nanomáquinas de RIO y la *Sirena*?
+                - ¿Por qué esa interacción no afecta a Lucas?
+                
                 b) La sirena está dentro de la base y ha bloqueado el acceso y los violentos intentan acceder.
-                    - Otra vez, ¿están controlados o no?
-                    
+                - Otra vez, ¿están controlados o no?
+                
                 
                 - **Definir motivación de RIO de "crear" los violentos y la interacción entre sus nanomáquinas y la *Sirena*, y su efecto sobre los *Burbuja*.** En base a esto definir estas escenas.
+                
+                - ¿La combinación de las nanomáquinas de RIO y la *Sirena* es lo que hace que la gente enloquezca?
+                    - ¿Cómo funciona la combinación del mástil y las nanomáquinas dentro de una *Burbuja* y por qué empieza a ser tóxico / converitr a la gente en violentos?
+                    - ¿Qué diferencia que alguien pueda seguir órdenes dentro de la *Burbuja* con las notas de xilófono y que se vuelva violento?
+                    - 
+                    - Aclarar entonces que afecta a los infectados de las *Burbujas* pero no a los liberados -> ¿por qué sospecharía entonces la resistencia de los rescatados de las *Burbujas*?
+                   - Al desactivar y abrir RIO las *Burbujas* los violentos comenzaron a extenderse.
+                   - ¿RIO las extiende también artificialmente?
+                   - ¿En ese caso por qué el violento explota? -> ¿Sobredosis?
+                   - ¿Los de la *Burbuja* liberada llevan un collar o una pulsera con un mecanismo que RIO activa remotamente para inyectarles las nanomáquinas?
+                   - 
                 
                 - ¿Realmente hay tanta cantidad de gente o sólo se agolpan en la entrada?
                 - ¿Qué excusa para que no se tiren en paracaídas por ejemplo?
