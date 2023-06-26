@@ -15,17 +15,52 @@ Full Summary:        # Origen
                      
                      Cuando considera la raza asimilada, se forma un nuevo meteorito y pasa al siguiente planeta.
                      
-                     # Llegada a la Tierra
+                     # Llegada a la Tierra (2020)
                      
-                     En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observó el comportamiento extraño de ciertos animales (pe. diferentes especies colaborando o algo así -> "¿Quién sabe por qué la gacela se dejó capturar?"). La corporación rápidamente le ve aplicaciones en cuanto a control de la población. Múltiples equipos de investigación por todo el globo y controlados en secreto por la corporación, incluido el de {C:4:Jonás}, reciben colonias del virus para su estudio. Jonás  y su equipo son los que dan con la clave para inhabilitar la acción del virus y en 2021 se despliega el {W:21:Mástil}.
+                     En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observó el comportamiento extraño de ciertos animales (pe. diferentes especies colaborando o algo así -> "¿Quién sabe por qué la gacela se dejó capturar?"). La corporación rápidamente le ve aplicaciones en cuanto a control de la población. Múltiples equipos de investigación por todo el globo y controlados en secreto por la corporación, incluido el de {C:4:Jonás}, reciben colonias del virus para su estudio.
                      
-                     # Despliegue del Mástil
+                     # Despliegue del Mástil (2021)
+                     
+                     Jonás  y su equipo son los que dan con la clave para inhabilitar la acción del virus y en 2021 se despliega el {W:21:Mástil}.
                      
                      La mente colmena de la Sirena queda fragmentada entre todos los seres humanos y el reino animal, con la colonia dentro de cada individuo incapaz de comunicarse con las demás. Cada colonia puede, sin embargo, seguir alimentándose y reproduciéndose dentro de un sujeto, aunque sin capacidad para generar conciencia (**Jonás puede acceder a la "red neuronal" de la Sirena aunque sufre grandes jaquecas por el Mástil**).
                      
-                     # Infección de Lucas
+                     # Nacimiento de las *Burbujas* (???)
                      
-                     {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *{W:14:Burbujas}*. Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue expuesto a la Sirena. Cuando la *Burbuja* es estallada, todas las colonias de los infectados vuelven a intentar cumplir la última orden recibida por la Sirena original, pero la colonia tiene tan poco poder que no abandona el subconsciente. En un pequeño porcentaje de los seres vivos, sin embargo, la resistencia de estos es tan débil que la colonia puede dar el salto al plano consciente e influir ahí (visiones, etc).
+                     {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *{W:14:Burbujas}*
+                     
+                     # Infección de Lucas (2025)
+                     
+                     Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue expuesto a la Sirena. Cuando la *Burbuja* es estallada, todas las colonias de los infectados vuelven a intentar cumplir la última orden recibida por la Sirena original, pero la colonia tiene tan poco poder que no abandona el subconsciente. En un pequeño porcentaje de los seres vivos, sin embargo, la resistencia de estos es tan débil que la colonia puede dar el salto al plano consciente e influir ahí (visiones, etc).
+                     
+                     
+                     
+                     # CLASIFICAR / MOVER
+                     
+                     Las crías de *Sirena* ven a las nanomáquinas de RIO como criaturas semejantes y por eso ni las atacan ni intentan expulsarlas. Sin embargo, un sujeto que recibe **¿órdenes contrarictorias? ¿órdenes lo suficientemente intensas de las nanomáquinas?** se vuelve violento.
+                     
+                     - ¿Quién ataca la base y por qué? ¿Qué hace la *Sirena*? ¿Qué hace RIO?
+                     
+                     a) La sirena intenta acceder pero los violentos de RIO les atacan.
+                     - ¿No tendrían muchas oportunidades la *Sirena* para comunicarse con Lucas?
+                     - ¿Los violentos realmente tienen ese raciocinio o se debe a alguna interacción entre las nanomáquinas de RIO y la *Sirena*?
+                     - ¿Por qué esa interacción no afecta a Lucas?
+                     
+                     b) La sirena está dentro de la base y ha bloqueado el acceso y los violentos intentan acceder.
+                     - Otra vez, ¿están controlados o no?
+                     
+                     
+                     - **Definir motivación de RIO de "crear" los violentos y la interacción entre sus nanomáquinas y la *Sirena*, y su efecto sobre los *Burbuja*.** En base a esto definir estas escenas.
+                     
+                     - ¿La combinación de las nanomáquinas de RIO y la *Sirena* es lo que hace que la gente enloquezca?
+                     - ¿Cómo funciona la combinación del mástil y las nanomáquinas dentro de una *Burbuja* y por qué empieza a ser tóxico / converitr a la gente en violentos?
+                     - ¿Qué diferencia que alguien pueda seguir órdenes dentro de la *Burbuja* con las notas de xilófono y que se vuelva violento?
+                     -
+                     - Aclarar entonces que afecta a los infectados de las *Burbujas* pero no a los liberados -> ¿por qué sospecharía entonces la resistencia de los rescatados de las *Burbujas*?
+                     - Al desactivar y abrir RIO las *Burbujas* los violentos comenzaron a extenderse.
+                     - ¿RIO las extiende también artificialmente?
+                     - ¿En ese caso por qué el violento explota? -> ¿Sobredosis?
+                     - ¿Los de la *Burbuja* liberada llevan un collar o una pulsera con un mecanismo que RIO activa remotamente para inyectarles las nanomáquinas?
 Notes:               # Forma física
                      
                      Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos y voladores que forman una mente colmena.
