@@ -39,6 +39,17 @@ Full Summary:        # Origen
                      
                      Las crías de *Sirena* ven a las nanomáquinas de RIO como criaturas semejantes y por eso ni las atacan ni intentan expulsarlas. Sin embargo, un sujeto que recibe **¿órdenes contrarictorias? ¿órdenes lo suficientemente intensas de las nanomáquinas?** se vuelve violento.
                      
+                     Un sujeto con:
+                     a) sólo la *Sirena*: sirve de huésped a las crías de estas y empieza a ser persuadido cuando las crías son adultas.
+                     b) sólo las nanomáquinas: sin efecto.
+                     c) la *Sirena* y las nanomáquinas:
+                         - c1) nanomáquinas a una intensidad baja: no consigue tomar el control. **¿La *Sirena* se deshace de ellos al considerarlos congéneres muertos? 
+                         - c2) nanomáquinas a la suficiente intensidad: enmascaran la comunicación con la mente enjambre, pudiendo introducir las propias órdenes de RIO.
+                         - c3) nanomáquinas a demasiada intensidad: **???**
+                         
+                     - ¿Cómo se contagian las nanomáquinas?
+                     	- La *Sirena*:
+                     	- Las nanomáquinas: 
                      - ¿Quién ataca la base y por qué? ¿Qué hace la *Sirena*? ¿Qué hace RIO?
                      
                      a) La sirena intenta acceder pero los violentos de RIO les atacan.
@@ -50,7 +61,7 @@ Full Summary:        # Origen
                      - Otra vez, ¿están controlados o no?
                      
                      
-                     - **Definir motivación de RIO de "crear" los violentos y la interacción entre sus nanomáquinas y la *Sirena*, y su efecto sobre los *Burbuja*.** En base a esto definir estas escenas.
+                     - **Definir motivación de RIO de "crear" los violentos y la interacción entre sus nanomáquinas y la *Sirena*, y su efecto sobre los *Burbuja*.** En base a esto definir escenas involucradas.
                      
                      - ¿La combinación de las nanomáquinas de RIO y la *Sirena* es lo que hace que la gente enloquezca?
                      - ¿Cómo funciona la combinación del mástil y las nanomáquinas dentro de una *Burbuja* y por qué empieza a ser tóxico / converitr a la gente en violentos?
