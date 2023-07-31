@@ -4,7 +4,13 @@ type:           md
 summaryFull:    Lucas despierta en un convoy de 3 camiones llenos de efectivos de RIO y la Resistencia, acompañado por Jonás, Noemí y Elizabeth. Llegan a las proximidades de la base militar y comienzan a avanzar con los *mástiles* entre la multitud pero los *mástiles* son destruidos. Los asimilados comienzan a atacarles ignorando a Elizabeth y Lucas, cuando el suelo cede bajo los pies del joven y Noemí.
 POV:            0
 notes:          - ¿Realmente hay tanta cantidad de gente o sólo se agolpan en la entrada?
+                - ¿Llevan días ahí matándose y sigue habiendo marcha?
+                - ¿Cuál es el balance de fuerzas entre la *Sirena* y los *violentos* en la base y sus alrededores? ¿Quién está "ganando"?
+                - ¿RIO inyectó nanomáquinas que no responden a las {W:16:Notas de xilófono} para que la Resistencia no les descubriera pero no contaron con que se "reproducirían" infectando otras colonias de *Sirena*?
+                - ¿Cómo explican que Lucas no se vuelva loco?
+                - ¿Lucas y Ana no se vuelven violentos por el minimástil que les inyectaron en la *Burbuja*? ¿Pero entonces por qué les atacan los otros violentos?
                 - ¿Qué excusa para que no se tiren en paracaídas por ejemplo?
+                - No pueden llevar los Mástiles.
                 - ¿Qué hacen finalmente para acceder a la base militar?
                 - ¿Camiones hasta la entrada? ¿O la resistencia se negó a atropellar a los *asimilados* como quería RIO y por eso paran antes (pero no en la montaña)?
                 - ¿Cómo apartan a los asimilados?
@@ -35,7 +41,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14244
+charCount:      14235
 
 
 Abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -189,8 +195,8 @@ Sin embargo, un segundo disparo resonó en el valle. El mismo silbido, esta vez 
 Los *asimilados* cercanos se les echaron encima rápidamente. Los miembros de RIO y de la *Resistencia* apenas tuvieron tiempo de reaccionar cuando los *asimilados* comenzaron a destrozarlos a golpes. Elizabeth intentaba abatir a los *asimilados* pero estos la ignoraban, esquivándola para atacar al resto del grupo.
 "¿Pero qué...?", pensó Lucas.
 - ¡Lucas! - le gritó Noemí - ¡tenemos que...! ¡Cuidado!
-Noemí no tuvo tiempo de agarrar a Lucas, pero no fue necesario. El *asimilado* más cercano a Lucas esquivó a este y se dirigió a atacar directamente a Noemí. Lucas apuntó al *asimilado* y le disparó en la espalda.
-El atacante cayó al suelo pero en vez de chocar con este, el suelo cedió bajo su pie, tragándose también a la adolescente.
+Noemí no tuvo tiempo de agarrarlo, pero no fue necesario. El *asimilado* más cercano a Lucas esquivó a este y se dirigió a atacar directamente a Noemí. Lucas apuntó al atacante y le disparó en la espalda.
+Este último cayó al suelo pero en vez de chocar con este, el suelo cedió bajo su pie, tragándose también a la adolescente.
 - ¡Noe-...!
 El grito quedó ahogado cuando el suelo también cedió bajo los pies de Lucas, internándolo en la oscuridad más absoluta.
 **VOY POR AQUÍ (NOTAS)**

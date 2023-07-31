@@ -43,13 +43,13 @@ Full Summary:        # Origen
                      a) sólo la *Sirena*: sirve de huésped a las crías de estas y empieza a ser persuadido cuando las crías son adultas.
                      b) sólo las nanomáquinas: sin efecto.
                      c) la *Sirena* y las nanomáquinas:
-                         - c1) nanomáquinas a una intensidad baja: no consigue tomar el control. **¿La *Sirena* se deshace de ellos al considerarlos congéneres muertos? 
-                         - c2) nanomáquinas a la suficiente intensidad: enmascaran la comunicación con la mente enjambre, pudiendo introducir las propias órdenes de RIO.
-                         - c3) nanomáquinas a demasiada intensidad: **???**
-                         
+                     - c1) nanomáquinas a una intensidad baja: no consigue tomar el control. **¿La *Sirena* se deshace de ellos al considerarlos congéneres muertos?
+                     - c2) nanomáquinas a la suficiente intensidad: enmascaran la comunicación con la mente enjambre, pudiendo introducir las propias órdenes de RIO.
+                     - c3) nanomáquinas a demasiada intensidad: **???**
+                     
                      - ¿Cómo se contagian las nanomáquinas?
-                     	- La *Sirena*:
-                     	- Las nanomáquinas: 
+                     - La *Sirena*:
+                     - Las nanomáquinas:
                      - ¿Quién ataca la base y por qué? ¿Qué hace la *Sirena*? ¿Qué hace RIO?
                      
                      a) La sirena intenta acceder pero los violentos de RIO les atacan.
