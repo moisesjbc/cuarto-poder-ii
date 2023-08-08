@@ -41,9 +41,11 @@ Full Summary:        # Origen
                      
                      {C:0:Lucas}, engañado por la *Sirena* destruye el *Mástil* (**¿No tenía RIO algún plan de emergencia ni copia de seguridad?**). La *Sirena* reinicia rápidamente su plan de asimilación.
                      
-                     # Contrataque de RIO (Diciembre de 2025)
+                     # Liberación de los violentos (Diciembre de 2025)
                      
-                     La corporación RIO, viendo lo rápido que pierde el poder, libera una cepa de las nanomáquinas **¿que enloquece a la gente?** ¿O se trataba de una cepa experimental de las nanomáquinas que salió mal y que estaba contenida gracias al *Mástil*?
+                     RIO experimentaba con una cepa de nanomáquinas que emitía una señal modificada y más potente del *Mástil* para matar a la *Sirena* pero resultó que en su lugar las excitaba demasiado, causando un gran dolor e ira a los sujetos. Se propagaba igual que la *Sirena* pero el *Mástil* impedía que tomara el control (en lugar de generar consciencia genera inconsciencia). Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control.
+                     
+                     - **¿O un compuesto? ¿Cómo se transmite? ¿Cómo se contrarrestra?**
                      
                      # CLASIFICAR / MOVER
                      
@@ -51,16 +53,9 @@ Full Summary:        # Origen
                      - **La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.
                      
                      - ¿La cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?
+                     	- Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
                      
                      Sin embargo, un sujeto que recibe **¿órdenes contrarictorias? ¿órdenes lo suficientemente intensas de las nanomáquinas?** se vuelve violento.
-                     
-                     Un sujeto con:
-                     a) sólo la *Sirena*: sirve de huésped a las crías de estas y empieza a ser persuadido cuando las crías son adultas.
-                     b) sólo las nanomáquinas: sin efecto.
-                     c) la *Sirena* y las nanomáquinas:
-                     - c1) nanomáquinas a una intensidad baja: no consigue tomar el control. **¿La *Sirena* se deshace de ellos al considerarlos congéneres muertos?
-                     - c2) nanomáquinas a la suficiente intensidad: enmascaran la comunicación con la mente enjambre, pudiendo introducir las propias órdenes de RIO.
-                     - c3) nanomáquinas a demasiada intensidad: **???**
                      
                      - ¿Cómo se contagian las nanomáquinas?
                      - La *Sirena*:
@@ -76,7 +71,7 @@ Full Summary:        # Origen
                      - Otra vez, ¿están controlados o no?
                      
                      
-                     - **Definir motivación de RIO de "crear" los violentos y la interacción entre sus nanomáquinas y la *Sirena*, y su efecto sobre los *Burbuja*.** En base a esto definir escenas involucradas.
+                     - **Definir motivación de RIO de "crear" los violentos y la interacción entre sus nanomáquinas y la *Sirena*, y su efecto sobre los *Burbuja*.** En base a esto repasar escenas involucradas.
                      
                      - ¿La combinación de las nanomáquinas de RIO y la *Sirena* es lo que hace que la gente enloquezca?
                      - ¿Cómo funciona la combinación del mástil y las nanomáquinas dentro de una *Burbuja* y por qué empieza a ser tóxico / converitr a la gente en violentos?
