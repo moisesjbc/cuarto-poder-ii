@@ -39,44 +39,31 @@ Full Summary:        # Origen
                      
                      # Destrucción del Mástil (¿Diciembre? de 2025)
                      
-                     {C:0:Lucas}, engañado por la *Sirena* destruye el *Mástil* (**¿No tenía RIO algún plan de emergencia ni copia de seguridad?**). La *Sirena* reinicia rápidamente su plan de asimilación.
+                     {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil* (**¿No tenía RIO algún plan de emergencia ni copia de seguridad?**). La *Sirena* reinicia rápidamente su plan de asimilación.
                      
                      # Liberación de los violentos (Diciembre de 2025)
                      
-                     RIO experimentaba con una cepa de nanomáquinas que emitía una señal modificada y más potente del *Mástil* para matar a la *Sirena* pero resultó que en su lugar las excitaba demasiado, causando un gran dolor e ira a los sujetos. Se propagaba igual que la *Sirena* pero el *Mástil* impedía que tomara el control (en lugar de generar consciencia genera inconsciencia). Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control.
+                     RIO experimentaba con varias cepas de nanomáquinas para acabar con la *Sirena* en caso de ser necesario. Una de las cepas fallidas infectaba a las crías de Sirena e inducía a los sujetos a un estado de ira incontrolable. Se propagaba igual que la *Sirena* pero el *Mástil* impedía que tomara el control. Las crías de *Sirena* ven a las nanomáquinas de RIO como criaturas semejantes y por eso ni las atacan ni intentan expulsarlas.
+                     - **La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.
                      
-                     - **¿O un compuesto? ¿Cómo se transmite? ¿Cómo se contrarrestra?**
+                     
+                     Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control. Los sujetos son curados al usar la {W:16:Notas de xilófono} (cuando Lucas pide ayuda a RIO, estos usan unas {W:16:Notas de xilófono} falsas).
+                     
+                     - **¿Llega a infectar a Ana y/o a Lucas?**
+                     
+                     # Base militar (Diciembre de 2025)
+                     
+                     Tras el asalto a la base de RIO, la *Sirena* redobla sus esfuerzos por atacar la base de *RIO* pero se van produciendo contagios de la cepa violeta y empiezan a atacarse entre ellos.
+                     
+                     # Final
+                     
+                     - **¿La cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?**
+                     - Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
+                     
                      
                      # CLASIFICAR / MOVER
                      
-                     Las crías de *Sirena* ven a las nanomáquinas de RIO como criaturas semejantes y por eso ni las atacan ni intentan expulsarlas.
-                     - **La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.
-                     
-                     - ¿La cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?
-                     	- Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
-                     
-                     Sin embargo, un sujeto que recibe **¿órdenes contrarictorias? ¿órdenes lo suficientemente intensas de las nanomáquinas?** se vuelve violento.
-                     
-                     - ¿Cómo se contagian las nanomáquinas?
-                     - La *Sirena*:
-                     - Las nanomáquinas:
-                     - ¿Quién ataca la base y por qué? ¿Qué hace la *Sirena*? ¿Qué hace RIO?
-                     
-                     a) La sirena intenta acceder pero los violentos de RIO les atacan.
-                     - ¿No tendrían muchas oportunidades la *Sirena* para comunicarse con Lucas?
-                     - ¿Los violentos realmente tienen ese raciocinio o se debe a alguna interacción entre las nanomáquinas de RIO y la *Sirena*?
-                     - ¿Por qué esa interacción no afecta a Lucas?
-                     
-                     b) La sirena está dentro de la base y ha bloqueado el acceso y los violentos intentan acceder.
-                     - Otra vez, ¿están controlados o no?
-                     
-                     
-                     - **Definir motivación de RIO de "crear" los violentos y la interacción entre sus nanomáquinas y la *Sirena*, y su efecto sobre los *Burbuja*.** En base a esto repasar escenas involucradas.
-                     
-                     - ¿La combinación de las nanomáquinas de RIO y la *Sirena* es lo que hace que la gente enloquezca?
-                     - ¿Cómo funciona la combinación del mástil y las nanomáquinas dentro de una *Burbuja* y por qué empieza a ser tóxico / converitr a la gente en violentos?
                      - ¿Qué diferencia que alguien pueda seguir órdenes dentro de la *Burbuja* con las notas de xilófono y que se vuelva violento?
-                     -
                      - Aclarar entonces que afecta a los infectados de las *Burbujas* pero no a los liberados -> ¿por qué sospecharía entonces la resistencia de los rescatados de las *Burbujas*?
                      - Al desactivar y abrir RIO las *Burbujas* los violentos comenzaron a extenderse.
                      - ¿RIO las extiende también artificialmente?
