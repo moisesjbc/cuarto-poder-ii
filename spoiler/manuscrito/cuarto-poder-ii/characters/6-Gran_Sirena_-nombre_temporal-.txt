@@ -11,7 +11,7 @@ Phrase Summary:      Ser alienígena que vaga por el universo llevando el progre
 Paragraph Summary:   Ser alienígena que explora el universo, contactando y asimilando a todas las especies inteligentes con las que se cruza. En los últimos años ha llegado a la Tierra y comienza a estudiar y asimilar a la raza humana, pero {W:0:RIO} lo descubre y desarrolla una tecnología para contenerlo y usarlo en su favor. Prácticamente impotente, el ser intenta liberarse y retomar su propósito.
 Full Summary:        # Origen
                      
-                     La sirena surgió hace cientos de años en un planeta muy distante, y desde entonces vaga por el universo en busca de vida inteligente. Una vez localiza un planeta habitado por vida inteligente, aterriza en este y comienza a parasitar, estudiar, persuadir y asimilar a sus individuos durante durante años. A medida que asimila a más y más individuos, la Sirena los insta a colaborar para conseguir llevar a la raza a su máximo potencial y progreso.
+                     La sirena surgió hace cientos de años en un planeta muy distante, y desde entonces vaga por el universo en busca de vida inteligente. Una vez localiza un planeta habitado por vida inteligente, aterriza en este y comienza a parasitar, estudiar, persuadir y asimilar a sus individuos durante años. A medida que asimila a más y más individuos, la Sirena los insta a colaborar para conseguir llevar a la raza a su máximo potencial y progreso.
                      
                      Cuando considera la raza asimilada, se forma un nuevo meteorito y pasa al siguiente planeta.
                      
@@ -23,23 +23,29 @@ Full Summary:        # Origen
                      
                      Jonás  y su equipo son los que dan con la clave para inhabilitar la acción del virus y en 2021 se despliega el {W:21:Mástil}.
                      
-                     La mente colmena de la Sirena queda fragmentada entre todos los seres humanos y el reino animal, con la colonia dentro de cada individuo incapaz de comunicarse con las demás. Cada colonia puede, sin embargo, seguir alimentándose y reproduciéndose dentro de un sujeto, aunque sin capacidad para generar conciencia
-                     
-                     - **¿Qué es exactamente lo que evita que la *Sirena* anide otros seres? ¿O no lo evita, sino que se sigue extendiendo por el planeta pero sin poder comunicarse simplemente? ¿Igual con la cepa violenta?**
-                     **Jonás puede acceder a la "red neuronal" de la Sirena aunque sufre grandes jaquecas por el Mástil (RIO le convence de que es por la Sirena)**
+                     La mente colmena de la Sirena queda fragmentada entre todos los seres humanos y el reino animal, con la colonia dentro de cada individuo incapaz de comunicarse con las demás. Cada colonia puede, sin embargo, seguir alimentándose y reproduciéndose dentro de un sujeto, aunque sin capacidad para generar conciencia.
                      
                      # Nacimiento de las *Burbujas* (2022)
                      
                      {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *{W:14:Burbujas}*
                      
+                     # Infección de Jonás (2022)
+                     
+                     Jonás es infectado por la *Sirena* pero tiene una mayor resistencia a ella, pudiendo acceder a la "red neuronal" de la Sirena aunque sufre grandes jaquecas por el Mástil (RIO le convence de que es por la Sirena).
+                     
                      # Infección de Lucas (20 de Agosto de 2025 - Noviembre de 2025)
                      
                      Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue expuesto a la Sirena. Cuando la *Burbuja* es estallada, los liberados expulsan las nanomáquinas de RIO y permanece la *Sirena*, pero la colonia tiene tan poco poder que no abandona el subconsciente. En un pequeño porcentaje de los seres vivos, sin embargo, la resistencia de estos es tan débil que la colonia puede dar el salto al plano consciente e influir ahí (visiones, etc).
+                     
                      - **Apuntar fecha final y mencionarla en el capítulo donde Lucas es liberado**
                      
                      # Destrucción del Mástil (¿Diciembre? de 2025)
                      
-                     {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil* (**¿No tenía RIO algún plan de emergencia ni copia de seguridad?**). La *Sirena* reinicia rápidamente su plan de asimilación.
+                     {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil*. La *Sirena* reinicia rápidamente su plan de asimilación.
+                     
+                     - **¿Lucas sólo destruye el que afectaba a África (tendría que ajustar las comunicaciones que dicen que hubo ataques de violentos en otras partes del mundo)?**
+                     - **A Lucas le da alguien (quién) algo que resulta ser un virus que destruye la flota de Mástiles entera? Puede ser alguien de la secta siguiente.**
+                     ¿**"Secta": los que fueron asimilados por completo por la *Sirena* antes de liberarse el *Mástil* tratan de acabar con las bases de *RIO* que controlan los otros *Mástiles*?**
                      
                      # Liberación de los violentos (Diciembre de 2025)
                      
@@ -69,6 +75,7 @@ Full Summary:        # Origen
                      - ¿RIO las extiende también artificialmente?
                      - ¿En ese caso por qué el violento explota? -> ¿Sobredosis?
                      - ¿Los de la *Burbuja* liberada llevan un collar o una pulsera con un mecanismo que RIO activa remotamente para inyectarles las nanomáquinas?
+                     - **Mostrar los hechos importantes de esta ficha (y otras) en el libro**
 Notes:               # Forma física
                      
                      Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos y voladores que forman una mente colmena.
