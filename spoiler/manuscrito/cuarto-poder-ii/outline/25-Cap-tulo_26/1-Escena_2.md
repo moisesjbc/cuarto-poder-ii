@@ -6,6 +6,8 @@ POV:            0
 notes:          - Pensar si no es muy sospechoso que justo la explosión sea en ese momento, y pensar qué excusa se inventa RIO para ello.
                 - Aclarar más adelante por qué tienen que llevar al violento a una *Burbuja*.
                 - Burbuja controlada por equipo de RIO llevando mini-mástiles.
+                - ¿Por qué el violento explota? -> ¿Sobredosis?
+                - ¿Qué le inyecta realmente la *Sirena*? ¿Por qué le inyectaría más crías si ve que tiene a sus crías dentro?
 label:          4
 status:         1
 compile:        2

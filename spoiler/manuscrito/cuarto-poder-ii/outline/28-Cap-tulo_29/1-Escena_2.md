@@ -3,6 +3,7 @@ ID:             147
 type:           md
 summaryFull:    Lucas y Jonás buscan a Lara, Noemí y los demás junto a más efectivos de la resistencia, mientras Jonás le cuenta su pasado en RIO. Encuentran señales dejadas por las chicas que los llevan hasta árbol de cuya rama cuelga un brazo inerte.
 POV:            0
+notes:          - Refinar historia de Jonás (aquí y en el capítulo donde habla con la *Resistencia*) con notas de {C:6:Gran Sirena (nombre temporal)} y {C:4:Jonás}.
 label:          4
 status:         1
 compile:        2

@@ -9,6 +9,8 @@ notes:          - Pensar dónde situar la {W:15:Burbuja M (la de Mario)} (revisa
                 - Yo creo que no.
                 - ¿Lucas cuenta algo de la visión? -> ¿O se niega en ese momento por estar con más gente?
                 - Quitar el uniforme de RIO y de la Resistencia. Ambos se suponen que intentan infiltrarse.
+                
+                - Mencionar que diga Noviembre del 2025 (puede decir Noviembre y que alguien le pregunte preocupado por el año).
 label:          4
 status:         1
 compile:        2

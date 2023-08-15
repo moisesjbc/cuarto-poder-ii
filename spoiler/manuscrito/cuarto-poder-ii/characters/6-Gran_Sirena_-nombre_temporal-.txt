@@ -37,21 +37,18 @@ Full Summary:        # Origen
                      
                      Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue expuesto a la Sirena. Cuando la *Burbuja* es estallada, los liberados expulsan las nanomáquinas de RIO y permanece la *Sirena*, pero la colonia tiene tan poco poder que no abandona el subconsciente. En un pequeño porcentaje de los seres vivos, sin embargo, la resistencia de estos es tan débil que la colonia puede dar el salto al plano consciente e influir ahí (visiones, etc).
                      
-                     - **Apuntar fecha final y mencionarla en el capítulo donde Lucas es liberado**
-                     
                      # Destrucción del Mástil (¿Diciembre? de 2025)
                      
-                     {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil*. La *Sirena* reinicia rápidamente su plan de asimilación.
+                     {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil* cargando un virus que le ofrece el espía de los hombres de negro, miembro de una secta (*). La *Sirena* reinicia rápidamente su plan de asimilación.
                      
-                     - **¿Lucas sólo destruye el que afectaba a África (tendría que ajustar las comunicaciones que dicen que hubo ataques de violentos en otras partes del mundo)?**
-                     - **A Lucas le da alguien (quién) algo que resulta ser un virus que destruye la flota de Mástiles entera? Puede ser alguien de la secta siguiente.**
-                     ¿**"Secta": los que fueron asimilados por completo por la *Sirena* antes de liberarse el *Mástil* tratan de acabar con las bases de *RIO* que controlan los otros *Mástiles*?**
+                     - **Añadir virus en historia**.
+                     - (*) **Añadir a la historia**: los que fueron asimilados por completo por la *Sirena* antes de activarse el *Mástil* tratan de acabar con las bases de *RIO* que controlan los otros *Mástiles*?.
+                     	- **Añadir entrada sobre la Secta y más menciones durante la historia**.
                      
                      # Liberación de los violentos (Diciembre de 2025)
                      
                      RIO experimentaba con varias cepas de nanomáquinas para acabar con la *Sirena* en caso de ser necesario. Una de las cepas fallidas infectaba a las crías de Sirena e inducía a los sujetos a un estado de ira incontrolable. Se propagaba igual que la *Sirena* pero el *Mástil* impedía que tomara el control. Las crías de *Sirena* ven a las nanomáquinas de RIO como criaturas semejantes y por eso ni las atacan ni intentan expulsarlas.
                      - **La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.
-                     
                      
                      Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control. Los sujetos son curados al usar la {W:16:Notas de xilófono} (cuando Lucas pide ayuda a RIO, estos usan unas {W:16:Notas de xilófono} falsas).
                      
@@ -59,22 +56,17 @@ Full Summary:        # Origen
                      
                      # Base militar (Diciembre de 2025)
                      
-                     Tras el asalto a la base de RIO, la *Sirena* redobla sus esfuerzos por atacar la base de *RIO* pero se van produciendo contagios de la cepa violeta y empiezan a atacarse entre ellos.
+                     Tras el asalto a la base de la Resistencia donde se da la reunión entre esta y RIO, la *Sirena* descubre y centra sus esfuerzos por atacar la base de *RIO* pero se van produciendo contagios de la cepa violeta y empiezan a atacarse entre ellos.
                      
                      # Final
                      
-                     - **¿La cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?**
-                     - Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
+                     - **Añadir a la historia**: la cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?
+                     	- Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
+                     	- Mencionar que las del capítulo cuando Lucas pide ayuda a RIO son falsas.
                      
                      
                      # CLASIFICAR / MOVER
                      
-                     - ¿Qué diferencia que alguien pueda seguir órdenes dentro de la *Burbuja* con las notas de xilófono y que se vuelva violento?
-                     - Aclarar entonces que afecta a los infectados de las *Burbujas* pero no a los liberados -> ¿por qué sospecharía entonces la resistencia de los rescatados de las *Burbujas*?
-                     - Al desactivar y abrir RIO las *Burbujas* los violentos comenzaron a extenderse.
-                     - ¿RIO las extiende también artificialmente?
-                     - ¿En ese caso por qué el violento explota? -> ¿Sobredosis?
-                     - ¿Los de la *Burbuja* liberada llevan un collar o una pulsera con un mecanismo que RIO activa remotamente para inyectarles las nanomáquinas?
                      - **Mostrar los hechos importantes de esta ficha (y otras) en el libro**
 Notes:               # Forma física
                      

@@ -3,6 +3,7 @@ ID:             96
 type:           md
 summaryFull:    La Sirena se presenta ante Lucas y le cuenta su origen y motivación, negando su implicación en los ataques. Esta última les insta a asistir a la captura de uno de los violentos para mostrar su inocencia.
 POV:            0
+notes:          Refinar con notas de {C:6:Gran Sirena (nombre temporal)}.
 label:          4
 status:         1
 compile:        2
