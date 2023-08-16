@@ -23,7 +23,7 @@ Full Summary:        # Origen
                      
                      Jonás  y su equipo son los que dan con la clave para inhabilitar la acción del virus y en 2021 se despliega el {W:21:Mástil}.
                      
-                     La mente colmena de la Sirena queda fragmentada entre todos los seres humanos y el reino animal, con la colonia dentro de cada individuo incapaz de comunicarse con las demás. Cada colonia puede, sin embargo, seguir alimentándose y reproduciéndose dentro de un sujeto, aunque sin capacidad para generar conciencia.
+                     La mente colmena de la Sirena queda fragmentada entre todos los seres humanos y el reino animal, con la colonia dentro de cada individuo incapaz de comunicarse con las demás ni abandonar al huésped. Cada colonia puede, sin embargo, seguir alimentándose y reproduciéndose dentro de un sujeto, aunque sin capacidad para generar conciencia.
                      
                      # Nacimiento de las *Burbujas* (2022)
                      
@@ -39,19 +39,15 @@ Full Summary:        # Origen
                      
                      # Destrucción del Mástil (¿Diciembre? de 2025)
                      
-                     {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil* cargando un virus que le ofrece el espía de los hombres de negro, miembro de una secta (*). La *Sirena* reinicia rápidamente su plan de asimilación.
-                     
-                     - **Añadir virus en historia**.
-                     - (*) **Añadir a la historia**: los que fueron asimilados por completo por la *Sirena* antes de activarse el *Mástil* tratan de acabar con las bases de *RIO* que controlan los otros *Mástiles*?.
-                     	- **Añadir entrada sobre la Secta y más menciones durante la historia**.
+                     {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil*. La *Sirena* reinicia rápidamente su plan de asimilación.
                      
                      # Liberación de los violentos (Diciembre de 2025)
                      
                      RIO experimentaba con varias cepas de nanomáquinas para acabar con la *Sirena* en caso de ser necesario. Una de las cepas fallidas infectaba a las crías de Sirena e inducía a los sujetos a un estado de ira incontrolable. Se propagaba igual que la *Sirena* pero el *Mástil* impedía que tomara el control. Las crías de *Sirena* ven a las nanomáquinas de RIO como criaturas semejantes y por eso ni las atacan ni intentan expulsarlas.
-                     - **La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.
+                     - **Añadir aclaración a la historia**
                      
                      Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control. Los sujetos son curados al usar la {W:16:Notas de xilófono} (cuando Lucas pide ayuda a RIO, estos usan unas {W:16:Notas de xilófono} falsas).
-                     
+                     - **Añadir aclaración a la historia**
                      - **¿Llega a infectar a Ana y/o a Lucas?**
                      
                      # Base militar (Diciembre de 2025)
@@ -61,8 +57,8 @@ Full Summary:        # Origen
                      # Final
                      
                      - **Añadir a la historia**: la cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?
-                     	- Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
-                     	- Mencionar que las del capítulo cuando Lucas pide ayuda a RIO son falsas.
+                     - Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
+                     - Mencionar que las del capítulo cuando Lucas pide ayuda a RIO son falsas.
                      
                      
                      # CLASIFICAR / MOVER

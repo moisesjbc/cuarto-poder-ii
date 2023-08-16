@@ -11,6 +11,8 @@ notes:          La científica mantuvo en secreto su control de las nanomáquina
                 
                 
                 - **Corrección**: Lucas ya conoce más o menos el camino. Añadir que Ajani mira a Lucas para confirmar las indicaciones de la mujer, y cuando Lucas tiene un momento de duda (**¿puede tenerlo? ¿No tiene un plano perfecto?**) es cuando la agrede.
+                - ¿Mucha casualidad que se topen con la científica aliada? ¿O está preparado?
+                - La mujer quiere escapar pero Ajani y Lucas la convencen para que les ayude primero.
 label:          4
 status:         1
 compile:        2

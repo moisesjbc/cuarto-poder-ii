@@ -12,7 +12,7 @@ notes:          - ¿Decir en un capítulo anterior que hubo una gran matanza en 
                 
                 - ¿Cuántos efectivos de RIO hay y cómo están para que Lucas le de tiempo a llegar al equipo y activar la secuencia? Aclarar bien todo esto.
                 
-                
+                - Lucas se vacila a los guardias y lo hace muy fácil. ¿No hay guardias / están más lejos? ¿Lucas carga algún virus que le da alguien?
                 
 label:          4
 status:         2
