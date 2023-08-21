@@ -15,22 +15,22 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14890
+charCount:      14891
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
 - ¡Serás puta! - oyó decir a Noemí.
 - ¡Esa boca! - oyó replicar a Elizabeth.
-El joven comenzó a abrir los ojos poco a poco pero los abrió de par en par y se protegió la cara con la mano cuando vio que la agente de RIO se disponía a propinarle otro golpe.
+Comenzó a abrir los ojos poco a poco pero los abrió de par en par y se protegió la cara con la mano cuando vio que la agente de RIO se disponía a propinarle otro golpe.
 Esta última fingió una sonrisa durante una fracción de segundo antes de tornar su expresión seria.
 - Perfecto. A por el otro.
-Lucas, tendido en el duro suelo, vio a Elizabeth alzarse como un  titán sobre sus cabeza, con el techo blanco encima de ambos. Entonces otro titán de menor tamaño, Noemí, entró en el campo de visión del joven. La adolescente se agachó y lo ayudó a incorporarse lentamente.
+Lucas, tendido en el duro suelo, vio a Elizabeth alzarse como un  titán sobre su cabeza, con el techo blanco sobre ambos. Entonces otro titán de menor tamaño, Noemí, entró en el campo de visión del joven. La adolescente se agachó y lo ayudó a incorporarse lentamente.
 Estaban en una pequeña oficina de paredes blancas y suelo de madera vieja, con el único contacto con el exterior siendo una puerta cerrada a sus espaldas. Frente a ellos se encontraba el único mobiliario de la estancia: una gran mesa de roble con una silla de cuero al otro lado y una silla igualmente de cuero pero menos imponente en el lado de Lucas.
 A ambos lados de la mesa se encontraba una pareja de hombres vestidos de militar y complexión fuerte que lo miraban fijamente.
 El de la derecha tenía un extraño bulto alrededor de la pierna, a la altura del muslo.
 Elizabeth volvió a agacharse a pocos metros a un lado de la pareja, donde Jonás yacía también en el suelo. Ella se dispuso a propinarle otro sonoro tortazo cuando él, simplemente, soltó:
 - Ni se te ocurra.
-El guante negro de Lucas parpadeó y Elizabeth puso su pistola en la sien del antiguo vagabundo antes de que la nube negra que se había materializado detrás de la joven llegara hasta ella.
+El guante negro de Lucas parpadeó y la agente puso su pistola en la sien del antiguo vagabundo antes de que la nube negra que se había materializado detrás suya llegara hasta ella.
 - Ni se te ocurra - repitió entonces Elizabeth.
 Jonás continuó hablando, sin darle importancia a la pistola y sin mover la nube negra, en uno u otro sentido.
 - Vimos a esos *asimilados* ignorarte para atacar al resto del grupo. ¿Te importaría explicarnos por qué?
@@ -60,9 +60,9 @@ Elizabeth resopló.
 - Pero hemos accedido a la misión - replicó Lucas -. Si el objetivo es acabar con la *Sirena* no hace falta que nos tengan "atados".
 Entonces Elizabeth miró a Lucas fijamente a los ojos.
 - ¿De verdad quieres detener a la *Sirena*?
-Lucas hizo una mueca y tardó en contestar, ganándose un gesto de impaciencia de Elizabeth como diciendo "¡Venga! ¡habla!"
+Lucas hizo una mueca y tardó en contestar, ganándose un gesto de impaciencia de Elizabeth que parecía decir "¡Venga! ¡habla!"
 - ¿A qué te refieres?
-- Eres el esclavo perfecto para la *Sirena*. ¿Quién sabe si no estás planeando sabotear el plan para hacerle el gusto a tu líder?
+- Eres el esclavo perfecto para la *Sirena*. ¿Quién sabe si no estás planeando sabotear el plan para hacerle el gusto a tu amada líder?
 - En primer lugar... - comenzó a decir Lucas - ...hace tiempo que la *Sirena* no se comunica conmigo.
 - Ya bueno, suponiendo que no estés mintiendo, quién sabe cuánto tardarás en traicionar a los tuyos cuando lo vuelva a hacer.
 - ...y en segundo lugar - la ignoró Lucas -, si tanto desconfías de mi, más razón para inyectarme ese *Mástil* personal, ¿no?
@@ -72,8 +72,9 @@ Lucas frunció el ceño y entonces miró a Jonás. Este se llevó la mano a la n
 - Un detector de trampas del que no te fías - dijo entonces Lucas.
 Elizabeth se limitó a asentir antes de hablar.
 - ¿Y bien? ¿Podemos ponernos en marcha o...?  
-- Cuando todo esto acabe - dijo Jonás, mirando fijamente a Elizabeth -, acabaré contigo.
-- Estoy impaciente - replicó ella al tiempo que caminaba hacia la puerta -. Lucas irá delante conmigo detrás, Marcos y Javier irán atrás y el resto en el centro.
+- Cuando todo esto acabe - dijo Jonás, mirando fijamente a Elizabeth -, te mataré.
+- Estoy impaciente - replicó ella al tiempo que caminaba hacia la puerta -. Lucas irá delante, conmigo detrás. Marcos y Javier irán atrás y el resto en el centro.
+**VOY POR AQUÍ**
 No esperó respuesta. Tampoco hizo falta, pues los presentes no tardaron en seguir sus órdenes.
 Cuando la fila estuvo formada, Elizabeth abrió la puerta y salió rápidamente al pasillo.
 El corredor era bastante amplio, de unos tres metros de anchura. Paredes y techos eran de cemento blanco, y el suelo de madera vieja, como el de la oficina, crujía bajo sus pies. El pasillo avanzaba unos cincuenta metros, con puertas a ambos lados, hasta desembocar en otro pasillo que discurría perpendicular a este.

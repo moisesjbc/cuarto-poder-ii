@@ -5,13 +5,16 @@ summaryFull:    Lucas despierta en un convoy de 3 camiones llenos de efectivos d
 POV:            0
 notes:          - ¿Realmente hay tanta cantidad de gente o sólo se agolpan en la entrada?
                 - ¿Llevan días ahí matándose y sigue habiendo marcha?
-                - ¿Cuál es el balance de fuerzas entre la *Sirena* y los *violentos* en la base y sus alrededores? ¿Quién está "ganando"?
-                - ¿RIO inyectó nanomáquinas que no responden a las {W:16:Notas de xilófono} para que la Resistencia no les descubriera pero no contaron con que se "reproducirían" infectando otras colonias de *Sirena*?
+                - Cambiar a que simplemente la *Sirena* ha descubierto el lugar durante la reunión entre *RIO* y la *Resistencia* y los 3 se apresuran a llegar al sitio.
+                
                 - ¿Cómo explican que Lucas no se vuelva loco?
                 - ¿Lucas y Ana no se vuelven violentos por el minimástil que les inyectaron en la *Burbuja*? ¿Pero entonces por qué les atacan los otros violentos?
+                
                 - ¿Qué excusa para que no se tiren en paracaídas por ejemplo?
                 - No pueden llevar los Mástiles.
-                - ¿Qué hacen finalmente para acceder a la base militar?
+                
+                - **¿Cambiar base militar a otra cosa? ¿Otro AT de RIO?**
+                
                 - ¿Camiones hasta la entrada? ¿O la resistencia se negó a atropellar a los *asimilados* como quería RIO y por eso paran antes (pero no en la montaña)?
                 - ¿Cómo apartan a los asimilados?
                 - ¿Jonás vuela con su disco y engancha la tirolina?
@@ -37,11 +40,12 @@ notes:          - ¿Realmente hay tanta cantidad de gente o sólo se agolpan en 
                 - ¿Cuántos más comparten la sensibilidad de Lucas? ¿A cuántos tiene RIO
                 - ¿*Mástil* o *mástil*?
                 - Ajustar lo que se dice en el capítulo de planificación con respecto a lo que se hace en este finalmente.
+                - ¿Estaban tan juntos como para caer los 3 en el agujero? ¿O algunos corren para juntarse?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14235
+charCount:      14210
 
 
 Abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.
@@ -199,4 +203,3 @@ Noemí no tuvo tiempo de agarrarlo, pero no fue necesario. El *asimilado* más c
 Este último cayó al suelo pero en vez de chocar con este, el suelo cedió bajo su pie, tragándose también a la adolescente.
 - ¡Noe-...!
 El grito quedó ahogado cuando el suelo también cedió bajo los pies de Lucas, internándolo en la oscuridad más absoluta.
-**VOY POR AQUÍ (NOTAS)**
