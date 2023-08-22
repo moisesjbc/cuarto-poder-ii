@@ -15,7 +15,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14891
+charCount:      15045
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -71,14 +71,14 @@ Lucas frunció el ceño y entonces miró a Jonás. Este se llevó la mano a la n
 - Podría haber sido peor que esto - reconoció.
 - Un detector de trampas del que no te fías - dijo entonces Lucas.
 Elizabeth se limitó a asentir antes de hablar.
-- ¿Y bien? ¿Podemos ponernos en marcha o...?  
+- ¿Y bien? ¿Podemos ponernos en marcha o...? 
 - Cuando todo esto acabe - dijo Jonás, mirando fijamente a Elizabeth -, te mataré.
 - Estoy impaciente - replicó ella al tiempo que caminaba hacia la puerta -. Lucas irá delante, conmigo detrás. Marcos y Javier irán atrás y el resto en el centro.
-**VOY POR AQUÍ**
-No esperó respuesta. Tampoco hizo falta, pues los presentes no tardaron en seguir sus órdenes.
-Cuando la fila estuvo formada, Elizabeth abrió la puerta y salió rápidamente al pasillo.
-El corredor era bastante amplio, de unos tres metros de anchura. Paredes y techos eran de cemento blanco, y el suelo de madera vieja, como el de la oficina, crujía bajo sus pies. El pasillo avanzaba unos cincuenta metros, con puertas a ambos lados, hasta desembocar en otro pasillo que discurría perpendicular a este.
-Corrieron pendientes de cualquier movimiento hasta que algunas puertas comenzaron abrirse de par en par. *Asimilados* salían de uno y otro lado, corriendo hacia el núcleo del grupo e ignorando a Elizabeth y los dos efectivos de RIO. Estos últimos aprovechaban su invisibilidad para acabar con los enemigos, ya fuera a base de cuchillo o de pistola, según la situación.
+No esperó respuesta, pero tampoco hizo falta, pues los presentes no tardaron en seguir sus órdenes.
+Cuando la fila estuvo formada, Elizabeth abrió la puerta y salieron rápidamente al pasillo.
+El corredor era bastante amplio, de unos tres metros de anchura. Paredes y techos eran de cemento blanco, y el suelo de madera vieja, como el de la oficina, crujía bajo sus pies. El pasillo, regado de cadáveres, avanzaba unos cincuenta metros hacia izquierda y derecha, con puertas separadas a ambos lados separadas unos pocos metros entre sí, hasta doblar en sendos pasillos que discurrían perpendiculares a este.
+Frente a ellos, una gran puerta de madera de dos hojas resistía los envites de los *asimilados* del patio.
+Corrieron hacia la derecha, pendientes de cualquier movimiento hasta doblar la esquina. Mientras recorrían el nuevo pasillo, algunas puertas comenzaron abrirse de par en par. *Asimilados* salían de uno y otro lado, corriendo hacia el núcleo del grupo e ignorando a Elizabeth y los dos efectivos de RIO. Estos últimos aprovechaban su "invisibilidad" para acabar con los enemigos, ya fuera a base de cuchillo o de pistola, según la situación.
 Lucas y Noemí abatieron a sendos *asimilados* que lograron atravesar la primera línea de defensa y los cadáveres cayeron a sus pies.
 El joven miró a Jonás sin decir nada.
 - Voy a tardar un poco en poder usar las nanomáquinas - dijo este último entre jadeos.
@@ -102,15 +102,15 @@ El joven obedeció y caminó perpendicular al pasillo. Primero a izquierda, y lu
 Elizabeth, sin embargo, continuó mirando su dispositivo.
 - Ya lo han oído - dijo finalmente -. Lucas y yo primero.
 La columna de gente se dio la vuelta y retrocedió sobre sus pasos, esquivando como podían los cadáveres de los asimilados tirados por el suelo.
-- ¿No estará llena de *asimilados* como la escalera suroeste? - preguntó entonces Elizabeth.
-- Sólo hay una manera de saberlo - contestó Jonás.
-Llegaron hasta el final del pasillo, donde este también acababa en un pasillo que lo cruzaba perpendicularmente.
+Llegaron hasta la otra esquina del primer pasillo.
+**VOY POR AQUÍ. CAMBIAR A QUE EL SEGUNDO PASILLO SÓLO AVANZA EN UN SENTIDO**.
 - Izquierda - dijo Elizabeth, que detuvo a Lucas con la mano cuando este se disponía a obedecer -. Yo primero.
-La joven asomó poco a poco la cabeza a izquierda. Entonces miró a derecha.
+La joven asomó poco a poco la cabeza hacia la izquierda. Entonces miró hacia la derecha.
 - Mierda - susurró, al tiempo que con la mano obligaba al grupo a volver sobre sus pasos - está lleno. A ambos lados.
-Llegaron hasta la mitad del pasillo, casi a la altura de la oficina donde había despertado Lucas (o lo habían despertado).
+Llegaron hasta la mitad del pasillo, casi a la altura de la oficina donde había despertado Lucas.
 - ¿Ideas?
-Elizabeth los miraba fijamente. Silencio durante unos instantes hasta que Jonás resopló.
+Elizabeth los miraba fijamente.
+Silencio durante unos instantes hasta que Jonás resopló.
 - Podemos atravesar el suelo - dijo finalmente, alzando su mano enguantada - Pero tienen que darme un rato.
 - No hay tiempo - dijo Elizabeth -. Tiene que ser ya.
 - Mala suerte - dijo Jonás -. Esto requiere tiempo - se señaló entonces la sangre reseca bajo su nariz.
@@ -124,9 +124,10 @@ Elizabeth soltó un bufido.
 Lucas se acercó e intentó adivinar qué líquido contenía el recipiente.
 El antiguo vagabundo se dio cuenta de esto y giró la botella para que Lucas viera claramente la etiqueta.
 - No es más que un batido de proteínas - anunció este.
-Elizabeth rio incrédula, antes de decidir que ya tenía bastante y montar guardia en la puerta.
+Elizabeth rio incrédula, antes de decidir que ya tenía bastante y ponerse a montar guardia en la puerta.
 Jonás se recostó en la silla y cerró los ojos.
-Si no tuviera claramente presente que estaban en un edificio lleno de *asimilados* furiosos que quieren acabar con ellos, Lucas hubiera adivinado que el hermano de Lara estaba descansando tranquilamente en su casa, completamente despreocupado de todo y sin temer lo más mínimo por su vida.
+Si no tuviera claramente presente que estaban en un edificio lleno de *asimilados* furiosos que querían acabar con ellos, Lucas hubiera adivinado que el hermano de Lara estaba descansando tranquilamente en su casa, completamente despreocupado de todo y sin temer lo más mínimo por su vida.
+**VOY POR AQUÍ**
 Noemí señaló la silla frente a Jonás y miró a los presentes con expresión expectante. Los que la vieron, Lucas y uno de los efectivos de RIO, negaron con la cabeza y la adolescente se sentó.
 Antes de que Elizabeth lo preguntara de una manera mucho menos diplomática, Lucas aprovechó. De todas formas también sentía curiosidad.
 - ¿No tardará mucho en hacer efecto? Es decir... tienes que digerirlo y eso lleva tiempo.
