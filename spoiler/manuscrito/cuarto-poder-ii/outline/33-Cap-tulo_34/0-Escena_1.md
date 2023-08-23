@@ -15,7 +15,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      15045
+charCount:      14745
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -102,53 +102,50 @@ El joven obedeció y caminó perpendicular al pasillo. Primero a izquierda, y lu
 Elizabeth, sin embargo, continuó mirando su dispositivo.
 - Ya lo han oído - dijo finalmente -. Lucas y yo primero.
 La columna de gente se dio la vuelta y retrocedió sobre sus pasos, esquivando como podían los cadáveres de los asimilados tirados por el suelo.
-Llegaron hasta la otra esquina del primer pasillo.
-**VOY POR AQUÍ. CAMBIAR A QUE EL SEGUNDO PASILLO SÓLO AVANZA EN UN SENTIDO**.
-- Izquierda - dijo Elizabeth, que detuvo a Lucas con la mano cuando este se disponía a obedecer -. Yo primero.
-La joven asomó poco a poco la cabeza hacia la izquierda. Entonces miró hacia la derecha.
-- Mierda - susurró, al tiempo que con la mano obligaba al grupo a volver sobre sus pasos - está lleno. A ambos lados.
-Llegaron hasta la mitad del pasillo, casi a la altura de la oficina donde había despertado Lucas.
+Llegaron hasta la otra esquina del primer pasillo. El grupo se detuvo y Elizabeth asomó la cabeza tras la esquina.
+- Mierda - dijo, al tiempo que se internaba en el pasillo seguido por los demás - está bloqueado.
+Habían causado una explosión en medio del pasillo y el techo había cedido unos diez metros más adelante, bloqueando el paso.
+Comandados por Elizabeth llegaron hasta los escombros y entraron en la clase de la derecha, pero no hubo suerte: la habitación no disponía de una segunda entrada que les permitiera sortear el bloqueo del pasillo.
+Al menos no había *asimilados* presentes.
 - ¿Ideas?
 Elizabeth los miraba fijamente.
 Silencio durante unos instantes hasta que Jonás resopló.
 - Podemos atravesar el suelo - dijo finalmente, alzando su mano enguantada - Pero tienen que darme un rato.
 - No hay tiempo - dijo Elizabeth -. Tiene que ser ya.
 - Mala suerte - dijo Jonás -. Esto requiere tiempo - se señaló entonces la sangre reseca bajo su nariz.
-Y sin atender a razones, se metió en la misma oficina donde habían despertado hacía un rato.
-El grupo lo siguió dentro y lo vieron sentarse en la gran silla de cuero que presidía la oficina, tras el escritorio de madera.
+Y sin atender a razones, se sentó en una de las sillas de la sala.
 - Tienes que estar de coña - dijo Elizabeth.
 Pero Jonás no daba señales de estar de broma. Sin mediar palabra, se llevó la mano al bolsillo, lo que puso en alerta a los efectivos de RIO, que tensaron sus manos alrededor de sus armas.
-Entonces Jonás se sacó una pequeña botella de plástico, la abrió y se echó un buen trago.
+Entonces se sacó una pequeña botella de plástico, la abrió y se echó un buen trago.
 Elizabeth soltó un bufido.
 - No me lo puedo creer.
 Lucas se acercó e intentó adivinar qué líquido contenía el recipiente.
-El antiguo vagabundo se dio cuenta de esto y giró la botella para que Lucas viera claramente la etiqueta.
+El antiguo vagabundo se dio cuenta de esto y giró la botella para que viera claramente la etiqueta.
 - No es más que un batido de proteínas - anunció este.
 Elizabeth rio incrédula, antes de decidir que ya tenía bastante y ponerse a montar guardia en la puerta.
 Jonás se recostó en la silla y cerró los ojos.
 Si no tuviera claramente presente que estaban en un edificio lleno de *asimilados* furiosos que querían acabar con ellos, Lucas hubiera adivinado que el hermano de Lara estaba descansando tranquilamente en su casa, completamente despreocupado de todo y sin temer lo más mínimo por su vida.
-**VOY POR AQUÍ**
-Noemí señaló la silla frente a Jonás y miró a los presentes con expresión expectante. Los que la vieron, Lucas y uno de los efectivos de RIO, negaron con la cabeza y la adolescente se sentó.
+Noemí señaló la silla más cercana a la de Jonás y miró a los presentes con expresión expectante. Los que la vieron, Lucas y uno de los efectivos de RIO, negaron con la cabeza. La adolescente asintió y se se sentó.
 Antes de que Elizabeth lo preguntara de una manera mucho menos diplomática, Lucas aprovechó. De todas formas también sentía curiosidad.
 - ¿No tardará mucho en hacer efecto? Es decir... tienes que digerirlo y eso lleva tiempo.
 - En un par de minutos estará - se limitó a decir Jonás, sin abrir los ojos.
 - Pero eso... ah, ¿las nanomáquinas?
 - El maldito virus - le corrigió -. Algo bueno tenía que tener.
 - Ya veo.
-Entonces estimó que era mejor no seguir molestándolo y se sentó en la mesa mirando hacia la puerta, al lado de Noemí.
+Entonces estimó que era mejor no seguir molestándolo y se sentó en otra silla, al lado de Noemí.
 - ¡Cuidado! - le dijo esta última, inclinándose hacia él.
 - ¿Eh? ¿Qué ocurre?
 Noemí se quedó mirándolo.
 - ¿De verdad que no te duele nada?
-Entonces Lucas recordó a la niña y la puñalada que le propinó. Se tocó la zona y estuvo a punto de emitir un quejido pero fue más de anticipación que porque sintiera algún dolor realmente.
+Entonces Lucas recordó a la niña y la puñalada que esta le propinó. Se tocó la zona y estuvo a punto de emitir un quejido pero fue más de anticipación que porque sintiera algún dolor realmente.
 - Pues... no - entonces miró hacia la puerta, donde Elizabeth seguía montando guardia. Alzó la voz -: ¿Por qué no me duele la puñalada?
 - ¡Shhh! - la mencionada hizo aspavientos con la mano, antes de hablar en voz baja, apenas audible desde la posición del joven -. ¿Quieres que nos maten?
 Al ver que Lucas no decía nada, soltó un suspiro y siguió hablando en voz baja.
 - Sigues infectado hasta las cejas. Imagino que a la *Sirena* le interesa mantenerte vivo por si te encuentra uso más adelante - espetó.
 - La *Sirena* no me controla.
 - Si tú lo dices...
-Lucas decidió ignorarla. Se preguntó si realmente las intenciones de la *Sirena* de dejarlo vivo eran buenas.
-No obstante estimó que no era recomendado lanzar la pregunta en una habitación con tres efectivos de RIO y Jonás. No esperaba un debate marcado por la tolerancia, precisamente.
+Lucas decidió ignorarla. No obstante se preguntó si realmente las intenciones de la *Sirena* de dejarlo vivo eran buenas.
+Supuso que no recibiría respuestas objetivas al lanzar la pregunta en una habitación con tres efectivos de RIO y Jonás. No esperaba un debate marcado por la tolerancia, precisamente.
 Entonces volvió a mirar a Noemí.
 - ¿Y tú?
 - ¿Uhm?
@@ -165,16 +162,14 @@ Noemí asintió y siguió engullendo su barrita.
 Lucas permaneció en silencio unos segundos. Noemí sonrió.
 - Cómetela, hombre. Estaré bien.
 El joven sonrió y se comió su barrita. No era especialmente fan de las nueces, pero el hambre mandaba.
-Entonces Lucas se limitó a mirar alrededor para hacer tiempo, aunque de vez en cuando fijaba temporalmente la mirada en Noemí.
+Entonces se limitó a mirar alrededor para hacer tiempo, aunque de vez en cuando fijaba temporalmente la mirada en Noemí.
 "Una parte de mí sigue viéndola como si fuera mi hija", pensó, recordando su vida en la *Burbuja* como Mario, padre de Lara y Noemí. "¿Siempre la veré así? ¿Qué pasará con nosotros cuando todo esto acabe?"
 "Morirás pronto. Si no hoy, mañana o pasado", le dijo entonces esa voz agorera que siempre lo acompañaba.
 Se sacudió la cabeza mentalmente e intentó pensar en otra cosa, pero siempre volvía a los mismos pensamientos. También volvió a dudar sobre si estaban haciendo lo correcto ayudando a RIO. Noemí tenia claro que la prioridad era acabar con la *Sirena* para proteger a Lara, su hermana ficticia. ¿Pero podía estar seguro de que la *Sirena* era peor para la que fuera su hija mayor que RIO?
 Entonces recordó a Ana.
 "¿Dónde estará? ¿Estará bien?"
-Los pensamientos empezaban a agolparse en su cabeza y su foco saltaba de uno a otro sin orden, generando con cada salto más dudas y ninguna certeza.
+Los pensamientos empezaban a agolparse en su cabeza y su foco saltaba de uno a otro sin orden, generando con cada salto más y más dudas.
 "Por esto intento no quedarme a solas con mis pensamientos", se dijo Lucas, sonriendo para si.
-- Estoy listo - dijo entonces Jonás tras él, sobresaltándolo.
-- Ya era hora - respondió Ana, alejándose de la puerta y acercándose a la mesa.
-Lucas se bajó de la mesa y Noemí se levantó de la silla. Los dos efectivos de RIO se giraron, y todos miraron hacia Jonás.
-Elizabeth fue la que habló:
-- En marcha.
+- Estoy listo - dijo entonces Jonás, sobresaltándolo.
+Elizabeth se alejó de la puerta y se acercó al grupo.
+- Ya era hora. En marcha.

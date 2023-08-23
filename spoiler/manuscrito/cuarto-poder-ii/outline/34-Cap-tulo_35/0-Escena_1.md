@@ -12,13 +12,14 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      13655
+charCount:      13695
 
 
 Con un rápido gesto de su mano enguantada, Jonás ordenó a la nube de nanomáquinas hacer un agujero en el suelo del ancho justo para que cupiera una persona con cierta holgura.
 El agujero formaba un túnel con una forma circular tan perfecta que Lucas se preguntó si tal perfección era fruto de la experiencia o era una "característica gratuita" de las nanomáquinas.
 "¿Sólo tendrá que pensar en un círculo o dirige el trazo de alguna manera?"
 Optó por guardarse la curiosidad para sí.
+**VOY POR AQUÍ (¿BAÑOS EN EL SÓTANO?)**
 Miraron a través del círculo y vieron unos baños. Parecían vacíos.
 La nube negra volvió a subir y formó un tapón que cubría todo el círculo de manera igualmente perfecta.
 - Lucas - lo llamó Elizabeth -, vamos.
