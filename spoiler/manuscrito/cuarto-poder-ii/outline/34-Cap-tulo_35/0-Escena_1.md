@@ -10,12 +10,12 @@ notes:          - **Pensar muy bien por qué Ajani no ha podido atacar antes sin
                 - Ajustar resúmenes de estas partes con lo que estoy contando realmente.
                 - **¿Baños en el sótano?**
                 - ¿De dónde sacan tanta munición? ¿Llevan cartucheras y/o mochilas? Mencionarlas antes.
-                	- "Se sacó un cargador del cinturón y cargó la pistola"
+                - "Se sacó un cargador del cinturón y cargó la pistola"
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      13783
+charCount:      13780
 
 
 Con un rápido gesto de su mano enguantada, Jonás ordenó a la nube de nanomáquinas hacer un agujero en el suelo del ancho justo para que cupiera una persona con cierta holgura.
@@ -121,13 +121,12 @@ Lucas se encogió instintivamente al escuchar el grito y miró a la puerta del a
 Este último terminó de atravesar el agujero con gran rapidez y se apartó a un lado. Al otro lado del orificio vieron a los dos efectivos de RIO disparando hacia la puerta del baño. Cuando el más cercano al túnel se percató de que Jonás ya lo había atravesado, le dio un toque en el brazo a su compañero antes de empezar a sortearlo él mismo.
 El efectivo que quedaba en el baño se descolgó algo del uniforme y lo tiró hacia la puerta del baño, al tiempo que gritaba.
 - ¡Granada!
-**VOY POR AQUÍ**
 Una vez lanzó el artefacto explosivo, corrió hacia el túnel y lo atravesó rápidamente.
-La explosión resonó en la estancia. Lucas o pudo evitar hacer el gesto de cubrirse, algo que fue imitado por Noemí.
-El resto del grupo, sin embargo, ya se encontraba en movimiento y rápidamente fueron imitados por la pareja.
-Avanzaron hasta la pared contraria del aula, donde Jonás practicó otro agujero en la pared con el humo negro.
+La explosión resonó en la estancia. A pesar de encontrarse a cubierto, Lucas no pudo evitar hacer el gesto de cubrirse, algo que fue imitado por Noemí.
+El resto del grupo, sin embargo, ya se encontraba en movimiento y la pareja corrió para alcanzarlos.
+Avanzaron hasta la pared contraria del aula, donde Jonás practicó otro agujero con el humo negro.
 - ¡Vamos! - apremió Elizabeth a Lucas.
-El túnel era mayor que el anterior pero seguía sin ser tan grande como para que Lucas pudiera pasar sin agacharse ligeramente. Una vez atravesado, Lucas se encontró en otra aula pero esta estaba desierta.
+El túnel era mayor que el anterior pero seguía sin ser tan grande como para que pudiera pasar sin agacharse ligeramente. Una vez atravesado, se encontró en otra aula pero esta estaba desierta.
 "Menos mal", dijo para sus adentros.
 Repitió su ritual de recorrer la estancia, tocando paredes y techos. El recorrido lo hizo en el sentido contrario a las agujas del reloj, para asegurarse de pasar primero por la puerta de salida, pero esta estaba abierta de par en par y la cerradura estaba reventada.
 "¡Mierda!", maldijo.
@@ -136,13 +135,13 @@ En ese momento la sombra de un *asimilado* se proyectó sobre el suelo delante d
 - ¿Lucas? - llamó entonces Noemí, mientras se asomaba por el túnel de la pared.
 El *asimilado* profirió un grito femenino y una mujer de unos sesenta años entró corriendo en la estancia, directa hacia Noemí.
 - ¡Mierda! - exclamó esta última.
-Lucas corrió hacia la anciana y la empujó hacia un lado, que cayó aparatosamente sobre el suelo. Sin embargo, a los pocos segundos volvía a estar de pie y se dispuso a correr otra vez hacia la adolescente. El joven se preparó para una nueva embestida pero entonces Noemí disparó y la anciana se desplomó.
+Lucas corrió hacia la anciana y la empujó hacia un lado, haciendo que cayera aparatosamente sobre el suelo. Sin embargo, a los pocos segundos volvía a estar de pie y se dispuso a correr otra vez hacia la adolescente. El joven se preparó para una nueva embestida pero entonces Noemí disparó y la anciana se desplomó.
 - ¡Vamos! ¡Vamos! - le apremió Jonás.
 Lucas comenzó a correr hacia la pared opuesta a aquella por la que habían entrado en el aula, pero esta vez el humo negro practicó el agujero en el suelo, en el centro de la estancia.
 El joven corrió entre las dos filas centrales de pupitres mientras las personas frente a él formaban una línea recta y preparaba sus armas como si de un pelotón de fusilamiento se tratara. Tras de sí escuchó gruñidos y gritos de personas agolpándose en la entrada y entrando en el aula.
 Hizo el amago de girarse, el arma preparada, pero Elizabeth le gritó.
-- ¡Qué cojones haces! ¡Al agujero!
-Lucas obedeció y desistió de girarse. Corriendo mientras las balas volaban a sus lados.
+- ¡¿Qué cojones haces?! ¡Al agujero!
+Lucas obedeció y desistió de girarse. Corrió mientras las balas volaban a sus lados.
 "Te necesitan", se repetía para sus adentros mientras pensaba en que tres de los tiradores eran de RIO y lo tenían muy fácil para "errar" uno o varios de los tiros.
 Llegando al agujero miró a Noemí y asintió. Entonces se detuvo un segundo a mirar a través.
 - ¡La plataforma está lista! - le gritó Jonás, el más cercano al agujero - ¡Corre!

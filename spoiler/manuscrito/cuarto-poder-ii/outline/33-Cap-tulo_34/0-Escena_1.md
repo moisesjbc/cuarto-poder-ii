@@ -15,7 +15,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14745
+charCount:      14658
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.
@@ -27,7 +27,6 @@ Esta última fingió una sonrisa durante una fracción de segundo antes de torna
 Lucas, tendido en el duro suelo, vio a Elizabeth alzarse como un  titán sobre su cabeza, con el techo blanco sobre ambos. Entonces otro titán de menor tamaño, Noemí, entró en el campo de visión del joven. La adolescente se agachó y lo ayudó a incorporarse lentamente.
 Estaban en una pequeña oficina de paredes blancas y suelo de madera vieja, con el único contacto con el exterior siendo una puerta cerrada a sus espaldas. Frente a ellos se encontraba el único mobiliario de la estancia: una gran mesa de roble con una silla de cuero al otro lado y una silla igualmente de cuero pero menos imponente en el lado de Lucas.
 A ambos lados de la mesa se encontraba una pareja de hombres vestidos de militar y complexión fuerte que lo miraban fijamente.
-El de la derecha tenía un extraño bulto alrededor de la pierna, a la altura del muslo.
 Elizabeth volvió a agacharse a pocos metros a un lado de la pareja, donde Jonás yacía también en el suelo. Ella se dispuso a propinarle otro sonoro tortazo cuando él, simplemente, soltó:
 - Ni se te ocurra.
 El guante negro de Lucas parpadeó y la agente puso su pistola en la sien del antiguo vagabundo antes de que la nube negra que se había materializado detrás suya llegara hasta ella.

@@ -5,17 +5,19 @@ summaryFull:    Lucas decide si iniciar el lanzamiento o no. Finalmente destruye
 POV:            0
 notes:          - ¿Por qué Jonás los baja de dos en dos?
                 - Aclarar nombres y apariencia de los efectivos de RIO. Aquí llamo Marcos al muerto y Luís al vivo. ¿Usé nombres cuando aparecieron?
+                - ¿Hacia qué lado del pasillo se están moviendo? Aclarar.
+                - Repensar la trampa de Ajani. ¿No es muy forzada si tiene la ventaja y no le importa tanto la seguridad de los que no sean Lucas (incluida Noemí)?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      15365
+charCount:      15390
 
 
 - Sígueme - dijo Ajani.
-Sin esperar respuesta, el africano empezó a moverse entre la multitud, seguido de cerca por un muy confundido Lucas.
+Sin esperar respuesta, el africano empezó a moverse entre la multitud, seguido de cerca por un Lucas muy confundido.
 - Tenemos que evitar que destruyan el *Mástil*.
-- ¿Cómo? El mundo se ha vuelto loco.
+- ¿Qué? ¡Pero si el mundo se ha vuelto loco!
 - Así es, ¿y cómo sabes que no es culpa de RIO?
 - No lo sé - reconoció Lucas, luchando por mantener el paso mientras apartaba a los *zombies* a un lado y otro - ¿cómo sabes que no es cosa de la *Sirena?
 - RIO no es de fiar.
@@ -27,6 +29,7 @@ Sin esperar respuesta, el africano empezó a moverse entre la multitud, seguido 
 - Has dicho que RIO nos necesita - dijo Ajani -. Si la *Sirena* es un virus como defienden, también le interesa mantenernos vivos.
 - Eso es cierto, pero...
 - ¡Shhh!
+**VOY POR AQUÍ**
 Ajani se apartó a un lado mientras miraba al techo. Lucas siguió su mirada y comprobó que habían llegado al túnel.
 El africano bajó la voz.
 - ¿Están bajando?
