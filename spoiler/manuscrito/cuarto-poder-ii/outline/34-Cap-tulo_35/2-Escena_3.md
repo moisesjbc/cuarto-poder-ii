@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      15390
+charCount:      15331
 
 
 - Sígueme - dijo Ajani.
@@ -29,8 +29,7 @@ Sin esperar respuesta, el africano empezó a moverse entre la multitud, seguido 
 - Has dicho que RIO nos necesita - dijo Ajani -. Si la *Sirena* es un virus como defienden, también le interesa mantenernos vivos.
 - Eso es cierto, pero...
 - ¡Shhh!
-**VOY POR AQUÍ**
-Ajani se apartó a un lado mientras miraba al techo. Lucas siguió su mirada y comprobó que habían llegado al túnel.
+Ajani se apartó a un lado mientras miraba al techo. Lucas siguió su mirada y comprobó que habían llegado a la altura del túnel.
 El africano bajó la voz.
 - ¿Están bajando?
 Lucas miró hacia arriba y no vio cara alguna. En su lugar vio una forma borrosa tras un círculo traslúcido negro.
@@ -38,15 +37,14 @@ Lucas miró hacia arriba y no vio cara alguna. En su lugar vio una forma borrosa
 - Yo esperaré cerca de la trampa - anunció Ajani, al tiempo que le ofrecía la pistola que había perdido Lucas -. Asegúrate de que el *Mástil* pasa por ahí.
 - ¿Qué? (gracias) ¿Qué trampa?
 Ajani comenzó a caminar hacia el extremo largo del pasillo, indicándole con la mano que lo siguiera.
-- Si destruimos el *Mástil* va a morir Jonás, ¡y Lara! ¡Y más gente como ellos!
-- Es posible - dijo Ajani, en voz baja, indicándole con la mano que también controlara su volumen de voz -. Pero si no lo hacemos muchos más morirán.
-- Sólo según RIO. ¿Cuántos han muerto por sus mentiras?
+- Si destruimos el *Mástil* va a morir Jonás - comenzó a decir Lucas - ¡Y Lara! ¡Y más gente como ellos!
+- Sólo según RIO - respondió Ajani, en voz baja, indicándola con la mano que también controlara su volumen de voz -. ¿Cuántos han muerto por sus mentiras?
 Lucas calló durante unos segundos.
 - Tienes razón... ¡pero también está Noemí! ¡No puedo arriesgar su vida!
 - ¿Crees que Elizabeth y los suyos dejarán que salgáis de aquí una vez acabe todo esto?
 Lucas quiso pensar que sí, pero ni él mismo se lo creía.
 - Si tenemos suerte nos matarán aquí - reconoció -. Si no, de vuelta a alguna *burbuja*.
-El joven recordó las matanzas que presenciaron su falsa familia y él cuando era Mario Pérez. La idea de volver a pasar por eso, aunque no fuera plenamente consciente, le revolvía el estómago.
+El joven recordó las matanzas que presenciaron su falsa familia y él cuando era Mario Pérez. La idea de volver a pasar por eso, aunque no fuera consciente, le revolvía el estómago.
 - ¿Qué tendría que hacer? - dijo finalmente.
 - ¿Lo harás? ¿Destruirás el *Mástil*?
 - Lo pensaré.
@@ -62,10 +60,10 @@ La agente de RIO colgaba de una cuerda que salía del túnel y se encontraba sus
 - En ese caso también serían malas noticias para ella - dijo, señalando con la pistola hacia arriba.
 Noemí también se estaba descolgando por la cuerda en ese momento, justo asomando por el túnel.
 "Hija de puta", pensó el joven, mientras asentía seriamente.
-La agente de RIO continuó el descenso, seguida por Noemí. La primera, según tocó el suelo, se dirigió hacia la compuerta que había visto Lucas antes. Noemí, sin embargo, lo primero que hizo fue buscar con la mirada a Lucas.
+La agente de RIO continuó el descenso, seguida por la adolescente. La primera, según tocó el suelo, se dirigió hacia la compuerta que había visto Lucas antes. Noemí, sin embargo, lo primero que hizo fue buscar con la mirada a Lucas.
 Este último, aún cerca de Ajani, se obligó a no mirar al africano y alzó la mano para que la adolescente lo viera, al tiempo que se acercaba a ella.
 - ¿Estás bien? - dijeron ambos al unísono.
-Ambos asintieron y sonrieron, también al unísono. Esto transportó a Lucas a la *Burbuja*, donde ambos vivieron plácida pero brevemente como padre e hija.
+Ambos asintieron y sonrieron, también a la vez. Esto transportó a Lucas a la *Burbuja*, donde ambos vivieron plácida pero brevemente como padre e hija.
 El recuerdo pronto se empañó por la matanza posterior, y la posibilidad de revivirla más temprano que tarde.
 "¿Qué pasa si destruimos el *Mástil* y toda esta gente se vuelve homicida?", temió Lucas mientras miraba alrededor. De nuevo, evitando mirar hacia donde debía estar Ajani.
 - ¿Ocurre algo? - dijo Noemí, mirándolo fijamente.
@@ -86,20 +84,20 @@ Lucas empezaba a desvariar, recordando una época más sencilla en la que las de
 - Es posible que las defensas estén desactivadas igual que nuestros amigos - dijo esta última señalando primero a la puerta y luego a los *asimilados* -, pero no quiero arriesgarme. Noemí y yo nos quedaremos atrás y te dictaré el código, ¿entendido?
 - ¿Qué? ¿Y qué pasa conmigo?
 - ¿Recuerdas la *Burbuja* que tu gente y tú pensaban que iba a ser tan fácil de capturar? La puerta hacia el centro de control tenía el mismo mecanismo.
-Entonces Lucas lo recordó: en su primera y única misión (fallida) intentando *estallar una burbuja*, al intentar abrir la trampilla que llevaba al centro de control, algún gas había neutralizado a sus compañeros pero no a él.
+Entonces Lucas recordó su primera, única y fallida misión intentando *estallar una burbuja*: al intentar abrir la trampilla que llevaba al centro de control, algún gas había neutralizado a sus compañeros pero no a él.
 No terminaba de fiarse de Elizabeth, pero no se veía en posición de discutir, así que obedeció.
 Se situó frente al panel numérico situado al lado de la gran puerta acorazada y enseguida Elizabeth comenzó a dictarle un código numérico muy largo.
 Cuando terminó de introducir la secuencia no ocurrió nada.
 Lucas permaneció en silencio y se giró para mirar a Elizabeth.
 - Dale al verde, hombre.
 - Ah, claro.
-Tras pulsar el botón, se escuchó un ruido como a gas escapando de un *spray* que Lucas sintió envolverlo, pero no olía a nada.
-- Esperad - le dijo, con la mano en alto, a Elizabeth y Noemí.
+Tras pulsar el botón, se escuchó un ruido como a gas escapando de un *spray* que Lucas sintió envolverlo, pero que no olía a nada.
+- Esperad - les dijo, con la mano en alto, a Elizabeth y Noemí.
 El sonido a gas escapando terminó, pero aquél que había rociado a Lucas era completamente invisible e inodoro, así que el joven no sabía en qué momento se habría disipado.
 - ¿Ha terminado de expulsar el gas? - preguntó Elizabeth, a sus espaldas.
 - Sí, hace nada.
 - Bien, en unos diez segundos debería ser seguro continuar.
-Mientras esperaban, empezaron a escuchar gritos provenir del túnel abierto en mitad del pasillo. Del orificio empezó a caer tierra, y al poco tiempo apareció uno de los agentes de RIO, seguido por Jonás. Este último miraba hacia arriba y mantenía el brazo estirado, con la palma enguantada mirando hacia el techo.
+Mientras esperaban, empezaron a escuchar gritos provenir del túnel abierto en mitad del pasillo. Del orificio empezó a caer tierra, y al poco tiempo bajaba uno de los agentes de RIO, seguido por Jonás. Este último miraba hacia arriba y mantenía el brazo estirado, con la palma enguantada mirando hacia el techo.
 Volvía a sangrar con intensidad por la nariz.
 - ¡Ya no está! - gritó Jonás - ¡Mierda!
 - ¡Balancéate! - le gritó el agente de RIO - ¡Hacia el otro lado!.
@@ -110,31 +108,32 @@ La pesada puerta comenzó a abrirse tras Lucas, lo que lo hizo retroceder unos p
 No parecía haber supervivientes.
 Lucas se puso de lado. Alternando la mirada entre el laboratorio y lo que sucedía en el pasillo, sin saber qué hacer. Preparó su arma.
 Del agujero del techo del pasillo empezaron a caer personas vivas. Según salían del túnel, su mirada asesina se transformaba casi al instante en una mirada perdida, confundida.
-Cayeron como un peso muerto, sin ni siquiera poner las manos delante instintivamente para evitar golpear con zonas vitales el suelo.
-Empezaron a impactar con los *asimilados* que se encontraban en el pasillo, tirándolos también al suelo. Tras los primeros *asimilados* que cayeron del túnel llegaron otros, que cayeron sobre los primeros.
+Caían como un peso muerto, sin ni siquiera poner las manos delante instintivamente para evitar golpear con zonas vitales el suelo.
+Empezaron a impactar con los *asimilados* que se encontraban en el pasillo, derribándolos. Tras los primeros *asimilados* que cayeron del túnel llegaron otros, que cayeron sobre los primeros.
 Muy pocos caían ilesos. Otros *asimilados* salían del túnel ensangrentados. Otros, directamente muertos.
 En total unas diez personas cayeron del túnel. Los que estaban vivos se pusieron en pie y se quedaron paralizados y con la mirada perdida, como el resto.
 Jonás y el agente de RIO se levantaron con esfuerzo. Buscaron con la mirada al resto del grupo y cuando lo localizaron se dirigieron hacia allí.
 El antiguo vagabundo se miraba las manos y movía los ojos de un lado a otro, visiblemente confundido.
 - ¿Qué ocurre? - le preguntó Elizabeth.
 - Nada... - dijo, sin mirarla -. No ocurre nada.
-- Bah - espetó ella, no convencida. Se giró hacia el efectivo de RIO -. ¿Y Marcos?
+- Bah - soltó ella, nada convencida. Se giró hacia el efectivo de RIO -. ¿Y Marcos?
 - Murió cubriéndonos - dijo su interlocutor sin inmutarse.
 - Entiendo.
-Entonces Elizabeth se giró hacia Lucas.
+Entonces se giró hacia Lucas.
 - Bueno, adelante.
 El joven se giró hacia la puerta. Tras unos segundos de duda, puso un pie dentro del laboratorio y este se iluminó por arte de magia.
 Las sombras humanas tiradas por el suelo se revelaron como cadáveres, entre científicos con batas blancas y vestimentas de toda índole: casual, trajes de fiesta, ropa de trabajo, ... También distinguió Lucas a algunos vestidos de militar, que supuso, serían también de RIO.
-Científicos y militares parecían haber muerto a golpes, mientras que los *asimilados* habían muerto a disparos.
-Aunque los cadáveres regaban todo el laboratorio, la mayoría se agolpaban en el centro, alrededor de una gruesa columna de hormigón circular, que a metro y medio de altura se transformaba daba paso a una cristalera dentro de la cuál descansaba una esfera metálica de un metro de diámetro, de un color gris  uniforme.
-Una franja de metal cruzaba la vitrina por el lado más cercano a la puerta y disponía de un pequeño teclado bajo una pantalla rectangular.
+Científicos y militares parecían haber muerto a golpes, mientras que el resto había muerto a disparos.
+Aunque los cadáveres regaban todo el laboratorio, la mayoría se agolpaban en el centro, alrededor de una gruesa columna de hormigón circular, que a metro y medio de altura daba paso a una cristalera dentro de la cuál descansaba una esfera metálica de un metro de diámetro, de un color gris  uniforme.
+Una franja de metal cruzaba la vitrina en vertical por el lado más cercano a la puerta. Disponía de un pequeño teclado bajo una pantalla rectangular.
 Varios anillos concéntricos de mesas rodeaban la columna central donde reposaba el *Mástil*, llenas de ordenadores y sillas. Cuatro pasillos cruzaban los anillos desde cada extremo de la sala y llevaban directamente a la columna central.
-Lucas caminó por el pasillo que iba desde la puerta, seguido de cerca por Elizabeth, Noemí, Jonás y, en último lugar, el efectivo de RIO.
-Todos miraban a su alrededor en busca de amenazas pero no parecía haber más vivos que ellos.
+Lucas caminó por el pasillo que iba desde la puerta, seguido de cerca por Elizabeth, Noemí, Jonás y, en último lugar Luis, el efectivo de RIO.
+Todos miraban a su alrededor en busca de amenazas pero no parecía haber más seres vivos aparte de ellos.
 Cuando iban acercándose a la columna con el *Mástil*, Lucas distinguió dos cosas: la pequeña pantalla sobre la franja metálica rezaba "*Mástil* activado", y el teclado y la franja estaban manchados con salpicaduras de sangre.
 - Lucas - lo llamó Elizabeth -. Por aquí.
-El joven siguió las indicaciones de Elizabeth y bordeó la columna, asegurando que el suelo era firme a cada paso. Por la parte trasera, un carro motorizado con una plataforma regulable en altura descansaba contra una pila de cadáveres pegada a la columna.
-Elizabeth quitó el cadáver de un científico que descansaba sobre la plataforma y lo tiró a un lado sin ningún tipo de miramiento. Entonces apretó un botón en el panel del carro y este emitió un pequeño ritmo antes de volver a quedar en silencio. Entonces la agente agarró la **manivela** y giró uno de los lados. El carro retrocedió ligeramente en respuesta.
+El joven siguió las indicaciones y bordeó la columna, asegurando que el suelo era firme a cada paso. Por la parte trasera, un carro motorizado con una plataforma regulable en altura descansaba contra una pila de cadáveres pegada a la columna.
+**VOY POR AQUÍ**
+Elizabeth quitó el cadáver de un científico que yacía sobre la plataforma y lo tiró a un lado sin ningún tipo de miramiento. Entonces apretó un botón en el panel del carro y este emitió un pequeño tono musical antes de volver a quedar en silencio. Entonces la agente agarró la manillar y giró uno de los lados. El carro retrocedió ligeramente en respuesta.
 - Perfecto
 Ordenó a Lucas apartarse y bordeó la columna con el carro, situándolo delante de la franja con la pantalla y el teclado.
 Elizabeth se llevó una mano al bolsillo del pantalón y se sacó un teléfono móvil. Estuvo navegando por sus pantallas con gestos rápidos de mano hasta que llegó a la información deseada.
