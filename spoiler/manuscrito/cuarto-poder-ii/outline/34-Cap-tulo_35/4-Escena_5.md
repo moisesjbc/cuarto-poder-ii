@@ -15,17 +15,20 @@ notes:          - Añadir que Elizabeth cierra la puerta del laboratorio para qu
 label:          4
 status:         2
 compile:        2
-charCount:      5882
+charCount:      6098
 
 
-Elizabeth alternaba su vista entre Lucas, en la puerta, y Ajani, frente a ella. Cuando miraba a este último, movía a Noemí y se movía a si misma.
+Elizabeth alternaba su vista entre Lucas, en la puerta junto al carro, y Ajani, frente a ella. Cuando miraba a este último, movía a Noemí y se movía a si misma.
+El africano movía su pistola siguiendo sus movimientos.
 "No está pensando en salvar en Noemí, simplemente está buscando el tiro", pensó Lucas, tembloroso.
-Lucas miró tras de sí. Jonás se iba acercando por el pasillo mientras apuntaba al primero.
+Miró tras de sí. Jonás se iba acercando por el pasillo, a duras penas apartando a los *asimilados* hacia los lados.
 - Voy a disparar - decía Ajani.
-- No creo...
+- No creo... - dudaba Elizabeth.
 - ¡Me da igual! - replicó Ajani - ¡Sabes que tiene que morir!
-- Kasim está aquí dentro, ¿no? - dijo Elizabeth, que entonces comenzó a moverse de espaldas hacia una de las paredes del laboratorio, seguida de cerca por Ajani.
-"Ana no me matará ni a Noemí si puede evitarlo... creo. Jonás y Ajani sin embargo..."
+**VOY POR AQUÍ**
+- Estás hablando con Kasim, ¿verdad? - dijo Elizabeth -. Está aquí dentro, ¿no?
+La agente comenzó a moverse de espaldas hacia una de las paredes del laboratorio, seguida de cerca por Ajani. La primera miraba rápidamente hacia todos lados.
+"Elizabeth no me matará ni a Noemí si puede evitarlo... creo. Jonás y Ajani sin embargo..."
 Sin dar lugar a las dudas, Lucas se agachó y se apartó a un lado, pulsando rápidamente el botón para cerrar la puerta. Mientras la puerta se cerraba lentamente, efectuó algunos disparos a ciegas a través del hueco, esperando no acertar a Jonás.
 - ¡Hijo de puta! - espetó este mientras la puerta terminaba de cerrarse, para alegría de Lucas.
 - Reduciendo la superficie de ataque - dijo Ana, sin dejar de encañonar a Noemí -. Veo que la resistencia te ha entrenado bien.

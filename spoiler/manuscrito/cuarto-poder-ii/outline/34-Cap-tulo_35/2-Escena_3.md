@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      15331
+charCount:      15346
 
 
 - Sígueme - dijo Ajani.
@@ -131,18 +131,17 @@ Lucas caminó por el pasillo que iba desde la puerta, seguido de cerca por Eliza
 Todos miraban a su alrededor en busca de amenazas pero no parecía haber más seres vivos aparte de ellos.
 Cuando iban acercándose a la columna con el *Mástil*, Lucas distinguió dos cosas: la pequeña pantalla sobre la franja metálica rezaba "*Mástil* activado", y el teclado y la franja estaban manchados con salpicaduras de sangre.
 - Lucas - lo llamó Elizabeth -. Por aquí.
-El joven siguió las indicaciones y bordeó la columna, asegurando que el suelo era firme a cada paso. Por la parte trasera, un carro motorizado con una plataforma regulable en altura descansaba contra una pila de cadáveres pegada a la columna.
-**VOY POR AQUÍ**
+El joven siguió las indicaciones y bordeó la columna, asegurándose de que que el suelo era firme a cada paso. En la parte trasera, un carro motorizado con una plataforma regulable en altura descansaba contra una pila de cadáveres amontonados junto a la columna.
 Elizabeth quitó el cadáver de un científico que yacía sobre la plataforma y lo tiró a un lado sin ningún tipo de miramiento. Entonces apretó un botón en el panel del carro y este emitió un pequeño tono musical antes de volver a quedar en silencio. Entonces la agente agarró la manillar y giró uno de los lados. El carro retrocedió ligeramente en respuesta.
 - Perfecto
 Ordenó a Lucas apartarse y bordeó la columna con el carro, situándolo delante de la franja con la pantalla y el teclado.
-Elizabeth se llevó una mano al bolsillo del pantalón y se sacó un teléfono móvil. Estuvo navegando por sus pantallas con gestos rápidos de mano hasta que llegó a la información deseada.
+Elizabeth se llevó una mano al bolsillo del pantalón y se sacó un teléfono móvil. Estuvo navegando por sus pantallas con gestos de mano rápidos hasta que llegó a la información deseada.
 - Perfecto. Lucas, introduce este código: 82 73 79.
 El joven obedeció. Cuando el código estuvo introducido (y el botón verde pulsado), las paredes de la vitrina de cristal subieron en un silencio casi absoluto hasta ocultarse en el techo, dejando el *Mástil* libre.
-- Vale, ahora quiero que se pongan todos detrás del *Mástil* - y a mi señal lo empujan. ¿Entendido?
+- Vale, ahora quiero que se pongan todos detrás del *Mástil* y que a mi señal lo empujen. ¿Entendido?
 Los presentes asintieron.
 - ¿Jonás?
-El mencionado estaba mirándose las manos.
+El aludido estaba mirándose las manos.
 - ¿Jonás? - repitió Elizabeth.
 Estaba vez el hermano de Lara reaccionó.
 - Oh sí. Voy.
@@ -153,7 +152,7 @@ El grupo se puso en marcha y bordeó la columna. Una vez estaban en posición, p
 El grupo comenzó a empujar el *Mástil*, pero inicialmente no consiguieron moverlo ni un milímetro.
 - ¡Bien, sigan!
 Esta vez el *Mástil* comenzó a rodar, con tal velocidad que Lucas ya se preparaba para correr al otro lado, imitado por Noemí.
-El *Mástil*, sin embargo, se quedó completamente pegado a la plataforma del carrito nada más tocarlo.
+La esfera metálica, sin embargo, se quedó completamente pegada a la plataforma del carrito nada más tocarlo.
 - ¿Imanes? - preguntó en voz alta.
 - Así es - confirmó Elizabeth, mientras comenzaba a bajar la plataforma del carrito y a girarla para encarar la puerta del laboratorio.
 - ¿Qué te pasó al tocar el *Mástil*? - repitió Noemí.
@@ -168,4 +167,4 @@ Jonás por su parte no tuvo quejas por el tono.
 - Vaya. Me... me alegro.
 - Bueno - anunció Elizabeth -, ¡en marcha! Lucas, delante. Luís y Jonás, ayúdenle a apartar a los *asimilados*.
 Los tres obedecieron y se pusieron al frente de la fila, justo delante del carro empujado por Elizabeth.
-"Unos treinta metros", pensó Lucas, "para tomar una decisión que afectará a toda la humanidad".
+"Algo más de treinta metros", pensó Lucas, "para tomar una decisión que afectará a toda la humanidad".
