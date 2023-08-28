@@ -3,14 +3,15 @@ ID:             101
 type:           md
 POV:            0
 notes:          - "No debía de separarlo más de 30 metros", **confirmar**.
+                - Describir mejor cómo se desplaza Lucas desde su posición (¿dónde?) hasta la puerta.
                 
 label:          4
 status:         1
 compile:        2
-charCount:      8721
+charCount:      8767
 
 
-Elizabeth abrió los ojos como platos cuando la bala le atravesó la cara, arrancando trozos de carne y haciéndole golpear la cabeza contra la pared tras ella. Automáticamente liberó la presa y tanto ella como Noemí cayeron al suelo.
+Elizabeth abrió los ojos como platos cuando la bala le atravesó la cabeza, arrancando trozos de carne y haciéndole golpear la cabeza contra la pared tras ella. Automáticamente liberó la presa y tanto ella como Noemí cayeron al suelo.
 Lucas corrió hacia ellas. Ambas yacían inertes, con la agente de RIO sobre la adolescente.
 Había sangre sobre el pelo de Noemí.
 "No... no, no, no..."
@@ -41,15 +42,15 @@ Efectuó unos disparos y volvió a cubrirse a tiempo de esquivar los disparos de
 - Sólo trata de proteger a su familia - dijo ella agarrando su mano. Tosió antes de continuar -. La *Sirena* matará a Lara.
 - Creo... creo que no será así.
 - Lucas, necesitaría ayuda aquí.
-- Ve con él. Estoy bien - mintió ella -. Pero por favor, no lo mates. No dejes a Lara sin un hermano.
-"Y cómo se supone que voy a hacer eso"
+- Ve con él. Estoy bien - mintió ella -. Pero por favor, no lo mates. No dejes a Lara sin su hermano.
+"¿Y cómo se supone que voy a hacer eso?"
 Lucas soltó a regañadientes la mano de la que había sido su hija y se volvió a situar junto a Kasim.
 - No veo muy viable lo de no matarlo - le susurró este último -. No está dando mucha tregua. ¿Alguna idea?
 Lucas negó con la cabeza pero entonces sonrió súbitamente. Efectuó algunos disparos a ciegas antes de hablar.
 - Voy a destruir el *Mástil*.
 - No... - empezó a quejarse Noemí tras ellos, pero tuvo un ataque de tos.
 - Espero que sepas lo que haces - dijo Kasim, que efectuó unos disparos antes de continuar - Toma.
-"No", pensó Lucas, aceptando un pequeño explosivo con detonador. "No lo sé.
+"No", pensó Lucas, aceptando un pequeño explosivo con detonador. "No lo sé".
 - Asegúrate de alejarte a bastante distancia.
 - ¿Con esto es suficiente? - dudó Lucas, evaluando lo pequeño que era el explosivo.
 - Lo será. ¡Rápido!
@@ -70,13 +71,14 @@ Lucas comenzó a caer pero la imagen de Noemí desangrándose acudió a su cabez
 Se tambaleó hacia el control de la puerta y pulsó el botón de cerrar. Esprintó tambaleándose y salió a duras penas, con la puerta rozándole y las balas silbando a su alrededor.
 Cayó al suelo del pasillo y sintió que todo el aire del cuerpo se le escapaba con el golpe. Puso las manos sobre el suelo y con brazos temblorosos se incorporó primero algo más rápido pero luego más lento, al sentir que la visión se le nublaba.
 La sangre brotaba de su herida abierta y goteaba en el suelo, dejando un rastro de vida tras de si.
-Consiguió incorporarse y dar unos pasos vacilantes pero entonces le fallaron las piernas y volvió a caer, quedando relegado a un bebé al que la capacidad de caminar sobre dos piernas le queda aún lejos.
+Consiguió incorporarse y dar unos pasos vacilantes pero entonces le fallaron las piernas y volvió a caer, quedando relegado a un bebé al que la capacidad de caminar sobre dos piernas le quedaba aún lejos.
 Sin fuerzas para apartar a ninguno de los titanes inmóviles que se alzaban a su alrededor, Lucas gateó esquivándolos como pudo, mientras tosía y se intentaba tapar el pecho con una mano distinta cada vez.
 No debía de separarlo más de 30 metros de su objetivo, pero cada paso amenazaba con ser el último.
 "Tengo que salvar a Noemí", se decía, "Tengo que salvarla", repetía.
-Por momentos la vida se le escapaba y empezaba a verlo todo negro. Flotaba en el aire, al merced de una infinita oscuridad. Al instante siguiente, seguía desangrándose sobre el suelo de un pasillo mientras avanzaba entre piernas que no se inmutaban ante la presencia de un moribundo.
+La vida se le escapaba por momentos y empezaba a verlo todo negro. A cara instante Lucas flotaba en el aire, al merced de una infinita oscuridad. Al instante siguiente, seguía desangrándose sobre el suelo de un pasillo mientras avanzaba entre piernas que no se inmutaban ante la presencia de un moribundo.
 Sintió un pequeño golpe en la cabeza que lo teletransportó nuevamente al reino de las sombras. Lucas agitó la cabeza y se obligó a abrir los ojos.
 Había llegado hasta el carro que sujetaba el *Mástil*.
+**VOY POR AQUÍ**
 Aferrándose al pequeño vehículo, comenzó a incorporarse mientras nuevas olas de dolor e inconsciencia lo zarandeaban. Cuando pudo incorporarse sobre sus piernas temblorosas se aferró a los mandos del carro.
 Se aclaró la vista varias veces hasta que pudo localizar los controles que buscaba. Agarró con fuerza el manillar y activó el carro.
 Lucas sintió un latigazo en el cuello cuando el pequeño vehículo comenzó a acelerar con gran rapidez. Sus piernas apenas llegaban a dar un par de zancadas en el suelo cada tantos metros.
