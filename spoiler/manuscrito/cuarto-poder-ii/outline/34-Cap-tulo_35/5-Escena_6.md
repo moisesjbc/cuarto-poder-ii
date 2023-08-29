@@ -5,10 +5,14 @@ POV:            0
 notes:          - "No debía de separarlo más de 30 metros", **confirmar**.
                 - Describir mejor cómo se desplaza Lucas desde su posición (¿dónde?) hasta la puerta.
                 
+                - Aclarar en los capítulos en el que avanzan con el carro que empujan los asimilados y dejan un pasillo central hecho para el carro que se mantiene cuando Lucas corre a salvar a Noemí.
+                
+                - ¿La caída rompe el *Mástil*? ¿O cambiar para que Lucas use el explosivo de Kasim cuando el carro cae al hueco? ¿O pensar otra trampa?
+                    - Ajustar todas las escenas pertinentes. Si hay muertos como los asimilados que caen al hueco, mencionarlo en la mente colmena del último capítulo (Lucas siente el dolor de los familiares y el perdón de algunos).
 label:          4
 status:         1
 compile:        2
-charCount:      8767
+charCount:      8863
 
 
 Elizabeth abrió los ojos como platos cuando la bala le atravesó la cabeza, arrancando trozos de carne y haciéndole golpear la cabeza contra la pared tras ella. Automáticamente liberó la presa y tanto ella como Noemí cayeron al suelo.
@@ -76,16 +80,16 @@ Sin fuerzas para apartar a ninguno de los titanes inmóviles que se alzaban a su
 No debía de separarlo más de 30 metros de su objetivo, pero cada paso amenazaba con ser el último.
 "Tengo que salvar a Noemí", se decía, "Tengo que salvarla", repetía.
 La vida se le escapaba por momentos y empezaba a verlo todo negro. A cara instante Lucas flotaba en el aire, al merced de una infinita oscuridad. Al instante siguiente, seguía desangrándose sobre el suelo de un pasillo mientras avanzaba entre piernas que no se inmutaban ante la presencia de un moribundo.
-Sintió un pequeño golpe en la cabeza que lo teletransportó nuevamente al reino de las sombras. Lucas agitó la cabeza y se obligó a abrir los ojos.
+De repente sintió un golpe en la cabeza que lo teletransportó nuevamente al reino de las sombras. Lucas agitó la cabeza y se obligó a abrir los ojos.
 Había llegado hasta el carro que sujetaba el *Mástil*.
-**VOY POR AQUÍ**
-Aferrándose al pequeño vehículo, comenzó a incorporarse mientras nuevas olas de dolor e inconsciencia lo zarandeaban. Cuando pudo incorporarse sobre sus piernas temblorosas se aferró a los mandos del carro.
+Aferrándose al pequeño vehículo, comenzó a incorporarse mientras nuevas olas de dolor e inconsciencia lo zarandeaban. Cuando pudo alzarse sobre sus piernas temblorosas se aferró a los mandos del carro.
 Se aclaró la vista varias veces hasta que pudo localizar los controles que buscaba. Agarró con fuerza el manillar y activó el carro.
-Lucas sintió un latigazo en el cuello cuando el pequeño vehículo comenzó a acelerar con gran rapidez. Sus piernas apenas llegaban a dar un par de zancadas en el suelo cada tantos metros.
-Unos disparos comenzaron a impactar en el carro mientras unos silbaban a ambos lados de las piernas de Lucas.
-El origen de dichos disparos estaba muy cerca.
-Lucas empezaba a desmayarse otra vez cuando la imagen de Noemí, Ana y los demás empezaron a aparecerse delante suya. También comenzó a dudar nuevamente si lo que estaba haciendo no era condenar a la raza humana.
-Y entonces Lucas hizo lo único que podía hacer.
+Sintió un latigazo en el cuello cuando el pequeño vehículo comenzó a acelerar con gran rapidez. Sus piernas apenas llegaban a dar un par de zancadas en el suelo cada tantos metros.
+"¡Lo siento!", pensaba para sí cada vez que el el vehículo empujaba a algún *asimilado*, derribándolo hacia su lado del pasillo.
+Unos disparos comenzaron a impactar en el carro mientras otros silbaban a ambos lados de las piernas de Lucas.
+El origen de los mismos estaba muy cerca.
+Lucas empezaba a desmayarse otra vez cuando la imagen de Noemí, Ana y los demás empezaron a aparecerse delante suya. También comenzó a dudar nuevamente si lo que estaba haciendo no sería condenar a la raza humana.
+Y entonces hizo lo único que podía hacer.
 Comenzó a gritar.
 Era un grito ahogado por el dolor y la sequedad, pero era lo suficientemente fuerte como para alejar las dudas y, con un poco de suerte, a la Parca.
 Cuando el origen de los disparos estuvo a poco menos de un metro de él, Lucas pegó un último apretón al acelerador y se dejó caer hacia el lado del que provenían los disparos.
