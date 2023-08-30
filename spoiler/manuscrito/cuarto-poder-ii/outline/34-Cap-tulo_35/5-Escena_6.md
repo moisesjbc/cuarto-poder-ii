@@ -8,7 +8,7 @@ notes:          - "No debía de separarlo más de 30 metros", **confirmar**.
                 - Aclarar en los capítulos en el que avanzan con el carro que empujan los asimilados y dejan un pasillo central hecho para el carro que se mantiene cuando Lucas corre a salvar a Noemí.
                 
                 - ¿La caída rompe el *Mástil*? ¿O cambiar para que Lucas use el explosivo de Kasim cuando el carro cae al hueco? ¿O pensar otra trampa?
-                    - Ajustar todas las escenas pertinentes. Si hay muertos como los asimilados que caen al hueco, mencionarlo en la mente colmena del último capítulo (Lucas siente el dolor de los familiares y el perdón de algunos).
+                - Ajustar todas las escenas pertinentes. Si hay muertos como los asimilados que caen al hueco, mencionarlo en la mente colmena del último capítulo (Lucas siente el dolor de los familiares y el perdón de algunos).
 label:          4
 status:         1
 compile:        2

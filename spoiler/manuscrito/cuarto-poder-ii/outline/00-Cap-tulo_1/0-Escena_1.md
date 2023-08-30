@@ -8,6 +8,22 @@ notes:          - **¿Momento del día?**
                 - La decisión debe ocurrir en pocos segundos (¿y antes de que empiecen los disparos?). Muy forzado si tarda más y están en peligro.
                 - Le dan una pistola. A Lucas le entra en temblique pero está dispuesto a usarla.
                 - Ana recordará esta decisión más adelante y Lucas aclarará que era por su conciencia. Ana le dice que siempre la obedezca.
+                
+                **IR MOVIENDO DE ESCENA EN ESCENA**
+                - Lectura rápida y tomar notas.
+                - Ajustar resumen y notas de la escena a esta última.
+                - Repasar personajes: añadir descripciones y formas de actuar de los mismos.
+                - Revisar que los nombres de los personajes (especialmente Lucas) no se repitan tanto de una frase a otra.
+                - Corregir texto en sí.
+                - Aplicar notas.
+                - Reclasificar escenas, manteniendo el índice correcto. ¿Una escena por capítulo?
+                - ¿Título para la escena? ¿O simplemente número?
+                - Diálogos: remplazar guiones por "guiones largos" (revisar exportado) y repasar reglas de los guiones en los diálogos (tener chuleta aquí).
+                
+                Consejos escritura:
+                - Mostrar el tema de la novela (pe. culpa) a través de los personajes y sus acciones.
+                - Debe desear tan fuerte su objetivo que no conseguirlo equivalga a su destrucción física, psicológica o social.
+                **REPASAR Y PONER CHULETA AQUÍ**
 label:          4
 status:         1
 compile:        2

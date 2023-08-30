@@ -21,7 +21,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7898
+charCount:      7897
 
 
 La luz del amanecer se coló por entre las cortinas blancas y regó la cara del joven. Este último se dejó embargar de la energía que calentaba su cara y dejó escapar una sonrisa antes de abrir los ojos.
@@ -82,10 +82,9 @@ Jonás intervino.
 "Estabas protegiéndote a ti y a Lara", lo interrumpió Lucas. "Además, de no ser por ti ni hubiera salido vivo del AT de Gran Canaria cuando Cooper lo asaltó"
 "Sí, pero..."
 Pero Lucas le cerró la puerta en las narices, bloqueando sus pensamientos. Jonás se hizo el ofendido y siguió comiendo.
-**VOY POR AQUÍ**
-Entonces Lucas pensó en Kasim y Ajani. El primero respondió a la llamada y Lucas pasó a ver lo que veían sus ojos y sentir lo que sentían el resto de sus sentidos. Estaba sentado junto a una hoguera junto con Ajani. Tenían un par de conejos cocinándose al fuego.
+Entonces Lucas pensó en Kasim y Ajani. El primero respondió a la llamada y Lucas pasó a ver lo que veían sus ojos y sentir lo que sentían el resto de sus sentidos. Estaba sentado junto a una hoguera junto a Ajani. Tenían un par de conejos cocinándose al fuego.
 "Sí, estamos bien", pensó Kasim sin darle tiempo a decir (o pensar) nada. Ajani lo miró y asintió.
-Ajani apenas dejaba que otros entraran en su mente. Lucas siempre tenía que verlo a través de Kasim.
+Este último apenas dejaba que otros entraran en su mente. Lucas siempre tenía que verlo a través de Kasim.
 Y no solía durar mucho.
 "Bueno, hasta la próxima, Lucas", dijo al poco tiempo Kasim "Gracias por pasarte".
 "Gracias por dejarme entrar", dijo Lucas con una sonrisa mental compartida por su huésped.
@@ -104,5 +103,5 @@ Rápidamente comenzó a ganar velocidad hasta que atravesó los cielos como un F
 De su vista física, porque todos viajaban en aquel meteorito rumbo a otro mundo.
 Lucas y los demás volvieron a estar sentados en círculo alrededor de la mesa del comedor.
 - ¿Cómo creen que será el siguiente mundo a asimilar? - preguntó entonces Noemí.
-Lucas sonrió.
+Su padre adoptivo sonrió.
 - Esperemos que uno con mejor recibimiento que el nuestro.
