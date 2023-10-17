@@ -14,7 +14,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5134
+charCount:      5166
 
 
 Una vez Lucas se hizo a la rutina de ser un novato de la Resistencia, las próximas dos semanas se le pasaron volando.
@@ -43,7 +43,7 @@ No obstante, se esforzaba por sacar el tema de las visiones, por muy brusco que 
 Preguntó a los miembros de su unidad durante las pausas en los entrenamientos.
 Preguntó a los otros novatos con los que coincidía de manera fortuita en la fila para comer, ducharse o entrenar.
 Preguntó a los novatos y veteranos que Ana le mandaba.
-Lucas extrajo una conclusión que no le gustó nada: era el único cuyas visiones habían persistido más allá del día del estallido de su *Burbuja*.
+Lucas extrajo una conclusión que no le gustó nada: tal como Ana le había dicho, él era el único cuyas visiones habían persistido más allá del día del estallido de su *Burbuja*.
 Y las visiones seguían ahí. Primero cada dos o tres noches. Ahora cada noche.
 Un planeta desconocido, un portal y una mujer con un pelo larguísimo que intentaba comunicarse con él.
 Las otras personas a las que entrevistaban recordaban haber visto un planeta como el que describía pero nada más. Ni el portal ni la mujer.

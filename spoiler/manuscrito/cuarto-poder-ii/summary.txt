@@ -22,13 +22,11 @@ Full:        # Inicio
              
              Lucas y los otros rescatados de las *Burbujas* son marcados con un tatuaje de dos burbujas en la muñeca, y reciben el rechazo de otros miembros de la Resistencia, que desconfían de ellos. Los recién llegados comienzan su entrenamiento e integración en la Resistencia, según las capacidades de cada uno. {C:2:Noemí}, {C:27:Lara} y otros menores reciben una suerte de educación de Primaria o Secundaria, ya que la Resistencia se "niega a reclutar niños". Esto molesta a Noemí, ya que quiere luchar contra RIO.
              
-             **VOY POR AQUÍ**
-             
-             Durante las siguientes semanas, {C:1:Ana} parte a misiones y vuelve de vez en cuando, mientras Lucas continúa su entrenamiento. El joven sigue teniendo visiones del planeta X cada vez más vividas y lo termina comentando con otros liberados de las *Burbujas*. Estos le cuentan que han experimentado visiones similares (**¿No lo hablaba con Ana?**), pero que estas desaparecieron al poco tiempo, al contrario que en su caso.
+             Durante las siguientes semanas, {C:1:Ana} parte a misiones y vuelve de vez en cuando, mientras Lucas continúa su entrenamiento. El joven sigue teniendo visiones del planeta X cada vez más vividas y lo termina comentando con Ana y con otros liberados de las *Burbujas*. Estos le cuentan que han experimentado visiones similares, pero que estas desaparecieron al poco tiempo, al contrario que en su caso.
              
              Lucas y otros liberados de las Burbujas también participan en vídeos retransmitidos por Internet para exponer a {W:0:RIO}, pero esta rápidamente los desacredita y tacha a Lucas de terrorista. El joven sufre una gran desmotivación a causa de esto y Ana trata de animarlo. Esta le enseña un documento de la intranet de la Resistencia: un diario del fundador de la Resistencia hablando del nacimiento de RIO y de esta. La joven le anima a luchar como hizo este.
              
-             Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a sus primeras misiones de estallido de *Burbujas*. En una de ellas el grupo es emboscado por fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es masacrada mientras estos intentan escapar.
+             Tras varias semanas de entrenamiento, Lucas y otros reclutas son enviados a su primera misión de estallido de *Burbujas*. En una de ellas el grupo es emboscado por fuerzas de la corporación lideradas por {C:14:Elizabeth Ramírez}. La mayor parte de la unidad de Lucas es capturada o masacrada mientras intentan escapar.
              
              # Segundo acto
              
@@ -36,13 +34,15 @@ Full:        # Inicio
              
              El grupo llega hasta las montañas y descansa. Allí Ajani y Kasim le cuentan a Lucas que lo han rescatado por sus visiones del planeta X. La pareja lleva tiempo buscándolo porque cree que contiene la clave para destruir a RIO. Ajani aclara que no piensa cargar con un peso muerto al que proteger, sino que quiere a alguien que pueda desenvolverse en el campo de batalla. Le pregunta al joven si está dispuesto a darlo todo por encontrar el planeta. Lucas, aunque dudoso, acepta.
              
-             Al día siguiente Lucas despierta solo, sin rastro alguno de sus acompañantes, agua o comida. Lucas entra en modo pánico, pero empieza a explorar la zona. El joven pasa penurias para encontrar algo que echarse a la boca y buscar refugio. Al día siguiente vuelven a aparecer los africanos, pero Ajani continúa sometiéndolo a prueba.
+             Al día siguiente Lucas despierta solo, sin rastro alguno de sus acompañantes, agua o comida. Entra en modo pánico, pero empieza a explorar la zona. El joven pasa penurias para encontrar algo que echarse a la boca y buscar refugio, al tiempo que lucha con los efectivos de RIO que lo buscan. Al día siguiente vuelven a aparecer los africanos, pero Ajani continúa sometiéndolo a prueba.
              
-             Cuando Ajani considera que Lucas está listo, lo llevan con ellos para continuar la búsqueda del planeta X. Siguen varias pistas hasta descubrir una base de RIO que controla unos satélites que parecen estar interfiriendo las comunicaciones con el planeta X. Ajani y Lucas se infiltran en él y llegan hasta la sala, activando la destrucción de los satélites. Cuando consiguen abrirlo descubren que las visiones del eran alucinaciones provocadas por un ser alienígena que sólo puede ver Lucas (**¿o Ajani también?**) para que destruyeran el Mástil que frenaba su proceso de asimilación de la Tierra.
+             Cuando Ajani considera que Lucas está listo, le inyectan algo que les hace tener visiones vividas y ve una falsa base militar donde RIO mantiene un portal al planeta X. Ajani y Lucas se infiltran en él y el último llega hasta la sala, activando algo en una pantalla. En ese momento descubre que las visiones del eran alucinaciones provocadas por un ser alienígena que sólo parece ver Lucas para que destruyera el Mástil que frenaba su proceso de asimilación de la Tierra.
              
              # Tercer acto
              
-             La Sirena da las gracias a Lucas y Ajani y les insta a huir, ya que aún no tiene poder sobre todos los efectivos de RIO que van a por ellos. La pareja escapa a duras penas y se separan. Ana localiza a Lucas y va a su encuentro. El joven le cuente todo lo sucedido. A su vez Ana le cuenta que en la base rebelde ya están presumiblemente "infectados" debido a los *Burbujas* (**¿pensar otro nombre?**), aunque de momento no han notado raro. Duermen.
+             **VOY POR AQUÍ**
+             
+             La Sirena da las gracias a Lucas y le insta a huir, ya que aún no tiene poder sobre todos los efectivos de RIO que van a por ellos. Lucas escapa a duras penas y llega al exterior, donde ha llegado Ana y la Resistencia. El joven le cuente todo lo sucedido. A su vez Ana le cuenta que en la base rebelde ya están presumiblemente "infectados" debido a los *Burbujas* (**¿pensar otro nombre?**), aunque de momento no han notado raro. Duermen.
              
              - **Meter que Ajani quiere quedarse a matar a los de RIO pero Kasim lo calma**
              
