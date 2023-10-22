@@ -36,7 +36,7 @@
             "2",
             "105",
             "45",
-            "92"
+            "12"
         ],
         null
     ],
@@ -72,7 +72,7 @@
         "cursorNotBlinking": false,
         "cursorWidth": 1,
         "focusMode": false,
-        "font": "Ubuntu,15,-1,5,50,0,0,0,0,0",
+        "font": "Ubuntu,16,-1,5,50,0,0,0,0,0",
         "fontColor": "#000000",
         "indent": false,
         "lineSpacing": 100,
