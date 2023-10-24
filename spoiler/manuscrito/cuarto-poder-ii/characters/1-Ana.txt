@@ -4,7 +4,7 @@ Importance:          1
 POV:                 True
 Motivation:          Lograr una humanidad unida que avance hacia los mismos objetivos comunes, con la verdad como bandera.
 Goal:                - Exponer y destruir a {W:0:RIO}.
-                     - (Más adelante) Ayudar a la {C:6:Gran Sirena (nombre temporal)}.
+                     - Ayudar a la {C:6:Gran Sirena (nombre temporal)}.
 Conflict:            Ana se plantea si el fin justifica los medios. En primer lugar se lo plantea con respecto a RIO: ¿destruir RIO, o usurpar el control y durante la "transición" dirigir a la humanidad con mentiras bien intencionadas? Más adelante, con respecto a la Sirena, se debate entre liberarla o no con los peligros que ello conlleva.
                      
                      **¿Su amistad con Lucas también puede ser motivo de conflicto?** Técnicamente no aportaría mucho al "Bien Común".
@@ -27,7 +27,7 @@ Full Summary:        # Vida anterior
                      
                      # Asalto al AT de Gran Canaria
                      
-                     Durante el {P:2:Asalto al AT de Gran Canaria} se encuentra trabajando en el mismo. La joven revienta su tapadera yarticipa activamente ayudando a los ingleses y a Jonás. Sin embargo, el grupo es emboscado por RIO y Ana consigue huir.
+                     Durante el {P:2:Asalto al AT de Gran Canaria} se encuentra trabajando en el mismo. La joven revienta su tapadera y participa activamente ayudando a los ingleses y a Jonás. Sin embargo, el grupo es emboscado por RIO y Ana consigue huir.
                      
                      # Misiones de rescate y estallido
                      
@@ -97,7 +97,7 @@ Notes:               # Plano físico
                      - Siempre intenta sonsacarle a Lucas lo del hecho del {P:0:Incidente de Inglaterra}.
                      - **¿Qué sabe exactamente? Más adelante le dice a {C:0:Lucas} que lo sabe**
                      - Todos los días se queda 5 minutos más tarde en el trabajo.
-                     - **¿Por qué?**
+                     	- **¿Por qué?**
                      
                      ## Final de la primera parte
                      

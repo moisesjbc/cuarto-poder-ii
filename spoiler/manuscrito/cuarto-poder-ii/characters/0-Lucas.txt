@@ -5,10 +5,10 @@ POV:                 True
 Motivation:          Vivir tranquilo y con la consciencia en paz.
 Goal:                - Unirse a la Resistencia y colaborar en la destrucción de RIO.
                      - Echar raíces en un lugar tranquilo en el campo.
-Conflict:            Lucas quiere sentir que hace algo importante por cambiar el mundo a mejor. No obstante, al mismo tiempo le gustaría poder ignorar los problemas del mismo, y le da miedo hacer algo para cambiar las cosas que pueda ponerle en peligro. Se debate internamente entre actuar y hacer algo, o simplemente encerrarse en sí mismo hasta que pueda obviar / olvidar el mal a su alrededor.
+Conflict:            Lucas quiere sentir que hace algo importante por cambiar el mundo a mejor. No obstante, al mismo tiempo le gustaría poder ignorar los problemas del mismo, y le da miedo hacer algo cualquier cosa que pueda ponerle en peligro. Se debate internamente entre actuar y hacer algo, o simplemente encerrarse en sí mismo hasta que pueda obviar / olvidar el mal a su alrededor.
 Epiphany:            Con el tiempo, y tras ver los crímenes de RIO, se va dando cuenta de que "el mal" nunca descansará ni lo dejará en paz. Lucas hace suya la frase "Lo único que necesita el mal para triunfar es que los hombres buenos no hagan nada", y cada vez se involucra más en hacer algo.
 Phrase Summary:      Ex-trabajador de la corporación {W:0:RIO} que se une a la {W:1:Resistencia} para acabar con ella.
-Paragraph Summary:   Lucas trabajó durante años para la corporación {W:0:RIO}, donde fue corresponsal hasta el {P:0:Incidente de Inglaterra}. Tras el incidente optó a un trabajo de oficina, atendiendo al teléfono y correo, y seleccionando noticias jugosas para sus superiores. Durante el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez", hasta que se produce el {P:1:Estallido de la burbuja de Mario}. Lucas decide entonces unirse a la {W:1:Resistencia}.
+Paragraph Summary:   Lucas trabajó durante años para la corporación {W:0:RIO}, donde fue corresponsal hasta el {P:0:Incidente de Inglaterra}. Tras esto optó a un trabajo de oficina, atendiendo al teléfono y correo, y seleccionando noticias jugosas para sus superiores. Durante el {P:2:Asalto al AT de Gran Canaria}, es capturado y convertido en "Mario Pérez", hasta que se produce el {P:1:Estallido de la burbuja de Mario}. Lucas decide entonces unirse a la {W:1:Resistencia}.
 Full Summary:        # Vida anterior
                      
                      Lucas nació el 15 de Junio de 1995 (30 años) en Gran Canaria.
@@ -19,7 +19,7 @@ Full Summary:        # Vida anterior
                      
                      Lucas acabó en un trabajo de reportero en el extranjero hasta que se produjo el {P:0:Incidente de Inglaterra}, en 2022. Desengañado y enfadado con {W:0:RIO}, se sintió impotente al no poder abandonar de manera segura la corporación frente a la crisis económica mundial. Lucas permaneció en la corporación solicitando un puesto de oficina y se engañó a si mismo, prometiéndose que intentaría hacer lo que pudiera para acabar con {W:0:RIO} desde dentro.
                      
-                     Desde entonces trabaja seleccionando "noticias jugosas" para sus superiores y lidia con el tedio y el vacío al que le someten sus compañeros tras los "mimos" de {W:0:RIO} para con él.
+                     Desde entonces trabaja seleccionando "noticias jugosas" para sus superiores y lidia con el tedio y el vacío al que le someten sus compañeros tras los "mimos" de {W:0:RIO} para con él, algo que la corporación hace para mantenerlo aislado.
                      
                      En su trabajo en el {W:3:AT de Gran Canaria}, el joven evita ir al baño hasta que no puede más porque siempre sufre unos mareos espantosos cuando va. Vuelve a su puesto haciendo el mismo camino pero sin sufrir mareo alguno.
                      
@@ -27,11 +27,11 @@ Full Summary:        # Vida anterior
                      
                      Durante el {P:2:Asalto al AT de Gran Canaria}  es sorprendido por el {C:3:Coronel Cooper} y los suyos. Lucas es usado como conejillo de indias por una supuesta "sensibilidad especial" para detectar caminos / sitios peligrosos sintiéndose mal, según un email de {C:5:Ajani}.
                      
-                     Durante los tiroteos que se suceden, Lucas **se siente culpable de no haber hecho nada** en todos estos años, mientras otros ({W:1:Resistencia}) luchan y mueren por acabar con RIO. Su culpabilidad se acrecenta cuando los agentes de RIO evitan dispararle.
+                     Durante los tiroteos que se suceden, Lucas **se siente culpable de no haber hecho nada** en todos estos años, mientras otros ({W:1:Resistencia}) luchan y mueren por acabar con RIO. Su culpabilidad se acrecienta cuando los agentes de RIO evitan dispararle.
                      
                      # Conversión a Mario Pérez
                      
-                     Tras el {P:2:Asalto al AT de Gran Canaria}, se le da por muerto, pero realmente ha sido capturado y convertido en "Mario Pérez": un técnico informático que se ha mudado a un pueblo recóndito con su familia. En esta nueva vida, es un personaje tranquilo en una familia feliz. Siente una predilección sana por su hija Noemí, de quién dice que es una "auténtica cazadora".
+                     Tras el {P:2:Asalto al AT de Gran Canaria}, se le da por muerto, pero realmente ha sido capturado, llevado a una de las {W:14:Burbujas} y convertido en "Mario Pérez": un técnico informático que se ha mudado a un pueblo recóndito con su familia. En esta nueva vida, es un personaje tranquilo en una familia feliz. Siente una predilección sana por su hija Noemí, de quién dice que es una "auténtica cazadora".
                      
                      Durante la {P:1:Presentación y estallido de la burbuja de Mario}, {C:1:Ana} y la {W:1:Resistencia} liberan su *Burbuja* y a él.
                      
@@ -52,7 +52,7 @@ Notes:               # Plano físico
                      
                      - **Nombre**:  Lucas
                      - **Pelo**: Corto, castaño
-                     - - **Bello facial / cara**: Bigote y barba cortos.
+                     - **Bello facial / cara**: Bigote y barba cortos.
                      - **Ojos**: Marrones
                      - **Nacimiento**: 15 de junio de 1995
                      - **Edad**: 30 años
@@ -60,7 +60,7 @@ Notes:               # Plano físico
                      - **Altura**: 1.75 metros
                      - **Peso**: 70 kilos
                      - **Etnia**: caucásico
-                     - **Vestimenta**: prefiere vaqueros y camiseta de colores neutros. ---> (O NO) Durante la historia usará el {W:9:Uniforme de la resistencia}.
+                     - **Vestimenta**: prefiere vaqueros y camiseta de colores neutros. Durante la historia usará el {W:9:Uniforme de la resistencia}.
                      - **Cómo se siente con su aspecto**: bien, aunque le gustaría ganar en fuerza y agilidad.
                      - **Enfermedades**: Lucas es un poco neurótico.
                      - **Libro / película favoritos**: Regreso al futuro.
@@ -69,7 +69,7 @@ Notes:               # Plano físico
                      
                      - **Tipo de personalidad**: seria y pesimista.
                      - **Cómo actúa frente al deseo**: suele controlar o incluso refrenar sus impulsos.
-                     - **Cómo actúa frente al miedo**: el miedo puede llegar a bloquearlo y hacerlo actuar sin pensar, aunque no llego a paralizarlo.
+                     - **Cómo actúa frente al miedo**: el miedo puede llegar a bloquearlo y hacerlo actuar sin pensar, aunque no llega a paralizarlo.
                      - **Cómo actúa frente al odio**: no llega a sentir odio como tal, instalándose en la apatía.
                      - **Cómo actúa frente a la vergüenza**: la odia y evita cualquier situación que la pueda provocar.
                      - **Cómo actúa frente a la culpa**: la odia y evita cualquier situación que la pueda provocar.
