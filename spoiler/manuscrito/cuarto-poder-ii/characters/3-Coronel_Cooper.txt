@@ -23,9 +23,9 @@ Full Summary:        # Vida Anterior
 Notes:               # Plano físico
                      
                      - **Nombre**: Jaxon Cooper
-                     - **Pelo**: Blanco e incipiente
+                     - **Pelo**: blanco e incipiente
                      - **Bello facial / cara**: sin bello facial.
-                     - **Ojos**: Azules
+                     - **Ojos**: azules
                      - **Nacimiento**: 28 de Febrero de 1978.
                      - **Edad**: 47 años.
                      - **Complexión**: atlética. Excelente condición física.
@@ -35,7 +35,7 @@ Notes:               # Plano físico
                      - **Vestimenta**: uniforme militar
                      - **Cómo se siente con su aspecto**: ve su cuerpo como una herramienta para servir a su patria.
                      - **Enfermedades**: no conocidas.
-                     - **Libro / película favoritos**: Armagedon.
+                     - **Libro / película favoritos**: Armagedón.
                      
                      # Plano psicológico
                      

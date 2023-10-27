@@ -5,10 +5,10 @@ POV:                 True
 Motivation:          Venganza y descubrimiento personal.
 Goal:                - Unirse a la {W:1:Resistencia} para vengar la muerte de sus padres.
                      - Descubrir quién es realmente.
-Conflict:            Pasar por el trauma de una *Burbuja* en plena adolescencia ha acrecentado el sentimiento de Noemí de no saber quién es realmente. ¿Realmente quién es ahora es su yo verdadero? ¿Realmente lo que recuerda de si misma y sobre todo de sus padres es verdad?
+Conflict:            Pasar por el trauma de una *Burbuja* en plena adolescencia ha acrecentado el sentimiento de Noemí de no saber quién es realmente. ¿Realmente quién es ahora es su yo verdadero? ¿Realmente lo que recuerda de si misma, y sobre todo de sus padres, es verdad?
 Epiphany:            Noemí decide "trabajar con lo que tiene" y aceptar su personalidad y su historia personal actual *hasta que se demuestre lo contrario*. Por esta razón también se reafirma en su objetivo de querer unirse a la {W:1:Resistencia} cuando le sea posible.
 Phrase Summary:      Hija ficticia de Lucas durante la {P:1:Presentación y estallido de la burbuja de Mario} que resulta ser hija de unos trabajadores de RIO *silenciados* por la corporación.
-Paragraph Summary:   Hija adolescente de unos trabajadores de RIO que fueron asesinados por la corporación al descubrir la verdad sobre el incidente de {P:0:Incidente de Inglaterra}. Ella es capturada y reconvertida en la hija ficticia de Lucas durante la {P:1:Presentación y estallido de la burbuja de Mario}. Posteriormente rescatada por la Resistencia, esta última la oculta por su edad e inestabilidad, a pesar de que Noemí quiere unirse a ellos y luchar.
+Paragraph Summary:   Hija adolescente de unos trabajadores de RIO que fueron asesinados por la corporación cuando estos descubrieron la verdad sobre el {P:0:Incidente de Inglaterra}. Ella es capturada y reconvertida en la hija ficticia de Lucas durante la {P:1:Presentación y estallido de la burbuja de Mario}. Posteriormente rescatada por la Resistencia, esta última la acoge pero se niega a mandar a menores a misiones. Noemí, sin embargo, quiere unirse a ellos y luchar.
 Full Summary:        # Vida anterior
                      
                      Noemí nació el 15 de Marzo de 2011.
@@ -19,7 +19,7 @@ Full Summary:        # Vida anterior
 Notes:               # Plano físico
                      
                      - **Nombre**: Noemí
-                     - **Pelo**: Rubio y rizado, llegaba hasta sus hombros, indómito y lleno de puntas abiertas y mechones rebeldes
+                     - **Pelo**: Rubio y rizado, llegando hasta sus hombros. Indómito y lleno de puntas abiertas y mechones rebeldes
                      - **Bello facial / cara**: redondeada.
                      - **Ojos**: marrones.
                      - **Nacimiento**:15 de Marzo de 2011
@@ -75,6 +75,5 @@ Notes:               # Plano físico
                      - Llorosa desde que "despierta" de su personalidad de {C:25:Noemí Pérez}.
                      - Se siente unida a {C:0:Lucas}.
                      - No quiere salir de la *Burbuja* porque "al menos tenía una familia".
-                     - Sus padres fueron asesinados por RIO cuando intentaron "desertar" a la resistencia. Ella fue capturada 2 días después y "convertida en otra Noemí".
                      - Le gusta jugar con Lara a “Revuélvele el pelo a tu hermana la coqueta”.
 Color:               #f4ddae

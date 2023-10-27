@@ -14,16 +14,14 @@ Epiphany:            "Los de arriba rara vez quieren compartir el botín con los
                      
                      Elizabeth comprende que si quiere alcanzar el poder debe traicionar y matar a quién sea.
 Phrase Summary:      Una de las agentes de campo más peligrosas de {W:0:RIO}. De cara al público es una reportera del {W:3:AT de Gran Canaria}.
-Paragraph Summary:   **VOY POR AQUÍ**
-                     
-                     Elizabeth nació en una familia de clase baja y rápidamente aprendió a buscarse la vida. Consiguió reunir fondos para estudiar Periodismo y la cursó centrándose en si misma, obteniendo trabajo en {W:0:RIO}. Los agentes de la corporación la reclutaron, entrenándola y dándole una  vida más próspera a cambio de que hiciera los trabajos sucios de la corporación.
+Paragraph Summary:   Elizabeth nació en una familia de clase baja y rápidamente aprendió a buscarse la vida. Consiguió reunir fondos para estudiar Periodismo y la cursó centrándose en si misma, obteniendo trabajo en {W:0:RIO}. Los agentes de la corporación la reclutaron, entrenándola y dándole una  vida más próspera a cambio de que hiciera los trabajos sucios de la corporación.
 Full Summary:        # Vida anterior
                      
                      Elizabeth nació el 16 de Octubre de 1991 (34 años).
                      
                      Creció en el seno de una familia conflictiva de clase baja. Constantemente en el umbral de la pobreza, Elizabeth se vio obligada desde muy pequeña a robar para poder comer.
                      
-                     Comenzó a trabajar a los 16 en trabajos precarios y consiguió reunir lo suficiente para comenzar a curzar Periodismo en 2009, donde coincidió con Aitor. Terminó la carrera en 2014 y rápidamente consiguió trabajo en el {W:3:AT de Gran Canaria}. Sus superiores percibieron la ambición de Elizabeth y comenzaron a captarla como agente, tentándola con suculosas promociones y ventajas.
+                     Comenzó a trabajar a los 16 en trabajos precarios y consiguió reunir lo suficiente para comenzar a cursar Periodismo en 2009, donde coincidió con Aitor. Terminó la carrera en 2014 y rápidamente consiguió trabajo en el {W:3:AT de Gran Canaria}. Sus superiores percibieron la ambición de Elizabeth y comenzaron a captarla como agente, tentándola con suculosas promociones y ventajas.
                      
                      Elizabeth comienza a progresar rápidamente dentro de {W:0:RIO}. Su ambición, dedicación y su falta de escrúpulos, la convierten en una de las agentes más peligrosas de la corporación.
                      
@@ -53,7 +51,7 @@ Notes:               # Plano físico
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**: fría y directa, ambiciosa.
+                     - **Tipo de personalidad**: fría y directa. Ambiciosa.
                      - **Cómo actúa frente al deseo**: lo deja fluir cuando no afecta a su ambición.
                      - **Cómo actúa frente al miedo**: lo ataca de frente.
                      - **Cómo actúa frente al odio**: lo evita para no cegarse.
@@ -78,7 +76,7 @@ Notes:               # Plano físico
                      - **Contenido de la cartera / bolso**: cartera con el contenido mínimo; identificación y dinero.
                      - **Hobbies**: entrenar.
                      - **Relación con la familia**: mala. Ha roto todos los lazos.
-                     - **Trabajo**: de cara al público, reportera de RIO. Realmente agente de {W:0:RIO}.
+                     - **Trabajo**: de cara al público, reportera de {W:0:RIO}. Realmente agente de la corporación.
                      - **Nivel educativo**: grado en periodismo.
                      - **Experiencia laboral**: 7 años en diversos puestos de bajo nivel. 11 años en {W:0:RIO}.
                      - **Impronta de su lugar de origen**: ambición.
@@ -86,10 +84,5 @@ Notes:               # Plano físico
                      - **Casa**:piso semi-lujoso en el barrio del {W:3:AT de Gran Canaria}.
                      - **Educación**: muestra respeto a sus superiores y compañeros, aunque los ve como competencia.
                      - **Amigos**: no conocidos.
-                     - **Enemigos**: la Resistencia y cualquiera que se interponga en su camino a la cima.
-                     
-                     
-                     # Otros
-                     
-                     - La {W:1:Resistencia} la considera muy peligrosa.
+                     - **Enemigos**: la {W:1:Resistencia} y cualquiera que se interponga en su camino a la cima.
 Color:               #9dc7ab

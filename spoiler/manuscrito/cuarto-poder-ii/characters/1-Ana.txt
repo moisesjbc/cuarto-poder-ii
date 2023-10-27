@@ -97,7 +97,7 @@ Notes:               # Plano físico
                      - Siempre intenta sonsacarle a Lucas lo del hecho del {P:0:Incidente de Inglaterra}.
                      - **¿Qué sabe exactamente? Más adelante le dice a {C:0:Lucas} que lo sabe**
                      - Todos los días se queda 5 minutos más tarde en el trabajo.
-                     	- **¿Por qué?**
+                     - **¿Por qué?**
                      
                      ## Final de la primera parte
                      
