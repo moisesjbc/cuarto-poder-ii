@@ -11,8 +11,6 @@ Phrase Summary:      Antiguo experto en biotecnología de {W:0:RIO}, decisivo en
 Paragraph Summary:   Antiguo experto en biotecnología de {W:0:RIO}, decisivo en la creación de las primeras *Burbujas*. Cuando RIO descubre su resistencia a la Sirena comienza a experimentar con él hasta que es rescatado por {C:5:Ajani}. Desde entonces lleva mucho tiempo manteniéndose al margen, hasta que su liberador le avisa del {P:2:Asalto al AT de Gran Canaria}. Jonás participa en él a pesar del terror que siente para devolverle el favor.
 Full Summary:        # Vida anterior
                      
-                     **VOY POR AQUÍ**
-                     
                      Jonás nació el 15 de Septiembre de 1993 (32 años).
                      
                      Desde pequeño fue un chico corriente con cierta facilidad para los estudios. Su relación con sus padres era buena.
@@ -21,7 +19,7 @@ Full Summary:        # Vida anterior
                      
                      En 2020 reciben una colonia del nuevo insecto microscópico ({C:6:Gran Sirena (nombre temporal)}). Jonás y sus compañeros lo estudian durante un año en el que son infectados sin saberlo. Durante las investigaciones descubren que los insectos parasitan a otros seres vivos y comienzan a controlarlos con el tiempo en su provecho. También descubren una señal que inhibe parcialmente la actividad de los insectos ({W:21:Mástil}). La corporación rápidamente despliega un sistema de satélites conocido con el mismo nombre en 2021.
                      
-                     Jonás y su equipo es tentado por RIO y por la Sirena misma para estudiar el efecto del virus en personas. El equipo comienza a seguir esta línea de investigación, sentando el origen de las primeras *Burbujas* (2022), pero Jonás comienza a sufrir jaquecas casi a diario. Durante uno de los experimentos de control, el equipo es afectado por este y RIO descubre que están infectados. Al darse cuenta de que Jonás parece resistirse al virus y que incluso parece tener la capacidad de interactuar con él empiezan a investigar con él, amenazando con dañar a Lara, ahora secuestrada, si no coopera. Sospechando que la resistencia a la Sirena pueda ser cosa de familia, {W:0:RIO} infecta a Lara en secreto y la observa. Al mismo tiempo RIO inyecta nanomáquinas en el cerebro de Jonás para monitorizarlo.
+                     Jonás y su equipo es tentado por RIO y por la Sirena misma para estudiar el efecto del virus en personas. El equipo comienza a seguir esta línea de investigación, sentando el origen de las primeras *Burbujas* (2022), pero Jonás comienza a sufrir jaquecas casi a diario. Durante uno de los experimentos de control, el equipo es afectado por este y RIO descubre que están infectados. Al darse cuenta de que Jonás parece resistirse al virus y que incluso parece tener la capacidad de interactuar con él empiezan a investigar con él, amenazando con dañar a Lara, ahora secuestrada, si no coopera. Sospechando que la resistencia a la Sirena pueda ser cosa de familia, {W:0:RIO} lleva a Lara a una *Burbuja*, la infecta en secreto y la observa. Al mismo tiempo RIO inyecta nanomáquinas en el cerebro de Jonás para monitorizarlo.
                      
                      En 2023 Jonás desarrolla la tecnología del "{W:5:Humo negro}" al imitar el funcionamiento de enjambre de los insectos.
                      
@@ -69,7 +67,7 @@ Notes:               # Plano físico
                      - **Virtudes**: inteligente y resolutivo.
                      - **Defectos**: poco comprometido, evasivo.
                      - **Cómo se ve**: como alguien muy arrepentido por su colaboración con {W:0:RIO} y sin la fuerza necesaria para reparar el daño hecho y hacerle frente a RIO.
-                     - **Cómo lo ven otros personajes**: alguien solitario y al que cuesta entenderle.
+                     - **Cómo lo ven otros personajes**: alguien solitario y al que cuesta entender.
                      - **Tics / manias**: apretar los dientes esperando que en cualquier momento le de otra jaqueca.
                      
                      # Plano social
@@ -77,7 +75,7 @@ Notes:               # Plano físico
                      - **Sentido del humor**: no mucho. Lo domina el miedo a RIO.
                      - **Religión**: ateo.
                      - **Orientación política**: izquierdas.
-                     - **Contenido de la cartera / bolso**: mochila con víveres, un portátil y planos de RIO (**¿qué ocurre con ella?**).
+                     - **Contenido de la cartera / bolso**: mochila con víveres, un portátil y planos de RIO.
                      - **Hobbies**: pasear.
                      - **Relación con la familia**: adora a su hermana.
                      - **Trabajo**: ninguno.
@@ -98,35 +96,18 @@ Notes:               # Plano físico
                      
                      ## Primera parte
                      
-                     - Aparentemente los memoriza con sólo echar un rápido vistazo a cada uno, aunque le provoca fuertes dolores de cabeza y sangrado nasal (**Explicar esto**).
-                     - **¿Qué ocurre con la mochila y su contenido?**
-                     
-                     - Al infiltrarse en el AT de Gran Canaria viste una gabardina gris desecha.
-                     - Cuando es descubierto en el sótano del AT de Gran Canaria, su voz se quiebra y dice "No quiero volver, ¡no! ¡no! ¡no quiero!".
-                     - Conoce al líder del "pelotón de fusilamiento" que sorprende al grupo cuando baja al sótano del AT de Gran Canaria.
-                     - No duda en aconsejar matar a Ricardo.
-                     
+                     - Aparentemente memoriza los planos del {W:3:AT de Gran Canaria} con sólo echar un rápido vistazo a cada uno, aunque le provoca fuertes dolores de cabeza y sangrado nasal.
                      - Un hilillo de sangre brota de su nariz y Jonás muestra una expresión de dolor mientras controla el {W:5:Humo negro}.
-                     
                      - (Según Ana) Se tira al agua en el puerto intentando escapar desesperadamente, **maldiciendo a {C:5:Ajani}** y jurando que no volverá a ser capturado **otra vez** por RIO.
-                     
                      - Fue capturado tras el ataque al AT de Gran Canaria y estaba retenido en el mismo "manicomio" que Arturo.
                      - Tiene nanomáquinas en la cabeza, que le hacen "escuchar ruido, interferencias, a todas horas".
                      - "El suero" que menciona Iván (c19) en lugar de arreglarlo, lo empeora.
                      - Siente una conexión simbionte con el guante.
                      - Jonás dice que "Estaba preparando las nanomáquinas para escapar" en relación a su fuga (c19).
-                     - **¿Se refiere a las de su cabeza y/o a las del "humo negro?**
-                     - **¿Cómo funcionan las nanomáquinas?**
                      - Según Iván: "mero simpatizante" de la resistencia.
-                     - Sólo quiere alejarse de RIO tanto como puede, sobre todo **después de lo que le hicieron a la hermana (*)**. Sólo accedió a lo del ataque porque Ajani se lo pidió; le debe su libertad y quiere saldar la deuda.
-                     - **(*) ¿Qué le hicieron según Jonás? ¿Qué le hicieron realmente?**
                      - Jonás ayuda a evitar que RIO les descubra en el centro de control de la *Burbuja* (c23).
-                     - Según Ana, Jonás necesita a la resistencia, y más ahora que tiene que proteguer a Lara.
+                     - Según Ana, Jonás necesita a la resistencia, y más ahora que tiene que proteger a Lara.
                      - La corporación lo capturó hace tiempo y experimentó con él. Y no fue precisamente algo voluntario
                      - No se siente muy cómodo con gente alrededor.
                      - Maldice cuando Lara le cuenta cómo le sangró la nariz en clase de matemáticas.
-                     
-                     - **¿Jonás tendrá alguna evolución con las nanomáquinas?** En el documento de curiosidades de la primera parte referencio dos vías:
-                     - Jonás puede entrar en "modo fantasma": se convierte en una nube nanomáquinas.
-                     - Jonás puede poseer a otras personas entrandno en el "modo fantasma" anterior.
 Color:               #a1edec
