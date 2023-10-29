@@ -5,8 +5,8 @@ summaryFull:    El grupo viaja hacia las montañas mientras hablan en el vehícu
                 
 POV:            0
 notes:          - Confirmar si explicaba realmente por qué no puede estar en el ataque a la Cadena (y en el resto de la primera parte)
-                	- En el mismo email al {C:3:Coronel Cooper} le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
-                	- Todo es una trampa de RIO para capturar a Cooper y Jonás.
+                - En el mismo email al {C:3:Coronel Cooper} le dice que "el resto de la ayuda se le suministrará in situ". **¿Se refiere sólo a Jonás o a algo más?**
+                - Todo es una trampa de RIO para capturar a Cooper y Jonás.
 label:          4
 status:         1
 compile:        2

@@ -5,6 +5,7 @@ summaryFull:    Elizabeth es detenida por un grupo de la Resistencia. Luis, un m
 POV:            0
 notes:          - Bases de RIO destruidas por ellos mismos para eliminar sospechas y contener la "infección".
                 - La Resistencia quiere evitar a toda costa que Ana sea capturada por RIO.
+                - El  {P:2:Asalto al AT de Gran Canaria} pilló por sorpresa a {C:14:Elizabeth Ramírez} en la primera parte, pero se supone que era una trampa orquestada por RIO. ¿Realmente no lo sabía o fingió? Mencionarlo en la historia.
 label:          4
 status:         1
 compile:        2

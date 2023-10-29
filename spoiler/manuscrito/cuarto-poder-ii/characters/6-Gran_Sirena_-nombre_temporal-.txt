@@ -3,6 +3,9 @@ ID:                  6
 Importance:          1
 POV:                 True
 Motivation:          Lograr el máximo progreso para todo el universo.
+                     
+                     **VOY POR AQUÍ**
+                     - **¿Cómo lo llama RIO/Ajani vs. cómo se llama a si mismo (si es que tiene algún nombre)?**
 Goal:                - Liberarse de {W:0:RIO}.
                      - Asimilar a la raza humana.
 Conflict:            A medida que asimila nuevas especies, integra la conciencia y miedos de estas, comenzando a replantearse su propósito y su propia identidad.

@@ -8,6 +8,11 @@ notes:          - **¿Meto aquí lo de los significados de los nombres o en otra
                 - - "Despliegue de satélites, Des-inversiones en el sector espacial, ... RIO no quiere que miremos hacia arriba".
                 - Ajani no colabora con la resistencia directamente porque "prefiere viajar ligero" y no termina de fiarse de ellos: muchos infiltrados de RIO.
                 
+                ---
+                - Según Luis (capítulo 15): no ha dado señales de vida después del {P:2:Asalto al AT de Gran Canaria}.
+                - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
+                - ¿Leyenda del torniquete y la guerra definitiva?
+                
                 
 label:          4
 status:         1

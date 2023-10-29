@@ -3,8 +3,6 @@ ID:                  5
 Importance:          1
 POV:                 True
 Motivation:          Venganza y familia.
-                     
-                     **VOY POR AQUÍ**
 Goal:                - Destruir a {W:0:RIO} por venganza.
                      - Proteger a su hermano a toda costa.
 Conflict:            Sus ganas de venganza y su ira convierten a Ajani en un luchador formidable. Sin embargo, también lo ciegan, afectando negativamente a aquellos que lo acompañan o al objetivo mismo de la misión cuando este no supone atacar directamente a RIO.
@@ -25,7 +23,7 @@ Full Summary:        # Vida anterior
                      
                      # Asalto al AT de Gran Canaria
                      
-                     Ajani no participa directamente en el {P:2:Asalto al AT de Gran Canaria}, pero moviliza a {C:4:Jonás} para ayudar al {C:3:Coronel Cooper} y a la {W:1:Resistencia} durante el mismo. **¿Dónde estaba para no poder / querer llegar?**
+                     Se cree que Ajani movilizó o prometió ayuda al {C:3:Coronel Cooper}, la {W:1:Resistencia} y a {C:4:Jonás} en el {P:2:Asalto al AT de Gran Canaria} y luego los dejó tirados, pero se trató de una trampa de {W:0:RIO} para "hacer limpieza".
 Notes:               # Plano físico
                      
                      - **Nombre**: Ajani ("El que gana la lucha").
@@ -41,7 +39,7 @@ Notes:               # Plano físico
                      - **Vestimenta**: ropa militar de camuflaje. Lleva una prenda de ropa enrollada alrededor de la pierna.
                      - **Cómo se siente con su aspecto**: está a la vez orgulloso y apenado de estar tan entrenado para la muerte.
                      - **Enfermedades**: ninguna.
-                     - **Libro / película favoritos**: Casablanca (?)
+                     - **Libro / película favoritos**: Casablanca.
                      
                      # Plano psicológico
                      
@@ -84,10 +82,6 @@ Notes:               # Plano físico
                      - En un email a {C:3:Coronel Cooper} lamenta no poder acompañarlo en el {P:2:Asalto al AT de Gran Canaria}.
                      - "La gente me considera un héroe, pero simplemente se trata de una casualidad. Sólo deseo matar a aquellos que le hacen daño".
                      - ¿Cómo se pronuncia el nombre?
-                     - **VOY POR AQUÍ**
-                     - Según Luis (capítulo 15): no ha dado señales de vida después del {P:2:Asalto al AT de Gran Canaria}.
-                     - ¿Enloquece cuando matan a sus padres y pegan a su hermano?
-                     - ¿Leyenda del torniquete y la guerra definitiva?
                      
                      ## Información del relato "El héroe":
                      
