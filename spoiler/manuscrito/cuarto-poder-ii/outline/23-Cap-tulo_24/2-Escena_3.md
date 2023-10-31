@@ -5,6 +5,9 @@ summaryFull:    La Sirena se presenta ante Lucas y le cuenta su origen y motivac
 POV:            0
 notes:          Refinar con notas de {C:6:Gran Sirena (nombre temporal)}.
                 - **La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.
+                
+                
+                Contar, así como la contraparte que le vende Elizabeth más tarde: "En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observa el comportamiento extraño de ciertos animales que comienzan a colaborar entre sí"
 label:          4
 status:         1
 compile:        2

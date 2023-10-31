@@ -17,6 +17,14 @@ notes:          - ¿Mover a otro capítulo?
                 - Lucas ha sobrevivido y a pesar de la edad y la mentira de que moriría pronto se mantiene muy bien.
                 
                 - (General) Buscar ocurrencias de Lucas y eliminar las que quedan muy juntas.
+                
+                
+                Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control. Los sujetos son curados al usar la {W:16:Notas de xilófono} (cuando Lucas pide ayuda a RIO, estos usan unas {W:16:Notas de xilófono} falsas).
+                - **Añadir aclaración a la historia**
+                - **¿Llega a infectar a Ana y/o a Lucas?**
+                - **Añadir a la historia**: la cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?
+                - Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
+                - Mencionar que las del capítulo cuando Lucas pide ayuda a RIO son falsas.
 label:          4
 status:         1
 compile:        2

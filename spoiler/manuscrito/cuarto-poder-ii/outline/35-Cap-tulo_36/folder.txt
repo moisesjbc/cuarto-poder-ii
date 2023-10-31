@@ -2,6 +2,7 @@ title:          Capítulo 36
 ID:             42
 type:           folder
 POV:            0
+notes:          - **Añadir aclaración a la historia: violentos como cepa fallida liberada por RIO (ver {C:6:Sirena})**
 label:          3
 status:         1
 compile:        2

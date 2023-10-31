@@ -19,6 +19,7 @@ notes:          - **¿Momento del día?**
                 - Reclasificar escenas, manteniendo el índice correcto. ¿Una escena por capítulo?
                 - ¿Título para la escena? ¿O simplemente número?
                 - Diálogos: remplazar guiones por "guiones largos" (revisar exportado) y repasar reglas de los guiones en los diálogos (tener chuleta aquí).
+                - Aplicar notas de fichas de personajes, mundo, historia que procedan (¡sin saturar!).
                 
                 Consejos escritura:
                 - Mostrar el tema de la novela (pe. culpa) a través de los personajes y sus acciones.

@@ -1,11 +1,8 @@
-Name:                Gran Sirena (nombre temporal)
+Name:                Sirena
 ID:                  6
 Importance:          1
 POV:                 True
 Motivation:          Lograr el máximo progreso para todo el universo.
-                     
-                     **VOY POR AQUÍ**
-                     - **¿Cómo lo llama RIO/Ajani vs. cómo se llama a si mismo (si es que tiene algún nombre)?**
 Goal:                - Liberarse de {W:0:RIO}.
                      - Asimilar a la raza humana.
 Conflict:            A medida que asimila nuevas especies, integra la conciencia y miedos de estas, comenzando a replantearse su propósito y su propia identidad.
@@ -20,7 +17,7 @@ Full Summary:        # Origen
                      
                      # Llegada a la Tierra (2020)
                      
-                     En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observó el comportamiento extraño de ciertos animales (pe. diferentes especies colaborando o algo así -> "¿Quién sabe por qué la gacela se dejó capturar?"). La corporación rápidamente le ve aplicaciones en cuanto a control de la población. Múltiples equipos de investigación por todo el globo y controlados en secreto por la corporación, incluido el de {C:4:Jonás}, reciben colonias del virus para su estudio.
+                     En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observa el comportamiento extraño de ciertos animales que comienzan a colaborar entre sí. La corporación rápidamente le ve aplicaciones en cuanto a control de la población. Múltiples equipos de investigación por todo el globo y controlados en secreto por la corporación, incluido el de {C:4:Jonás}, reciben colonias del virus para su estudio.
                      
                      # Despliegue del Mástil (2021)
                      
@@ -40,34 +37,22 @@ Full Summary:        # Origen
                      
                      Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue expuesto a la Sirena. Cuando la *Burbuja* es estallada, los liberados expulsan las nanomáquinas de RIO y permanece la *Sirena*, pero la colonia tiene tan poco poder que no abandona el subconsciente. En un pequeño porcentaje de los seres vivos, sin embargo, la resistencia de estos es tan débil que la colonia puede dar el salto al plano consciente e influir ahí (visiones, etc).
                      
-                     # Destrucción del Mástil (¿Diciembre? de 2025)
+                     # Destrucción del Mástil (Diciembre de 2025)
                      
                      {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil*. La *Sirena* reinicia rápidamente su plan de asimilación.
                      
                      # Liberación de los violentos (Diciembre de 2025)
                      
                      RIO experimentaba con varias cepas de nanomáquinas para acabar con la *Sirena* en caso de ser necesario. Una de las cepas fallidas infectaba a las crías de Sirena e inducía a los sujetos a un estado de ira incontrolable. Se propagaba igual que la *Sirena* pero el *Mástil* impedía que tomara el control. Las crías de *Sirena* ven a las nanomáquinas de RIO como criaturas semejantes y por eso ni las atacan ni intentan expulsarlas.
-                     - **Añadir aclaración a la historia**
                      
                      Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control. Los sujetos son curados al usar la {W:16:Notas de xilófono} (cuando Lucas pide ayuda a RIO, estos usan unas {W:16:Notas de xilófono} falsas).
-                     - **Añadir aclaración a la historia**
-                     - **¿Llega a infectar a Ana y/o a Lucas?**
                      
                      # Base militar (Diciembre de 2025)
                      
                      Tras el asalto a la base de la Resistencia donde se da la reunión entre esta y RIO, la *Sirena* descubre y centra sus esfuerzos por atacar la base de *RIO* pero se van produciendo contagios de la cepa violeta y empiezan a atacarse entre ellos.
-                     
-                     # Final
-                     
-                     - **Añadir a la historia**: la cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?
-                     - Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
-                     - Mencionar que las del capítulo cuando Lucas pide ayuda a RIO son falsas.
-                     
-                     
-                     # CLASIFICAR / MOVER
-                     
-                     - **Mostrar los hechos importantes de esta ficha (y otras) en el libro**
 Notes:               # Forma física
+                     
+                     **VOY POR AQUÍ**
                      
                      Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos y voladores que forman una mente colmena.
                      
@@ -118,4 +103,8 @@ Notes:               # Forma física
                      # Plano social
                      
                      Desea librarse de RIO como su captora y principal oposición.
+                     
+                     # Otros
+                     
+                     RIO lo conoce como Sirena. Ello mismo no tiene nombre.
 Color:               #e5d982
