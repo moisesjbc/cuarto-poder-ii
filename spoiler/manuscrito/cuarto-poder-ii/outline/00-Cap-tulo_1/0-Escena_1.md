@@ -29,7 +29,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5635
+charCount:      5570
 
 
 La voz comenzó como un eco lejano en el límite de la consciencia.

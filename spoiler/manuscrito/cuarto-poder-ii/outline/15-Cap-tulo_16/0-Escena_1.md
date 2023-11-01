@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2303
+charCount:      2256
 
 
 Lucas volvió sobre sus pasos hasta donde estaba el saco de dormir.

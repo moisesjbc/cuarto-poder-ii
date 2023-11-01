@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3165
+charCount:      3139
 
 
 Jonás convenció a los presentes de no llamar al médico. Sin embargo, no todo el mundo volvió a la cama para dormir lo que quedaba de noche.

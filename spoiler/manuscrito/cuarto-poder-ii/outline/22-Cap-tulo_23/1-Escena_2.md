@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3664
+charCount:      3620
 
 
 El furgón se tambaleaba tanto que parecía que iba a desmontarse en cualquier momento. Sentado en la parte trasera, con Ana a su lado y dos efectivos de la *Resistencia* frente a ellos, Lucas no podía dejar de dirigir su mirada hacia cada ruido metálico que escuchaba, como si pudiera hacer algo en caso de accidente.

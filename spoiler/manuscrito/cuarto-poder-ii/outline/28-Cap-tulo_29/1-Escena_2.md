@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7891
+charCount:      7798
 
 
 El denso bosque se extendía en todas las direcciones hasta donde alcanzaba la vista. Lucas bajaba con cuidado por una pendiente con barro, aferrándose a cada tronco que se le acercaba.

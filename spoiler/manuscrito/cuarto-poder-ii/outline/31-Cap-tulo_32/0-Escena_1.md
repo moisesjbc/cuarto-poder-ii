@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2686
+charCount:      2666
 
 
 Lucas se guardó el mapa en el bolsillo y se dispuso a ir al sitio indicado, pero Noemí lo convenció a duras penas de que era una misión suicida mientras durara el ataque, y más teniendo en cuenta que casi no llegan al edificio actual.

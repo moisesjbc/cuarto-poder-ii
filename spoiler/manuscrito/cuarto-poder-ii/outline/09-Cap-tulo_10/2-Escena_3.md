@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2806
+charCount:      2781
 
 
 - ¿Tan...? - comenzó a decir un compañero de Lucas, Manuel - ¿Tan pronto?

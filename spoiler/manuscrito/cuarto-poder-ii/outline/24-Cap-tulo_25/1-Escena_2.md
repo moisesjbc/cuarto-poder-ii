@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6196
+charCount:      6133
 
 
 Lucas irrumpió corriendo en la aldea, con sus pasos y los de Ana resonando sobre el asfalto de calles desiertas.

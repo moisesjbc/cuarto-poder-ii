@@ -2,6 +2,6 @@ title:          Capítulo 12
 ID:             83
 type:           folder
 compile:        2
-charCount:      13222
+charCount:      13088
 
 

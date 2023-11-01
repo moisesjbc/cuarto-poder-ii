@@ -7,7 +7,7 @@ label:          4
 status:         2
 compile:        2
 setGoal:        500
-charCount:      1776
+charCount:      1763
 
 
 El pequeño furgón traqueteaba mientras avanzaba a gran velocidad. Lucas, sentado en la parte de atrás, no decía nada. Tenía la cabeza gacha.

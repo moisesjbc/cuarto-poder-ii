@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2425
+charCount:      2388
 
 
 - ¿Qué has visto? - preguntó Ajani, mirándolo fijamente.

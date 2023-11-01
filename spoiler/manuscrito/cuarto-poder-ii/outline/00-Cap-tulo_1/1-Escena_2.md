@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4307
+charCount:      4271
 
 
 Lucas abrió los ojos y sólo vio tierra frente a su cara. La pistola seguía en su mano.

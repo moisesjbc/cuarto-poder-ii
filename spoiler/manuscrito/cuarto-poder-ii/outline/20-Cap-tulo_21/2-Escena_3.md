@@ -6,7 +6,7 @@ POV:            0
 label:          4
 status:         1
 compile:        2
-charCount:      7090
+charCount:      7014
 
 
 Lucas acompañó a Ajani hasta el coche sin dejar de mirar hacia atrás. Ana lo seguía con la mirada y con el semblante serio. Ignoraba por completo a Kasim, que seguía de pie junto al coche, el rifle en las manos.

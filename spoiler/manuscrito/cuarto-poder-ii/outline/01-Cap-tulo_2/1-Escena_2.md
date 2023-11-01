@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3859
+charCount:      3828
 
 
 Lucas, Ana, y cuatro efectivos de la resistencia rodeaban a Jonás y Lara, situados estos últimos contra la pared. Algunos intentaron acercarse a la pareja, pero entonces la nube de humo negro se revolvía, furiosa, y todos permanecían en su sitio.

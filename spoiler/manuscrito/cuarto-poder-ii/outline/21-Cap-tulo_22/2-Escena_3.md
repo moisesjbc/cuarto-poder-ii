@@ -17,7 +17,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9823
+charCount:      9729
 
 
 Tras el susto inicial, la mujer sacudió la cabeza, como forzándose a reaccionar.

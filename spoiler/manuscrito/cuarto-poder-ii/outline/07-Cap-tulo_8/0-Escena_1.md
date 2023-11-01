@@ -6,7 +6,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5879
+charCount:      5825
 
 
 **19 de Noviembre de 1760**

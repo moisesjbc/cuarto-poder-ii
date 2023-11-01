@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7131
+charCount:      7066
 
 
 Apuntó a la figura con su pistola, deseando que esta no se percatara de lo mucho que le temblaba el arma en las manos.

@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2931
+charCount:      2896
 
 
 Lucas se despertó disfrutando del tacto del saco de dormir. "Qué gozada", pensó, comparándolo con cuando ocasionalmente dormía en el suelo con los hermanos.

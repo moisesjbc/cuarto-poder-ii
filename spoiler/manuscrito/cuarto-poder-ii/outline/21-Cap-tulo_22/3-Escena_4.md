@@ -19,7 +19,7 @@ notes:          - ¿Decir en un capítulo anterior que hubo una gran matanza en 
 label:          4
 status:         2
 compile:        2
-charCount:      5583
+charCount:      5519
 
 
 Efectivos de RIO aparecieron por ambos lados, descargando una lluvia de balas sobre él.

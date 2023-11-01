@@ -3,7 +3,7 @@ ID:             54
 type:           md
 label:          1
 compile:        2
-charCount:      1608
+charCount:      1582
 
 
 - Otra altenativa: RIO localiza las bases rebeldes gracias a la mente colmena y neutraliza la mayoría.

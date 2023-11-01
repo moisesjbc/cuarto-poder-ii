@@ -16,7 +16,7 @@ notes:          - Añadir que Elizabeth cierra la puerta del laboratorio para qu
 label:          4
 status:         2
 compile:        2
-charCount:      6276
+charCount:      6206
 
 
 Elizabeth alternaba su vista entre Lucas, en la puerta junto al carro, y Ajani, frente a ella. Cuando miraba a este último, movía a Noemí y se movía a si misma.

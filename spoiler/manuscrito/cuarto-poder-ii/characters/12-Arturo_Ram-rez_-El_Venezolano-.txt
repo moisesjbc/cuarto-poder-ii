@@ -24,7 +24,7 @@ Notes:               # Plano físico
                      
                      - **Nombre**: Arturo Ramírez "El Venezolano".
                      - **Pelo**: pelo por los hombros, lacio y negro.
-                     - **Bello facial / cara**:
+                     - **Bello facial / cara**: no.
                      - **Ojos**: Azules. "Destilan locura y cordura a partes iguales"
                      - **Nacimiento**: 18 de Septiembre de 1996
                      - **Edad**: 29 años
@@ -38,6 +38,8 @@ Notes:               # Plano físico
                      - **Libro / película favoritos**: Titanic.
                      
                      # Plano psicológico
+                     
+                     **VOY POR AQUÍ**
                      
                      - **Tipo de personalidad**: depresivo, suicida.
                      - **Cómo actúa frente al deseo**: para él el deseo es su deseo reprimido de morir.

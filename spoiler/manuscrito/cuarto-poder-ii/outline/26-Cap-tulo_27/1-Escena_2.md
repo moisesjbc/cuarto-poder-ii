@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3302
+charCount:      3261
 
 
 La agente de RIO colgó sin dejar tiempo a réplicas.

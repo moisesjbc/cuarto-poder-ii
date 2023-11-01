@@ -3,10 +3,11 @@ ID:             5
 type:           md
 summaryFull:    Lucas está teniendo otra visión del planeta X en sueños cuando es despertado en medio de la noche. Deben irse porque se espera un ataque inminente de RIO.
 POV:            0
+notes:          - ¿Por qué querría la sirena ajustar su boca si puede hablar con él mentalmente?
 label:          4
 status:         1
 compile:        2
-charCount:      3811
+charCount:      3776
 
 
 Lucas miró las dos pilas de cenizas frente a sus pies. En una pudo distinguir el uniforme del Coronel Cooper. La otra tenía una fina blusa baige y unos pantalones tipo chándal negros. A Lucas se le hizo un nudo en la garganta.

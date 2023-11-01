@@ -5,7 +5,7 @@ summaryFull:    Lucas despierta en una ambulancia retenido por Elizabeth mientra
 POV:            0
 label:          4
 compile:        2
-charCount:      1112
+charCount:      1103
 
 
 El tambaleo lo despertó, quién sabe cuánto tiempo después.

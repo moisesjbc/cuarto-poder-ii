@@ -15,7 +15,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3324
+charCount:      3295
 
 
 Cuando todos habían abandonado el foso, los efectivos de la Resistencia dirigieron a los dos grupos de civiles hacia un lateral de la estación. Allí yacían muertos ocho cuerpos vestidos con ropas militares y otros dos con el uniforme de la Resistencia.

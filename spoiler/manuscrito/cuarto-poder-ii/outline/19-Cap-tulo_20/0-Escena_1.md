@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4928
+charCount:      4886
 
 
 El joven miró a su alrededor.

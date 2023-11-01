@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5953
+charCount:      5854
 
 
 Las dos parejas se miraron fijamente durante unos segundos.

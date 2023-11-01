@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5465
+charCount:      5414
 
 
 - Tenemos que volver con la Resistencia - dijo Lucas, sin despegar la mirada de la *tablet*.

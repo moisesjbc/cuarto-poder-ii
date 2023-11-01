@@ -11,7 +11,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6005
+charCount:      5927
 
 
 Ajani conitnuó caminando a paso ligero sin preocuparse en mirar hacia Lucas. Este último, varios metros por detrás, intentaba seguirle el ritmo como podía.

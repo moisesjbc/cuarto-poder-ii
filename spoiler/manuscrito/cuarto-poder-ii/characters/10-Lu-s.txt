@@ -3,4 +3,8 @@ ID:                  10
 Importance:          0
 POV:                 True
 Full Summary:        Espía en la *Burbuja 32*.
+                     
+                     - "y apareció un joven de unos 20 años. Llevaba el uniforme de RIO."
+                     
+                     - Despreocupado pero comprometido con la Resistencia. No le afecta matar a agentes de RIO.
 Color:               #cef492

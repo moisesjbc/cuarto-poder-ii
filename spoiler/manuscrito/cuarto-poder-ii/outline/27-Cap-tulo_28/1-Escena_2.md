@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4095
+charCount:      4049
 
 
 - Parece que te subestimé - dijo Elizabeth, asintiendo con la cabeza -. Otra vez.

@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2741
+charCount:      2716
 
 
 El pequeño fuego proporcionaba una calidez acogedora y arrojaba sombras danzantes e hipnóticas sobre las paredes de la cueva.

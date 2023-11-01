@@ -8,11 +8,15 @@ notes:          Refinar con notas de {C:6:Gran Sirena (nombre temporal)}.
                 
                 
                 Contar, así como la contraparte que le vende Elizabeth más tarde: "En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observa el comportamiento extraño de ciertos animales que comienzan a colaborar entre sí"
+                
+                
+                - **La Sirena no llega a controlar al huéped, sino que le influye. Por eso la asimilación debe ser voluntaria**
+                - ¿Les dice lo de la esperanza de vida reducida? ¿Si no, por qué lo omitiría?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8223
+charCount:      8119
 
 
 La *Sirena* asintió en señal de saludo cuando la pareja se le acercó.

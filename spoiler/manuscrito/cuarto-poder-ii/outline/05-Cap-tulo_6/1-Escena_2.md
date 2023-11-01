@@ -7,7 +7,7 @@ label:          4
 status:         2
 compile:        2
 setGoal:        500
-charCount:      3893
+charCount:      3864
 
 
 Un flujo constante de balas caía sobre toda la zona. Los árboles crujían ante los proyectiles que los atravesaban como si fueran de papel y sus pedazos caían a tierra.

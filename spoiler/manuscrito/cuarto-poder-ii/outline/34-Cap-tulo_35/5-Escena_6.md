@@ -12,7 +12,7 @@ notes:          - "No debía de separarlo más de 30 metros", **confirmar**.
 label:          4
 status:         1
 compile:        2
-charCount:      8863
+charCount:      8784
 
 
 Elizabeth abrió los ojos como platos cuando la bala le atravesó la cabeza, arrancando trozos de carne y haciéndole golpear la cabeza contra la pared tras ella. Automáticamente liberó la presa y tanto ella como Noemí cayeron al suelo.

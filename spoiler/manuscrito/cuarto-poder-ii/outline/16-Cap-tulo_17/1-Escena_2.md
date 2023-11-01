@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3871
+charCount:      3848
 
 
 El soldado, vestido de camuflaje y con pasamontañas, emitió un grito en otro idioma y la pareja calló y rodó por el suelo. Lucas se separó de él y ambos se pusieron en pie.

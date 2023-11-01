@@ -15,7 +15,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14658
+charCount:      14505
 
 
 Lucas recobró la consciencia con un bofetón que le estalló en plena mejilla, extendiendo una oleada de ardor por toda su cara.

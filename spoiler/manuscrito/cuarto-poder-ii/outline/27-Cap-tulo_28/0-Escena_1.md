@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6809
+charCount:      6730
 
 
 Lucas miró a Elizabeth fijamente antes de volver a mirar a Ana y la doctora.

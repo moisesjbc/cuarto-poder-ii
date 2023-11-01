@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2048
+charCount:      2029
 
 
 Ajani dedicó una mirada rápida con sus ojos azules a Lucas. Este último tragó saliva y el sabor a tierra y sangre le inundó la garganta.

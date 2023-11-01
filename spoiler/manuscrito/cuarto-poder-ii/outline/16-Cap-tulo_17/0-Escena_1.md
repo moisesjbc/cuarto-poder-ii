@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4843
+charCount:      4805
 
 
 Los dientes se hundieron en el brazo derecho, provocando una ola de dolor que casi hizo desmayar a un débil y hambriento Lucas.

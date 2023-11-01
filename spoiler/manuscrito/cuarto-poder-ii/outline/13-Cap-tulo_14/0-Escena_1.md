@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      17963
+charCount:      17841
 
 
 Tras las notas de xilófono se volvió a hacer el silencio. Lucas se sintió aturdido.

@@ -6,6 +6,6 @@ notes:          - **Añadir aclaración a la historia: violentos como cepa falli
 label:          3
 status:         1
 compile:        2
-charCount:      7897
+charCount:      7817
 
 

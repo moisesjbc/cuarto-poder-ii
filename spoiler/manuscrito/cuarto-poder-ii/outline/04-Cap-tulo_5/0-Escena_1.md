@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1424
+charCount:      1407
 
 
 Las figuras del Coronel Cooper y su unidad, de espaldas, se recortaban contra el cielo azul. Se encontraba a pocos metros de él, sobre un montículo de tierra de un metro de altura.

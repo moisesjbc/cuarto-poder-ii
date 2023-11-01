@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8501
+charCount:      8426
 
 
 Lucas se levantó e hizo un par de respiraciones pausadas más. Seguía sintiendo que en cualquier momento tendría otro ataque de pánico, pero decidió aprovechar el momento de calma.

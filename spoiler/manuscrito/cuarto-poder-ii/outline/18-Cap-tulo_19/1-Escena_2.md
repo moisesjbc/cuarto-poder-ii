@@ -18,7 +18,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5270
+charCount:      5200
 
 
 Ajani le lanzaba golpe tras golpe sin parar y sin atender a los gritos de Kasim. Este último consiguió agarrarlo y separarlo de un sanguinolento Lucas.

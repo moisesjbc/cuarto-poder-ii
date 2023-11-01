@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3173
+charCount:      3140
 
 
 Lucas se despertó de repente. Lejos de encontrarse acostado cómodamente en su litera, estaba de pie en mitad de la estancia. La sorpresa lo mareó y estuvo a punto de caerse.

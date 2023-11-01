@@ -13,7 +13,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8143
+charCount:      8038
 
 
 Lucas intentó zafarse del brazo, esperando mucha más resistencia de la que recibió. Este último simplemente dejó caer el brazo, muerto.

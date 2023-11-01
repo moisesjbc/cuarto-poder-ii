@@ -45,7 +45,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14210
+charCount:      14056
 
 
 Abrió los ojos y se encontró con la mirada atenta de Noemí que lo miraba desde arriba, con un cielo azul infinito sobre ella.

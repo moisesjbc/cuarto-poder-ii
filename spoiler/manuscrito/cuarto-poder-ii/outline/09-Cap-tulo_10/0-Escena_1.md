@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      12087
+charCount:      11994
 
 
 El grupo se agitó al escuchar las notas. Todos se apresuraron a separarse entre ellos, mirándose con miedo.

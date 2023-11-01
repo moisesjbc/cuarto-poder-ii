@@ -15,7 +15,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      13780
+charCount:      13637
 
 
 Con un rápido gesto de su mano enguantada, Jonás ordenó a la nube de nanomáquinas hacer un agujero en el suelo del ancho justo para que cupiera una persona con cierta holgura.

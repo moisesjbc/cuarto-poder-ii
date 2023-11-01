@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3079
+charCount:      3045
 
 
 La silueta de la base comenzó a aparecer y acapararlo todo a medida que los furgones se acercaban. Lucas reconoció a duras penas el edificio frente al cuál le había dicho a Ana que debía irse con Ajani y Kasim.

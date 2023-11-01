@@ -13,7 +13,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      14262
+charCount:      14142
 
 
 En cuestión de pocos segundos quedaron sumidos en el caos de una zona de guerra. Las explosiones y disparos parecían acercarse desde todos los lados, con sus ecos rebotando por toda la estancia.

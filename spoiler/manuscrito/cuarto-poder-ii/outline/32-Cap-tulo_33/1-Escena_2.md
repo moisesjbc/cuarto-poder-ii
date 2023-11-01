@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      10196
+charCount:      10086
 
 
 Sumido en la oscuridad, Lucas cayó sobre un suelo invisible que bajaba lentamente.

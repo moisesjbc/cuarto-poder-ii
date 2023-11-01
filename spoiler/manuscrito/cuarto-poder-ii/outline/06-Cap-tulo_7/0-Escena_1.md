@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3702
+charCount:      3670
 
 
 Jonás estuvo a punto de desplomarse sobre el suelo como los pedazos del aparato que acababa de destruir y que caían a pocos metros de ellos. Lara agarró a su hermano y lo mantuvo a duras penas en pie.

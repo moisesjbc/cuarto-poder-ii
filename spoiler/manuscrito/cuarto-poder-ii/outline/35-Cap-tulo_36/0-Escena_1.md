@@ -29,7 +29,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7897
+charCount:      7817
 
 
 La luz del amanecer se coló por entre las cortinas blancas y regó la cara del joven. Este último se dejó embargar de la energía que calentaba su cara y dejó escapar una sonrisa antes de abrir los ojos.

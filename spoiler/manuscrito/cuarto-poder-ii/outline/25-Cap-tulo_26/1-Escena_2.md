@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7955
+charCount:      7860
 
 
 Los altos muros empezaron a vislumbrarse frente a ellos, en la distancia.

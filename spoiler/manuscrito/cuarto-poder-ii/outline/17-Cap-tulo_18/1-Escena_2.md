@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2252
+charCount:      2225
 
 
 Se despertó sintiendo un gran dolor en la espalda. Inicialmente confundido, asintió sin abrir los ojos, recordando que había dormido en el suelo.

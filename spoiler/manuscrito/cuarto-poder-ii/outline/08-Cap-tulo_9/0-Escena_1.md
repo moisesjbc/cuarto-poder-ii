@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7792
+charCount:      7701
 
 
 Lucas apagó la *tablet* sin saber qué pensar. Se levantó de la cama pesadamente, se guardó la pistola bajo la camiseta y salió al pasillo.

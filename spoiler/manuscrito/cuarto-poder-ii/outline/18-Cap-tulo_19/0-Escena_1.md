@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2734
+charCount:      2716
 
 
 El entrenamiento de Lucas en la Resistencia no fue nada en comparación con la semana que pasó con los hermanos.

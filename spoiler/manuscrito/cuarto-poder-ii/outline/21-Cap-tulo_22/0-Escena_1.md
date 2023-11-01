@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      7208
+charCount:      7128
 
 
 Ajani escalaba el muro con una rapidez inhumana mientras Lucas intentaba seguirle el ritmo como podía. El rezagado miraba de vez en cuando a sus laterales, pero no veía peligro alguno en los alrededores, verdes a través de sus gafas de visión nocturna.

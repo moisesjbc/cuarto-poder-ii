@@ -2,11 +2,12 @@ title:          Escena 2
 ID:             11
 type:           md
 POV:            0
+notes:          - ¿Renombrar a este Luís para no confundir con el espía de la *Burbuja* ({C:10:Luís})?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3784
+charCount:      3758
 
 
 La visión apenas duró unos pocos segundos, tras los cuales Lucas volvía a encontrarse tendido sobre la tierra rojiza del patio.

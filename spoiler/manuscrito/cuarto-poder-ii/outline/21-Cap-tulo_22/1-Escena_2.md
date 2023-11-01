@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1633
+charCount:      1620
 
 
 Entraron en una habitación a oscuras y cerraron la puerta tras de sí, con los disparos aún impactando sobre ella.

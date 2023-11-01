@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      12128
+charCount:      12035
 
 
 El nutrido grupo de la *Resistencia* se agolpaba de pie frente a un televisor que, aunque colgaba de la pared sobre sus cabezas, aún así era demasiado pequeño para llegar a tantos espectadores.

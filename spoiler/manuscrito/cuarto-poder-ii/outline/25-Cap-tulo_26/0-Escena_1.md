@@ -10,7 +10,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3252
+charCount:      3214
 
 
 El traqueteo de la destartalada furgoneta apenas sacaba a Lucas de su ensimismamiento.

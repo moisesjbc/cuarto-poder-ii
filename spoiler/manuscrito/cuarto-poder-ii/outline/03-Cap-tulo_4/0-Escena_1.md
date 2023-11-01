@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9452
+charCount:      9363
 
 
 Lucas se encontraba descansando en su litera, dándole vueltas y más vueltas a su conversación con Noemí. Tan distraído como estaba, no se percató cuando Lucía, la instructora, entró en la habitación y se acercó a él con paso decidido.

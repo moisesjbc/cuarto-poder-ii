@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      4983
+charCount:      4948
 
 
 El despertador sonó, invadiendo toda la estancia con su estridente sonido.

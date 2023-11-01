@@ -6,7 +6,7 @@ POV:            0
 label:          4
 status:         1
 compile:        2
-charCount:      6242
+charCount:      6161
 
 
 A la mañana siguiente los hermanos llevaron a Lucas hasta su coche, a unos kilómetros de la cueva.

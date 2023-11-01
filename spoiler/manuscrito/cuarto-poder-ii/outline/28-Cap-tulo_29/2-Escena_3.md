@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      8495
+charCount:      8376
 
 
 Jonás materializó un disco del gas negro y lo usó para alzarse rápidamente hasta la rama.

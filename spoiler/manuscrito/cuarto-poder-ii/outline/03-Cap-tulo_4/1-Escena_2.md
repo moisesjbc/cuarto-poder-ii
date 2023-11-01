@@ -8,7 +8,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      6869
+charCount:      6807
 
 
 Lucas se encaminó hacia el patio para retomar el entrenamiento, pero este último había terminado.

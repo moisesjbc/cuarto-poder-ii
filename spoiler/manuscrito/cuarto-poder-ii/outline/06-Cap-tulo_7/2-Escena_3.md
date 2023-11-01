@@ -7,7 +7,7 @@ notes:          - ¡Y los uniformes! Que ya dejaron de usar lo del chándal y us
 label:          4
 status:         2
 compile:        2
-charCount:      643
+charCount:      637
 
 
 Lucas abrió los ojos pesadamente. No sabía cuánto había dormido pero no era lo suficiente.

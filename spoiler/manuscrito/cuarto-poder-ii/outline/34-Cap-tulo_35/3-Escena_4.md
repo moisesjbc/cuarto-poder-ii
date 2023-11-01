@@ -5,7 +5,7 @@ POV:            0
 label:          4
 status:         2
 compile:        2
-charCount:      6280
+charCount:      6220
 
 
 El grupo abandonó el laboratorio y empezó a caminar por el pasillo, con Lucas, Jonás y Luís a la cabeza, apartando a los *asimilados* hacia los lados para que Elizabeth pudiera pasar con el carro. Detrás de todos ellos, Noemí se movía entre el enfado de haber sido relegada al final y la tensión de que en cualquier momento los *asimilados* dejaran de ser amistosos y comenzaran a atacar.

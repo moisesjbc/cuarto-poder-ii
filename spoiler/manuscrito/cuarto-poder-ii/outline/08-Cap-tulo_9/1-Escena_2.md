@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1691
+charCount:      1680
 
 
 Lucas y los demás reclutas fueron llamados al patio para el entrenamiento de la tarde. Mientras caminaba por los pasillos junto a un grupo cada vez mayor de personas pensó en la conversación con Ana.

@@ -52,13 +52,11 @@ Full Summary:        # Origen
                      Tras el asalto a la base de la Resistencia donde se da la reunión entre esta y RIO, la *Sirena* descubre y centra sus esfuerzos por atacar la base de *RIO* pero se van produciendo contagios de la cepa violeta y empiezan a atacarse entre ellos.
 Notes:               # Forma física
                      
-                     **VOY POR AQUÍ**
-                     
-                     Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos y voladores que forman una mente colmena.
+                     Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos, metálicos y voladores que forman una mente colmena.
                      
                      # Representación ante Lucas
                      
-                     Primera aparición (sueño antes del ataque de RIO a las primeras instalaciones de la Resistencia).
+                     Primera aparición en la segunda parte (sueño antes del ataque de RIO a las primeras instalaciones de la Resistencia).
                      
                      "El portal había desaparecido. En su lugar había una mujer joven. Era un poco más alta que Lucas y tan delgada como este. Vestía unos vaqueros y un top blanco. Su cara redondeado exhibía unos rasgos finos. La joven lucía una generosa melena castaña rizada que caía a borbotones por su cuerpo, cubriéndolo en gran parte hasta sus rodillas.
                      La joven miró a Lucas y abrió la boca, pero no emitió sonido alguno.
@@ -83,15 +81,13 @@ Notes:               # Forma física
                      
                      Se produce una simbiosis con los seres vivos colonizados. Estos mantienen su conciencia individual pero son influenciados y sienten la necesidad de contribuir al ser global, con el que se identifican.
                      
-                     - **La Sirena no llega a controlar al huéped, sino que le influye. Por eso la asimilación debe ser voluntaria**
-                     
                      ## 4. Fase de partida
                      
                      Una vez la vasta mayoría de los individuos del planeta han sido asimilados, una nueva generación de insectos forma un nuevo meteorito y parte en busca del siguiente planeta.
                      
                      # Funcionamiento del Mástil ¿qué puede hacer y qué no la Sirena?
                      
-                     El mástil evita que los insectos de la SIrena puedan moverse o comunicarse fuera de un anfitrión, lo que evita su propagación y la generación de conciencia colectiva. Dentro de un mismo anfitrión aún puede seguir alimentándose y reproduciéndose.
+                     Ver {W:21:Mástil}.
                      
                      # Plano psicológico
                      
@@ -99,12 +95,11 @@ Notes:               # Forma física
                      
                      Su mayor virtud es su compromiso con su objetivo. Su mayor defecto es su falta de empatía propia.
                      
-                     
                      # Plano social
                      
                      Desea librarse de RIO como su captora y principal oposición.
                      
                      # Otros
                      
-                     RIO lo conoce como Sirena. Ello mismo no tiene nombre.
+                     RIO lo conoce como Sirena. Ella (o "ellos") no tienen nombre.
 Color:               #e5d982

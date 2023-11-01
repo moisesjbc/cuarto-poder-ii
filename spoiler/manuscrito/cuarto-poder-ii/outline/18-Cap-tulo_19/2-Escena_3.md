@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      1145
+charCount:      1134
 
 
 La siguiente semana pasó volando.

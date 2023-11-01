@@ -12,7 +12,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3097
+charCount:      3070
 
 
 Desde el suelo sólo era capaz de ver un bosque de piernas que apenas dejaba ver las paredes a ambos lados del amplio pasillo.

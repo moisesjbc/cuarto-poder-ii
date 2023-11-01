@@ -7,7 +7,7 @@ notes:          - 15 portando armas, ¿cuántos heridos?, vienen 10 con 4 camill
 label:          4
 status:         1
 compile:        2
-charCount:      8990
+charCount:      8940
 
 
 Los supervivientes capaces de tomar un arma, unos quince, tomaron posiciones formando un círculo alrededor de los heridos. Se cubrieron tras los árboles y rocas más cercanos y comenzaron a vigilar con recelo el bosque alrededor de ellos.

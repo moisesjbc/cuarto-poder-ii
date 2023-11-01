@@ -4,11 +4,12 @@ type:           md
 summarySentence:Lucas se despide de Lara.
 POV:            0
 notes:          - No he comentado que Ana está de misión.
+                - Aquí y en siguientes escenas: ajustar junto con notas de {C:10:Luís}.
 label:          4
 status:         2
 compile:        2
 setGoal:        500
-charCount:      6327
+charCount:      6249
 
 
 Todos abandonaron la estancia salvo Matías. Este último se quedó repasando absorto el mapa y las fotografías que tenía frente a sí.

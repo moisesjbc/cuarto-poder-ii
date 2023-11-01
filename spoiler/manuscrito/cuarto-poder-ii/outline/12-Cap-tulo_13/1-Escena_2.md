@@ -7,7 +7,7 @@ label:          4
 status:         2
 compile:        2
 setGoal:        500
-charCount:      7964
+charCount:      7900
 
 
 El frío de la madrugada golpeó con fuerza la cara de Lucas.

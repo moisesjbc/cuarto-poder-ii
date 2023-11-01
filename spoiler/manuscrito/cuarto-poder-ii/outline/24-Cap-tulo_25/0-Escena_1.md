@@ -7,7 +7,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      9715
+charCount:      9573
 
 
 Lucas se aferró a Ana con fuerza, a pesar de que su amiga llevaba la moto con tranquilidad. A ambos lados de la carretera de tierra, los grandes árboles iban quedándose atrás con el suficiente tiempo para apreciar su belleza.

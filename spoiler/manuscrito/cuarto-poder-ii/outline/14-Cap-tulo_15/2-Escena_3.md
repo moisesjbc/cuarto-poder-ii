@@ -9,7 +9,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      2019
+charCount:      1999
 
 
 Aquella noche Lucas tuvo el mismo sueño: aparecía un portal y salía una mujer que intentaba comunicarse con él sin éxito.
