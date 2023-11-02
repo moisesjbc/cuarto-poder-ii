@@ -9,7 +9,6 @@ Phrase Summary:      Mujer capturada por RIO y reconvertida en la mujer de Mario
 Paragraph Summary:   Mujer capturada por RIO y reconvertida en la mujer de Mario (Lucas) durante el {P:1:Estallido de la burbuja de Mario}. Tras ser rescatada por la Resistencia sólo quiere aceptar la oferta de esta de tener una nueva vida aunque sea en un barrio estatal y desentenderse de todo. Corta toda comunicación.
 Full Summary:        Antes del {P:1:Estallido de la burbuja de Mario}, es Lucía Pérez, mujer de Mario / Lucas.
                      
-                     
                      # Lucía Pérez
                      
                      Mujer de {C:22:Mario Pérez}. Profesora de matemáticas.
@@ -19,9 +18,7 @@ Full Summary:        Antes del {P:1:Estallido de la burbuja de Mario}, es Lucía
                      - Gran melena lacia y rubia.
                      - Personalidad: segura de si misma.
 Notes:               - Forma parte del primer grupo para abandonar la *Burbuja* (p1,c23) tras el {P:1:Estallido de la burbuja de Mario}.
-                     - **¿Qué sucede con ellos?**
                      
                      - En la ciudad era profesora de matemáticas en la universidad.
                      - En el pueblo será profesora de matemáticas en el instituto.
-                     - **¿Por qué fue capturada por RIO?**
 Color:               #c5f9b8

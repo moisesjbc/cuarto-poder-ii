@@ -6,7 +6,7 @@ Motivation:          Tener una vida normal.
 Goal:                - Vivir con {C:4:Jonás} y recuperar el tiempo perdido con este.
                      - Volver al instituto y seguir como si nada hubiera pasado.
 Conflict:            Lara sufre una crisis de identidad propia de la adolescencia al igual que {C:2:Noemí}, aunque está segura de que Jonás es su hermano y de que quiere recuperar el tiempo perdido. Siente cargo de consciencia por no actuar por cambiar las cosas a mejor.
-Epiphany:            Lara siente que aún tiene toda la vida por delante como para rallarse en plena adolescencia por cambiar el mundo, sobretodo cuando aún tiene que madurar en un mundo cuyo estado es responsabilidad de sus mayores. Querer conservar a su única familia acrecenta este sentimiento.
+Epiphany:            Lara siente que aún tiene toda la vida por delante como para rallarse en plena adolescencia por cambiar el mundo, sobretodo cuando aún tiene que madurar en un mundo cuyo estado es responsabilidad de sus mayores. Querer conservar a su única familia acrecienta este sentimiento.
 Phrase Summary:      Hermana de {C:4:Jonás} reconvertida en Lara Pérez, hija de Mario (Lucas) durante la {P:1:Presentación y estallido de la burbuja de Mario}.
 Paragraph Summary:   Hermana de {C:4:Jonás} reconvertida en Lara Pérez, hija de Mario (Lucas) durante la {P:1:Presentación y estallido de la burbuja de Mario}. Parece sufrir las mismas jaquecas y capacidad mental aumentada de Jonás (resistencia a la {C:6:Gran Sirena (nombre temporal)}), pero su principal preocupación es hacer vida normal junto a su hermano. Ya tendrá tiempo de preocuparse por el mundo cuando crezca (si el mundo no es destruido antes).
 Full Summary:        # Vida anterior
@@ -15,7 +15,7 @@ Full Summary:        # Vida anterior
                      
                      Coqueta y asustadiza, desarrolló una fuerte dependencia con su hermano cuando sus padres murieron.
                      
-                     En 2020 es capturada por RIO para extorsionar a {C:4:Jonás} e introducida en el programa de *Burbujas*. RIO la infecta con el virus Sirena para descubrir si desarrolla resistencia a la misma.
+                     En 2020 es capturada por RIO para extorsionar a {C:4:Jonás} e introducida en el programa de *Burbujas*. RIO la infecta con el virus {C:6:Sirena} para descubrir si desarrolla resistencia a la misma.
                      
                      Es liberada por la {W:1:Resistencia} tras la {P:1:Presentación y estallido de la burbuja de Mario} y se reúne con su hermano.
 Notes:               # Plano físico
@@ -43,7 +43,7 @@ Notes:               # Plano físico
                      - **Cómo actúa frente al odio**: no es algo que haya sentido con fuerza por ahora.
                      - **Cómo actúa frente a la vergüenza**: se sonroja y la embarga.
                      - **Cómo actúa frente a la culpa**: intenta disculparse con gran timidez.
-                     - **Cómo actúa frente al perdón**: perdona aunque no sea cierto para evitar el conflicto
+                     - **Cómo actúa frente al perdón**: perdona aunque no lo sienta realmente sólo para evitar el conflicto.
                      - **Mayor miedo**: perder a su hermano {C:4:Jonás}.
                      - **Mayor esperanza**: recuperar su vida y a su hermano. Ser más despreocupada y natural.
                      - **Peor recuerdo de la infancia**: ser separada de su hermano.
@@ -76,17 +76,13 @@ Notes:               # Plano físico
                      
                      # Lara Pérez
                      
+                     - Personalidad impuesta por parte de RIO a {C:27:Lara}.
                      - Hija de Mario y Lucía. Estudiante de instituto. Este es su último año en la ESO.
-                     - **¿La ESO sigue existiendo en el futuro, o sólo en la ciudad burbuja?**
-                     
-                     Personalidad impuesta por parte de RIO a {C:27:Lara}.
-                     
                      - Le encanta la idea de tener jardín en su nueva casa.
                      - Le gusta jugar a escapar de {C:25:Noemí Pérez} que intenta despeinarla.
                      - Envidia en secreto a su hermana ({C:25:Noemí Pérez}) por su gran naturalidad y despreocupación.
                      - Heredó los pechos generosos de su madre ({C:23:Lucía Pérez}). Esto le ha causado algún que otro disgusto en el anterior instituto.
                      - El primer día de clase no consigue hacer amigos.
                      - (c18) "Cada vez que miraba hacia la pizarra llena de fórmulas, sentía como una nube nublaba su cabeza, como si le costara pensar con claridad"
-                     - De repente responde en voz baja la solución, de manera involuntaria.
-                     - ¿Qué es lo que tiene para que le sangre la nariz igual que a {C:4:Jonás} (¿interacción con las nanomáquinas?)?
+                     	- De repente responde en voz baja la solución, de manera involuntaria.
 Color:               #cafaee

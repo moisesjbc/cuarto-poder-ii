@@ -39,8 +39,6 @@ Notes:               # Plano físico
                      
                      # Plano psicológico
                      
-                     **VOY POR AQUÍ**
-                     
                      - **Tipo de personalidad**: depresivo, suicida.
                      - **Cómo actúa frente al deseo**: para él el deseo es su deseo reprimido de morir.
                      - **Cómo actúa frente al miedo**: lo abraza para ponerse en riesgo.
@@ -80,8 +78,5 @@ Notes:               # Plano físico
                      
                      - Durante los 3 meses posteriores al {P:2:Asalto al AT de Gran Canaria}, {W:0:RIO} le ha inyectado algo todos los días y le ha hecho caminar una y otra vez de un lado a otro en una habitación del manicomio.
                      - No le importa seguir con la camisa de fuerza puesta (c17).
-                     - **¿Cómo sobrevive tanto tiempo custodiado por {W:0:RIO}?** Se me ocurre que quizás fingió el malestar de Lucas **y por eso experimentaban con él (*)**, pero no es creíble mantenerlo tanto tiempo ni frente a científicos.
-                     - (*) **O a lo mejor experimentan con todos / con él por X**
-                     -
 Color:               #b09d80
 Personalidad:        Suicida / arriesgado: tiene fama de querer ir en cabeza e ignorar el peligro.

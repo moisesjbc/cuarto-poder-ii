@@ -4,11 +4,11 @@ Importance:          0
 POV:                 True
 Motivation:          La venganza y la superación personal de su hermano.
 Goal:                - Llevar a los responsables de {W:0:RIO} ante la justicia.
-                     - Curar el extremismo y la sobredependencia de su hermano {C:5:Ajani}.
-Conflict:            Kasim sufre viendo el extremismo de su hermano, ya que Ajani quiere matar a todo el que tenga algo que ver con {W:0:RIO}, en lugar de hacer caer el peso de la justicia sobre los responsables directos de "usar {W:0:RIO} para el mal". De igual manera, también le incomoda la sobreprotección que su hermano intenta ejercer sobre él. Kasim se plantea si no sería mejor para ambos que se distanciaran, pero se ve incapaz de "abandonar" a su única familia.
+                     - "Curar" el extremismo y la sobredependencia de su hermano {C:5:Ajani}.
+Conflict:            Kasim sufre viendo el extremismo de su hermano, ya que Ajani quiere matar a todo el que tenga algo que ver con {W:0:RIO}, en lugar de hacer caer el peso de la justicia sobre los responsables directos de "usar {W:0:RIO} para el mal". De igual manera, también le incomoda la sobreprotección que su hermano intenta ejercer sobre él. Kasim se plantea si no sería mejor para ambos que se distanciaran, pero se ve incapaz de abandonar a su única familia.
 Epiphany:            Kasim se decide a no abandonar a su hermano y a hacer todo lo que pueda para ayudarle a controlar su ira.
 Phrase Summary:      Mestizo español y nigeriano que perdió a su familia y amigos por culpa de {W:0:RIO} y busca llevar a los responsables ante la justicia.
-Paragraph Summary:   Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO}. Cuando lo descubrieron, Kasim se llenó de ira hacia RIO, pero decidió enfocarla a intentar llevar a los responsables ante la justicia. Sin embargo, su hermano pequeño no abandonó el estado de ira y la dirige contra todo el que colabore mínimamente con {W:0:RIO} o que Ajani piense que pone en peligro mínimamente a Kasim. Desde entonces Kasim intenta controlar y curar la ira patológica de su hermano.
+Paragraph Summary:   Hijos de un español voluntario en Nigeria y una nigeriana, Ajani y {C:39:Kasim} perdieron a su familia y amigos en una guerra entre facciones rivales orquestada por {W:0:RIO}. Cuando lo descubrieron, Kasim se llenó de ira hacia RIO, pero decidió enfocarla a intentar llevar a los responsables ante la justicia. Sin embargo, su hermano pequeño no abandonó el estado de ira y la dirige contra todo el que colabore mínimamente con {W:0:RIO} o que Ajani piense que pone en peligro a Kasim. Desde entonces Kasim intenta controlar y curar la ira patológica de su hermano.
 Full Summary:        # Vida anterior
                      
                      Kasim nació el 15 de Febrero de 1989 (36 años) en Nigeria.

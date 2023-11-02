@@ -2,7 +2,7 @@ Name:                Lucía
 ID:                  7
 Importance:          0
 POV:                 True
-Full Summary:        - "rugió una mujer baja de pelo rubio de pie frente a ellos"
-                     - Instructora de la Resistencia.
+Full Summary:        - Instructora de la Resistencia.
+                     - "Rugió una mujer baja de pelo rubio de pie frente a ellos"
                      - "Se encontraba con la mirada perdida y rascándose el brazo cuando una joven de unos veinte años vestida con el uniforme de la Resistencia se asomó a la puerta más alejada de su litera".
 Color:               #889cc6
