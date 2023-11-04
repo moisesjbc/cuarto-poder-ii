@@ -12,6 +12,8 @@ notes:          Refinar con notas de {C:6:Gran Sirena (nombre temporal)}.
                 
                 - **La Sirena no llega a controlar al huéped, sino que le influye. Por eso la asimilación debe ser voluntaria**
                 - ¿Les dice lo de la esperanza de vida reducida? ¿Si no, por qué lo omitiría?
+                - Explicar: en las *Burbujas* se inyecta un cóctel de nanomáquinas y Sirena a los cautivos.
+                
 label:          4
 status:         1
 compile:        2

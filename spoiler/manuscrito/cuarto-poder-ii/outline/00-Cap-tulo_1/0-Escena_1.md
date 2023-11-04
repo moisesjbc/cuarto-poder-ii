@@ -29,8 +29,8 @@ notes:          - **¿Momento del día?**
                 **Arrastrar hasta el capítulo donde proceda**
                 - Ana está teñida de negro al principio de la historia hasta que se quita el teñido.
                 - Sobre el {P:2:Asalto al AT de Gran Canaria}:
-                  - Consecuencias para Inglaterra y los militares  tras el asalto.
-                  - ¿Cuál era el plan de {C:3:Coronel Cooper}? ¿Y de {C:4:Jonás}? Parece que se van del AT sin hacer nada. ¿Se llega a mostrar alguna prueba (pe. imágenes del subsuelo del AT y/o la red de túneles que lo conectan con el puerto) en esta parte que RIO desmiente enseguida?
+                - Consecuencias para Inglaterra y los militares  tras el asalto.
+                - ¿Cuál era el plan de {C:3:Coronel Cooper}? ¿Y de {C:4:Jonás}? Parece que se van del AT sin hacer nada. ¿Se llega a mostrar alguna prueba (pe. imágenes del subsuelo del AT y/o la red de túneles que lo conectan con el puerto) en esta parte que RIO desmiente enseguida?
 label:          4
 status:         1
 compile:        2
