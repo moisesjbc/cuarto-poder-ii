@@ -16,6 +16,7 @@ notes:          - ¿Decir en un capítulo anterior que hubo una gran matanza en 
                 
                 - Lucas desactiva el *Mástil*, lo que da tiempo a la *Sirena* a destruir el sistema de satélites. Incluir menciones a los satélites que caen del cielo.
                 - **¿O dejo un único satélite muy potente? Ajustar esto con el plan de RIO: ¿van a lanzar un primer satélite para liberar África de la Sirena y avanzar desde ahí?**
+                - **Si son varios satélites, ¿qué hace Lucas para que dejen de funcionar? ¿Qué intentan hacer al final para que vuelva a funcionar?**
 label:          4
 status:         2
 compile:        2

@@ -31,6 +31,7 @@ notes:          - **¿Momento del día?**
                 - Sobre el {P:2:Asalto al AT de Gran Canaria}:
                 - Consecuencias para Inglaterra y los militares  tras el asalto.
                 - ¿Cuál era el plan de {C:3:Coronel Cooper}? ¿Y de {C:4:Jonás}? Parece que se van del AT sin hacer nada. ¿Se llega a mostrar alguna prueba (pe. imágenes del subsuelo del AT y/o la red de túneles que lo conectan con el puerto) en esta parte que RIO desmiente enseguida?
+                - Meter coña de Alejandro como supervisor / miembro de la Resistencia que no quiere coñas durante las misiones.
 label:          4
 status:         1
 compile:        2

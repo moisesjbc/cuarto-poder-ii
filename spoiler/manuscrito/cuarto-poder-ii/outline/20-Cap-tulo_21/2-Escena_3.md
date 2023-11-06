@@ -6,7 +6,7 @@ POV:            0
 label:          4
 status:         1
 compile:        2
-charCount:      7014
+charCount:      7023
 
 
 Lucas acompañó a Ajani hasta el coche sin dejar de mirar hacia atrás. Ana lo seguía con la mirada y con el semblante serio. Ignoraba por completo a Kasim, que seguía de pie junto al coche, el rifle en las manos.
@@ -70,7 +70,7 @@ Farid sonrió.
 - Seguro que puedes esperar unos segundos - le dijo Farid, antes de volver a dirigirse a Lucas -. Sí, a veces "filtramos" lo que la corporación nos pide. Suele ser muy efectivo para atraer a la *Resistencia* hacia alguna trampa.
 - Maldito cabrón - espetó Lucas, recordando las víctimas del AT de Gran Canaria.
 El semblante de Farid se apagó.
-- Soy un espía, Lucas. De la Resistencia. No es la primera vez que provoco la muerte de un compañero para que RIO no sospeche. Otro espía murió por asegurarse de mantener a un patán vigilando la puerta para facilitar que Jonás pudiera entrar y salvarles. Intentamos ayudar como podemos pero la corporación no pasa ni una.
+- Soy un espía, Lucas. De la Resistencia. No es la primera vez que provoco la muerte de un compañero para que RIO no sospeche. Otro espía murió por asegurarse de mantener a un patán vigilando una puerta trasera para facilitar que Jonás pudiera entrar y salvarles. Intentamos ayudar como podemos pero la corporación no pasa ni una.
 Lucas lo miró, dubitativo. No se consideraba un experto en "leer" a las personas, pero pudo percibir la culpa en los ojos de su interlocutor.
 - ...lo siento - dijo al fin.
 - Suficiente - dijo Ajani -. Nos vamos.
