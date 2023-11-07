@@ -4,16 +4,14 @@ type:           md
 summaryFull:    La Sirena se presenta ante Lucas y le cuenta su origen y motivación, negando su implicación en los ataques. Esta última les insta a asistir a la captura de uno de los violentos para mostrar su inocencia.
 POV:            0
 notes:          Refinar con notas de {C:6:Gran Sirena (nombre temporal)}.
-                - **La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.
-                
                 
                 Contar, así como la contraparte que le vende Elizabeth más tarde: "En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observa el comportamiento extraño de ciertos animales que comienzan a colaborar entre sí"
                 
                 
                 - **La Sirena no llega a controlar al huéped, sino que le influye. Por eso la asimilación debe ser voluntaria**
                 - ¿Les dice lo de la esperanza de vida reducida? ¿Si no, por qué lo omitiría?
-                - Explicar: en las *Burbujas* se inyecta un cóctel de nanomáquinas y Sirena a los cautivos.
-                
+                - Explicar: en las *Burbujas* se inyecta un cóctel de nanomáquinas y Sirena a los cautivos ({W:26:Compuesto EM-X})
+                	- Dejar aquí y/o más adelante la justificación dela Sisrena (**La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.) y la de RIO.
 label:          4
 status:         1
 compile:        2
