@@ -10,8 +10,8 @@ notes:          Refinar con notas de {C:6:Gran Sirena (nombre temporal)}.
                 
                 - **La Sirena no llega a controlar al huéped, sino que le influye. Por eso la asimilación debe ser voluntaria**
                 - ¿Les dice lo de la esperanza de vida reducida? ¿Si no, por qué lo omitiría?
-                - Explicar: en las *Burbujas* se inyecta un cóctel de nanomáquinas y Sirena a los cautivos ({W:26:Compuesto EM-X})
-                	- Dejar aquí y/o más adelante la justificación dela Sisrena (**La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.) y la de RIO.
+                - Explicar: en las *Burbujas* se inyecta un cóctel de nanomáquinas y Sirena a los cautivos ({W:26:Compuesto ES-X})
+                - Dejar aquí y/o más adelante la justificación dela Sisrena (**La Sirena debe indicar de alguna manera que sí que ve a los Violentos pero estos parecen no cumplir sus órdenes**.) y la de RIO.
 label:          4
 status:         1
 compile:        2
