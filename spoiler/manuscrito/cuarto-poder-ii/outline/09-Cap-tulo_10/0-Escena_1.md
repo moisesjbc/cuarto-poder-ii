@@ -3,6 +3,7 @@ ID:             50
 type:           md
 summaryFull:    Primer día de formación sobre las *Burbujas*. Lucas se da cuenta de lo muy poco que la Resistencia sabe sobre estas y desconfía de si mismo.
 POV:            0
+notes:          - ¿Llego a aclarar que la resistencia usa las {W:16:Notas de xilófono} sin saber lo que hacen realmente?
 label:          4
 status:         1
 compile:        2
