@@ -3,6 +3,7 @@ ID:             32
 type:           md
 summaryFull:    El grupo de reclutas es formado sobre las *Burbujas* y su estallido cuando de repente suenan las {W:16:Notas de xilófono}.
 POV:            0
+notes:          Explicar: "Las *Burbujas* cuentan con varios niveles de intensidad en las pruebas a las que someten tanto a los capturados como a los nuevos reclutas de la corporación."
 label:          4
 status:         1
 compile:        2

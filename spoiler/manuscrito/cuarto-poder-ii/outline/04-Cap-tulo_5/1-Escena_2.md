@@ -4,6 +4,8 @@ type:           md
 summaryFull:    Lucas se despierta y recibe varias quejas por haber estado revolviéndose en sueños, al igual que Jonás. Entre los dos calman a Lara que, como Jonás, ha sangrado durante la noche.
                 
 POV:            0
+notes:          "¡Déjalo! ¡No lo intentes! - le decía un hombre a una mujer mayor que se estaba acercando a Jonás sin dejar de mirar la nube - ¡Avisad a los de la resistencia! - gritó al resto."
+                - **FALLO**: Creo que después digo que no avisaron a la Resistencia.
 label:          4
 status:         1
 compile:        2

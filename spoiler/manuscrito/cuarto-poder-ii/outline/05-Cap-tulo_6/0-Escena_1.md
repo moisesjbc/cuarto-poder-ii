@@ -5,6 +5,7 @@ summaryFull:    El grupo consigue abandonar la base antes de que lleguen los de 
 POV:            0
 notes:          - Se emite una señal secreta de "auto-destrucción". Esta señal se reutilizará en capítulo 27 cuando se produce el atentado a los de RIO en la base rebelde.
                 - ¿"resistencia" -> "Resistencia" en todo el libro?
+                - ¿Ocurre aquí? "Alguna vez se ha dado el caso de que un agente de RIO de una *Burbuja* estallada se infiltra en la {W:1:Resistencia} haciéndose pasar por un liberado."
 label:          4
 status:         1
 compile:        2
