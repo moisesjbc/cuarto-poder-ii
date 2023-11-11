@@ -4,7 +4,7 @@ type:           md
 summaryFull:    El grupo, incluyendo a Jonás y Lara, es rescatado por los refuerzos de la Resistencia. Preguntan a Lucas qué hacían Jonás y Lara lejos, y Lucas cubre al primero diciendo que iba a buscar ayuda (**¿dónde?**).
 POV:            0
 notes:          - **¿En esta segunda parte usan ropa militar / de camuflaje (revisar y explicar en la historia)?**
-                	- Eliminar referencias al uniforme en la historia. Por ejemplo "uniforme de la Resistencia".
+                - Eliminar referencias al uniforme en la historia. Por ejemplo "uniforme de la Resistencia".
 label:          4
 status:         1
 compile:        2

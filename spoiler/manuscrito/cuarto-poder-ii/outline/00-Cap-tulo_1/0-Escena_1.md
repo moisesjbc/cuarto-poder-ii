@@ -32,26 +32,58 @@ notes:          - **¿Momento del día?**
                 - Consecuencias para Inglaterra y los militares  tras el asalto.
                 - ¿Cuál era el plan de {C:3:Coronel Cooper}? ¿Y de {C:4:Jonás}? Parece que se van del AT sin hacer nada. ¿Se llega a mostrar alguna prueba (pe. imágenes del subsuelo del AT y/o la red de túneles que lo conectan con el puerto) en esta parte que RIO desmiente enseguida?
                 - Meter coña de Alejandro como supervisor / miembro de la Resistencia que no quiere coñas durante las misiones.
+                
+                # Diálogos
+                
+                * Diálogos: no debe dejarse espacio de separación entre la raya y el comienzo de cada una de las intervenciones
+                —¿Cuándo volverás?
+                —No tengo ni idea.
+                
+                * Incisos con verbos del habla se introducen en minúsculas.
+                —¡Qué le vamos a hacer! —exclamó resignada doña Patro
+                
+                * Incisos con verbos que NO son del habla se introducen en mayúsculas.
+                —¿Puedo irme ya? —Se puso en pie con gesto decidido—. No hace falta que me acompañe. Conozco el camino.
+                    • Jugar con la puntuación: longitud de las frases y párrafos, pausas, orden de las palabras, etc.
+                    
+                Hay que tener en cuenta que la exclamación e interrogación se cierran siempre antes de la raya. Así mismo, los puntos suspensivos también irán antes de ésta.
+                
+                —Hola Ana ¿Cómo estás?—dijo Manuel a modo de saludo.
+                
+                4) Si tras especificar quién es el emisor se quiere continuar la frase, quedaría de esta forma:
+                
+                —Hola Ana —dijo Manuel—. Me alegro de verte.
+                
+                Es decir, otra raya pegada a la última palabra cierra la frase que dice quién es el emisor, y después de ésta, se pondrá el signo de puntación pertinente. Continuamos con el diálogo y lo cerramos con un punto y aparte.
+                
+                5) Si el comentario de la persona que está narrando la frase no tiene nada que ver con la acción de hablar (o acciones relacionadas: gritar, preguntar, exclamar) que realiza el emisor, la frase se cierra. El texto del narrador empieza en mayúscula.
+                
+                —Hola Ana. —Manuel entró en la sala pero no saludó a nadie más.
+                
+                Si el diálogo continúa después, se escribe un punto tras la raya de cierre. Es decir:
+                
+                —Hola Ana. —Manuel entró en la sala, y sin saludar a nadie más se dirigió a la barra—. Póngame una cerveza por favor.
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5570
+charCount:      5622
 
 
-La voz comenzó como un eco lejano en el límite de la consciencia.
-- ¡Lucas!
-La siguiente vez se escuchó mucho más intenso, como si la fuente hubiera corrido y ahora estuviera a pocos pasos de él.
-- ¡Lucas!
-Sintió que algo tiraba de su brazo hacia arriba. Una segunda voz resonó a su lado. 
-- ¡Voy a soltarlo!
-- ¡No! ¡Por favor, no lo hagas! ¡Lucas!
+**VOY POR AQUÍ**
+La voz comenzó como un eco lejano, en el límite de la consciencia.
+—¡Lucas!
+La siguiente vez se escuchó con mucha más intensidad, como si la fuente se hubiera acercado corriendo y ahora estuviera a pocos pasos de él.
+—¡Lucas!
+Sintió que algo tiraba de su brazo hacia arriba. Una segunda voz resonó cerca, también sobre su cabeza.
+—¡Voy a soltarlo!
+—¡No! ¡Por favor, no lo hagas! ¡Lucas!
 Ya no se encontraba de pie sobre la hierba de un planeta extraño. Sus pies ya no estaban desnudos tampoco.
-- ¡Lucas!
+—¡Lucas!
 El dolor surgió de repente, martilleándole la frente. Apretó los ojos con fuerza antes de abrirlos. 
 Todo cuanto vio fue negro.
 Se preguntó si realmente había abierto los ojos cuando comenzó a recordar. Entre las punzadas de dolor se coló el recuerdo del suelo cediendo bajo sus pies y de él precipitándose hacia el vacío y golpeándose la cabeza.
-- ¡Maldita sea, Lucas! - espetó Jonás - ¡Lara, voy a soltarlo! ¡Tenemos que irnos!
+—¡Maldita sea, Lucas! —espetó Jonás —. ¡Lara, voy a soltarlo! ¡Tenemos que irnos!
 - Pero...
 - ¡Los demás están bien!
 - ¿Los... demás? - balbuceó Lucas - ¿Ana?
