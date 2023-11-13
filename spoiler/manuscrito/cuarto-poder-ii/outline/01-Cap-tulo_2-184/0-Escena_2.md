@@ -1,5 +1,5 @@
 title:          Escena 2
-ID:             3
+ID:             310
 type:           md
 summaryFull:    El grupo, incluyendo a Jonás y Lara, es rescatado por los refuerzos de la Resistencia. Preguntan a Lucas qué hacían Jonás y Lara lejos, y Lucas cubre al primero diciendo que iba a buscar ayuda (**¿dónde?**).
 POV:            0
