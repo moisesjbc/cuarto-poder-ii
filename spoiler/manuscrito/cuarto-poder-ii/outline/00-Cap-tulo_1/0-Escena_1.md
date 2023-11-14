@@ -8,7 +8,7 @@ POV:            0
 notes:          **IR MOVIENDO DE ESCENA EN ESCENA**
                 - Lectura rápida y tomar notas.
                 - Ajustar resumen y notas de la escena a esta última.
-                  - Mostrar fecha y hora al principio.
+                - Mostrar fecha y hora al principio.
                 - Repasar personajes: añadir descripciones y formas de actuar de los mismos.
                 - Revisar que los nombres de los personajes (especialmente Lucas) no se repitan tanto de una frase a otra.
                 - Corregir texto en sí.
@@ -22,11 +22,10 @@ notes:          **IR MOVIENDO DE ESCENA EN ESCENA**
                 **Arrastrar hasta el capítulo donde proceda**
                 - Ana está teñida de moreno al principio de la historia (escena 1.1) hasta que se quita el teñido (ondulado y pelirrojo anaranjado. Casi roza sus hombros).
                 - Sobre el {P:2:Asalto al AT de Gran Canaria}:
-                  - Consecuencias para Inglaterra y los militares  tras el asalto.
-                  - ¿Cuál era el plan de {C:3:Coronel Cooper}? ¿Y de {C:4:Jonás}? Parece que se van del AT sin hacer nada. ¿Se llega a mostrar alguna prueba (pe. imágenes del subsuelo del AT y/o la red de túneles que lo conectan con el puerto) en esta parte que RIO desmiente enseguida?
+                - Consecuencias para Inglaterra y los militares  tras el asalto.
+                - ¿Cuál era el plan de {C:3:Coronel Cooper}? ¿Y de {C:4:Jonás}? Parece que se van del AT sin hacer nada. ¿Se llega a mostrar alguna prueba (pe. imágenes del subsuelo del AT y/o la red de túneles que lo conectan con el puerto) en esta parte que RIO desmiente enseguida?
                 - Meter coña de Alejandro como supervisor / miembro de la Resistencia que no quiere coñas durante las misiones.
                 - Ana recordará la decisión de Lucas de quedarse (escena 1.1) más adelante y Lucas aclarará que era por su conciencia. Ana le dice que siempre la obedezca.
-                ondulado y pelirrojo anaranjado. Casi roza sus hombros. moreno
                 
                 # Diálogos
                 
@@ -62,7 +61,7 @@ label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5800
+charCount:      5785
 
 
 La voz, femenina, comenzó como un eco lejano, en el límite de la consciencia.
@@ -72,7 +71,7 @@ La siguiente vez se escuchó con mucha más intensidad, como si la fuente se hub
 Sintió que algo tiraba de su brazo hacia arriba. Una segunda voz, masculina, resonó cerca, también sobre su cabeza.
 —¡Voy a soltarlo!
 —¡No lo hagas, por favor! ¡Lucas!
-Ya no se encontraba de pie, descalzo sobre la hierba de un planeta extraño. Por el contrario, sus pies estaban suspendidos en el aire, embutidos en las playeras de segunda mano que le había dado la Resistencia.
+Ya no se encontraba de pie, descalzo sobre la hierba de un planeta extraño. Por el contrario, sus pies estaban suspendidos en el aire, embutidos en sus playeras de siempre.
 —¡Lucas!
 El dolor surgió de repente, martilleándole la frente. Apretó los ojos con fuerza antes de abrirlos. 
 Todo cuanto vio fue negro.
@@ -85,11 +84,10 @@ Se preguntó si realmente había abierto los ojos cuando comenzó a recordar. En
 —¡Estoy aquí abajo! —gritó Ana, bajo sus pies.
 —¡Eh tío! ¡Ayúdame a subir a mi! —gritó otra persona bajo él.
 —¡Quiero salir de aquí! —chilló otro.
-**VOY POR AQUÍ**
-Una mano se aferró al pie de Lucas. Del susto, el joven lo movió con violencia y la mano se soltó.
+Unas manos intentaron aferrarse a las piernas de Lucas. Del susto, el joven movió las piernas con violencia y las manos se soltaron.
 Miró hacia arriba. Jonás estaba tendido sobre el suelo, al borde del precipicio y lo sujetaba con una mano. Su otra mano estaba fuera de la vista de Lucas, supuso este último,  aferrándose a algo para evitar caer con él.
 Al lado de Jonás, agachada, estaba Lara. Esta última le dedicó una sonrisa nerviosa.
-Una sombra ascendió a la derecha de Lucas. Un hombre mayor que él, de complexión atlética, saltó y se agarró al saliente del que colgaba Lucas. Se impulsó y subió rápidamente. Al otro lado del joven, otras personas menos ágiles se ayudaban con más lentitud para intentar encaramarse.
+Una sombra ascendió a la derecha de Lucas. Un hombre mayor que él, de complexión atlética, saltó aupado por otro y se agarró al saliente del que colgaba Lucas. Se impulsó y subió rápidamente. Al otro lado del joven, otras personas menos ágiles se ayudaban con más lentitud para intentar encaramarse.
 —¡Vamos! —le apremió Jonás.
 El hombre atlético comenzó correr alejándose, cuando un proyectil lo alcanzó en la espalda. Se desplomó en el suelo, fuera de la vista de Lucas.
 Los gritos estallaron en el gran foso bajo sus pies. La adrenalina golpeó a Lucas con fuerza y este comenzó a encaramarse con la ayuda de Jonás mientras otros pocos valientes imitaban al hombre abatido a pesar de su desenlace.
@@ -117,7 +115,7 @@ La joven volvió junto a Lucas.
 El joven tomó la pistola que se le ofrecía, no sin cierta reticencia.
 —Pero yo... —balbuceó.
 —Apunta hacia la puerta y dispara. No preguntes.
-Lucas alzó la vista. A unos 3 metros de altura sobre sus cabezas, en el otro extremo de la sala, se encontraba la puerta que daba al andén.
+Lucas alzó la vista. A unos cuatro metros de altura sobre sus cabezas, en el otro extremo de la sala, se encontraba la puerta que daba al andén.
 Ana comenzó a repartir órdenes al grupo congregado junto a ellos y otras tantas por un pequeño micrófono sujeto a su oreja derecha. Les ordenaba colocarse en distintos extremos de la sala, a lo que sus destinatarios obedecían en el acto. A medida que se perdían entre la pequeña multitud, todo lo que se percibía de ellos era sus voces y su forcejeo exigiendo paso a su alrededor.
 Los que quedaron a la vista de Lucas alzaron sus pistolas a las dos puertas y las múltiples ventanas de la pequeña estación.
 El joven hizo lo propio, apuntando su pistola hacia la puerta del otro extremo de la estancia. Sentía el arma resbalarse en sus manos sudorosas y los latidos de su corazón se intensificaron. Parecían seguir el ritmo del dolor que presionaba su sien.
@@ -132,4 +130,3 @@ Noemí se abrazó a Lucas. Ana se acercó a ellos y les obligó a agacharse junt
 —Tranquilos —les susurró Ana —. Saldremos de esta.
 Lucas intentó contestar pero el gas lo envolvió y le arrebató las palabras junto con su conciencia.
 Todo se volvió negro, una vez más.
-**VOY POR AQUÍ**
