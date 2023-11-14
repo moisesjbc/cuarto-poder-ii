@@ -25,6 +25,12 @@ notes:          - ¿Mover a otro capítulo?
                 - **Añadir a la historia**: la cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?
                 - Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
                 - Mencionar que las del capítulo cuando Lucas pide ayuda a RIO son falsas.
+                
+                
+                Otras cosas a completar:
+                - Resumen primera parte
+                - Agradecimientos
+                - Curiosidades
 label:          4
 status:         1
 compile:        2
