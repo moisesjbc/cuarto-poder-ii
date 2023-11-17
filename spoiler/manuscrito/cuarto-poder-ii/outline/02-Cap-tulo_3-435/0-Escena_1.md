@@ -1,7 +1,9 @@
 title:          Escena 1
 ID:             311
 type:           md
-summaryFull:    El grupo es transportado hasta la base de la Resistencia más cercana y descansa.
+summaryFull:    13 de Noviembre de 2025 (jueves), 19:30
+                
+                Los rescatados suben a los camiones de la Resistencia y abandonan la zona. Ana les dice que han pasado meses desde que fueron capturados y que están en Marruecos.
 POV:            0
 notes:          # Ir moviendo de capítulo en capítulo
                 - Lectura rápida y tomar notas.
@@ -49,29 +51,19 @@ notes:          # Ir moviendo de capítulo en capítulo
                 
                 # Arrastrar hasta el capítulo donde proceda
                 - **¿En esta segunda parte usan ropa militar / de camuflaje (revisar y explicar en la historia)?**
-                - Eliminar referencias al uniforme en la historia. Por ejemplo "uniforme de la Resistencia".
+                - Eliminar referencias al uniforme en la historia. Por ejemplo "uniforme de la Resistencia, azul, chándal".
+                - Quitar el uniforme de RIO y de la Resistencia. Ambos se suponen que intentan infiltrarse.
                 - Ana está teñida de moreno al principio de la historia (escena 1.1) hasta que se quita el teñido (ondulado y pelirrojo anaranjado. Casi roza sus hombros).
                 - Sobre el {P:2:Asalto al AT de Gran Canaria}:
                 - Consecuencias para Inglaterra y los militares  tras el asalto.
                 - ¿Cuál era el plan de {C:3:Coronel Cooper}? ¿Y de {C:4:Jonás}? Parece que se van del AT sin hacer nada. ¿Se llega a mostrar alguna prueba (pe. imágenes del subsuelo del AT y/o la red de túneles que lo conectan con el puerto) en esta parte que RIO desmiente enseguida?
                 - Meter coña de Alejandro como supervisor / miembro de la Resistencia que no quiere coñas durante las misiones.
                 - Ana recordará la decisión de Lucas de quedarse (escena 1.1) más adelante y Lucas aclarará que era por su conciencia. Ana le dice que siempre la obedezca.
-                
-                # CLASIFICAR
-                
-                - Pensar dónde situar la {W:15:Burbuja M (la de Mario)} (revisar descripción) y el pueblo / barrio / lugar donde está la base rebelde (**Buscar un sitio recóndito al que llegue el tren y el paisaje frente a la estación coincida**).
-                - ¿La familia Pérez realmente pasa horas para llegar allí? ¿O "empiezan" a las puertas de la ciudad?.
-                - ¿Usan el tren?
-                - Yo creo que no.
-                - ¿Lucas cuenta algo de la visión? -> ¿O se niega en ese momento por estar con más gente?
-                - Quitar el uniforme de RIO y de la Resistencia. Ambos se suponen que intentan infiltrarse.
-                
-                - Mencionar que diga que es finales de Noviembre del 2025 ({C:6:Sirena}, puede decir Noviembre y que alguien le pregunte preocupado por el año).
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      3237
+charCount:      3291
 
 
 Cuando todos habían abandonado el foso, los efectivos de la Resistencia dirigieron a los civiles hacia un lateral de la estación. Allí yacían muertos ocho cuerpos vestidos con ropas militares.
@@ -97,11 +89,10 @@ Lucas observó el paisaje. Grandes llanuras sin apenas vegetación se extendían
 —¿A qué te re...?
 Ana lo miró con el ceño fruncido durante unos segundos. Entonces rompió a carcajadas, atrayendo varias miradas.
 —¡Lo siento! ¡lo siento! Claro, has estado un poco desconectado estos últimos meses.
-—¿Meses?
+—¿Meses? 
 Los presentes se mantuvieron con la vista fija en Ana, expectantes.
-—Sí —dijo Ana, paseando su vista por todos los curiosos —. Llevan meses capturados.
-**VOY POR AQUÍ**
-—Pero si llevábamos un par de días en el pueblo —comentó Lucas, mirando a Noemí buscando su confirmación. Esta última asintió —. ¿Cómo puede ser?
-- Las *Burbujas* funcionan en bucle - respondió Ana -. Pero bueno, ya aprenderán sobre eso.
-- Bien... - la respuesta no satisfizo a Lucas ni a los demás - ¿y entonces? ¿dónde estamos?
-- A cierta distancia de casa... - dijo su amiga, apoyándose en el lateral del camión -. Bienvenidos a Marruecos.
+—Sí —dijo Ana, paseando su vista por todos los curiosos —. Llevan meses capturados. Estamos en noviembre. 13 de noviembre, para ser más exactos.
+—Pero si llevábamos un par de días en el pueblo. —Lucas negó con la cabeza, mientras a Noemí buscando su confirmación. Esta última asintió —. ¿Cómo puede ser?
+—Las *Burbujas* funcionan en bucle —respondió Ana —. Pero bueno, ya aprenderán sobre eso.
+—Bien... —la respuesta no satisfizo a Lucas ni a los demás —. ¿Y entonces? ¿Dónde estamos?
+—A cierta distancia de casa... —dijo su amiga, apoyándose en el lateral del camión —. Bienvenidos a Marruecos.
