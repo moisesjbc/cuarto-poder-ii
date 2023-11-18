@@ -3,7 +3,7 @@ ID:             8
 type:           md
 summaryFull:    14 de Noviembre de 2025 (viernes), 8:00
                 
-                Al día siguiente, {C:4:Jonás} se niega a que su hermana {C:27:Lara} sea "marcada como ganado", y se enfrenta a los de la Resistencia.
+                Al día siguiente, en una base de la Resistencia, llevan al grupo de Lucas a que les tatuen dos burbujas en la muñeca. {C:4:Jonás} se niega a que su hermana {C:27:Lara} sea "marcada como ganado" y se enfrenta a ellos.
 POV:            0
 notes:          # Ir moviendo de capítulo en capítulo
                 - Lectura rápida y tomar notas.
@@ -53,17 +53,17 @@ notes:          # Ir moviendo de capítulo en capítulo
                 - **¿En esta segunda parte usan ropa militar / de camuflaje (revisar y explicar en la historia)?**
                 - Eliminar referencias al uniforme en la historia. Por ejemplo "uniforme de la Resistencia, azul, chándal".
                 - Quitar el uniforme de RIO y de la Resistencia. Ambos se suponen que intentan infiltrarse.
-                - Ana está teñida de moreno al principio de la historia (escena 1.1) hasta que se quita el teñido (ondulado y pelirrojo anaranjado. Casi roza sus hombros).
                 - Sobre el {P:2:Asalto al AT de Gran Canaria}:
                 - Consecuencias para Inglaterra y los militares  tras el asalto.
                 - ¿Cuál era el plan de {C:3:Coronel Cooper}? ¿Y de {C:4:Jonás}? Parece que se van del AT sin hacer nada. ¿Se llega a mostrar alguna prueba (pe. imágenes del subsuelo del AT y/o la red de túneles que lo conectan con el puerto) en esta parte que RIO desmiente enseguida?
                 - Meter coña de Alejandro como supervisor / miembro de la Resistencia que no quiere coñas durante las misiones.
                 - Ana recordará la decisión de Lucas de quedarse (escena 1.1) más adelante y Lucas aclarará que era por su conciencia. Ana le dice que siempre la obedezca.
+                - resistencia -> ¿Resistenca? ¿*Resistencia*?
 label:          4
 status:         1
 compile:        2
 setGoal:        500
-charCount:      5026
+charCount:      5070
 
 
 El despertador sonó, invadiendo toda la estancia con su estridente sonido.
@@ -86,21 +86,21 @@ El grupo fue saliendo ordenadamente y siguió por los pasillos a la joven, de un
 Giraron una última esquina y llegaron a un pasillo mucho más ancho. Al final de este había dos sillas al lado de una mesa con unos utensilios que Lucas no reconoció a distancia. Una mujer con el pelo corto y azul que parecía de la edad de Lucas esperaba de pie junto al mueble.
 —¡Bien! —exclamó la joven rubia situándose al lado de la de pelo azul mientras se dirigía al grupo —. Antes de comenzar el entrenamiento necesitamos hacerles un pequeño tatuaje.
 —¿Cómo? —Jonás la miró fijamente.
-**VOY POR AQUÍ**
-—Sí, es el procedimiento estándar. A todos los liberados de las *Burbujas* se les hace un tatuaje de dos burbujas en la muñeca. — La joven miró a Lara, la primera de la fila - Tranquila, apenas duele.
-Lara, de espaldas a Lucas comenzó a extender el brazo lentamente, pero Jonás se interpuso entre las dos mujeres y ellas.
-- ¡Ni de coña vas a marcarla como si fuera ganado!
-- Por favor - dijo la joven -. Es sólo para llevar un control de...
-- Es un requisito - se limitó a contestar la del pelo azul -. Todos tienen que hacerse el tatuaje. Es eso o se van.
-- Perfecto. Pues nos vamos.
-- Pero Jonás... - comenzó a decir Lara.
-- Eres libre de irte - dijo la tatuadora - pero no estamos en el lugar más seguro del mundo, y menos para una niña. Tú quieres quedarte - miró a Lara - ¿no es así?
-- Yo...
-- ¡No te acerques a ella!
-Otros miembros de la resistencia aparecieron en el pasillo y avanzaron al lado de la cola hacia los gritos. Estaban armados, pero no desenfundaron sus pistolas. Se acercaban lentamente a Jonás. Este se llevó la mano al bolsillo y se puso algo en su mano derecha. 
+—Sí, es el procedimiento estándar. A todos los liberados de las *Burbujas* se les hace un tatuaje de dos burbujas en la muñeca. —La joven se dirigió entonces a Lara, la primera de la fila—. Tranquila, apenas duele.
+Lara, de espaldas a Lucas comenzó a extender el brazo lentamente, pero Jonás se interpuso entre las dos mujeres y ella.
+—¡Ni de coña vas a marcarla como si fuera ganado!
+—Por favor —dijo la joven—. Es sólo para llevar un control de...
+—Es un requisito —se limitó a contestar la del pelo azul—. Todos tienen que hacerse el tatuaje. Es eso o se van.
+—Perfecto. Pues nos vamos.
+—Pero Jonás...— comenzó a decir Lara.
+—Eres libre de irte —dijo la tatuadora—. Pero no estamos en el lugar más seguro del mundo, y menos para una niña. Tú quieres quedarte. —Miró a Lara—. ¿No es así?
+—Yo...
+—¡No te acerques a ella!
+Otros miembros de la Resistencia aparecieron en el pasillo y avanzaron al lado de la cola hacia los gritos. Estaban armados, pero no desenfundaron sus pistolas.
+Cuando llegaron al principio de la cola comenzaron a acercarse lentamente a Jonás. Este último se llevó la mano al bolsillo y se puso algo en su mano derecha. 
 Lucas vio un brillo parpadear en esta última. De la nada se materializó una nube de humo negra sobre la cabeza de Jonás. Los miembros de la Resistencia retrocedieron, llevándose las manos hacia sus armas. El grupo de civiles también retrocedió.
 Jonás iba posando su mirada sobre todos, atento. De su nariz brotaba un hilo rojo.
 Ana apareció en el pasillo avanzando con paso firme hacia Jonás. Volvía a tener el pelo de su pelirrojo anaranjado natural.
-Lucas quiso mantenerse al margen pero un pensamiento cruzó su mente como una flecha. Sabía que era falso, una mentira que alguien introdujo en su cabeza. Que nada lo unía a Lara.
+Lucas quiso mantenerse al margen pero un pensamiento cruzó su mente como una flecha. Sabía que era falso, una mentira que alguien, RIO, introdujo en su cabeza. Que nada lo unía a Lara.
 No obstante, sintió que su hija estaba en peligro.
-El joven se unió a Ana y avanzó hacia Jonás.
+Así que se unió a Ana y avanzó hacia Jonás.
