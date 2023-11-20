@@ -31,6 +31,9 @@ notes:          - ¿Mover a otro capítulo?
                 - Resumen primera parte
                 - Agradecimientos
                 - Curiosidades
+                - ¿Sustituir guiones por rayas en los diálogos de la primera parte?
+                - **Añadir aclaración a la historia: violentos como cepa fallida liberada por RIO (ver {C:6:Sirena})**
+                - Quitar posibles ocurrencias de "VOY POR AQUÍ"
 label:          4
 status:         1
 compile:        2
