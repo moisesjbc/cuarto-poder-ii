@@ -1,7 +1,0 @@
-title:          Capítulo 3
-ID:             435
-type:           folder
-compile:        2
-charCount:      3291
-
-

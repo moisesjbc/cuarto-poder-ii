@@ -1,7 +1,0 @@
-title:          Capítulo 2
-ID:             184
-type:           folder
-compile:        2
-charCount:      4303
-
-

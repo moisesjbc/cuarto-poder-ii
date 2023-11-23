@@ -1,7 +1,0 @@
-title:          Capítulo 7
-ID:             65
-type:           folder
-compile:        2
-charCount:      4455
-
-

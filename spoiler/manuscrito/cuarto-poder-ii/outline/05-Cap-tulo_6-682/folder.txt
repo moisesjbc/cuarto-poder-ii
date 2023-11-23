@@ -1,7 +1,0 @@
-title:          Capítulo 6
-ID:             682
-type:           folder
-compile:        2
-charCount:      3915
-
-
