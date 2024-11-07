@@ -3,4 +3,6 @@ ID:                  11
 Importance:          1
 POV:                 True
 Full Summary:        "Entre la pared negra y el ascensor, una mujer de unos cuarenta años, de complexión fuerte y pelo rubio y lacio hasta los hombros, mantenía un brazo en alto hacia la pared. Su mano, con la palma abierta, estaba cubierta por un guante negro de apariencia metálica."
+                     
+                     En 2022 se presenta a una entrevista de programadora.
 Color:               #98d7ce
