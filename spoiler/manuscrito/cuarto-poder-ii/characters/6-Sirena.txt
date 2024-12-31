@@ -8,48 +8,6 @@ Goal:                - Liberarse de {W:0:RIO}.
 Conflict:            A medida que asimila nuevas especies, integra la conciencia y miedos de estas, comenzando a replantearse su propósito y su propia identidad.
 Epiphany:            Reafirmación en su propósito. El bien de muchos como prioridad.
 Phrase Summary:      Ser alienígena que vaga por el universo llevando el progreso a todas las especies inteligentes con las que se cruza.
-Paragraph Summary:   Ser alienígena que explora el universo, contactando y asimilando a todas las especies inteligentes con las que se cruza. En los últimos años ha llegado a la Tierra y comienza a estudiar y asimilar a la raza humana, pero {W:0:RIO} lo descubre y desarrolla una tecnología para contenerlo y usarlo en su favor. Prácticamente impotente, el ser intenta liberarse y retomar su propósito.
-Full Summary:        # Origen
-                     
-                     La sirena surgió hace cientos de años en un planeta muy distante, y desde entonces vaga por el universo en busca de vida inteligente. Una vez localiza un planeta habitado por vida inteligente, aterriza en este y comienza a parasitar, estudiar, persuadir y asimilar a sus individuos durante años. A medida que asimila a más y más individuos, la Sirena los insta a colaborar para conseguir llevar a la raza a su máximo potencial y progreso.
-                     
-                     Cuando considera la raza asimilada, se forma un nuevo meteorito y pasa al siguiente planeta.
-                     
-                     # Llegada a la Tierra (2020)
-                     
-                     En 2020 la Sirena llega a la Tierra, donde rápidamente parasita a un gran porcentaje de los humanos y animales y comienza a estudiarlos. Sin embargo, no tarda en ser descubierta por {W:0:RIO} cuando la corporación observa el comportamiento extraño de ciertos animales que comienzan a colaborar entre sí. La corporación rápidamente le ve aplicaciones en cuanto a control de la población. Múltiples equipos de investigación por todo el globo y controlados en secreto por la corporación, incluido el de {C:4:Jonás}, reciben colonias del virus para su estudio.
-                     
-                     # Despliegue del Mástil (2021)
-                     
-                     Jonás  y su equipo son los que dan con la clave para inhabilitar la acción del virus y en 2021 se despliega el {W:21:Mástil}.
-                     
-                     La mente colmena de la Sirena queda fragmentada entre todos los seres humanos y el reino animal, con la colonia dentro de cada individuo incapaz de comunicarse con las demás ni abandonar al huésped. Cada colonia puede, sin embargo, seguir alimentándose y reproduciéndose dentro de un sujeto, aunque sin capacidad para generar conciencia.
-                     
-                     # Nacimiento de las *Burbujas* (2022)
-                     
-                     {W:0:RIO} y {C:4:Jonás} continúan investigando el virus y nacen las primeras *{W:14:Burbujas}*
-                     
-                     # Infección de Jonás (2022)
-                     
-                     Jonás es infectado por la *Sirena* pero tiene una mayor resistencia a ella, pudiendo acceder a la "red neuronal" de la Sirena aunque sufre grandes jaquecas por el Mástil (RIO le convence de que es por la Sirena).
-                     
-                     # Infección de Lucas (20 de Agosto de 2025 - Noviembre de 2025)
-                     
-                     Durante los 3 meses que estuvo cautivo, previos a la {P:1:Presentación y estallido de la burbuja de Mario}, Lucas fue expuesto a la Sirena. Cuando la *Burbuja* es estallada, los liberados expulsan las nanomáquinas de RIO y permanece la *Sirena*, pero la colonia tiene tan poco poder que no abandona el subconsciente. En un pequeño porcentaje de los seres vivos, sin embargo, la resistencia de estos es tan débil que la colonia puede dar el salto al plano consciente e influir ahí (visiones, etc).
-                     
-                     # Destrucción del Mástil (Diciembre de 2025)
-                     
-                     {C:0:Lucas}, engañado por la *Sirena*, destruye el *Mástil*. La *Sirena* reinicia rápidamente su plan de asimilación.
-                     
-                     # Liberación de los violentos (Diciembre de 2025)
-                     
-                     RIO experimentaba con varias cepas de nanomáquinas para acabar con la *Sirena* en caso de ser necesario. Una de las cepas fallidas infectaba a las crías de Sirena e inducía a los sujetos a un estado de ira incontrolable. Se propagaba igual que la *Sirena* pero el *Mástil* impedía que tomara el control. Las crías de *Sirena* ven a las nanomáquinas de RIO como criaturas semejantes y por eso ni las atacan ni intentan expulsarlas.
-                     
-                     Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control. Los sujetos son curados al usar la {W:16:Notas de xilófono} (cuando Lucas pide ayuda a RIO, estos usan unas {W:16:Notas de xilófono} falsas).
-                     
-                     # Base militar (Diciembre de 2025)
-                     
-                     Tras el asalto a la base de la Resistencia donde se da la reunión entre esta y RIO, la *Sirena* descubre y centra sus esfuerzos por atacar la base de *RIO* pero se van produciendo contagios de la cepa violeta y empiezan a atacarse entre ellos.
 Notes:               # Forma física
                      
                      Meteorito metálico de gran tamaño con conciencia propia. Está formado por millones de capas de insectos microscópicos, metálicos y voladores que forman una mente colmena.
