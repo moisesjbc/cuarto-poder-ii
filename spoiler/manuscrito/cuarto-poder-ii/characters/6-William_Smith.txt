@@ -1,0 +1,6 @@
+Name:                William Smith
+ID:                  6
+Importance:          0
+POV:                 True
+Phrase Summary:      Fundador de la Resistencia, su nombre significa "resolute protector".
+Color:               #e8cacd
