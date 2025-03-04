@@ -2,6 +2,26 @@ Name:                Marta
 ID:                  11
 Importance:          1
 POV:                 True
+Motivation:          Venganza
+Goal:                QUIERE
+                     
+                     --- a) Evitar que RIO se haga con el control / destruir RIO.
+                     --- b) Vengar a su amante.
+                     --- c) Hacerse ella con el poder supremo.
+                     --- d) Dar el poder a la *Sirena* / Destruir a la *Sirena*. 
+                     
+                     - a) Destruir tanto a RIO como a la *Sirena*, sin tener en cuenta las consecuencias.
+                     - b) Destruir a RIO dándole el poder a la *Sirena*.
+                     - c) Destruir a la *Sirena* (equipo Jonás).
+                     - 
+                     
+                     
+                     - Va creando poco a poco una red alternativa para las nanomáquinas que controla ella en secreto.
+                     
+                     
+                     
+                     - Vengarse de RIO por la muerte de su amante.
+                     - Dar el poder a la *Sirena* como única forma de destruir a RIO.
 Full Summary:        "Entre la pared negra y el ascensor, una mujer de unos cuarenta años, de complexión fuerte y pelo rubio y lacio hasta los hombros, mantenía un brazo en alto hacia la pared. Su mano, con la palma abierta, estaba cubierta por un guante negro de apariencia metálica."
                      
                      En 2022 se presenta a una entrevista de programadora.
