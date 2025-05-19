@@ -35,12 +35,12 @@
         [
             "94",
             "18",
-            "38",
+            "50",
             "96",
             "1208",
             "53",
             "46",
-            "11"
+            "32"
         ],
         null
     ],
@@ -76,7 +76,7 @@
         "cursorNotBlinking": false,
         "cursorWidth": 1,
         "focusMode": false,
-        "font": "Ubuntu,17,-1,5,50,0,0,0,0,0",
+        "font": "Ubuntu,18,-1,5,50,0,0,0,0,0",
         "fontColor": "#000000",
         "indent": false,
         "lineSpacing": 100,
