@@ -61,7 +61,7 @@ notes:          - ¿Mover a otro capítulo?
                 - Quitar el uniforme de RIO y de la Resistencia. Ambos se suponen que intentan infiltrarse.
                 - Lucas en el C8: "¿Qué habrá pasado con el chándal completo que le vi a Ana en el AT de Gran Canaria?", se preguntó.
 label:          4
-status:         1
+status:         3
 compile:        2
 setGoal:        500
 charCount:      7817
