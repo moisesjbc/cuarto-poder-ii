@@ -29,7 +29,7 @@
         "progress-auto-show": true,
         "title-show-full-path": true
     },
-    "lastTab": 6,
+    "lastTab": 4,
     "openIndexes": [
         0,
         [
@@ -69,7 +69,7 @@
         "cursorNotBlinking": false,
         "cursorWidth": 1,
         "focusMode": false,
-        "font": "Ubuntu,19,-1,5,50,0,0,0,0,0",
+        "font": "Ubuntu,18,-1,5,50,0,0,0,0,0",
         "fontColor": "#000000",
         "indent": false,
         "lineSpacing": 100,
