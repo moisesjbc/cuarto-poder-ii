@@ -35,7 +35,7 @@ Notes:               # Plano físico
                      
                      # Plano psicológico
                      
-                     - **Tipo de personalidad**: directa y resolutiva.
+                     - **Tipo de personalidad**: directa y resolutiva. Naturalidad y despreocupación.
                      - **Cómo actúa frente al deseo**: intenta disfrutar de las cosas pequeñas.
                      - **Cómo actúa frente al miedo**: evalúa la situación y decide si huir o luchar.
                      - **Cómo actúa frente al odio**: ataca si puede.

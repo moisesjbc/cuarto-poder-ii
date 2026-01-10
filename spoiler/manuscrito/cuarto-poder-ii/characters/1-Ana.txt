@@ -47,6 +47,7 @@ Notes:               # Plano físico
                      - **Peso**: 76 kilos
                      - **Etnia**: caucásica.
                      - **Vestimenta**: prefiere vaqueros y camisetas temáticas (pe. grupos de rock). Cuando trabaja lleva el {W:9:Uniforme de la resistencia}.
+                       - (De la primera parte) "De su fino cuello colgaba un collar de plata con el contorno de una cabeza de conejo atravesada por un cuchillo"
                      - **Cómo se siente con su aspecto**: muy a gusto. Se mantiene activa a diario para mantenerlo.
                      - **Enfermedades**: ninguna conocida.
                      - **Libro / película favoritos**: los juegos del hambre.

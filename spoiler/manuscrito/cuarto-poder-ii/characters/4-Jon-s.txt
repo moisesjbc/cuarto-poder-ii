@@ -96,6 +96,7 @@ Notes:               # Plano físico
                      
                      ## Primera parte
                      
+                     - Jonás sangra en sueños.
                      - Aparentemente memoriza los planos del {W:3:AT de Gran Canaria} con sólo echar un rápido vistazo a cada uno, aunque le provoca fuertes dolores de cabeza y sangrado nasal.
                      - Un hilillo de sangre brota de su nariz y Jonás muestra una expresión de dolor mientras controla el {W:5:Humo negro}.
                      - (Según Ana) Se tira al agua en el puerto intentando escapar desesperadamente, **maldiciendo a {C:5:Ajani}** y jurando que no volverá a ser capturado **otra vez** por RIO.
@@ -110,4 +111,8 @@ Notes:               # Plano físico
                      - La corporación lo capturó hace tiempo y experimentó con él. Y no fue precisamente algo voluntario
                      - No se siente muy cómodo con gente alrededor.
                      - Maldice cuando Lara le cuenta cómo le sangró la nariz en clase de matemáticas.
+                     
+                     **Capítulo 19 de la primera parte**
+                     - - Sobre Jonás: "¿Qué es lo que sientes con todas esas nanomáquinas dentro de tu cabeza? ¿Son parte de ti o las sientes como algo ajeno?"
+                     -- Jonás: "—Algo bastante ajeno. —Jonás sonrió de manera forzada. Miraba hacia todos lados según hablaba—. No hago más que escuchar ruido, interferencias, a todas horas."
 Color:               #a1edec
