@@ -4,7 +4,7 @@ Importance:          1
 POV:                 True
 Motivation:          Venganza y justicia
 Goal:                Destruir a RIO, cediendo el control a la *Sirena* (**"Juego" de la Burbuja Global**).
-Conflict:            Marta se pregunta si las ganas que tiene de vengarse de RIO a toda costa merece la muerte de gente inocente y la liberación de un posible virus, ignorando la "utopía" de Lucas.
+Conflict:            Marta se pregunta si realmente puede confiar en la *Sirena* y *Lucas*, o si las ganas que tiene de vengarse de RIO a toda costa merece la liberación de un posible virus.
 Epiphany:            Acaba confiando en Lucas para destruir a RIO y liberar a la *Sirena* sin perder su humanidad.
 Phrase Summary:      Marta es una programadora que acaba siendo secuestrada por RIO para trabajar en la {W:2:Investigación de la Sirena} junto con Jonás.
 Paragraph Summary:   Marta es una programadora que acaba siendo secuestrada por RIO para trabajar en la {W:2:Investigación de la Sirena} junto con Jonás. Tras ver el peligro que supone RIO, y especialmente tras el asesinato de su amante por parte de la corporación, se decide a intentar destruir RIO mediante la liberación de la *Sirena*.
