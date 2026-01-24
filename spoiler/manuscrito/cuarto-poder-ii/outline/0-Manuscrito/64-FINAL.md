@@ -3,63 +3,6 @@ ID:             46
 type:           md
 summaryFull:    Años después: Lucas camina por la calle mientras va haciendo y recibiendo favores gracias a la mente colmena. Jonás, Lara, Ana, Noemí y Lucas están bien y se "despiden" de un nuevo meteorito de la Sirena finalizado y listo para irse tras asimilar al X% de la humanidad. 
 POV:            0
-notes:          - ¿Mover a otro capítulo?
-                - **¿Le quito a Ana la oportunidad de evolucionar al quitarla de la parte final de la novela?**
-                - Indicar que la gente no ha perdido el libre albedrío ni la privacidad.
-                - ¿Sigue existiendo el crimen?
-                - RIO y la Resistencia han dejado de existir.
-                - Importancia de conocer / sentir nuestro efecto en los demás y el planeta para ayudarnos a tomar la decisión correcta.
-                - ¿Especificar qué termina de convencer a Lucas?
-                - Especificar que Jonás y Lara tenían más resistencia pero no iban a morir porque...
-                - ¿La interacción de las nanomáquinas con la Sirena era lo que causaba las jaquecas?
-                - **Mencionar a Ajani y Kasim**
-                - **Decir el tiempo que ha pasado desde el capítulo anterior**.
-                - Lucas ha sobrevivido y a pesar de la edad y la mentira de que moriría pronto se mantiene muy bien.
-                
-                - (General) Buscar ocurrencias de Lucas y eliminar las que quedan muy juntas.
-                -  ¿*Mástil* o *mástil*?
-                - Remplazar "" por comillas angulares (empecé a ponerlas a partir del capítulo 59).
-                - ¿habían + <plural> -> había <singular>'
-                
-                
-                Al destruirse el *Mástil* la cepa empezó a infectar a más y más gente sin control. Los sujetos son curados al usar la {W:16:Notas de xilófono} (cuando Lucas pide ayuda a RIO, estos usan unas {W:16:Notas de xilófono} falsas).
-                - **Añadir aclaración a la historia**
-                - **¿Llega a infectar a Ana y/o a Lucas?**
-                - **Añadir a la historia**: la cepa de los violentos sigue estando en el final del libro (Lucas ve a uno e interactúa con él - mostrar, no contar)?
-                - Lucas puede usar las {W:16:Notas de xilófono} para acabar con él.
-                - Mencionar que las del capítulo cuando Lucas pide ayuda a RIO son falsas.
-                
-                
-                Otras cosas a completar:
-                - Resumen primera parte
-                - Agradecimientos
-                - Curiosidades
-                - ¿Sustituir guiones por rayas (y comillas inglesas por angulares) en los diálogos de la primera parte?
-                - **Añadir aclaración a la historia: violentos como cepa fallida liberada por RIO (ver {C:6:Sirena})**
-                - Quitar posibles ocurrencias de "VOY POR AQUÍ"
-                
-                ## Corregir en todo el texto
-                
-                - ¿resistencia? ¿Resistenca? ¿*Resistencia*?
-                - ¿RIO o *RIO*?
-                -  Comprobar definición de "espetar" y sustituir en todo el texto.
-                
-                # Comillas
-                
-                En español usamos tres clases de comillas: las angulares, llamadas también latinas o españolas (« »), las inglesas (“ ”) y las simples (‘ ’). Aunque en los textos manuscritos se emplean las inglesas, en los impresos se recomienda usar primero las angulares, reservando las inglesas y las simples, en este orden, para entrecomillar partes de un texto ya entrecomillado:
-                
-                -
-                Yo ya se lo había advertido: «Ten cuidado, que se rompe». Al poco rato, se me acerca con una rueda en la mano y carita compungida: «Se me ha "rompido" sin querer». Y le digo, conteniendo la risa: «¿Cómo que “se me ha ‘rompido’ sin querer”?».
-                -
-                
-                - Fuente: https://www.rae.es/espanol-al-dia/cuando-se-usa-cada-tipo-de-comillas
-                
-                ## Uniforme de la resistencia
-                
-                - **¿En esta segunda parte usan ropa militar / de camuflaje (revisar y explicar en la historia)?**
-                - Eliminar referencias al uniforme en la historia. Por ejemplo "uniforme de la Resistencia, azul, chándal".
-                - Quitar el uniforme de RIO y de la Resistencia. Ambos se suponen que intentan infiltrarse.
-                - Lucas en el C8: "¿Qué habrá pasado con el chándal completo que le vi a Ana en el AT de Gran Canaria?", se preguntó.
 label:          4
 status:         3
 compile:        2
