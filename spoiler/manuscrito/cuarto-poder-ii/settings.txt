@@ -61,7 +61,7 @@
     },
     "saveOnQuit": true,
     "saveToZip": false,
-    "spellcheck": true,
+    "spellcheck": false,
     "textEditor": {
         "alwaysCenter": false,
         "background": "#ffffff",
