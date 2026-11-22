@@ -3,7 +3,17 @@ ID:             46
 type:           md
 summaryFull:    Años después: Lucas camina por la calle mientras va haciendo y recibiendo favores gracias a la mente colmena. Jonás, Lara, Ana, Noemí y Lucas están bien y se "despiden" de un nuevo meteorito de la Sirena finalizado y listo para irse tras asimilar al X% de la humanidad. 
 POV:            0
-notes:          - Cuando termine manuscrito: {W:38:Pendientes (hacer al final)}---
+notes:          # Editar / ir moviendo a donde proceda
+                
+                Epílogo:
+                - Indicar que la gente no ha perdido el libre albedrío ni la privacidad.
+                - ¿Sigue existiendo el crimen?
+                - RIO y la Resistencia han dejado de existir.
+                - Importancia de conocer / sentir nuestro efecto en los demás y el planeta para ayudarnos a tomar la decisión correcta.
+                - Decir el tiempo que ha pasado desde el capítulo anterior
+                - Lucas ha sobrevivido y a pesar de la edad y la mentira de que moriría pronto se mantiene muy bien.
+                
+                - Cuando termine manuscrito: {W:38:Pendientes (hacer al final)}---
 label:          4
 status:         3
 compile:        2

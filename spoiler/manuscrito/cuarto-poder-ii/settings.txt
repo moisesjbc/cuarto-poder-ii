@@ -29,13 +29,16 @@
         "progress-auto-show": true,
         "title-show-full-path": true
     },
-    "lastTab": 4,
+    "lastTab": 6,
     "openIndexes": [
         0,
         [
             "1380",
             "80",
-            "46"
+            "46",
+            "92",
+            "1346",
+            "1304"
         ],
         null
     ],
